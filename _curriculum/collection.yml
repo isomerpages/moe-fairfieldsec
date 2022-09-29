@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/English Language and Literature.md
       - Departments/Mother Tongue.md
       - Departments/Mathematics.md
       - Departments/Science.md
