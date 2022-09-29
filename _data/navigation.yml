@@ -32,3 +32,20 @@ links:
         url: /curriculum/subjects-offered/
       - title: Departments
         url: /curriculum/departments/english-language-and-literature/
+  - title: Co-Curriculum
+    url: /co-curriculum/overview/
+    sublinks:
+      - title: Overview
+        url: /co-curriculum/overview/
+      - title: Sophia Blackmore Leadership
+        url: /co-curriculum/sophia-blackmore-leadership/
+      - title: CCA
+        url: /cca/overview/
+      - title: Character Education
+        url: /co-curriculum/character-education/
+      - title: Discipline
+        url: /co-curriculum/discipline/
+      - title: Guidance
+        url: /co-curriculum/guidance/
+      - title: Dtudent Well-being
+        url: /co-curriculum/student-well-being/
