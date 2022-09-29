@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Departments/Information and Communication Technology.md
       - Departments/Physical Education.md
       - Departments/.keep
