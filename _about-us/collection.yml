@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/General Office.md
       - Our People/English Language and Literature.md
       - Our People/Mother Tongue.md
       - Our People/Mathematics.md
