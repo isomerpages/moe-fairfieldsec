@@ -18,3 +18,8 @@ sci1
 hum1
 
 CO-CURRICULUM
+cc1-8
+
+CCA
+all gif
+
