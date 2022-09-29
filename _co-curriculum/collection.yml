@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Student Well Being/Understanding Mental Health.md
       - Student Well Being/How to.md
       - Student Well Being/.keep
