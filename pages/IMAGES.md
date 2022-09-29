@@ -23,3 +23,6 @@ cc1-8
 CCA
 all gif
 
+PARENTS
+par1-2
+pgg1-9
