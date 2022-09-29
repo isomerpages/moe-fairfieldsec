@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - PDPA Policy for FMS(S).md
       - Other General Information.md
