@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Rules.md
       - School Calendar.md
       - Resources for Parents/Education and Career Guidance.md
       - Resources for Parents/Information on Digital Literacy.md
