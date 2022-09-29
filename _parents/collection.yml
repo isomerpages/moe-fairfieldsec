@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Administrative Matters/Parents Gateway Guide.md
       - Administrative Matters/.keep
       - School Rules.md
       - School Calendar.md
