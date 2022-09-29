@@ -21,6 +21,14 @@ links:
         url: /about-us/pdpa-policy-for-fms/
       - title: Other General Information
         url: /about-us/other-general-information/
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: Curriculum
+    url: /curriculum/active-learning-culture/
+    sublinks:
+      - title: Active Learning Culture
+        url: /curriculum/active-learning-culture/
+      - title: Voice of a Fairsian Programme
+        url: /curriculum/voice-of-a-fairsian-programme/
+      - title: Subjects Offered
+        url: /curriculum/subjects-offered/
+      - title: Departments
+        url: /curriculum/departments/english-language-and-literature/
