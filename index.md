@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Highlights
           description: Our Stories & Latest Updates
-          url: /highlights/our-stories/2022-term-1/
+          url: /highlights/our-stories/overview/
 ---
