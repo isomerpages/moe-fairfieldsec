@@ -10,12 +10,6 @@ sections:
       background: /images/ban.gif
       key_highlights:
         - title: Highlights
-          description: ""
+          description: Our Stories & Latest Updates
           url: /highlights/our-stories/2022-term-1/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
