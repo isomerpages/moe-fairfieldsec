@@ -24,7 +24,7 @@ CCA
 all gif
 
 PARENTS
-par1-2
+par1-3 qr code par3
 pgg1-9
 ecg1
 dgl
