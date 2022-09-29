@@ -34,3 +34,4 @@ HIGHLIGHT
 ats
 khool
 empathy
+sprint
