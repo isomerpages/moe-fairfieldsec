@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Guidance.md
       - Student Well Being/Overview.md
       - Student Well Being/Directory Listings.md
       - Student Well Being/Understanding Mental Health.md
