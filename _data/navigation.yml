@@ -21,3 +21,6 @@ links:
         url: /about-us/pdpa-policy-for-fms/
       - title: Other General Information
         url: /about-us/other-general-information/
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
