@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Form Teachers/Sec 4 & 5 Form Teachers and Subject Teachers.md
       - Form Teachers/.keep
       - Assessment Matters.md
       - Administrative Matters/2022 Textbook and Stationery List.md
