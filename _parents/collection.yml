@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Personalised Digital Literacy/Overview.md
       - Personalised Digital Literacy/Guide on DMA.md
       - Personalised Digital Literacy/Student Device Briefing.md
       - Personalised Digital Literacy/Useful Online Learning Resources for
