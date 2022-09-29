@@ -13,7 +13,6 @@ CURRICULUM
 
 CO-CURRICULUM
 
-
 CCA
 
 
@@ -26,3 +25,5 @@ bl1-13
 sl1-13
 gpai
 fas1-2
+digi (4th one)
+tip1-7 (8th file cmi)
