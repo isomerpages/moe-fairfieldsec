@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/Technology.md
+      - Our People/Information and Communication Technology.md
       - Our People/Physical Education.md
       - Our People/Alumni.md
       - Our People/.keep
