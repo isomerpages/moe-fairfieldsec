@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Personalised Digital Literacy/Compatible iPad List.md
       - Personalised Digital Literacy/Commonly asked questions.md
       - Personalised Digital Literacy/.keep
       - Vendors and Services.md
