@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Overview.md
       - Partners in Education.md
       - School Leaders' Updates.md
       - Principal's Dialogue.md
