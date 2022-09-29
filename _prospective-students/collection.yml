@@ -2,5 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
+      - Direct School Admission/2022 DSA Frequently Asked Questions (FAQs).md
       - Direct School Admission/.keep
       - School Transfer.md
