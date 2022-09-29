@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Character and Citizenship Education.md
       - Our People/Discipline.md
       - Our People/Guidance.md
       - Our People/Humanities.md
