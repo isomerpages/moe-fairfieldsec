@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Alumni.md
       - Our People/.keep
       - Useful Links for Teachers.md
       - Contact Us.md
