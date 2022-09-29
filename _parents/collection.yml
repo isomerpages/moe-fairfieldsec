@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Administrative Matters/Group Personal Accident Insurance for Students.md
       - Administrative Matters/MOE Financial Assistance Scheme.md
       - Administrative Matters/Parents Gateway Guide.md
       - Administrative Matters/.keep
