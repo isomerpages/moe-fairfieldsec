@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Voice of a Fairsian Programme.md
       - Subjects Offered.md
       - Departments/English Language and Literature.md
       - Departments/Mother Tongue.md
