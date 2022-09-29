@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Resources for Parents/Information on Sexuality Education 2022.md
       - Resources for Parents/MOE Guide on Transition to Secondary School.md
       - Resources for Parents/.keep
       - Personalised Digital Literacy/Overview.md
