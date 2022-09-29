@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Our Stories/.keep
       - Latest Updates/Overview.md
       - Latest Updates/2022 Sem 2 Class Timetable.md
       - Latest Updates/.keep
