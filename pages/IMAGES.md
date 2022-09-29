@@ -26,3 +26,8 @@ all gif
 PARENTS
 par1-2
 pgg1-9
+ecg1
+dgl
+transition
+dma1-3
+ipad1-3
