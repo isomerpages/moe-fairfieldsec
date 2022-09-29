@@ -1,8 +1,23 @@
 logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/mission-vision-values/
+    sublinks:
+      - title: Mission, Vision & Values
+        url: /about-us/mission-vision-values/
+      - title: Crest and Motto
+        url: /about-us/crest-and-motto/
+      - title: School History
+        url: /about-us/school-history/
+      - title: School Song and Hymn
+        url: /about-us/school-song-and-hymn/
+      - title: Our People
+        url: /about-us/our-people/board-of-management/
+      - title: Useful Links for Teachers
+        url: /about-us/useful-links-for-teachers/
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: PDPA Policy for FMS(S)
+        url: /about-us/pdpa-policy-for-fms/
+      - title: Other General Information
+        url: /about-us/other-general-information/
