@@ -14,6 +14,7 @@ CURRICULUM
 CO-CURRICULUM
 
 listening
+selfcare1-2
 
 CCA
 
