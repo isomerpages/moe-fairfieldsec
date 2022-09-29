@@ -23,3 +23,6 @@ par1-3
 pdp1-7
 am1-31
 bl1-13
+sl1-13
+gpai
+fas1-2
