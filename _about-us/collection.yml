@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Useful Links for Teachers.md
       - Contact Us.md
       - PDPA Policy for FMS(S).md
       - Other General Information.md
