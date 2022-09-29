@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Resources for Parents/.keep
       - Personalised Digital Literacy/Overview.md
       - Personalised Digital Literacy/Guide on DMA.md
       - Personalised Digital Literacy/Student Device Briefing.md
