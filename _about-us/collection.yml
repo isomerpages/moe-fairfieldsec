@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Guidance.md
       - Our People/Humanities.md
       - Our People/Information and Communication Technology.md
       - Our People/Physical Education.md
