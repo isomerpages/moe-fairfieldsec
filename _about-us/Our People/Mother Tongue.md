@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Mother Tongue
 
-<img src="/images/op4.png" style="width:80%">
+<img src="/images/op6.png" style="width:80%">
 
 #### Key Personnel
 
