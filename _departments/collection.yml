@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/Key Programmes.md
       - Aesthetics/.keep
       - Humanities/Overview.md
       - Humanities/Key Programmes.md
