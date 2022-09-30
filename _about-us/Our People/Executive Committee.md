@@ -10,7 +10,7 @@ third_nav_title: Our People
 
 | Name | Designation | Email |
 |---|---|---|
-| Mr Wee Tat Chuen | Principal | [WEE\_Tat\_Chuen@schools.gov.sg](mailto:WEE_Tat_Chuen@schools.gov.sg) |
+| **Mr Wee Tat Chuen** | Principal | [WEE\_Tat\_Chuen@schools.gov.sg](mailto:WEE_Tat_Chuen@schools.gov.sg) |
 | Mr Lim Sin Heng | Vice-Principal 1 | LIM_Sin_Heng@schools.gov.sg |
 | Mr Alan Lim | Vice-Principal 2 | Alan_LIM@schools.gov.sg |
 | Mr Lim Yuen Tuck | School Staff Developer | lim_yuen_tuck@moe.edu.sg |
