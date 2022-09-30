@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### General Office
 
-<img src="/images/op3.png" style="width:60%">
+<img src="/images/op3.png" style="width:80%">
 
 #### Key Personnel
 
