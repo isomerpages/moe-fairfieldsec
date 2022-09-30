@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/.keep
       - Aesthetics/Overview.md
       - Aesthetics/Key Programmes.md
       - Aesthetics/.keep
