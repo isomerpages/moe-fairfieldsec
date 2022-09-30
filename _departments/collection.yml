@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education/Overview.md
       - Physical Education/Key Programmes.md
       - Physical Education/.keep
