@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Executive Committee
 
-<img src="/images/op3.png" style="width:60%">
+<img src="/images/op3.png" style="width:80%">
 
 | Name | Designation | Email |
 |---|---|---|
