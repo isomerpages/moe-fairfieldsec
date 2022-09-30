@@ -20,3 +20,16 @@ description: ""
 | Vision and Mission | Programs/Activities |
 |---|---|
 | Vision: <br>A Vibrant Community of Active Lifelong Learners and Influential Leaders<br><br><br>Mission: <br>To prove a holistic education in a Christian environment to nurture leaders of good character who are equipped to serve God, nation, community and school. | For current year<br><br>• Sec 1 – 4 Flex Programmes<br>• Learning Journey<br>• Blackmore Leadership Training Programme<br>• Enrichment Programmes for N(T) Students<br>• Youth Day Programmes for Sec 1 – 4 Students<br>• Gear Up Programmes<br>• Local Exchange Programme |
+
+* * *
+| Board Members |
+|---|
+| Chairman: Mrs Joni Ong<br>Education Secretary: Mr Richard Seow<br>Treasurer: Ms Cho Pei Lin<br><br>Members: <br>Ms Kwok Wan Yee<br>Dr Lynette Sathiasingam<br>Mdm Sandra Tan<br>Mr Kelvin Ong<br>Mr Peter Ho<br><br>Secretary: Mr Wee Tat Chuen<br>Assistant Secretary: Mdm Law Li Mei |
+| **Key Employees** |
+| Name of Principal: Mr Wee Tat Chuen |
+| **Auditor for FY2020 – FY2024** |
+| Name of Auditor: Audit Alliance LLP |
+
+2. Financial Information
+
+Please refer to this [link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)  for financial information.
