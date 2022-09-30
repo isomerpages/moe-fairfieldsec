@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### English Language & Literature
 
-<img src="/images/op4.png" style="width:80%">
+<img src="/images/op5.png" style="width:80%">
 
 #### Key Personnel
 
