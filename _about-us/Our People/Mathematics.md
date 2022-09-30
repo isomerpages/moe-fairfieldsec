@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Mathematics
 
-<img src="/images/op5.png" style="width:80%">
+<img src="/images/op7.png" style="width:80%">
 
 #### Key Personnel
 
