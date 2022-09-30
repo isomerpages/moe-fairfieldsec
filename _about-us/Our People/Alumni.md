@@ -87,7 +87,7 @@ Today the association has over 1,700 members and continues to organise events fo
 
 <div>
 
-<p>text	</p>
+<p><iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXWSdrWg244QsPHGjE2Iss0ZuLKdSxYkOLb1AO9DtxL3lLmoBUIH2cmo1zR03Q04gKUgYup0Q4sdvZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>	</p>
 
 	
 </div>
