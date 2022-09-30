@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Humanities/.keep
       - Info & Comm Technology/Overview.md
       - Info & Comm Technology/Key Programmes.md
       - Info & Comm Technology/.keep
