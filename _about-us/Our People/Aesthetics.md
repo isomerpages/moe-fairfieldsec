@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Aesthetics
 
-<img src="/images/op9.png" style="width:80%">
+<img src="/images/op9.png" style="width:90%">
 
 #### Key Personnel
 
