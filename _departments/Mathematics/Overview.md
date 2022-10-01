@@ -4,7 +4,7 @@ permalink: /departments/Mathematics/overview/
 description: ""
 third_nav_title: Mathematics
 ---
-### MATHEMATICS
+### Mathematics
 
 <img src="/images/dpm3.png" style="width:80%">
 
