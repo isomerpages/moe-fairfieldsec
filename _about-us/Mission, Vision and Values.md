@@ -27,4 +27,4 @@ To provide a holistic education in a Christian environment to nurture leaders of
 
 The School Ethos describes the intangible common philosophy, beliefs and experiences that characterise the school. The School Ethos describes the overall environment and culture of the school.
 
-<img src="/images/mvv.png" style="width:60%">
+<img src="/images/mvv.png" style="width:80%">
