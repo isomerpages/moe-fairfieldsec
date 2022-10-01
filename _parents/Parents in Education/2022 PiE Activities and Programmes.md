@@ -25,3 +25,4 @@ third_nav_title: Parents in Education
 | Dad-Child or Parent-Child Bonding Activity | Sept 2022 | Dad-Child or Parent-Child Bonding Activity for non-repetitive parent. |
 | FMS(P) P6 Parents/Students Visit | Nov 2022 | Prepare snacks and host the parents/students |
 | Sec 1 Registration | Dec 2022 | Assist in crowd control |
+|  |  |  |
