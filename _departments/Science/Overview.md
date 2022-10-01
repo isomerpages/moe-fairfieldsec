@@ -4,7 +4,7 @@ permalink: /departments/Science/overview/
 description: ""
 third_nav_title: Science
 ---
-### SCIENCE
+### Science
 
 <img src="/images/dpm4.png" style="width:80%">
 
