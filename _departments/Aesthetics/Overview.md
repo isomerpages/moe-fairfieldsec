@@ -4,7 +4,7 @@ permalink: /departments/Aesthetics/overview/
 description: ""
 third_nav_title: Aesthetics
 ---
-### AESTHETICS
+### Aesthetics
 
 <img src="/images/dpm5.png" style="width:80%">
 
