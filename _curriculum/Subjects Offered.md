@@ -19,13 +19,13 @@ description: ""
 <p> 
 
 
-*   Art <br>
+•  Art <br>
 
-*   Design & Technology <br>
+•  Design & Technology <br>
  
-*   Food & Nutrition <br>
+•   Food & Nutrition <br>
 
-*   \*Higher Music/ Music
+•   *Higher Music/ Music
 
 </p>
 
@@ -41,13 +41,13 @@ description: ""
 
 <p>
 
-*   Humanities (Social Studies / Geography) <br>
+•   Humanities (Social Studies / Geography) <br>
 
-*   Humanities (Social Studies / History) <br>
+•   Humanities (Social Studies / History) <br>
  
-*   Geography (Revised) <br>
+•   Geography (Revised) <br>
 
-*   Social Studies</p>
+•   Social Studies</p>
 
 </div>
 
@@ -61,19 +61,19 @@ description: ""
 <div>
 
 <p>
-*   English Language<br>
+•   English Language<br>
 
-*   Chinese Language <br>
+•   Chinese Language <br>
  
-*   Malay Language <br>
+•   Malay Language <br>
 
-*   Literature in English <br>
+•   Literature in English <br>
 
-*   Higher Chinese <br>
+•   Higher Chinese <br>
  
-*   *Tamil Language 
+•   *Tamil Language 
 </p>
-
+</div>
 </li>
 	
 	<li>
@@ -84,11 +84,11 @@ description: ""
 
 <p>
 
-*   Mathematics <br>
+•   Mathematics <br>
 
-*   Additional Mathematics <Br>
+•   Additional Mathematics <Br>
 
-*   Computer Applications</p>
+•   Computer Applications</p>
 
 </div>
 
@@ -114,15 +114,15 @@ description: ""
 <div>
 
 <p>
-*   Science (Phy, Chem) <br>
+•   Science (Phy, Chem) <br>
  
-*   Physics <br>
+•   Physics <br>
 
-*   Science (Syll T) <br>
+•   Science (Syll T) <br>
 
-*   Chemistry <br>
+•   Chemistry <br>
  
-*   Biology
+•   Biology
 </p>
 
 	
