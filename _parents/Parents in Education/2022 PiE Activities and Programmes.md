@@ -26,3 +26,40 @@ third_nav_title: Parents in Education
 | FMS(P) P6 Parents/Students Visit | Nov 2022 | Prepare snacks and host the parents/students |
 | Sec 1 Registration | Dec 2022 | Assist in crowd control |
 |  |  |  |
+
+| PiE Involvement 2022 | Days | Information |
+|---|---|---|
+| Tzone Café | Temporary closed  | To befriend students and provide refreshments |
+| Parents Prayer Meeting | Fortnightly – Fri (am) <br><br>via Zoom | For all Christian Prayer Parents to commit our children and school to God  |
+|  |  |  |
+
+If you wish to join any of the PiE activities or initiatives, sign up here: [http://tinyurl.com/fmss-pie](http://tinyurl.com/fmss-pie)  
+
+Parenting Talks / Breakfast Chats sessions
+------------------------------------------
+
+1\. Parenting talk on Digital Literacy (13 Mar 2021)
+
+Presentation shared by Ms Carol Loi -> [For Sharing Digital Literacy March 2021.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/PiE/For%20Sharing%20Digital%20Literacy%20March%202021.pdf)
+
+  
+
+2\. Parenting talk on Mental Wellness (10 April 2021)
+
+Book shared by Mr Edgar Tham ->  [Mental Toughness Training model.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/PiE/Mental%20Toughness%20Training%20model.pdf)  
+
+  
+
+3\. Breakfast Chat on How to Prepare Your Child for Major Exams (3 Jul 2021)
+
+Presentation shared by Year Heads (Ms Clarissa Koh and Mr Eric Loh) -> [Parents Talk 3 July 2021 Clarissa.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/PiE/Parents%20Talk%203%20July%202021%20Clarissa.pdf) 
+
+Presentation shared by Lilian Hor (PiE Chairperson) -> [Prepare for exams sharing Lilian.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/PiE/Prepare%20for%20exams%20sharing%20Lilian.pdf) 
+
+  
+
+4\. Parenting Talk on Resilience is about how you recharge, not how you endure (14 Aug 21)
+
+[The Science of Recovery Handout - FMSS with Editable Fields 14 Aug.pdf](https://fairfieldmethodistsec.moe.edu.sg/qql/slot/u618/2021/Parents/PiE/The%20Science%20of%20Recovery%20Handout%20-%20FMSS%20with%20Editable%20Fields%2014%20Aug.pdf)  
+
+  Click [here](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/parents/partners-in-education/2021-pie-activities-programmes/parenting-talk-on-resilience-useful-links) for all the useful links shared during the session.
