@@ -4,7 +4,7 @@ permalink: /departments/Mother-Tongue/overview/
 description: ""
 third_nav_title: Mother Tongue
 ---
-### MOTHER TONGUE
+### Mother Tongue
 
 <img src="/images/dpm2.png" style="width:80%">
 
