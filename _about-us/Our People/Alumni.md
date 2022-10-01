@@ -60,7 +60,7 @@ Today the association has over 1,700 members and continues to organise events fo
 
 </li>
 	
-	<li>
+<li>
 <input id="accordion3" type="checkbox">
 
 <label for="accordion3">Contact Us</label>
