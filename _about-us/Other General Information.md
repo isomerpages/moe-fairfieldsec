@@ -5,7 +5,7 @@ description: ""
 ---
 ### Financial and Non-Financial Information
 
-1. Non-Financial Information
+#### 1. Non-Financial Information
 
 | Name of Organisation/Address | Contact Information |
 |---|---|
@@ -30,6 +30,6 @@ description: ""
 | **Auditor for FY2020 – FY2024** |
 | Name of Auditor: Audit Alliance LLP |
 
-2. Financial Information
+#### 2\. Financial Information
 
 Please refer to this [link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)  for financial information.
