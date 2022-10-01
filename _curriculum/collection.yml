@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Departments.md
       - Active Learning Culture.md
       - Voice of a Fairsian Programme.md
       - Subjects Offered.md
+      - Departments.md
