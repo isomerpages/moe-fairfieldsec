@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents in Education/2022 PiE Activities and Programmes.md
       - Parents in Education/Photo Gallery.md
       - Parents in Education/.keep
       - Overview.md
