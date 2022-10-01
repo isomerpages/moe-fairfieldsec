@@ -4,7 +4,7 @@ permalink: /departments/Humanities/overview/
 description: ""
 third_nav_title: Humanities
 ---
-### HUMANITIES
+### Humanities
 
 <img src="/images/dpm6.png" style="width:80%">
 
