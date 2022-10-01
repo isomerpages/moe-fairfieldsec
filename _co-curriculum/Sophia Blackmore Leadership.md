@@ -5,7 +5,7 @@ description: ""
 ---
 ### Sophia Blackmore Leadership Programme
 
-Fairfield’s Sophia Blackmore Leadership Programme (SBLP) seeks to develop students to be influential cultural leaders who are ready to take the lead to serve the immediate school community as well as the wider community at large. The school adopts John Maxwell’s definition of leadership which is based on the idea that “Leadership is Influence” and not on position or title. Fairsians are taught that they can lead themselves and at the same time, they follow a leader because of who he/she is and what he/she represents. 
+Fairfield’s Sophia Blackmore Leadership Programme (SBLP) seeks to develop students to be influential cultural leaders who are ready to take the lead to serve the immediate school community as well as the wider community at large. The school adopts John Maxwell’s definition of leadership which is based on the idea that “Leadership is Influence” and not on position or title. Fairsians are taught that they can lead themselves and at the same time, they follow a leader because of who he/she is and what he/she represents.&nbsp;
 
   
 
@@ -24,7 +24,7 @@ The school has adopted James Kouzes and Barry Posner’s five practices of exemp
   
 
 #### LEADERSHIP Skills Framework  
-**(5 Exemplary Leadership Practices by Kouzes & Posner)**
+**(5 Exemplary Leadership Practices by Kouzes &amp; Posner)**
 
 | 5 Leadership Practices | Descriptors |
 |:---:|:---:|
@@ -42,7 +42,7 @@ Student leaders are given opportunities to apply their learning through service 
 
 Fairfield believes that all Fairsians can be leaders and has adopted a three-tier model for student leadership training.
 
-<img src="/images/cc2.png" style="width:80%">
+<img style="width:80%" src="/images/cc2.png">
 
 The SBLP seeks also to develop student leaders with the four Fairsian Outcomes in mind. Basic Leadership Training is conducted through platforms such as the Lifeskills curriculum, Fairfield Learning Experience (FLEX) week, Fairsian Connect Assembly Talks, Values-in-Action Programme and CCA Training.
 
@@ -52,7 +52,7 @@ Students who are appointed to leadership positions such as Student Councillors, 
 
   
 
-*   Sophia Blackmore Probational Training Programme (Sec 1s & 2s)
+*   Sophia Blackmore Probational Training Programme (Sec 1s &amp; 2s)
 *   Sophia Blackmore Training Camp (Sec 3s)
 *   Sophia Blackmore Trip for International Experience for Leaders (Sec 3s)
 *   Planning the Sec 1 Orientation Programme
@@ -61,4 +61,4 @@ Students who are appointed to leadership positions such as Student Councillors, 
 
 Student Leader Group Presidents and Heads also go through mentoring sessions with their teachers to sharpen their communication, people and project management skills.
 
-<img src="/images/leadership.gif" style="width:80%">
+<img style="width:80%" src="/images/leadership.gif">
