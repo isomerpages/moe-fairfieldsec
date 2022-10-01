@@ -52,7 +52,7 @@ Students who are appointed to leadership positions such as Student Councillors, 
 
   
 
-*   Sophia Blackmore Probational Training Programme (Sec 1s &amp; 2s)
+*   Sophia Blackmore Probational Training Programme (Sec 1s & 2s)
 *   Sophia Blackmore Training Camp (Sec 3s)
 *   Sophia Blackmore Trip for International Experience for Leaders (Sec 3s)
 *   Planning the Sec 1 Orientation Programme
