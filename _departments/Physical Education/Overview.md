@@ -4,7 +4,7 @@ permalink: /departments/Physical-Education/overview/
 description: ""
 third_nav_title: Physical Education
 ---
-### PHYSICAL EDUCATION
+### Physical Education
 
 <img src="/images/dpm8.png" style="width:80%">
 
