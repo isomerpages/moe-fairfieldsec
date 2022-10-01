@@ -77,7 +77,6 @@ Today the association has over 1,700 members and continues to organise events fo
 
 *   <b>Email address:<a href="mailto:info@fairfieldalumni.org.sg">info@fairfieldalumni.org.sg</a></b></p>
 
-</li>
 	
 <li>
 
