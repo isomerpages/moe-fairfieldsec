@@ -11,7 +11,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion1" type="checkbox">
 
-<label for="accordion1">title</label>
+<label for="accordion1">Sec 3A</label>
 
 <div>
 
@@ -25,7 +25,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion2" type="checkbox">
 
-<label for="accordion2">title </label>
+<label for="accordion2">Sec 3B</label>
 <div>
 
 <p>text</p>
@@ -38,7 +38,7 @@ third_nav_title: Form Teachers
 	
 <input id="accordion3" type="checkbox">
 
-<label for="accordion3">title </label>
+<label for="accordion3">Sec 3C </label>
 <div>
 
 <p>text</p>
@@ -51,7 +51,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion4" type="checkbox">
 
-<label for="accordion4">title </label>
+<label for="accordion4">Sec 3D</label>
 <div>
 
 <p>text</p>
@@ -64,7 +64,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion5" type="checkbox">
 
-<label for="accordion5">title </label>
+<label for="accordion5">Sec 3E </label>
 <div>
 
 <p>text</p>
@@ -77,7 +77,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion6" type="checkbox">
 
-<label for="accordion6">title </label>
+<label for="accordion6">Sec 3F</label>
 <div>
 
 <p>text</p>
@@ -90,7 +90,7 @@ third_nav_title: Form Teachers
 	
 <input id="accordion7" type="checkbox">
 
-<label for="accordion7">title </label>
+<label for="accordion7">Sec 3G1</label>
 <div>
 
 <p>text</p>
@@ -103,7 +103,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion8" type="checkbox">
 
-<label for="accordion8">title </label>
+<label for="accordion8">Sec 3G2 </label>
 <div>
 
 <p>text</p>
@@ -116,7 +116,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion9" type="checkbox">
 
-<label for="accordion9">title </label>
+<label for="accordion9">Sec 3H</label>
 <div>
 
 <p>text</p>
@@ -129,7 +129,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion10" type="checkbox">
 
-<label for="accordion8">title</label>
+<label for="accordion8">Teachers Email Address</label>
 
 <div>
 
