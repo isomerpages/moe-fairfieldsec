@@ -44,7 +44,7 @@ description: ""
 </div>
 
 </li>
-	<li>
+<li>
 
 <input id="accordion4" type="checkbox">
 
