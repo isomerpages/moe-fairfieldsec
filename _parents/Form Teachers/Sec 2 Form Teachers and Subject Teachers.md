@@ -117,7 +117,7 @@ third_nav_title: Form Teachers
 
 <div>
 
-<p>Click <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/others/teachers-email-address/">here</a> </p>
+<p><p>Click Click <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/others/teachers-email-address/">here</a> to view all teachers email addresses.</p> </p>
 
 	
 </div>
