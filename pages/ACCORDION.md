@@ -3,19 +3,20 @@ title: ACCORDION
 permalink: /permalink/
 description: ""
 ---
+Accordion code
+
 <ul class="jekyllcodex_accordion">
 <li>
 
 <input id="accordion1" type="checkbox">
 
-<label for="accordion1">Science</label>
+<label for="accordion1">title</label>
 
 <div>
 
 <p> 
 
 </p>
-
 </div>
 
 </li>
@@ -23,7 +24,7 @@ description: ""
 
 <input id="accordion2" type="checkbox">
 
-<label for="accordion2">Junior Science Whiz Challenge </label>
+<label for="accordion2">title </label>
 <div>
 
 <p>text</p>
@@ -32,11 +33,11 @@ description: ""
 
 </li>
 	
-	<li>
+<li>
+	
 <input id="accordion3" type="checkbox">
 
-<label for="accordion3">Excellence 2000 (E2K) Science - Sharing Good Practise</label>
-
+<label for="accordion3">title </label>
 <div>
 
 <p>text</p>
@@ -44,11 +45,64 @@ description: ""
 </div>
 
 </li>
+	
 <li>
 
 <input id="accordion4" type="checkbox">
 
-<label for="accordion4">Science Buskers Programme</label>
+<label for="accordion4">title </label>
+<div>
+
+<p>text</p>
+
+</div>
+
+</li>
+	
+<li>
+
+<input id="accordion5" type="checkbox">
+
+<label for="accordion5">title </label>
+<div>
+
+<p>text</p>
+
+</div>
+
+</li>
+	
+<li>
+
+<input id="accordion6" type="checkbox">
+
+<label for="accordion6">title </label>
+<div>
+
+<p>text</p>
+
+</div>
+
+</li>
+	
+<li>
+	
+<input id="accordion7" type="checkbox">
+
+<label for="accordion7">title </label>
+<div>
+
+<p>text</p>
+
+</div>
+
+</li>
+	
+<li>
+
+<input id="accordion8" type="checkbox">
+
+<label for="accordion8">title</label>
 
 <div>
 
