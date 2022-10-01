@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Guidance
 
-<img src="/images/op12.png" style="width:80%">
+<img src="/images/op12.png" style="width:90%">
 
 #### Key Personnel
 
