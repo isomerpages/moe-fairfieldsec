@@ -93,4 +93,4 @@ Today the association has over 1,700 members and continues to organise events fo
 </div>
 
 </li>
-</ui>
+</ul>
