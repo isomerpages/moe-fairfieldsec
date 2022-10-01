@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Information & Communication Technology
 
-<img src="/images/op14.png" style="width:80%">
+<img src="/images/op14.png" style="width:90%">
 
 #### Key Personnel
 
