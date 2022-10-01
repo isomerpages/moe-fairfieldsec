@@ -100,7 +100,7 @@ description: ""
 <label for="accordion5">Physical Education </label>
 <div>
 
-<p>*   Physical Education</p>
+<p>•   Physical Education</p>
 
 </div>
 
