@@ -66,7 +66,7 @@ Today the association has over 1,700 members and continues to organise events fo
 <label for="accordion3">Contact Us</label>
 
 <div>
-
+</li>
 <p>
 
 	*  <b>Website: <a href="https://fairfieldalumni.org.sg/">https://fairfieldalumni.org.sg/</a> </b><br><br>
@@ -77,7 +77,8 @@ Today the association has over 1,700 members and continues to organise events fo
 
 *   <b>Email address:<a href="mailto:info@fairfieldalumni.org.sg">info@fairfieldalumni.org.sg</a></b></p>
 
-	
+</div>
+
 <li>
 
 <input id="accordion4" type="checkbox">
@@ -92,3 +93,4 @@ Today the association has over 1,700 members and continues to organise events fo
 </div>
 
 </li>
+</ui>
