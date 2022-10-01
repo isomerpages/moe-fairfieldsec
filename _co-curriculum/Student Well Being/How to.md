@@ -28,3 +28,14 @@ Knowing how to help your friends can sometimes be overwhelming. With the appropr
 [Self-Care Activities for Teens.pdf](/files/selfcare1.pdf)
 
 [8 Quick and Easy Self-Care Wins.pdf](/files/selfcare2.pdf)
+
+#### Setting Boundaries
+
+[What are personal boundaries.pdf](/files/boundaries1.pdf)  
+
+[7 Tips for setting simple boundaries.pdf](/files/boundaries2.pdf)
+
+#### Stress management
+
+[Stress Management 1.pdf](/files/stressm1.pdf)  
+[Stress Management 2.pdf](/files/stressm2.pdf)
