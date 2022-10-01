@@ -61,4 +61,4 @@ Presentation shared by Lilian Hor (PiE Chairperson) -> [Prepare for exams shari
 
 [The Science of Recovery Handout - FMSS with Editable Fields 14 Aug.pdf](/files/pt5.pdf)  
 
-  Click [here](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/parents/partners-in-education/2021-pie-activities-programmes/parenting-talk-on-resilience-useful-links) for all the useful links shared during the session.
+Click [here](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/parents/partners-in-education/2021-pie-activities-programmes/parenting-talk-on-resilience-useful-links) for all the useful links shared during the session. 
