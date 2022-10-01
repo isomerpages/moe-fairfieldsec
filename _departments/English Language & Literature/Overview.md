@@ -4,7 +4,7 @@ permalink: /departments/English-Language-and-Literature/overview/
 description: ""
 third_nav_title: English Language & Literature
 ---
-### ENGLISH LANGUAGE & LITERATURE
+### English Language & Literature
 
 <img src="/images/dpm1.png" style="width:80%">
 
