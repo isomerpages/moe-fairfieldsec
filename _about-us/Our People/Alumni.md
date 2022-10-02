@@ -66,7 +66,6 @@ Today the association has over 1,700 members and continues to organise events fo
 <label for="accordion3">Contact Us</label>
 
 <div>
-</li>
 <p>
 
 	*  <b>Website: <a href="https://fairfieldalumni.org.sg/">https://fairfieldalumni.org.sg/</a> </b><br><br>
