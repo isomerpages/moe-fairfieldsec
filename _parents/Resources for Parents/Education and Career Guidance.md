@@ -60,7 +60,7 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 • Personality Profile Interpretations  <br>
  <br> 
 
-<b>2. ECG Workshops Talks</b>
+<b>2. ECG Workshops Talks</b><br><br>
 
 <b>3. Online & Print Resources</b>
 </p>
@@ -109,7 +109,7 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
 •<b>Post-Secondary Education Options:</b> <a href="www.moe.gov.sg/post-sec">www.moe.gov.sg/post-sec</a><br>
 •<b>Direct School Admission – Junior Colleges:</b> <a href="www.moe.gov.sg/DSA-JC">www.moe.gov.sg/DSA-JC</a><br>
-•<b>Joint Admissions Exercise:</b> <a href="link">text</a>[www.moe.gov.sg/JAE](http://www.moe.gov.sg/JAE)<br>
+•<b>Joint Admissions Exercise:</b> <a href="www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a><br>
 •<b>Polytechnic Foundation Programme:</b> <a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a><br>
 •<b>A levels curriculum and subject syllabuses:</b> <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a><br>
 •<b>Post Secondary options:</b> <a href="https://www.moe.gov.sg/-/media/files/post-secondary/post-secondary-brochure-2020.pdf?la=en&hash=174B2DEE1A6C215E15278DB7D0521425656AF017">https://www.moe.gov.sg/-/media/files/post-secondary/post-secondary-brochure-2020.pdf?la=en&hash=174B2DEE1A6C215E15278DB7D0521425656AF017</a>
@@ -140,10 +140,246 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
 <input id="accordion5" type="checkbox">
 
-<label for="accordion5">title </label>
+<label for="accordion5">Online Resource</label>
 <div>
 
-<p>text</p>
+<p>
+1.  Future Of Work
+
+  
+
+**_‘Financial sector jobs in focus as middleman role under threat’ – Business Times_**
+
+[http://www.businesstimes.com.sg/top-stories/financial-sector-jobs-in-focus-as-middleman-role-under-threat?xtor=CS3-24](http://www.businesstimes.com.sg/top-stories/financial-sector-jobs-in-focus-as-middleman-role-under-threat?xtor=CS3-24)
+
+  
+
+**_‘Want a job in 2025? These are the sectors to focus on’ – World Economic Forum_**
+
+[https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer](https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm_content=buffer98dac&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+  
+
+**_‘A new gateway to the American Dream: Skills, not degrees’ – Today Online_**
+
+[http://m.todayonline.com/commentary/new-gateway-american-dream-skills-not-degrees](http://m.todayonline.com/commentary/new-gateway-american-dream-skills-not-degrees)
+
+  
+
+**_‘Work stint gives students a taste of life on the job’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/education/work-stint-gives-students-a-taste-of-life-on-the-job](http://www.straitstimes.com/singapore/education/work-stint-gives-students-a-taste-of-life-on-the-job)
+
+  
+
+**_‘Employers are going soft: the skills companies are looking for’ – World Economic Forum_**
+
+[https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer](https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm_content=bufferbb9c2&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+  
+
+**_‘Where machines could replace humans – and where they can’t (yet)’ - McKinsey  
+_**
+
+[http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet)
+
+  
+
+**_‘What are the 21st – century skills every student needs? – World Economic Forum_**  
+
+[http://wef.ch/2m2cxmd](http://wef.ch/2m2cxmd)
+
+  
+
+**_‘Future gazing: For the ambitious graduate who wants a fast track to the top, the management trainee programme is likely to be in his sights’ – Business Times_**
+
+[http://www.businesstimes.com.sg/brunch/future-gazing?xtor=CS3-24](http://www.businesstimes.com.sg/brunch/future-gazing?xtor=CS3-24)
+
+  
+
+**_‘He will finally be an inspector thanks to Singapore Police Force’s unified rank scheme’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm\_source=whatsapp&utm\_medium=social-media&utm\_campaign=addtoany](http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany)
+
+  
+
+**_‘Top poly graduates choose work over university’ - TNP_**
+
+[http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&utm\_medium=Social&utm\_source=Facebook#link\_time=1494204464](http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1494204464)
+
+  
+
+**_‘Skills, not degree, at a premium now’ – Today Online_**
+
+[http://bit.ly/2qJ5zIN](http://bit.ly/2qJ5zIN)
+
+  
+
+**_‘Gig Work Doesn’t Have to Be Isolating and Unstable’ – Harvard Business Review_**
+
+[http://trib.al/fdgEH71](http://trib.al/fdgEH71)
+
+  
+
+**_‘A growing number of people think their job is useless’ – World Economic Forum_**
+
+[http://wef.ch/2qDnYnp](http://wef.ch/2qDnYnp)
+
+  
+
+ **_‘Wanted: Gazelle startups, not zombies’ – Business Times_**
+
+[http://www.businesstimes.com.sg/technology/wanted-gazelle-startups-not-zombies?xtor=CS3-24](http://www.businesstimes.com.sg/technology/wanted-gazelle-startups-not-zombies?xtor=CS3-24)
+
+  
+
+ **_‘Do justice to your job instead of searching for the perfect one’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/do-justice-to-your-job-instead-of-searching-for-the-perfect-one-chan-chun-sing](http://www.straitstimes.com/singapore/do-justice-to-your-job-instead-of-searching-for-the-perfect-one-chan-chun-sing)
+
+  
+
+ **_‘Shortage of skills, not jobs could cause future unemployment to rise’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/shortage-of-skills-not-job-could-cause-future-unemployment-to-rise-lim-swee-say?xtor=CS3-17](http://www.straitstimes.com/singapore/shortage-of-skills-not-job-could-cause-future-unemployment-to-rise-lim-swee-say?xtor=CS3-17)
+
+  
+
+ **_‘Microsoft’s CEO Just Gave Some Brilliant Career Advice. Here it is in 1 Sentence’ – Inc.com_**
+
+[https://www.inc.com/justin-bariso/microsofts-ceo-just-gave-some-brilliant-career-advice-here-it-is-in-one-sentence.html](https://www.inc.com/justin-bariso/microsofts-ceo-just-gave-some-brilliant-career-advice-here-it-is-in-one-sentence.html)
+
+  
+
+**_‘What skills does Singapore need for the future economy? – Today Online_**  
+
+[http://www.todayonline.com/daily-focus/education/what-skills-does-singapore-need-future-economy](http://www.todayonline.com/daily-focus/education/what-skills-does-singapore-need-future-economy)
+
+  
+
+ **_‘Fresh grads in social work get much better pay now’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/fresh-grads-in-social-work-get-much-better-pay-now](http://www.straitstimes.com/singapore/fresh-grads-in-social-work-get-much-better-pay-now)
+
+  
+
+**_‘Innovation ecosystem support key to startup growth, job creation’ – Business Times_**
+
+[http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24](http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24)
+
+   
+
+**_‘Out of work and out of luck in search for full time jobs’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17](http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17)
+
+  
+
+**_‘Banks tussle for the brightest from the Class of 2017 – Business Times_**
+
+[http://www.businesstimes.com.sg/banking-finance/banks-tussle-for-the-brightest-from-the-class-of-2017?xtor=CS3-24](http://www.businesstimes.com.sg/banking-finance/banks-tussle-for-the-brightest-from-the-class-of-2017?xtor=CS3-24)
+
+  
+
+**_‘Watch what you post online, it could hurt your job hunt’ - TNP_**
+
+[http://www.tnp.sg/news/singapore/watch-what-you-post-online-it-could-hurt-your-job-hunt](http://www.tnp.sg/news/singapore/watch-what-you-post-online-it-could-hurt-your-job-hunt)
+
+  
+
+**_‘Contract work on the rise in Singapore’ – Business Times_**
+
+[http://www.businesstimes.com.sg/companies-markets/contract-work-on-the-rise-in-singapore-says-robert-walters-ceo?xtor=CS3-24](http://www.businesstimes.com.sg/companies-markets/contract-work-on-the-rise-in-singapore-says-robert-walters-ceo?xtor=CS3-24)
+
+  
+
+**_‘15000 rail workers needed by 2030’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/transport/15000-rail-workers-needed-by-2030?xtor=CS3-18](http://www.straitstimes.com/singapore/transport/15000-rail-workers-needed-by-2030?xtor=CS3-18)
+
+  
+
+**_“Design has nothing to do with art”: Design legend Milton Glaser dispels universal misunderstanding – Quartz Media_**
+
+[http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/](http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/)  
+  
+
+[](http://ideas.ted.com/what-it-means-when-you-cant-answer-the-question-what-do-you-want-to-be-when-you-grow-up)
+
+[](http://www.straitstimes.com/singapore/education/varsities-open-more-places-for-non-academic-talents)
+
+84.  Future of Education   
+    **_‘Pay attention to lifelong learning’ – Straits Times_**  
+    
+
+[http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning](http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning)
+
+  
+
+**_‘Sixth university for Singapore to focus on lifelong learning’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/education/sixth-university-for-singapore-to-focus-on-lifelong-learning?xtor=CS3-17](http://www.straitstimes.com/singapore/education/sixth-university-for-singapore-to-focus-on-lifelong-learning?xtor=CS3-17)
+
+  
+
+**_‘Are junior colleges relevant? How a JC dropout got into med school via polytechnic’ – Channel News Asia_**
+
+[http://www.channelnewsasia.com/news/cnainsider/are-junior-colleges-relevant-how-a-jc-dropout-got-into-med-8824242](http://www.channelnewsasia.com/news/cnainsider/are-junior-colleges-relevant-how-a-jc-dropout-got-into-med-8824242)
+
+  
+
+**_‘Singapore’s tertiary bodies revamp courses to meet needs of future economy’ – News Asiaone_**
+
+[http://news.asiaone.com/news/singapore/singapores-tertiary-bodies-revamp-courses-meet-needs-future-economy#xtor=CS3-17](http://news.asiaone.com/news/singapore/singapores-tertiary-bodies-revamp-courses-meet-needs-future-economy#xtor=CS3-17)
+
+  
+
+**_‘Private schools to meet higher standards’ – News Asiaone_**
+
+[http://news.asiaone.com/news/singapore/private-schools-meet-higher-standards#xtor=CS3-17](http://news.asiaone.com/news/singapore/private-schools-meet-higher-standards#xtor=CS3-17)
+
+  
+
+**_‘Refining the culture of learning’ – Straits Times_**
+
+[http://www.straitstimes.com/opinion/st-editorial/refining-the-culture-of-learning](http://www.straitstimes.com/opinion/st-editorial/refining-the-culture-of-learning)
+
+  
+
+**_‘Varsities open more places for non-academic talents’ – Straits Times_**
+
+[http://www.straitstimes.com/singapore/education/varsities-open-more-places-for-non-academic-talents](http://www.straitstimes.com/singapore/education/varsities-open-more-places-for-non-academic-talents)
+
+  
+
+105.  Personal Growth
+
+**_‘UOB chief’s advice to young people: invest in yourself’ – Straits Times_** [http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself](http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself) 
+
+  
+
+**_This is the right answer to ‘Tell Me About Yourself’ in an Interview – Inc.com_** 
+
+[http://www.inc.com/quora/this-is-the-right-answer-to-tell-me-about-yourself-in-an-interview.html](http://www.inc.com/quora/this-is-the-right-answer-to-tell-me-about-yourself-in-an-interview.html) 
+
+  
+
+**_‘8 Habits of the Most Resilient People’ – Inc.com_** 
+
+[http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html](http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html) 
+
+  
+
+**_‘It’s not unusual to get your dream job – and then hate it’ - BBC_** 
+
+[http://www.bbc.com/capital/story/20161124-its-not-unusual-to-get-your-dream-job-and-then-hate-it](http://www.bbc.com/capital/story/20161124-its-not-unusual-to-get-your-dream-job-and-then-hate-it) 
+
+  
+
+**_‘What it means when you can’t answer the question, What do you want to be when you grow up? – TED Ideas_**
+
+[http://ideas.ted.com/what-it-means-when-you-cant-answer-the-question-what-do-you-want-to-be-when-you-grow-up](http://ideas.ted.com/what-it-means-when-you-cant-answer-the-question-what-do-you-want-to-be-when-you-grow-up)
+</p>
 
 </div>
 
