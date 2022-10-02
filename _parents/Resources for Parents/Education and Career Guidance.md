@@ -233,147 +233,146 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
   
 
-<b><i>‘Do justice to your job instead of searching for the perfect one’ – Straits Times</i></b>
+<b><i>‘Do justice to your job instead of searching for the perfect one’ – Straits Times</i></b><br><br>
 
-[http://www.straitstimes.com/singapore/do-justice-to-your-job-instead-of-searching-for-the-perfect-one-chan-chun-sing](http://www.straitstimes.com/singapore/do-justice-to-your-job-instead-of-searching-for-the-perfect-one-chan-chun-sing)
-
-  
-
-<b><i>‘Shortage of skills, not jobs could cause future unemployment to rise’ – Straits Times</i></b>
-
-[http://www.straitstimes.com/singapore/shortage-of-skills-not-job-could-cause-future-unemployment-to-rise-lim-swee-say?xtor=CS3-17](http://www.straitstimes.com/singapore/shortage-of-skills-not-job-could-cause-future-unemployment-to-rise-lim-swee-say?xtor=CS3-17)
+[http://www.straitstimes.com/singapore/do-justice-to-your-job-instead-of-searching-for-the-perfect-one-chan-chun-sing](http://www.straitstimes.com/singapore/do-justice-to-your-job-instead-of-searching-for-the-perfect-one-chan-chun-sing)<br><br>
 
   
 
-<b><i>‘Microsoft’s CEO Just Gave Some Brilliant Career Advice. Here it is in 1 Sentence’ – Inc.com</i></b>
+<b><i>‘Shortage of skills, not jobs could cause future unemployment to rise’ – Straits Times</i></b><br><br>
 
-[https://www.inc.com/justin-bariso/microsofts-ceo-just-gave-some-brilliant-career-advice-here-it-is-in-one-sentence.html](https://www.inc.com/justin-bariso/microsofts-ceo-just-gave-some-brilliant-career-advice-here-it-is-in-one-sentence.html)
-
-  
-
-<b><i>‘What skills does Singapore need for the future economy? – Today Online</i></b>
-
-[http://www.todayonline.com/daily-focus/education/what-skills-does-singapore-need-future-economy](http://www.todayonline.com/daily-focus/education/what-skills-does-singapore-need-future-economy)
+[http://www.straitstimes.com/singapore/shortage-of-skills-not-job-could-cause-future-unemployment-to-rise-lim-swee-say?xtor=CS3-17](http://www.straitstimes.com/singapore/shortage-of-skills-not-job-could-cause-future-unemployment-to-rise-lim-swee-say?xtor=CS3-17)<br><br>
 
   
 
-<b><i>‘Fresh grads in social work get much better pay now’ – Straits Times</i></b>
+<b><i>‘Microsoft’s CEO Just Gave Some Brilliant Career Advice. Here it is in 1 Sentence’ – Inc.com</i></b><br><br>
 
-[http://www.straitstimes.com/singapore/fresh-grads-in-social-work-get-much-better-pay-now](http://www.straitstimes.com/singapore/fresh-grads-in-social-work-get-much-better-pay-now)
+[https://www.inc.com/justin-bariso/microsofts-ceo-just-gave-some-brilliant-career-advice-here-it-is-in-one-sentence.html](https://www.inc.com/justin-bariso/microsofts-ceo-just-gave-some-brilliant-career-advice-here-it-is-in-one-sentence.html)<br><br>
 
   
 
-<b><i>‘Innovation ecosystem support key to startup growth, job creation’ – Business Times</i></b>
+<b><i>‘What skills does Singapore need for the future economy? – Today Online</i></b><br><br>
 
-[http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24](http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24)
+[http://www.todayonline.com/daily-focus/education/what-skills-does-singapore-need-future-economy](http://www.todayonline.com/daily-focus/education/what-skills-does-singapore-need-future-economy)<br><br>
+
+  
+
+<b><i>‘Fresh grads in social work get much better pay now’ – Straits Times</i></b><br><br>
+
+[http://www.straitstimes.com/singapore/fresh-grads-in-social-work-get-much-better-pay-now](http://www.straitstimes.com/singapore/fresh-grads-in-social-work-get-much-better-pay-now)<br><br>
+
+  
+
+<b><i>‘Innovation ecosystem support key to startup growth, job creation’ – Business Times</i></b><br><br>
+
+[http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24](http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24)<br><br>
 
    
 
-<b><i>‘Out of work and out of luck in search for full time jobs’ – Straits Times</i></b>
+<b><i>‘Out of work and out of luck in search for full time jobs’ – Straits Times</i></b><br><br>
 
-[http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17](http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17)
+[http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17](http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17)<br><br>
 
   
 
-<b><i>‘Banks tussle for the brightest from the Class of 2017 – Business Times</i></b>
+<b><i>‘Banks tussle for the brightest from the Class of 2017 – Business Times</i></b><br><br>
 
 [http://www.businesstimes.com.sg/banking-finance/banks-tussle-for-the-brightest-from-the-class-of-2017?xtor=CS3-24](http://www.businesstimes.com.sg/banking-finance/banks-tussle-for-the-brightest-from-the-class-of-2017?xtor=CS3-24)
+<br><br>
+  
+
+<b><i>‘Watch what you post online, it could hurt your job hunt’ - TNP</i></b><br><br>
+
+[http://www.tnp.sg/news/singapore/watch-what-you-post-online-it-could-hurt-your-job-hunt](http://www.tnp.sg/news/singapore/watch-what-you-post-online-it-could-hurt-your-job-hunt)<br><br>
 
   
 
-<b><i>‘Watch what you post online, it could hurt your job hunt’ - TNP</i></b>
+<b><i>‘Contract work on the rise in Singapore’ – Business Times</i></b><br><br>
 
-[http://www.tnp.sg/news/singapore/watch-what-you-post-online-it-could-hurt-your-job-hunt](http://www.tnp.sg/news/singapore/watch-what-you-post-online-it-could-hurt-your-job-hunt)
-
-  
-
-<b><i>‘Contract work on the rise in Singapore’ – Business Times</i></b>
-
-[http://www.businesstimes.com.sg/companies-markets/contract-work-on-the-rise-in-singapore-says-robert-walters-ceo?xtor=CS3-24](http://www.businesstimes.com.sg/companies-markets/contract-work-on-the-rise-in-singapore-says-robert-walters-ceo?xtor=CS3-24)
+[http://www.businesstimes.com.sg/companies-markets/contract-work-on-the-rise-in-singapore-says-robert-walters-ceo?xtor=CS3-24](http://www.businesstimes.com.sg/companies-markets/contract-work-on-the-rise-in-singapore-says-robert-walters-ceo?xtor=CS3-24)<br><br>
 
   
 
-<b><i>‘15000 rail workers needed by 2030’ – Straits Times</i></b>
+<b><i>‘15000 rail workers needed by 2030’ – Straits Times</i></b><br><br>
 
-[http://www.straitstimes.com/singapore/transport/15000-rail-workers-needed-by-2030?xtor=CS3-18](http://www.straitstimes.com/singapore/transport/15000-rail-workers-needed-by-2030?xtor=CS3-18)
+[http://www.straitstimes.com/singapore/transport/15000-rail-workers-needed-by-2030?xtor=CS3-18](http://www.straitstimes.com/singapore/transport/15000-rail-workers-needed-by-2030?xtor=CS3-18)<br><br>
 
   
 
-<b><i>“Design has nothing to do with art”: Design legend Milton Glaser dispels universal misunderstanding – Quartz Media</i></b>
+<b><i>“Design has nothing to do with art”: Design legend Milton Glaser dispels universal misunderstanding – Quartz Media</i></b><br><br>
 
-[http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/](http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/)  
+[http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/](http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/)  <br><br>
   
 
 
-2.  Future of Education   
-<b><i>‘Pay attention to lifelong learning’ – Straits Times</i></b>  
+2.  Future of Education   <br><br>
+<b><i>‘Pay attention to lifelong learning’ – Straits Times</i></b>  <br><br>
     
 
-[http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning](http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning)
+[http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning](http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning)<br><br>
 
   
 
-<b><i>‘Sixth university for Singapore to focus on lifelong learning’ – Straits Times</i></b>
+<b><i>‘Sixth university for Singapore to focus on lifelong learning’ – Straits Times</i></b><br><br>
 
-[http://www.straitstimes.com/singapore/education/sixth-university-for-singapore-to-focus-on-lifelong-learning?xtor=CS3-17](http://www.straitstimes.com/singapore/education/sixth-university-for-singapore-to-focus-on-lifelong-learning?xtor=CS3-17)
-
-  
-
-<b><i>‘Are junior colleges relevant? How a JC dropout got into med school via polytechnic’ – Channel News Asia</i></b>
-
-[http://www.channelnewsasia.com/news/cnainsider/are-junior-colleges-relevant-how-a-jc-dropout-got-into-med-8824242](http://www.channelnewsasia.com/news/cnainsider/are-junior-colleges-relevant-how-a-jc-dropout-got-into-med-8824242)
+[http://www.straitstimes.com/singapore/education/sixth-university-for-singapore-to-focus-on-lifelong-learning?xtor=CS3-17](http://www.straitstimes.com/singapore/education/sixth-university-for-singapore-to-focus-on-lifelong-learning?xtor=CS3-17)<br><br>
 
   
 
-<b><i>‘Singapore’s tertiary bodies revamp courses to meet needs of future economy’ – News Asiaone</i></b>
+<b><i>‘Are junior colleges relevant? How a JC dropout got into med school via polytechnic’ – Channel News Asia</i></b><br><br>
 
-[http://news.asiaone.com/news/singapore/singapores-tertiary-bodies-revamp-courses-meet-needs-future-economy#xtor=CS3-17](http://news.asiaone.com/news/singapore/singapores-tertiary-bodies-revamp-courses-meet-needs-future-economy#xtor=CS3-17)
+[http://www.channelnewsasia.com/news/cnainsider/are-junior-colleges-relevant-how-a-jc-dropout-got-into-med-8824242](http://www.channelnewsasia.com/news/cnainsider/are-junior-colleges-relevant-how-a-jc-dropout-got-into-med-8824242)<br><br>
+  
+
+<b><i>‘Singapore’s tertiary bodies revamp courses to meet needs of future economy’ – News Asiaone</i></b><br><br>
+
+[http://news.asiaone.com/news/singapore/singapores-tertiary-bodies-revamp-courses-meet-needs-future-economy#xtor=CS3-17](http://news.asiaone.com/news/singapore/singapores-tertiary-bodies-revamp-courses-meet-needs-future-economy#xtor=CS3-17)<br><br>
 
   
 
-<b><i>‘Private schools to meet higher standards’ – News Asiaone</i></b>
+<b><i>‘Private schools to meet higher standards’ – News Asiaone</i></b><br><br>
 
-[http://news.asiaone.com/news/singapore/private-schools-meet-higher-standards#xtor=CS3-17](http://news.asiaone.com/news/singapore/private-schools-meet-higher-standards#xtor=CS3-17)
-
-  
-
-<b><i>‘Refining the culture of learning’ – Straits Times</i></b>
-
-[http://www.straitstimes.com/opinion/st-editorial/refining-the-culture-of-learning](http://www.straitstimes.com/opinion/st-editorial/refining-the-culture-of-learning)
+[http://news.asiaone.com/news/singapore/private-schools-meet-higher-standards#xtor=CS3-17](http://news.asiaone.com/news/singapore/private-schools-meet-higher-standards#xtor=CS3-17)<br><br>
 
   
 
-<b><i>‘Varsities open more places for non-academic talents’ – Straits Times</i></b>
+<b><i>‘Refining the culture of learning’ – Straits Times</i></b><br><br>
 
-[http://www.straitstimes.com/singapore/education/varsities-open-more-places-for-non-academic-talents](http://www.straitstimes.com/singapore/education/varsities-open-more-places-for-non-academic-talents)
-
-  
-
-3.  Personal Growth
-
-<b><i>‘UOB chief’s advice to young people: invest in yourself’ – Straits Times</i></b> [http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself](http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself) 
+[http://www.straitstimes.com/opinion/st-editorial/refining-the-culture-of-learning](http://www.straitstimes.com/opinion/st-editorial/refining-the-culture-of-learning)<br><br>
 
   
 
-<b><i>This is the right answer to ‘Tell Me About Yourself’ in an Interview – Inc.com</i></b>
+<b><i>‘Varsities open more places for non-academic talents’ – Straits Times</i></b><br><br>
 
-[http://www.inc.com/quora/this-is-the-right-answer-to-tell-me-about-yourself-in-an-interview.html](http://www.inc.com/quora/this-is-the-right-answer-to-tell-me-about-yourself-in-an-interview.html) 
-
-  
-
-<b><i>‘8 Habits of the Most Resilient People’ – Inc.com</i></b> 
-
-[http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html](http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html) 
+[http://www.straitstimes.com/singapore/education/varsities-open-more-places-for-non-academic-talents](http://www.straitstimes.com/singapore/education/varsities-open-more-places-for-non-academic-talents)<br><br>
 
   
 
-<b><i>‘It’s not unusual to get your dream job – and then hate it’ - BBC</i></b>
+3.  Personal Growth<br><br>
 
-[http://www.bbc.com/capital/story/20161124-its-not-unusual-to-get-your-dream-job-and-then-hate-it](http://www.bbc.com/capital/story/20161124-its-not-unusual-to-get-your-dream-job-and-then-hate-it) 
+<b><i>‘UOB chief’s advice to young people: invest in yourself’ – Straits Times</i></b><br><br> [http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself](http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself) <br><br>
 
   
 
-**_‘What it means when you can’t answer the question, What do you want to be when you grow up? – TED Ideas_**
+<b><i>This is the right answer to ‘Tell Me About Yourself’ in an Interview – Inc.com</i></b><br><br>
+
+[http://www.inc.com/quora/this-is-the-right-answer-to-tell-me-about-yourself-in-an-interview.html](http://www.inc.com/quora/this-is-the-right-answer-to-tell-me-about-yourself-in-an-interview.html) <br><br>
+
+  
+
+<b><i>‘8 Habits of the Most Resilient People’ – Inc.com</i></b> <br><br>
+
+[http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html](http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html) <br><br>
+
+  
+
+<b><i>‘It’s not unusual to get your dream job – and then hate it’ - BBC</i></b><br><br>
+
+[http://www.bbc.com/capital/story/20161124-its-not-unusual-to-get-your-dream-job-and-then-hate-it](http://www.bbc.com/capital/story/20161124-its-not-unusual-to-get-your-dream-job-and-then-hate-it) <br><br>
+
+  
+
+<b><i>‘What it means when you can’t answer the question, What do you want to be when you grow up? – TED Ideas</i></b><br><br>
 
 [http://ideas.ted.com/what-it-means-when-you-cant-answer-the-question-what-do-you-want-to-be-when-you-grow-up](http://ideas.ted.com/what-it-means-when-you-cant-answer-the-question-what-do-you-want-to-be-when-you-grow-up)
 </p>
