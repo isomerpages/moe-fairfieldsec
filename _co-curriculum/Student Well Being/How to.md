@@ -11,9 +11,9 @@ Knowing how to help your friends can sometimes be overwhelming. With the appropr
 
 #### How to check in?
 
-| About | Website  |
-|---|---|
-| Have you been checking in with those you care for? All it takes to start the conversation is a ‘hi’.<br>  | [Click here](https://www.healthhub.sg/programmes/180/justcheckingin)  |
+Have you been checking in with those you care for? All it takes to start the conversation is a ‘hi’.Have you been checking in with those you care for? All it takes to start the conversation is a ‘hi’.
+
+[Click here for the website](https://www.healthhub.sg/programmes/180/justcheckingin) 
 
 #### Listening Skills
 
@@ -21,9 +21,7 @@ Knowing how to help your friends can sometimes be overwhelming. With the appropr
 
 #### Self-Care
 
-| About | Website  |
-|---|---|
-| [mindline.sg](http://mindline.sg/) provides tools, tips and resources to help you understand and manage your health and wellbeing | [Click here](https://www.mindline.sg/landing)  |
+ [mindline.sg](http://mindline.sg/) provides tools, tips and resources to help you understand and manage your health and wellbeing
 
 [Self-Care Activities for Teens.pdf](/files/selfcare1.pdf)
 
