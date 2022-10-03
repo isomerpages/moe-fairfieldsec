@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - 2021 Virtual Open House/Fairfield Virtual Tour.md
       - 2021 Virtual Open House/.keep
       - 2021 Virtual Open House.md
       - School Information.md
