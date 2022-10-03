@@ -10,4 +10,4 @@ third_nav_title: Our Stories
 
 * * *
 
-<img src="/images/hl2.png" style="width:50px;height:50px;margin-right:15px;" align = "left">  (FL)EXpressing Our Empathy [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/highlights/our-stories/2022-term-2/) <Br><br>
+<img src="/images/hl2.png" style="width:50px;height:50px;margin-right:15px;" align = "left">  (FL)EXpressing Our Empathy [Read More] <Br><br>
