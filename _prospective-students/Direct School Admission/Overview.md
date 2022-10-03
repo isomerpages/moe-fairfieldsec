@@ -93,3 +93,17 @@ Parents should apply online for a Registration Number, so they can apply through
 *   Applicants studying in mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools.
 
 *   If your child is currently not studying in a MOE school, you will be informed via email.
+
+#### Enquiries
+
+After reading through the FAQ page **[here](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/prospective-students/direct-school-admission/faq/),** you may contact the following staff if you still have questions:  
+
+\- Mr. Shahrin (DSA Coordinator) at [shahrin\_mohamed\_ariffin@moe.edu.sg](mailto:shahrin_mohamed_ariffin@moe.edu.sg) (for Selection Trials & Interviews) 
+
+  
+
+\- Mr. Francis Ng (HOD PE & CCA) at [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) (for General & PA-related DSA enquires) 
+
+  
+
+\- Mr. Jason Lum (Lead Teacher/PE) at [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) (for Sports-related DSA enquires)
