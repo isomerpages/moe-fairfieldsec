@@ -4,15 +4,6 @@ permalink: /parents/resources-for-parents/education-and-career-guidance/
 description: ""
 third_nav_title: Resources for Parents
 ---
-[1](/files/ecg1.pdf)
-[2](/files/ecg2.pdf)
-[3](/files/ecg3.pdf)
-[4](/files/ecg4.pdf)
-[5](/files/ecg5.pdf)
-[6](/files/ecg6.pdf)
-[7](/files/ecg7.pdf)
-[8](/files/ecg8.pdf)
-
 ### Education and Career Guidance
 
 Education and Career Guidance (ECG) facilitates the acquisition of necessary knowledge, skills and attitude that will enable students to gain a better self-awareness; explore viable educational and career pathways; make informed decisions and to develop an action plan to achieve their career aspirations.
@@ -422,26 +413,18 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 	
 <li>
 	
+
 <input id="accordion7" type="checkbox">
 
-<label for="accordion7">title </label>
-<div>
-
-<p>text</p>
-
-</div>
-
-</li>
-	
-<li>
-
-<input id="accordion8" type="checkbox">
-
-<label for="accordion8">title</label>
+<label for="accordion7">Video Resources by ECG Counsellor</label>
 
 <div>
 
-<p>text	</p>
+<p>
+<a href="https://drive.google.com/drive/folders/1Ozy5ek6gra3SKr8uEdfRXDp53YCmvRBk?usp=sharing">Sec 2 Express ECG Talk for Parents</a>
+  
+<a href="https://drive.google.com/drive/folders/1-fJJrZkdQN0I7ddh6GIRzfGLuOdfRyVX?usp=sharing">Sec 4NA ECG Talk for Parents on DPP & PFP</a>
+</p>
 
 	
 </div>
