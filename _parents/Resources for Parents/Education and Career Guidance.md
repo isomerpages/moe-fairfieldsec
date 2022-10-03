@@ -149,63 +149,63 @@ ECG Counselling provides dedicated support for graduating students who have yet 
   
 
 <b><i>‘Financial sector jobs in focus as middleman role under threat’ – Business Times</i></b> <br><br>
-<a href="link">text</a>
-[http://www.businesstimes.com.sg/top-stories/financial-sector-jobs-in-focus-as-middleman-role-under-threat?xtor=CS3-24](http://www.businesstimes.com.sg/top-stories/financial-sector-jobs-in-focus-as-middleman-role-under-threat?xtor=CS3-24)<br><br>
+<a href="http://www.businesstimes.com.sg/top-stories/financial-sector-jobs-in-focus-as-middleman-role-under-threat?xtor=CS3-24">http://www.businesstimes.com.sg/top-stories/financial-sector-jobs-in-focus-as-middleman-role-under-threat?xtor=CS3-24</a>
+<br><br>
 
   
 
 <b><i>‘Want a job in 2025? These are the sectors to focus on’ – World Economic Forum</i></b><br><br>
-<a href="link">text</a>
-[https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer](https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm_content=buffer98dac&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)<br><br>
+<a href="https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer">https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer</a>
+<br><br>
 
   
 
 <b><i>‘A new gateway to the American Dream: Skills, not degrees’ – Today Online</i></b><br><br>
-<a href="link">text</a>
-[http://m.todayonline.com/commentary/new-gateway-american-dream-skills-not-degrees](http://m.todayonline.com/commentary/new-gateway-american-dream-skills-not-degrees)<br><br>
+<a href="http://m.todayonline.com/commentary/new-gateway-american-dream-skills-not-degrees">http://m.todayonline.com/commentary/new-gateway-american-dream-skills-not-degrees</a>
+<br><br>
 
   
 
 <b><i>‘Work stint gives students a taste of life on the job’ – Straits Times</i></b><br><br>
-<a href="link">text</a>
-[http://www.straitstimes.com/singapore/education/work-stint-gives-students-a-taste-of-life-on-the-job](http://www.straitstimes.com/singapore/education/work-stint-gives-students-a-taste-of-life-on-the-job)<br><br>
+<a href="http://www.straitstimes.com/singapore/education/work-stint-gives-students-a-taste-of-life-on-the-job">http://www.straitstimes.com/singapore/education/work-stint-gives-students-a-taste-of-life-on-the-job</a>
+<br><br>
 
   
 
 <b><i>‘Employers are going soft: the skills companies are looking for’ – World Economic Forum</i></b><br><br>
-<a href="link">text</a>
-[https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer](https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm_content=bufferbb9c2&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)<br><br>
+<a href="https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer">https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer</a>
+<br><br>
 
   
 
 <b><i>‘Where machines could replace humans – and where they can’t (yet)’ - McKinsey</i></b>  <br><br>
 
-<a href="link">text</a>
-[http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet)<br><br>
+<a href="http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet">http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet</a>
+<br><br>
 
   
 
 <b><i>‘What are the 21st – century skills every student needs? – World Economic Forum</i></b><br><br>
-<a href="link">text</a>
-[http://wef.ch/2m2cxmd](http://wef.ch/2m2cxmd)<br><br>
+<a href="http://wef.ch/2m2cxmd">http://wef.ch/2m2cxmd</a>
+<br><br>
 
   
 
 <b><i>‘Future gazing: For the ambitious graduate who wants a fast track to the top, the management trainee programme is likely to be in his sights’ – Business Times</i></b><br><br>
-<a href="link">text</a>
-[http://www.businesstimes.com.sg/brunch/future-gazing?xtor=CS3-24](http://www.businesstimes.com.sg/brunch/future-gazing?xtor=CS3-24)<br><br>
+<a href="http://www.businesstimes.com.sg/brunch/future-gazing?xtor=CS3-24">http://www.businesstimes.com.sg/brunch/future-gazing?xtor=CS3-24</a>
+<br><br>
 
   
 
 <b><i>‘He will finally be an inspector thanks to Singapore Police Force’s unified rank scheme’ – Straits Times</i></b><br><br>
-<a href="link">text</a>
-[http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm\_source=whatsapp&utm\_medium=social-media&utm\_campaign=addtoany](http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany)<br><br>
+<a href="http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany">http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany</a>
+<br><br>
 
   
 
 <b><i>‘Top poly graduates choose work over university’ - TNP</i></b><br><br>
-<a href="link">text</a>
-[http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&utm\_medium=Social&utm\_source=Facebook#link\_time=1494204464](http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1494204464)<br><br>
+<a href="http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&utm\_medium=Social&utm\_source=Facebook#link\_time=1494204464">http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&utm\_medium=Social&utm\_source=Facebook#link\_time=1494204464</a>
+<br><br>
 
   
 
