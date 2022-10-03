@@ -65,4 +65,16 @@ b. Character and Citizenship Education (CCE)
 
 **At Fairfield Methodist School (Secondary),** **the following Sexuality Education lessons will be taught in** **2022:**
 
-**SECONDARY 1**
+<figure><b>SECONDARY 1</b></figure>
+Unit: Respectful Relationships & Safety
+
+
+<figure><b>SECONDARY 2</b></figure>
+Unit: Respectful Relationships & Safety
+
+
+<figure><b>SECONDARY 3</b></figure>
+Unit: Respectful Relationships & Safety
+
+<figure><b>SECONDARY 4/5</b></figure>
+Unit: Respectful Relationships & Safety
