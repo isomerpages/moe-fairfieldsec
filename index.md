@@ -9,7 +9,10 @@ sections:
   - hero:
       background: /images/ban.gif
       key_highlights:
-        - title: Highlights
-          description: Our Stories & Latest Updates
-          url: /highlights/our-stories/overview/
+        - title: Our Stories
+          description: ""
+          url: /our-stories/overview/
+        - title: Latest Updates
+          description: ""
+          url: /latest-updates/overview/
 ---
