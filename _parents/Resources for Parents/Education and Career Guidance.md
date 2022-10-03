@@ -385,10 +385,36 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
 <input id="accordion6" type="checkbox">
 
-<label for="accordion6">title </label>
+<label for="accordion6">Information on DSA JC, Poly EAE and ITE EAE 2022 </label>
 <div>
 
-<p>text</p>
+<p>
+<b>ITE EAE</b><br>  
+
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg1.pdf">ITE EAE 2022.pdf</a> <br>
+
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg2.pdf">ite-eae-2023-intake-brochure.pdf</a>  <br>
+
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg3.pdf">ite-eae-2023-intake-factsheet.pdf</a> <br>
+
+<a href="link">ite-eae-writeup-preparation-template.docx</a> <br><br> (Upload doc file here)<br>
+  
+<b>Poly EAE  </b><br>
+
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg4.pdf">POLY EAE 2022.pdf</a><br>
+
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg5.pdf">Preparation Template for Poly EAE Write-up.pdf</a><br><br>
+  
+<b>DSA-JC</b><br>
+
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg6.pdf">DSA 2022.pdf</a> <br>
+
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg7.pdf">Information Note on 2022 DSA-JC Exercise.pdf</a> <br><br>
+  
+<b>Interview Preparation Resource</b><br>
+<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg8.pdf">Ace your interview.pdf</a>
+
+</p>
 
 </div>
 
