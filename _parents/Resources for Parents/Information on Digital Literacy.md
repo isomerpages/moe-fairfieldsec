@@ -67,13 +67,12 @@ As IT-related issues and risks are constantly evolving, it is important to ensur
 
 #### Download
 
-[](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)
 
-[Parent Kit – Cyber Wellness for Your Child](https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf)  
-[Tip Sheet for Parents - Personal Data.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/Resources%20for%20Parents/Tipsheet%20for%20Parents%20-%20Personal%20Data.pdf)  
-[Tip Sheet for Parents - Appropriate Online Expression.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/Resources%20for%20Parents/Tipsheet%20for%20Parents%20-%20Appropriate%20Online%20Expression.pdf)  
-[Tip Sheet for Parents - Cyber Bullying.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2020/Parents/Resource%20For%20Parents/Information%20on%20Cyberwellness/Tip%20Sheet%20on%20Cyber%20Bullying.pdf)  
-[Tip Sheet for Parents - Handling Online Content.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2020/Parents/Resource%20For%20Parents/Information%20on%20Cyberwellness/Tip%20Sheet%20for%20Parents%20(Cyberwellness).pdf)  
-[Tip Sheet for Parents - Discerning Online Information.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/Resources%20for%20Parents/Tipsheet%20for%20Parents%20-%20Discerning%20Online%20Information.pdf)  
-[Tip Sheet for Parents - Excessive Internet Use.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2020/Parents/Resource%20For%20Parents/Information%20on%20Cyberwellness/4%20Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf)  
-[Student Kit for Cyber Wellness and Learning with a Personal Learning Device.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/Resources%20for%20Parents/Student%20Kit%20for%20Cyber%20Wellness%20and%20Learning%20with%20a%20Personal%20Learning%20Device.pdf)
+[Parent Kit – Cyber Wellness for Your Child](/files/tip1.pdf)
+[Tip Sheet for Parents - Personal Data.pdf](/files/tip2.pdf)
+[Tip Sheet for Parents - Appropriate Online Expression.pdf](/files/tip3.pdf)
+[Tip Sheet for Parents - Cyber Bullying.pdf](/files/tip4.pdf) 
+[Tip Sheet for Parents - Handling Online Content.pdf](/files/tip5.pdf) 
+[Tip Sheet for Parents - Discerning Online Information.pdf](/files/tip6.pdf)
+[Tip Sheet for Parents - Excessive Internet Use.pdf](/files/tip7.pdf)
+[Student Kit for Cyber Wellness and Learning with a Personal Learning Device.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/Resources%20for%20Parents/Student%20Kit%20for%20Cyber%20Wellness%20and%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) Upload PDF here.
