@@ -7,7 +7,7 @@ description: ""
 
 #### 2022 Sem 2 Class Timetable
 
-[Read More...](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/highlights/latest-updates/2022-sem-2-class-timetable)
+[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2022-sem2-class-timetable/)
 
 * * *
 
