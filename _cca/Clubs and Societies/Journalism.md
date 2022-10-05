@@ -4,6 +4,8 @@ permalink: /cca/Clubs-and-Societies/journalism/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<img src="/images/cca6.gif" style="width:80%">
+
 <ul class="jekyllcodex_accordion">
 <li>
 
