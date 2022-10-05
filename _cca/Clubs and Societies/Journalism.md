@@ -21,7 +21,7 @@ third_nav_title: Clubs and Societies
 </li>
 <li>
 
-	<input id="accordion2" type="checkbox">
+<input id="accordion2" type="checkbox">
 
 <label for="accordion2">Overview</label>
 
