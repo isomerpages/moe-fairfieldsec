@@ -4,6 +4,8 @@ permalink: /cca/Performing-Arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
 ---
+<img src="/images/cca12.gif" style="width:80%">
+
 <ul class="jekyllcodex_accordion">
 <li>
 
