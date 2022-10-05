@@ -4,6 +4,8 @@ permalink: /cca/Sports/basketball-boys/
 description: ""
 third_nav_title: Sports
 ---
+<img src="/images/cca17.gif" style="width:80%">
+
 <ul class="jekyllcodex_accordion">
 <li>
 
