@@ -4,7 +4,7 @@ permalink: /cca/Sports/volleyball/
 description: ""
 third_nav_title: Sports
 ---
-<img src="/images/cca20.gif" style="width:80%">
+<img src="/images/cca26.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
 <li>
