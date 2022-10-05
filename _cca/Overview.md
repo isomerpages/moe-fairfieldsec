@@ -62,7 +62,7 @@ description: ""
 
 <input id="accordion4" type="checkbox">
 
-<label for="accordion8">Uniformed Groups</label>
+<label for="accordion4">Uniformed Groups</label>
 
 <div>
 
