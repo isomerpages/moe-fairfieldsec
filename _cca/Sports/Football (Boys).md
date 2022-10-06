@@ -44,7 +44,15 @@ Mr Ravi Shankar
 <div>
 
 <p>
-	
+<b>Vision & Mission</b><br><br>
+
+With the 3 As – Attitude, Attire and Attendance – serving as our core values, we strive to nurture our players to achieve excellence, not just in the sport, but also in their academic pursuit and personal lives.<br><br>
+
+  
+
+<b>Key Programmes / History</b><br><br>
+
+Besides our regular trainings, we also organize friendly matches and other outdoor activities like camps, and VIAs so that our players will become effective teammates and influential leaders who display resilience, sportsmanship, discipline and integrity.	
 	
 </p>
 
@@ -63,21 +71,9 @@ Mr Ravi Shankar
 <p>
 
 <b>2022</b><br>
-	
+<table border="0" cellpadding="0" cellspacing="0" width="682" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr height="20" style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;"><td height="20" class="xl65" width="481" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Football Championships 2022 - 'B' Div Boys</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr></tbody></table>
 
-<b>2021</b><br>
-	
 
-<b>2020</b><br>
-	
-	
-<b>2019</b><br>
-	
-
-<b>2018</b><br>
-	
-	
-<b>2017</b><br>
 	
 </p>
 
