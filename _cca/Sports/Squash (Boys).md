@@ -70,7 +70,7 @@ The team will continue to train hard and consistently to achieve better results 
 
   
 
-<b>Highlights</b><br><br>
+<b>Highlights</b><br> 
 
 Our training sessions outside school are on every Monday, Wednesday and Friday. The weekly training sessions also include physical training to build up our fitness level. There are also occasions where the team members play some games after the training sessions to build a stronger bond between team members, the coach and our teachers. For eCCA, we conduct physical exercises for the team members on every Monday and Friday only. This is to help our team members to stay fit and to continue to build team spirits.	
 	
