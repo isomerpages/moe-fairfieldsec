@@ -16,7 +16,21 @@ third_nav_title: Performing Arts
 <div>
 
 <p> 
+<b>Training Days & Time:  </b><b><b>
 
+Wednesday: 3.30 pm – 6.00 pm <b>
+
+Friday: 2.00 pm – 5.00 pm <b><b>
+
+	
+<b>Teachers In Charge:</b><b><b>
+
+Ms. Yen Ding Yi (I/C)  <b>
+Ms. Chen Shuhui  <b><b>
+
+  
+
+<b>Our Instructor</b><br><br>
 </p>
 </div>
 
