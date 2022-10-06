@@ -44,25 +44,25 @@ Instructors: Mr Chua Teck Seng
 <div>
 
 <p>
-<b>Vision</b><br><br>
+<b>Vision</b><br> 
 
 To create a tight-knit and united CCA between peers and teachers that endeavors for excellence and strives to achieve an outstanding performance.<br><br>
 
   
 
-<b>Mission</b><br><br>
+<b>Mission</b><br> 
 
 To inculcate a strong love and passion for guitar in our members and share the joy of music with others through our performances.<br><br>
 
   
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 The Fairfield Guitar Ensemble (FGE) was established in 2005 by Mr Ezal, making it the youngest CCA among the performing arts CCAs in Fairfield. Mr Ezal had a vehement passion and dedication for guitar. This sparked his resolution to start up this CCA. With the aim of introducing classical guitar music to the students, FGE has grown in numbers and there are currently 40 students in the ensemble since its inauguration. FGE plays in the Niibori form, which is akin to an orchestral format, using guitars of different sizes to produce a variety of timbres.  <br><br>
 
   
 
-<b>Highlights</b><br><br>
+<b>Highlights</b><br> 
 
 <b>Biennial Public performance:</b><br>
 
