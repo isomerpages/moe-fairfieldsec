@@ -64,7 +64,7 @@ Ms Esther Lim Si Xiu was a Fairsian and grew up in FMSP and FMSS. As a student 
 <div>
 
 <p>
-<b>Who we are ….</b><br><br>
+<b>Who we are ….</b><br>
 
 It is challenging for youths today to find their identity, especially for children who openly express to be Christians. The influence of social media is not only a distraction but a real challenge to the healthy development of our young people in Singapore. <br><br>
 
