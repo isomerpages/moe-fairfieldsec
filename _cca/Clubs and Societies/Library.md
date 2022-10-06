@@ -97,22 +97,11 @@ The Fairfield's Media Resource Library or Library@Fairfield aims to publicise an
 
 <p>
 
-<b>2022</b><br>
-	
 
 <b>2021</b><br>
-	
+<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 377px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Total Defence Competition (Virtual)</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 393px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Pinnacle Competition 2021: Possibilities Reimagined!</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Copyright School Challenge</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;">&nbsp;<b style="margin: 0px; outline: 0px; padding: 0px;">2nd &amp; Representation</b></td></tr></tbody></table>	
 
-<b>2020</b><br>
-	
-	
-<b>2019</b><br>
-	
 
-<b>2018</b><br>
-	
-	
-<b>2017</b><br>
 	
 </p>
 
