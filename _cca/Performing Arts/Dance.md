@@ -54,25 +54,25 @@ Over the years, Shir lyn has taken on the role of a choreographer and producer. 
 <div>
 
 <p>
-<b>Our Vision</b><br><br>
+<b>Our Vision</b><br> 
 
 Our dancers are strong and resilient individuals who strive for excellence with a committed spirit in their endeavours. Our dancers are life-long learners who believes that the journey is the destination, and that every success or failure is an opportunity for growth. Our dancers share the joy of dance with others and inspire audiences with their uplifting and introspective performances.<br><br>
 
   
 
-<b>Our Mission</b><br><br>
+<b>Our Mission</b><br> 
 
 We wish to enable every dancer to reach his or her fullest artistic potential through dance. We want to inculcate the talented yet humble dancer who is not only strong and precise in technique, but is also receptive and sensitive to the outside world. We strive to bring out the best of characters in our dancers who embody an excellence mind set, team spirit and resilience. Our dancers will support one another through challenges and have the heart and patience to nurture others. They will continue to pursue the love of dance and influence others positively throughout their journey in life.<br><br>
 
   
 
-<b>Our Motto</b><br><br>
+<b>Our Motto</b><br> 
 
 Dance Out Loud<br><br>
 
   
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 Fairfield Dance was established in 2004 and has since come a long way. Its avant-garde contemporary style was shaped by the hands of dance instructors (Amice Lim and John Mead) who founded John Mead Dance Company. Under Amice Lim’s tutelage, Fairfield Dance realised the dream of their first ticket-selling production in NAFA theatre in 2010.<br><br>
 
@@ -84,19 +84,19 @@ From 2015, Shir Lyn (Ms Quek) took over and laid the foundation of contemporary 
 
 <b>Highlights</b><br>
 
-<b>Parents’ Night</b><br><br>
+<b>Parents’ Night</b><br> 
 
 All parents, in specifically the Secondary One parents, are invited to a rehearsal cum dialogue session with the teachers and coach at the end of Term 1. Dancers will share testimonies of their growth in the team. Parents have the opportunity to understand what the CCA has in store for their children as well as connect with other parents.<br><br>
 
   
 
-<b>Tumbling Workshop</b><br><br>
+<b>Tumbling Workshop</b><br> 
 
 Dancers will learn rolls, flips, kicks and aerial stunts with guidance from experienced professionals during our holiday camp trainings. These skills give dancers an edge in their breakthrough performances in Super 24 and SYF platforms.<br><br>
 
   
 
-<b>Bi-annual Recital: Black Box Series</b><br><br>
+<b>Bi-annual Recital: Black Box Series</b><br> 
 
 Our dancers choreograph and put together their very own recital during non-SYF years. This is a graduation showcase for the Secondary Four and Five. Features include solo as well as buddy performances with Secondary One dancers. All dancers are involved in choreography by exploring diverse themes.<br><br>
 
