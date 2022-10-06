@@ -44,13 +44,13 @@ Ms Lee Shu Pei<br>
 <div>
 
 <p>
-<b>Vision:</b><br><br>
+<b>Vision:</b><br> 
 
 To be a choice CCA in Fairfield for girls who wish to learn and grow through Netball as a sport.<br><br>
 
   
 
-<b>Mission:</b><br><br>
+<b>Mission:</b><br> 
 
 To promote and develop the values of:<br><br>
 
@@ -64,7 +64,7 @@ through our regular training sessions, competitions, friendly matches and camps.
 
   
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 Besides developing in competency and skills of the game, Fairfield Netball CCA seeks to promote and develop the values they need throughout life.<br><br>
 
@@ -82,7 +82,7 @@ Many of our girls started without any experience in competitive sports. Netball 
 
   
 
-<b>Highlights</b><br><br>
+<b>Highlights</b><br> 
 
 • Participation in annual National School Games Netball South Zone Championship<br>
 • Participation in annual Sneakers Netball Challenge organised by Netball Singapore (opened to all secondary schools in Singapore)<br>
