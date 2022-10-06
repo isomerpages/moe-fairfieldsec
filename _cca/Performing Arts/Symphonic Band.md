@@ -63,13 +63,13 @@ Mrs Chua - Tan Soh Hwa and Mr Chua Tiong Hong began to lead the band in 2007. Un
 <div>
 
 <p>
-<b>Vision</b><br><br>
+<b>Vision</b><br> 
 
 Our vision is for young aspiring musicians in Fairfield to be trained and inspired in a hospitable and challenging environment. As individual musicians and members of the Fairfield Symphonic Band (FSB), they will pursue music excellence and the highest standards of musicality as one family.<br><br>
 
   
 
-<b>Mission</b><br><br>
+<b>Mission</b><br> 
 
 Our mission is to mould every member of FSB to reach their fullest potential. FSB will provide each member with an opportunity to experience an excellent music education and training, aiming to inspire and develop the enthusiastic and dedicated music-lovers in Fairfield. It also improves both mentally and physically as they get to interact with one another during band practices. We continue to soar through the skies to produce better results everytime!<br><br>
 
