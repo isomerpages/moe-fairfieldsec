@@ -60,7 +60,7 @@ Mdm Juliana
 <div>
 
 <p>
-<b>Vision & Mission</b><br><br>
+<b>Vision & Mission</b><br> 
 
 Members of Team Fairfield Volleyball aspire to:<br><br>
 
@@ -68,13 +68,13 @@ Members of Team Fairfield Volleyball aspire to:<br><br>
 • become Players who are responsible, committed and have deep passion and love for Volleyball;<br>
 • be excellent in character, exhibiting the four Fairsian outcomes of Wisdom, Personhood, Heart of Service and Commitment to Community<br><br>
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 Fairfield Volleyball has come a long way. From its humble beginnings, through the past decades, the Team began to become one that is to be reckoned with. The years put in by the past players, teachers and the Coach enabled Fairfield Volleyball Team to establish a firm foundation, enabling the Team to become one of the finest in Singapore in the last decade. The Team believes that it is maintaining its high standards in its players in terms of skills, character and sportsmanship, and the Team aspires to become even better. We also recognise that every player in the CCA is a valuable member and can actively contribute to the CCA in many other ways such as being involved in the media and logistical aspect of the CCA, and organising events such as the annual Fairfield Alumni Cup.  <br><br>
 
   
 
-<b>Highlights</b><br><br>
+<b>Highlights</b><br> 
 
 The National Schools Games (NSG) are held twice a year, usually in January of the year for the B Divisions and in July for the C Divisions. NSG for Sports will be akin to the annual certifications of the Uniformed Groups or the Singapore Youth Arts Presentations. Every year, Fairfield Volleyball Team will compete in the Zonal part of the NSG, followed by the Nationals where 16 schools will emerge from each of the Zones and compete for the Nationals positions.<br><br>
 
