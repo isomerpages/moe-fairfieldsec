@@ -47,7 +47,7 @@ Mrs Terri Tan<br>
 <div>
 
 <p>
-<b>What The 3rd Girls' Brigade Is All About</b>  <br><br>
+<b>What The 3rd Girls' Brigade Is All About</b>  <br> 
 
 The Girls' Brigade is an international, interdenominational Christian youth organisation for girls which was first established in Singapore in 1927. The 3rd Company was started ten years later in Fairfield Methodist Girls' School, now known as Fairfield Methodist School. The 3rd Company has provided many girls from the ages of 9 to 16-year olds with valuable experiences and interactions. Even till this day, many of the graduated seniors still feel a sense of commitment to come back to the school to help out with the various activities in the company.<br><br>
 
