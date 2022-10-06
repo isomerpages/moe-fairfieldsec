@@ -16,7 +16,21 @@ third_nav_title: Sports
 <div>
 
 <p> 
+<b>Training Days & Time:</b><br><br>
 
+Monday : 3.30 pm - 6.00 pm (C Div)Wednesday: 3.30 pm - 6.00 pm (B Div)  <br>
+Friday: 2.00 pm – 5.00 pm (All)   <br><br>
+  
+
+<b>Teachers In Charge:</b><br><br>
+
+Ms Priscilla Goh (I/C)<br>
+
+Mr Yap Hock Heng<br>
+
+Mr Lee Yew Meng (Volunteer)<br>
+
+Mr Ravi Shankar
 </p>
 </div>
 
