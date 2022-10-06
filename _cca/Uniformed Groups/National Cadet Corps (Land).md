@@ -56,35 +56,35 @@ In Fairfield National Cadet Corps (Land), we aim to develop our cadets’ self-d
 
   
 
-<b>Unit Vision </b> <br><br>
+<b>Unit Vision </b> <br> 
 
 A Unit to cultivate cadets to be extraordinary youth leaders who embody the core values of the Corps.<br><br>
 
   
 
-<b>Unit Mission</b><br><br>
+<b>Unit Mission</b><br> 
 
 Through fun and adventurous military-related activities, we hope<br>
 
-\-    To build a strong sense of camaraderie in all our cadets,<br>
+-    To build a strong sense of camaraderie in all our cadets,<br>
 
-\-    To nurture our cadets to be resilient, resourceful, responsible and respectable,<br>
+-    To nurture our cadets to be resilient, resourceful, responsible and respectable,<br>
 
-\-    To provide opportunities for our cadets to learn, grow and to inspire their peers,<br>
+-    To provide opportunities for our cadets to learn, grow and to inspire their peers,<br>
 
-\-    To develop our cadets’ social awareness and personal conviction to be a better person and citizen.<br><br>
+-    To develop our cadets’ social awareness and personal conviction to be a better person and citizen.<br><br>
 
   
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 Fairfield’s NCC Unit started in 1968 as a Girls Unit, which was eventually closed in 1982. It restarted in 1985 as a Boys Unit, and we have grown strength to strength since then as an esteemed uniformed group. Our Unit is especially proud of our Precision Drill Squad (PDS) which has attained commendable results in HQ NCC competitions thus far. This stands testament to the unwavering commitment of our NCC (Land) Cadets, Cadet Officers and Teacher Officers to the continual growth of our Unit and our Corps.  <br><br>
 
   
 
-<b>Highlights</b><br><br>
+<b>Highlights</b><br> 
 
-<b>School-based Activities</b><br><br>
+<b>School-based Activities</b><br> 
 
 Our weekly Friday trainings consist of physical training, sports and games, foot drills and the teaching of Individual Field Craft to equip our cadets with basic military knowledge. Our Wednesday trainings are for Secondary 2 and 3 cadets to train to be part of our esteemed Precision Drill Squad.<br><br>
 
@@ -92,37 +92,37 @@ Our weekly Friday trainings consist of physical training, sports and games, foot
 
 Apart from usual trainings, we organise activities for our cadets to allow them to experience the outdoors and learn more about Singapore. The main highlights are camps which are organised by our Secondary 3 Cadet Leaders:<br><br>
 
-\-    March Orientation Camp<br>
+-    March Orientation Camp<br>
 
-\-    June Camp<br>
+-    June Camp<br>
 
-\-    End-of-Year Camp<br>
+-    End-of-Year Camp<br><br>
 
   
 
 NCC (Land) Cadets have had the opportunity over the years to participate in other activities during trainings or camps, including:<br><br>
 
-\-    Orienteering at Gardens by the Bay<br>
+-    Orienteering at Gardens by the Bay<br>
 
-\-    Night Cycling at East Coast Park<br>
+-    Night Cycling at East Coast Park<br>
 
-\-    Dragon Boating and One-Star Kayaking Certification<br>
+-    Dragon Boating and One-Star Kayaking Certification<br>
 
-\-    Bubble Soccer at Kallang<br>
+-    Bubble Soccer at Kallang<br>
 
-\-    Values-in-action Projects<br><br>
+-    Values-in-action Projects<br><br>
 
   
 
-<b>NCC Headquarters (NCC HQ) Activities</b><br><br>
+<b>NCC Headquarters (NCC HQ) Activities</b><br>
 
 NCC HQ organises yearly camps such as:<br>
 
-\-    Camp Forge for Sec 1 Cadets,<br>
+-    Camp Forge for Sec 1 Cadets,<br>
 
-\-    Camp Steel for Sec 2 Cadets,<br>
+-    Camp Steel for Sec 2 Cadets,<br>
 
-\-    Specialist Course for Sec 3 Cadet Leaders.<br><br>
+-    Specialist Course for Sec 3 Cadet Leaders.<br><br>
 
   
 
