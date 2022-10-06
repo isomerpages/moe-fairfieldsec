@@ -49,7 +49,7 @@ The Object of the Boys’ Brigade shall be the advancement of Christ Kingdom amo
 
   
 
-<b>Our Mission<b><br><br>
+<b>Our Mission</b><br><br>
 
 Growing Boys to serve & lead, preaching Christ the BB way.<br><br>
 
@@ -113,6 +113,7 @@ Key emphasis of 33rd Singapore Coy:<br>
 <div>
 
 <p>
+
 <b> 2022</b><br>
 	
 </p>
