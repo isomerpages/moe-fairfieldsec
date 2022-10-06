@@ -44,13 +44,13 @@ Mr Ravi Shankar
 <div>
 
 <p>
-<b>Vision & Mission</b><br><br>
+<b>Vision & Mission</b><br> 
 
 With the 3 As – Attitude, Attire and Attendance – serving as our core values, we strive to nurture our players to achieve excellence, not just in the sport, but also in their academic pursuit and personal lives.<br><br>
 
   
 
-<b>Key Programmes / History</b><br><br>
+<b>Key Programmes / History</b><br> 
 
 Besides our regular trainings, we also organize friendly matches and other outdoor activities like camps, and VIAs so that our players will become effective teammates and influential leaders who display resilience, sportsmanship, discipline and integrity.	
 	
