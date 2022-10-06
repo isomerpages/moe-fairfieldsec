@@ -146,21 +146,23 @@ Our Unit also regularly sends cadets to participate in other HQ-led overseas act
 <p>
 	
 <b>2022</b><br>
-	
 
+| Unit Recognition Award (Year of Assessment 2021) | Distinction |
+| --- | --- |
+
+<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 369px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Unit Recognition Award (Year of Assessment 2021)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 340px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Distinction</b></td></tr></tbody></table><br><br>
 <b>2021</b><br>
-	
+
+<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; font-family: Lato, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; text-align: left; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">NCC Outstanding Cadet Award 2021&nbsp;</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">MSG Muhammad Fayze Bin Muhammad Faddly&nbsp;</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">2021 Inter-School Precision Drill Squad Competition</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Guardians of the City II Virtual Tournament 2021</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation &amp; Silver</b>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">NCC120 Guardians of the City (GOTC) Competition</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b>&nbsp;</td></tr></tbody></table> <br><br>
 
 <b>2020</b><br>
-	
+
+<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 369px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Unit Recognition Award (Year of Assessment 2019)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 340px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Distinction</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">NCC Outstanding Cadet Award 2020</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">MSG Jeevan Gopala Krishna &amp; MSG Ng Jiachen</b></td></tr></tbody></table><br><br>
 	
 <b>2019</b><br>
-	
 
-<b>2018</b><br>
-	
-	
-<b>2017</b><br>
+
+
 
 </p>
 
