@@ -45,13 +45,13 @@ Mdm Yee Suet Fong Dawn<Br>
 <div>
 
 <p>
-<b>Vision & Mission</b><br><br>
+<b>Vision & Mission</b><br> 
 
 To develop pupils to become sports leaders who are intrinsically motivated and focused on success.  <br><br>
 
   
 
-<b> Highlights</b><br><br>
+<b> Highlights</b><br> 
 
 • Participation in NSG South Zone Badminton Championships and Nationals Championships<br>
 • Participations in the Methodist Schools Cup<br>
