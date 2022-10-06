@@ -44,19 +44,19 @@ Mr Wilson Ho
 <div>
 
 <p>
-<b>Vision</b><br><br>
+<b>Vision</b><br> 
 
 Our vision is develop our boys to love Squash and to attain high standard in their skills and knowledge of the sport.<br><br>
 
   
 
-<b>Mission</b><br><br>
+<b>Mission</b><br> 
 
 Our mission is to work as a team to achieve at least the 2nd position for both “B” & “C” Divisions Squash Championship.<br><br>
 
   
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 Although the Squash team has a short history of 8 years, it has grown to a team of 30 students who are dedicated to the sport under the strong guidance from the teachers and coach.<br><br>
 
