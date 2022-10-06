@@ -46,19 +46,19 @@ Mr Patrick Kho<br>
 <div>
 
 <p>
-<b>Mission</b><Br><Br>
+<b>Mission</b><Br> 
 
 To nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities  <Br><Br>
 
   
 
-<b>Vision</b><Br><Br>
+<b>Vision</b><Br> 
 
 Extraordinary Youth Leaders<Br><Br>
 
   
 
-<b>History</b><Br><Br>
+<b>History</b><Br> 
 
 Fairfield National Cadet Corps (Sea) unit started in 2006 as a Mixed Unit.<Br><Br>
 
