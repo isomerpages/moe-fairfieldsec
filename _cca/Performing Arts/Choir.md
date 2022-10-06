@@ -64,13 +64,13 @@ Ms Wong Jia Xian<br><br>
 <div>
 
 <p>
-<b>Vision</b><Br><Br>
+<b>Vision</b><Br>
 
 We aspire to be a choir that inspire others by our work a love and appreciation for choral singing; a choir that the nation is proud of, and an active contributor to the community at large.<Br><Br>
 
   
 
-<b>Mission</b><Br><Br>
+<b>Mission</b><Br>
 
 We promote and develop a love and passion for choral music, cultivate discipline and excellence through singing; care and nurture each of the members; as well as inspire and connect hearts in our community.<Br><Br>
 
@@ -84,7 +84,7 @@ We promote and develop a love and passion for choral music, cultivate discipline
 
   
 
-<b><i>Discipline</i></b><Br>
+<b><i>Discipline</i></b><br>
 
 •  To be disciplined and self-motivated to establish consistency in choir to work towards good rehearsals in preparation for performances<Br><Br>
 
@@ -118,7 +118,7 @@ will always do the best to bring glory to our school.<br><br>
 
   
 
-<b>History</b><br><br>
+<b>History</b><br>
 
 Fairfield Choir is a choir with a rich choral tradition, starting out in 1960 as a group under the Music Society. In 1975, the choir took part in National Day Celebrations for the first time and the choristers sang on board a float decorated by our very own school teachers. In 1977, the choir clinched the first position in the choral section of the Arts Festival as well as Youth festival. The choir was also invited to sing at the first festival of arts in the same year. Although it began as an all girls’ group, Fairfield Choir became a mixed choir in 1987. With a fine record of several distinctions, awards in the SYF competition, it was one of the pioneer choirs in the choral excellence programme in 1988. Since then, the choir has won many accolades for its stellar performances locally and internationally.<br><br>
 
@@ -165,7 +165,7 @@ Fairfield Choir is honoured to have had so many opportunities to showcase their 
 <p>
 
 <b>2021</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; width: 466px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Voices of Singapore Festival</span></b></td><td valign="top" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; width: 243px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;">&nbsp;<b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Choir SYF 2021 Audio Recording</b></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">**Represented School at Local Event Under Special Provision**</b></td></tr></tbody></table><br><br>	
+<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; width: 466px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Voices of Singapore Festival</span></b></td><td valign="top" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; width: 243px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;">&nbsp;<b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Choir SYF 2021 Audio Recording</b></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Represented School at Local Event Under Special Provision</b></td></tr></tbody></table><br><br>	
 
 
 	
