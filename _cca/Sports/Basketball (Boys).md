@@ -46,7 +46,7 @@ Mrs Katherine Tan
 <div>
 
 <p>
-<b>About Us</b><br><br>
+<b>About Us</b><br> 
 
 FMS(S) Basketball Team has, in recent years, been doing well in sustaining a title in Zonals and put up creditable performance in the Nationals. In 2018, our B Division boys managed to clinch 2nd place in the B Division NSG South Zone Basketball Championships and secured a hard fought 4th place in the NSG National Basketball Championships.<br><br>
 
