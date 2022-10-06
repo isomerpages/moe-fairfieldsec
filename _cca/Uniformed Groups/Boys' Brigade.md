@@ -43,19 +43,19 @@ Ms Brenda Nio
 <div>
 
 <p>
-<b>Our Objective</b><br><br>
+<b>Our Objective</b><br> 
 
 The Object of the Boys’ Brigade shall be the advancement of Christ Kingdom amongst Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-Respect and all that tends towards a true Christian Manliness.<br><br>
 
   
 
-<b>Our Mission</b><br><br>
+<b>Our Mission</b><br> 
 
 Growing Boys to serve & lead, preaching Christ the BB way.<br><br>
 
   
 
-<b>Our Vision</b><br><br>
+<b>Our Vision</b><br> 
 
 To be a family of God-fearing Boys, passionate in making a difference.<br><br>
 
@@ -68,7 +68,7 @@ For more info, do visit our 33rd Company Instagram:<br>
 
   
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 The Boys' Brigade was founded by Sir William Alexander Smith on 4 October 1883 in Glasgow, Scotland. The BB was first introduced to Singapore in 1930 by Mr. James Milner Fraser, and is recognized as a Uniformed Organization by the Ministry of Education. The Patron of the BB in Singapore is none other than His Excellency, the President of the Republic of Singapore.<br><br>
 
@@ -78,7 +78,7 @@ The 33rd Singapore Company was first started in Fairfield Methodist Secondary Sc
 
   
 
-<b>Highlights</b><br><br>
+<b>Highlights</b><br> 
 
 Four badge work domains:<br>
 
