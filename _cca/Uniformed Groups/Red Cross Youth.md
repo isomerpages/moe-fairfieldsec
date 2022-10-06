@@ -43,7 +43,7 @@ Ms Aminah<br>
 <div>
 
 <p>
-<b>Vision & Mission</b><br><br>
+<b>Vision & Mission</b><br> 
 
 Fairfield Methodist School (Secondary)’s Red Cross Youth unit specialise in teaching first aid skill and evaluation knowledge to our cadets. But more than that the unit strives to teach our cadets about discipline, unity, teamwork through our various activities such as evacuation, foot drills and outdoor activities.<br><br>
 
@@ -53,7 +53,7 @@ Through this we hope all cadets will learn to live our motto of “To Serve One 
 
   
 
-<b>History</b><br><br>
+<b>History</b><br> 
 
 Being one of the earliest unit in Singapore, Fairfield’s Red Cross Unit has a history of excellence. We also firmly believe in a Student lead CCA – allowing our students to take the lead in planning CCA activities as teachers take an advisory role. We strive to develop all our cadets holistically and do our best to provide them opportunities to do this.  <br><br>
 
