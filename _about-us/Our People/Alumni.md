@@ -68,13 +68,13 @@ Today the association has over 1,700 members and continues to organise events fo
 <div>
 <p>
 
-	*  <b>Website: <a href="https://fairfieldalumni.org.sg/">https://fairfieldalumni.org.sg/</a> </b><br><br>
+• <b>Website: <a href="https://fairfieldalumni.org.sg/">https://fairfieldalumni.org.sg/</a> </b><br><br>
 
-*   <b>Instagram:<a href="https://www.instagram.com/alwaysafairsian/?hl=en">@alwaysafairsian</a> </b><br><br>
+•  <b>Instagram:<a href="https://www.instagram.com/alwaysafairsian/?hl=en">@alwaysafairsian</a> </b><br><br>
 
-*   <b>LinkedIn:<a href="https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b">https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b</a> </b><br><br> 
+• <b>LinkedIn:<a href="https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b">https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b</a> </b><br><br> 
 
-*   <b>Email address:<a href="mailto:info@fairfieldalumni.org.sg">info@fairfieldalumni.org.sg</a></b></p>
+• <b>Email address:<a href="mailto:info@fairfieldalumni.org.sg">info@fairfieldalumni.org.sg</a></b></p>
 
 </div>
 
