@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Terms of Use.md
       - 2021 Sem 2 Class Timetable.md
       - Booking of Facilities.md
       - FMS(S)’ Responsibility to Society.md
