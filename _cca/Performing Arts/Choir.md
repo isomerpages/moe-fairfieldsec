@@ -4,6 +4,8 @@ permalink: /cca/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
+### Choir
+
 <img src="/images/cca10.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
