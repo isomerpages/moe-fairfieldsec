@@ -4,6 +4,8 @@ permalink: /cca/Clubs-and-Societies/christian-fellowship/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+### Christian Fellowship
+
 <img src="/images/cca5.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
