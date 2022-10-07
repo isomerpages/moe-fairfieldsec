@@ -24,10 +24,10 @@ The Fairfield Methodist Schools Alumni Association was formed in 1951. The assoc
 
 The early years saw the association: <br>
 
-*   Organising Christmas gatherings/dinners, which later evolved to the Founders Day Dinner in 1972 <Br>
-*   Organising visits to retired teachers, which later became the teacher-alumni lunch in the 1980s <br>
-*   Taking part in the Games Days – which later evolved to the Past vs Present games and Fairfield Homecoming <br>
-*   Taking part or supporting the school fundraising carnivals <br><br>
+• Organising Christmas gatherings/dinners, which later evolved to the Founders Day Dinner in 1972 <Br>
+• Organising visits to retired teachers, which later became the teacher-alumni lunch in the 1980s <br>
+• Taking part in the Games Days – which later evolved to the Past vs Present games and Fairfield Homecoming <br>
+• Taking part or supporting the school fundraising carnivals <br><br>
 
   
 
