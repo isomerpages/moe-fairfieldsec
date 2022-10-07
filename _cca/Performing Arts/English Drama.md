@@ -18,7 +18,7 @@ third_nav_title: Performing Arts
 <div>
 
 <p> 
-<b>Training Days & Time:  </b><b><b>
+<b>Training Days & Time:  </b><br><b>r
 
 Wednesday: 3.30 pm – 6.00 pm <br>
 
