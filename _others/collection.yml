@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Information for Sec 1 2022/.keep
       - Purchase of School Attire and Books for 2022.md
       - Terms of Use.md
       - 2021 Sem 2 Class Timetable.md
