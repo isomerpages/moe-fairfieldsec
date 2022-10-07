@@ -121,3 +121,145 @@ If you are **not able to purchase the items at your allocated day / time** in 
 | Information | Website for Online Ordering |
 |:---:|---|
 | Textbooks and Stationery<br>Vendor: E-Z Stationery & Book Centre Pte Ltd<br> <br>School Uniform, PE Attire and Polo Tee<br>Vendor: Shanghai School Uniforms Pte Ltd | [http://www.ezstationery.com.sg](http://www.ezstationery.com.sg)<br><br>* E-Z Stationery & Book Centre Pte Ltd will be selling the School Uniform, PE Attire and Polo Tee on their website, on behalf of Shanghai Uniforms to reduce delivery charges.<br> <br>* Self-collection option is not available. |
+
+#### (E) School / Miscellaneous Fees for 2022
+
+| Nationality | School Fees($) | Standard Miscellaneous($) | 2nd Tier Miscellaneous($) | Autonomous Fees($) | Total($) |
+|---|---|---|---|---|---|
+| SC (Malay) | 0 | 10 | 10 | 3 | 23 |
+| SC (Others) | 5 | 10 | 10 | 3 | 28 |
+| PR | 440 | 10 | 10 | 3 | 463 |
+| IS (ASEAN) | 840 | 10 | 10 | 3 | 863 |
+| IS (Non-ASEAN) | 1600 | 10 | 10 | 3 | 1623 |
+
+●        The fees will be deducted around the 26th of every month except for the months of January, February, November and December.  Deduction of January and February fees will be done together in February while the fees for November and December will be deducted in November.
+
+●        Please ensure you maintain sufficient funds in your bank account if you are paying via GIRO.
+
+●        We encourage all Singaporean students to sign up to use their Edusave accounts to pay for the 2nd tier miscellaneous and autonomous fees. If your child / ward does not have a standing order from primary school, you can email your request to [fmss@moe.edu.sg](mailto:fmss@moe.edu.sg).
+
+(F) Financial Assistance Scheme (FAS) 2022
+------------------------------------------
+
+Eligible applicants may **download the application forms for** [FAS](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/2022%20MOE%20FAS%20Application%20Form%20wef%2021.9.2021.pdf) and email the completed form(s) with the necessary supporting documents to [fmss@moe.edu.sg](mailto:fmss@moe.edu.sg) by **28 December 2021.**  
+
+For more information, you can click below for the [MOE FAS pamphlet](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/MOE%20FAS%20Pamphlet%202022.pdf).  
+  
+Please note that incomplete submissions will result in a delay of your application.
+
+  
+
+(G) Online Consent for Dental Services, , HPV Vaccination for Secondary 1 Girls and Annual Health Check
+-------------------------------------------------------------------------------------------------------
+
+The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunization and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. 
+
+  
+
+Please refer to the attached [letter](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/Letter%20to%20S1%20Parents.pdf) for more information. 
+
+  
+
+Your consent is needed to ensure your child receives these important health and dental services provided.
+
+  
+
+To give consent:
+
+1\. Log on to [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)
+
+2\. Login using your SingPass with 2-factor authentication (2FA).
+
+3\. Type in your child’s/ward’s UIN/BC/FIN number.
+
+4\. Fill up and submit the consent form.
+
+5\. Update your child’s medication condition(s).
+
+  
+
+You may access the Child Consent Portal via the QR code below too.
+
+ <img src="/images/qr100.png" style="width:30%">
+ 
+ Dental Services
+
+To promote good oral health for your child / ward, the Health Promotion Board (HPB) continues to provide free dental checks and basic treatments (if required) at specific times during school hours. The dental service for our students is provided at Fairfield Methodist School (Primary).   
+
+  
+
+Please refer to this [link](https://www.healthhub.sg/programmes/15/school_dental_programme)  for more information.
+
+  
+
+HPV Vaccination for Secondary 1 Girls 
+
+  
+
+The Health Promotion Board will be offering fully subsidized Human Papillomavirus (HPV) vaccination to **all eligible Secondary 1 and 2 female students.** 
+
+The vaccination date is tentatively set on **29 June 2022**. Parents / Guardians must give their consent by **14 January 2022**, before the child / ward can receive the vaccination.
+
+• Students who are 14 years and below in Secondary 1 will require 2 doses. The first dose will be given in Secondary 1 and the second dose will be given in the next year.
+
+• Students who are 15 years old and above in Secondary 1 will require 3 doses. The first and second doses will be given in Secondary 1 and the third dose will be given in the next year.
+
+  
+
+Please refer to this [link](https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Secondary_School)  for more information.
+
+  
+
+Annual Health Check
+
+  
+
+The school health team visits secondary schools annually to conduct health screening for students. The date is tentatively set on 15 July, 18 – 22 July. More information will be provided at the later date. 
+
+  
+
+Secondary 1 students will be going through the following screening.
+
+• Spinal screening
+
+• Review of health conditions where applicable
+
+  
+
+Please refer to this [link](https://www.healthhub.sg/live-healthy/366/health_screening_for_secondary_school)  for more information.
+
+  
+
+#### (H) Access to School Car Park
+
+Designated red parking lots are intended for season parking and are strictly reserved for staff of the school who have paid for season parking. 
+
+  
+
+Parents / guardians are not allowed to park in red parking lots.
+
+  
+
+Use of the School Car Park during School Dismissal
+
+Parents / guardians are not allowed to drive into the school to pick up their child / ward. 
+
+  
+
+Visitor Parking
+
+White parking lots are for visitors to the school on official business. This can include parents who are here to meet up with teachers on official matters. As there are limited white lots, once the lots are all taken up, any visitor will have to find parking outside of the school.
+
+  
+
+#### (I) Parents Gateway
+
+The Parent Gateway (PG) Mobile App is an initiative by MOE to enable parents to interact with schools more conveniently regarding administrative and financial matters. Parents will also be able to use this app to stay updated on the school’s programme and activities.
+
+  
+
+If you have two or more children and they are in different schools, you will be able to receive notifications for all your children on the same PG App. We strongly encourage all parents to download and use the PG App to stay updated on the school’s programme and activities.
+
+  
+
+For more information on Parents Gateway, please visit [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/).
