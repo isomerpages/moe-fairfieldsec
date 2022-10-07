@@ -110,3 +110,14 @@ If you are **not able to purchase the items at your allocated day / time** in 
 ●        Please **enter the school compound from the front gate** and **exit the school compound from the back gate**.
 
 **Venues and Date/Time for Sale**
+
+| Information | 23/27 December 2021 |
+|:---:|---|
+| Textbooks and Stationery<br>Vendor: E-Z Stationery & Book Centre Pte Ltd<br>[FMSS - Sec 1 Express Booklist 2022.pdf](/files/bl1.pdf)<br><br>[FMSS - Sec 1 NA Booklist 2022.pdf](/files/bl2.pdf)<br><br>[FMSS - Sec 1 NT Booklist 2022.pdf](/files/bl3.pdf)<br><br>[FMSS Sec 1 Express Stationery List 2022.pdf](/files/sl1.pdf)<br><br>[FMSS Sec 1 NA Stationery List 2022.pdf](/files/sl2.pdf)<br><br>[FMSS Sec 1 NT Stationery List 2022.pdf](/files/sl3.pdf)<br> | <br>Venue: Level 1 Classroom - C102, C103<br>Time: 9am to 4pm |
+| Uniform, PE Attire and Polo Tee<br>Vendor: Shanghai School Uniforms Pte Ltd<br><br>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.<br><br>[Sec 1 Reg - Part D - Price List for School Uniform 2021.pdf](/files/uniforms1.pdf) <br><br><br><br>Please note that there will be no trying on of attire.<br> Refer to link for size reference. | <br><br><br><br><br>Venue: Level 2 Chen Su Lan Hall<br>Time: 9am to 4pm |
+
+**OPTION 2: Online ordering + delivery (subject to delivery charges)**
+
+| Information | Website for Online Ordering |
+|:---:|---|
+| Textbooks and Stationery<br>Vendor: E-Z Stationery & Book Centre Pte Ltd<br> <br>School Uniform, PE Attire and Polo Tee<br>Vendor: Shanghai School Uniforms Pte Ltd | [http://www.ezstationery.com.sg](http://www.ezstationery.com.sg)<br><br>* E-Z Stationery & Book Centre Pte Ltd will be selling the School Uniform, PE Attire and Polo Tee on their website, on behalf of Shanghai Uniforms to reduce delivery charges.<br> <br>* Self-collection option is not available. |
