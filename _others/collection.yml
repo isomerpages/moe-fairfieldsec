@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - Privacy Statement.md
       - Principal's Message (1st item under About Us).md
       - Teachers Email Address.md
