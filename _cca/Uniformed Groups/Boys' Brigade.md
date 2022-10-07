@@ -4,6 +4,8 @@ permalink: /cca/Uniformed-Groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+### Boys' Brigade
+
 <img src="/images/cca21.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
