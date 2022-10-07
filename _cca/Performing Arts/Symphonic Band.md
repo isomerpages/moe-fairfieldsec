@@ -4,6 +4,8 @@ permalink: /cca/Performing-Arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
+### Symphonic Band
+
 <img src="/images/cca14.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
