@@ -2,9 +2,9 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA.md
       - Overview.md
       - Sophia Blackmore Leadership.md
+      - CCA.md
       - Character Education/.keep
       - Character Education/Vision and Mission.md
       - Character Education/Key Programmes.md
