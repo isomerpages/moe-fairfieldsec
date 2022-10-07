@@ -39,4 +39,20 @@ Fairfield students pursue excellence by seeking to do their best in all that the
 <i>A world that’s full of interest</i><br>
 <i>Since to School we found our way</i><br>
 <i>(School Song)</i>
-</figure> 
+</figure>
+
+Our academic and enrichment programmes are differentiated where appropriate, to stretch and nurture the abilities of different groups of students. These programmes range from participation in the Mathematics Olympiad to opportunities to learn culinary skills from a chef. To develop our students to be lifelong learners, we focus on nurturing ‘Learning Dispositions’ such as being curious, enjoying learning new things and asking questions to gain deeper understanding of concepts.
+
+In addition, we are passionate about helping each student develop his/her potential. The Olson Talent Development Programme (OTDP) is conducted with the aim of allowing our students to pursue their strengths and passion in specific subjects beyond the boundaries of the curriculum. Through the enriching, holistic and learner-centred activities, we seek to create a vibrant learning community where the students’ abilities, needs and interests are catered to, where they will develop their 21st Century Competencies and broaden their horizons.
+
+The achievements of our students would not be possible without the hard work, love and sacrifices of our dedicated, passionate team of professional teachers. Fairfield places great emphasis on the professional development of our teachers and on the importance of pastoral care provided by our teachers.
+
+Thank you for visiting our website and for taking the time to learn more about our school. We celebrated many important milestones in 2013, for example, our 125th Founder's Day and had the joy of visiting the old Neil Road campus that was built in 1812. This old campus was recently reopened after the Singapore Police Force restored it and converted it into their office building.  As we build on the achievements and traditions of our past, we look ahead to the future and continue to depend on God for his blessings on Fairfield.
+
+To God be the Glory!
+
+  
+
+Victor Owyong
+
+**Principal**
