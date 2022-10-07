@@ -59,7 +59,7 @@ To nurture passionate photographers and videographers by providing internal and 
   
 
 <b> History	</b><Br><Br>
-<img src="/images/media.png" style="width:70%"><br><br>
+<img src="/images/Media.png" style="width:70%"><br><br>
 	
 Media@Fairfield is a CCA that aims to equip students with Basic Photography, Video editing, film appreciation and documenting and archiving of various school events. Students are dedicated towards being a passionate Photographer or Videographer as well as an active contributor to the school such as our Founders Day, Fairfield Run, National Day, Teachers day and Open House. Our Secondary one enters our Programme having a foundation of both Photography and Film before they decide to specialise in a specific field of interest in Secondary 2. Students begin to develop their passion and interest in their specialised field of practice. Our Key competitions that Media@Fairfield participates in are “Our Schools Our Stories” photo contest and the “TwentyFour” a short film-making hackathon with inter-schools and JC level competition.<br><br>
 
