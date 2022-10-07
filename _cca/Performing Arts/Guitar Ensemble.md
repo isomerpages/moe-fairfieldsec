@@ -4,6 +4,8 @@ permalink: /cca/Performing-Arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
+### Guitar Ensemble
+
 <img src="/images/cca13.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
