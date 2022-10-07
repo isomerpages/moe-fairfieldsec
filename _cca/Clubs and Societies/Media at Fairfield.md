@@ -4,6 +4,8 @@ permalink: /cca/Clubs-and-Societies/media-at-fairfield/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+### Media at Fairfield
+
 <img src="/images/cca8.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
