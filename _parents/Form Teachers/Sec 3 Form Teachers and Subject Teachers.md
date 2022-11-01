@@ -145,7 +145,7 @@ third_nav_title: Form Teachers
 
 <input id="accordion10" type="checkbox">
 
-<label for="accordion8">Teachers Email Address</label>
+<label for="accordion10">Teachers Email Address</label>
 
 <div>
 
