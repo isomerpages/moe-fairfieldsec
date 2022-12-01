@@ -7,7 +7,7 @@ description: ""
 
 #### School Vision
 
-A Vibrant Community of Active Lifelong Learners and Influential Leaders
+A Flourishing Community of Self-Directed Learners, Influential Leaders and Caring Citizens
 
 #### School Mission
 
@@ -15,13 +15,10 @@ To provide a holistic education in a Christian environment to nurture leaders of
 
 #### School Values
 
-* Reverence and Love for God
-* Purity & Honesty
-* Responsibility
-* Resilience
-* Respect
-* Care & Empathy
-* Loyalty to School & Nation
+*   **Purity and Honesty** \-- A Fairsian honours God by keeping his/her thoughts, speech and actions pure and honest.
+*   **Unity** \-- A Fairsian builds quality relationships by being kind, inclusive and committed.
+*   **Resilience** \-- A Fairsian adapts to changes and overcomes challenges.  
+*   **Excellence** \-- A Fairsian strives to reach his/her fullest potential.
 
 #### School Ethos
 
