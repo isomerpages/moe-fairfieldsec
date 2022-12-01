@@ -39,9 +39,9 @@ Purity and Honesty. Unity. Resilience. Excellence.
 ### A Flourishing Community
 We desire for school to be a flourishing community where every member is valued and supported. Our approach is best described in three words – Connect, Nurture and Inspire. Embedded within this approach are three key ideas:  
 
-1. 	Connecting lives through relationships building and facilitating experiences of positive emotions. 
-2. 	Nurturing engagement through effective design and implementation towards  accomplishment.
-3. 	Inspiring passion through stretched and meaningful experiences.
+1. Connecting lives through relationships building and facilitating experiences of positive emotions. 
+2. Nurturing engagement through effective design and implementation towards  accomplishment.
+3. Inspiring passion through stretched and meaningful experiences.
   
 
 ### Self-Directed Learners
