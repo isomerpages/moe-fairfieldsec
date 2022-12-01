@@ -24,6 +24,12 @@ In December 2007, Mr Victor Owyong assumed school leadership, making history as 
 
 In 2009, to highlight the shared heritage of the two schools, their names were changed to Fairfield Methodist School (Primary) and Fairfield Methodist School (Secondary).
 
+At the end of 2011, both schools wrote and adopted a common mission statement so as to achieve greater alignment with the educational mission of the Methodist Church in Singapore, and to achieve the concept of 'One Fairfield' with Fairfield Methodist School (Primary), which was further reinforced with a common badge. 
+
+  
+
+In December 2021, Mr Wee Tat Chuen became the first old boy of the school to take up the role of Principal. Mr Wee had previously been a teacher and Head of Department of Fairfield Methodist Secondary.
+
   
 
 Today, we continue to stand as a school that is special, because of the staff and support we are blessed with, and because of the almighty and loving God whom we serve. His grace is evident in our school.
