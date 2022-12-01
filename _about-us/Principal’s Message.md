@@ -3,8 +3,9 @@ title: Principal’s Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
-Principal’s Message
-===================
+### Principal’s Message
+
+
 
 The theme for the school this year is “Stronger as ONE Fairfield”. I must thank the former Principal, Ms Audrey Chen, for leading and serving the school with her gift of leadership the past seven years from 2015 – 2021. The good results and stories you will read about and the many programmes highlighted on our website is a result of her leadership and the staff’s efforts.
 
@@ -26,17 +27,17 @@ It was in this spirit that the school embarked on a journey to revisit its visio
 
   
 
-### School Vision: 
+#### School Vision: 
 A Flourishing community of Self-Directed Learners, Influential Leaders and Caring Citizens.
 
   
 
-### School Values:
+#### School Values:
 Purity and Honesty. Unity. Resilience. Excellence.
 
   
 
-### A Flourishing Community
+#### A Flourishing Community
 We desire for school to be a flourishing community where every member is valued and supported. Our approach is best described in three words – Connect, Nurture and Inspire. Embedded within this approach are three key ideas:  
 
 1. Connecting lives through relationships building and facilitating experiences of positive emotions. 
@@ -44,7 +45,7 @@ We desire for school to be a flourishing community where every member is valued 
 3. Inspiring passion through stretched and meaningful experiences.
   
 
-### Self-Directed Learners
+#### Self-Directed Learners
 
 It is the school’s vision to have every student self-directed in their learning. There are two aspects to this piece. First, we want our students to be engaged in class and to strive to do well in their academic studies. Second, we see learning taking place beyond the textbooks. Students should discover more about their strengths, interests and passions and take initiative for their own learning.
 
@@ -58,7 +59,7 @@ Moving forward, the school is looking at intentionally developing a range of enr
 
   
 
-### Influential Leaders
+#### Influential Leaders
 
 In the past years, Fairfield has been imbibing the model of servant leadership and nurturing in our students the five practices of exemplary leadership distilled from Kouzes and Posner’s work on The Leadership Challenge. The school wants to build on and deepen this work. 
 
@@ -72,7 +73,7 @@ We will adopt a termly thematic leadership approach to strengthen this narrative
 
   
 
-### Caring Citizens
+#### Caring Citizens
 
 One of the school’s distinctive features has been her Values-in-Action programme which develops and nurtures in our students a caring disposition. In particular, the school has consistently been reaching out to the elderly in the school’s neighbourhood over the years and has also inculcated the ownership of the needs of the community and the will to make a difference proactively.
 
@@ -82,7 +83,7 @@ Our desire is for our students to develop empathy, conviction and capacity as ca
 
   
 
-### All of us for all our Fairsians
+#### All of us for all our Fairsians
 
 We have laid out a bold vision for Fairfield. How can we not do so when it is the lives of our Fairsians we are talking about? Not one. Not some. But all of them. 
 
