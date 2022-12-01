@@ -2,11 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Principal’s Message.md
       - Mission, Vision and Values.md
       - Crest and Motto.md
       - School History.md
       - School Song and Hymn.md
+      - Principal’s Message.md
+      - Our People/.keep
       - Our People/Board of Management.md
       - Our People/Executive Committee.md
       - Our People/General Office.md
@@ -22,7 +23,6 @@ collections:
       - Our People/Information and Communication Technology.md
       - Our People/Physical Education.md
       - Our People/Alumni.md
-      - Our People/.keep
       - Useful Links for Teachers.md
       - Contact Us.md
       - PDPA Policy for FMS(S).md
