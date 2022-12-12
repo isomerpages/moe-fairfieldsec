@@ -7,9 +7,12 @@ third_nav_title: Form Teachers
 #### Sec 1 Form Teachers and Subject Teachers
 
 <ul class="jekyllcodex_accordion">
+	
 <li>
+	
 <input id="accordion1" type="checkbox">
 <label for="accordion1">Sec 1 A</label>
+	
 <div>
 
 <p> 
