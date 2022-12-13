@@ -4,7 +4,7 @@ permalink: /parents/sec-2-teachers/
 description: ""
 third_nav_title: Form Teachers
 ---
-	#### Sec 2 Form Teachers and Subject Teachers
+#### Sec 2 Form Teachers and Subject Teachers
 
 <ul class="jekyllcodex_accordion">
 <li>
