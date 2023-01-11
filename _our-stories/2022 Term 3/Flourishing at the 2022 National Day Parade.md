@@ -15,7 +15,7 @@ They were due to perform soon. The waiting room was filled with students who wer
   
 
 
-<img src="/images/sprint.gif" style="width:80%">
+<img src="/images/2022 NDP.gif" style="width:80%">
 
 Fairfield was given the golden opportunity to perform in the mass dance segment ‘Stronger Together, Majulah!’ at the 2022 National Day Parade, alongside participants from other schools. Fairfield snapped up the chance to do so, knowing that it would be a good way to nurture and inspire her students to greater heights. The school called for students to sign up in January and more than a hundred students eagerly signed up for it, knowing that it would be an experience of a lifetime.
 
