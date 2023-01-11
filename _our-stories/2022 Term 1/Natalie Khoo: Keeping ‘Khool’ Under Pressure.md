@@ -12,7 +12,7 @@ by Joshua Ho (Sec 4B), Abel Foo (Sec 2D) and Ang Jan Tsi (Sec 4F) 
 
 Natalie Khoo was a consistently hardworking student who achieved holistic excellence. In recognition of her outstanding academic achievement, Natalie was awarded the Ministry of Education Edusave Scholarship in 2018, 2019 and 2020 for being placed among the top 10% of students in overall academic performance for her level and stream. An all-rounder, she was awarded the prestigious Mdm Sally Chan Swee Peng Memorial Scholarship in 2020 and the Mr ST Liu Memorial Scholarship in 2021 for being the most deserving girl who was proficient in her studies, active in her Co-Curricular Activity and of good character. As a role model who demonstrated good character and values, she received the Ministry of Education Edusave Character Award in 2018 and 2020. As a student who consistently displayed strength of character based on the school's core values such as respect, purity and honesty, Natalie was presented with the Bishop Eveland Character Award in 2021. As the Head of the Peer Support Board from 2020 to 2021, she actively contributed to initiatives to promote mental and social wellness in the school. Natalie also helped Fairfield Dance to clinch the Certificate of Distinction at the Singapore Youth Festival Arts Presentation for Dances in 2019 and 2021.
 
-<img src="/images/khool.png" style="width:80%">
+<img src="/images/khool.gif" style="width:80%">
 
 At the 2021 GCE O-Level examinations, Natalie emerged as one of the outstanding all round students. 
 
