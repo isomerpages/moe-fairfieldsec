@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2022 Term 3/Flourishing at the 2022 National Day Parade.md
       - 2022 Term 3/2022 Term 3.md
       - 2022 Term 3/.keep
       - Overview.md
