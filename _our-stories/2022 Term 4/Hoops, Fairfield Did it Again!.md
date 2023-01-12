@@ -6,7 +6,6 @@ third_nav_title: 2022 Term 4
 ---
 ### Hoops, Fairfield Did it Again!
 
-
 by Lee Rae-en Amelia (Sec 2B) and Sarah Chan Xuan Ern (Sec 3B) 
 
   
@@ -19,6 +18,12 @@ Fairfield’s basketball team displayed grit and tenacity to advance to the fina
 
 <img src="/images/Hoops Fairfield 2.gif" style="width:80%">
 
-The audience’s attention was immediately captured as the choir began their performance with an uplifting song titled ‘Why We Sing’. Numerous amazing songs such as ‘Hikari Ga (The Light)’ and ‘Just A Single Voice’ were not only beautifully sung but were actually conducted by Fairfield Choir’s very own student conductors, Nathaniel and Kayden.  
+As the game continued, a few of our basketball boys sustained some injuries while battling for the ball during the match. However, they displayed great teamwork to fend off their opponents’ relentless attacks. Their display of unity and resilience captured the hearts and minds of the audience, which included Fairfield Methodist School (Primary)’s basketball team members and their teachers. They had gathered to support and cheer the boys on as One Fairfield.  
 
-After a brief intermission, Fairfield Choir came back with even more exciting and wonderful performances. Each level prepared a spectacular rendition of their own, singing songs like ‘Everlasting Melody’ and ‘For Good’ from the famous musical ‘Wicked’. Up next was the last segment ‘Disney Dazzle’. Each choir member donned colourful outfits as they sang popular Disney songs like 'Tale As Old As Time' from the well-known movie ‘Beauty And The Beast’ and ‘Arabian nights’ from the movie 'Aladdin’. With fun actions and an amazing dance break by student conductor Jayden, this mashup became an immediate crowd favourite.
+  
+
+With just a minute left on the clock, Coach Marc substituted in a fresh group of players. During the crucial final moments of the match, silence filled the sports hall as everyone who was on the edge of their seats watched the basketball circle the rim of the hoop before finally falling through with a ‘swish’ sound. The sea of spectators erupted into jubilant cheers and clapped enthusiastically as the boys emerged victorious as the South Zone Basketball Champions! Their excellence is testament to the nurturing environment in Fairfield where every student is given opportunities to discover and cultivate their interest beyond the classroom. 
+
+  
+
+Photos by @yangraphs
