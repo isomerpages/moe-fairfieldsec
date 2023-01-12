@@ -87,7 +87,12 @@ links:
         url: /prospective-students/direct-school-admission/overview/
       - title: School Transfer
         url: /prospective-students/school-transfer/
-  - title: Highlights
-    url: /about-us/highlights/
   - title: "Test Others "
     collection: others
+  - title: Highlights
+    url: /about-us/highlights/
+    sublinks:
+      - title: Our Stories
+        url: /Our-Stories
+      - title: Latest Updates
+        url: /Latest-Updates
