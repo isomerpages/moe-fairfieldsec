@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2022 Term 4/Hoops, Fairfield Did it Again!.md
       - 2022 Term 4/The Melody of Fairfield.md
       - 2022 Term 4/.keep
       - 2022 Term 3/Flourishing at the 2022 National Day Parade.md
