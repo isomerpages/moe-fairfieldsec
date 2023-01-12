@@ -12,7 +12,7 @@ As many may know, singing is one of Fairfield's many traditions - one that bring
 
 The Choir members chatted amongst themselves as they stood backstage. They were waiting to go on stage. While every other member of the Choir had butterflies in their stomachs, a particular girl simply could not wait for the concert to begin. She could not help but think that all the hard work that they had put in was coming to fruition! Finally, everyone could soon perform the songs that they had been preparing for months in front of their loved ones. The doors swung open. The Choir members confidently walked out onto the stage, ready to sing their hearts out.
 
-<img src="/images/ats.gif" style="width:80%">
+<img src="/images/Melody of Fairfield.gif" style="width:80%">
 
 The audience’s attention was immediately captured as the choir began their performance with an uplifting song titled ‘Why We Sing’. Numerous amazing songs such as ‘Hikari Ga (The Light)’ and ‘Just A Single Voice’ were not only beautifully sung but were actually conducted by Fairfield Choir’s very own student conductors, Nathaniel and Kayden.  
 
