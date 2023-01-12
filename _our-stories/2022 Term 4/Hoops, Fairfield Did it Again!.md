@@ -17,7 +17,7 @@ Fairfield’s basketball team displayed grit and tenacity to advance to the fina
 
 “Beep!” The whistle signalled the start of the match as both teams eagerly jumped into the air to grab the ball. When the NJC players had the ball, our boys quickly got into their defence positions, while staying alert and focused on regaining possession. Our Fairfield basketballers’ hunger to win enabled them to get the ball back and score their first basket! The crowd erupted in cheers as the basketball seniors proudly waved the Fairfield flag high in the air.
 
-<img src="/images/Melody of Fairfield.gif" style="width:80%">
+<img src="/images/Hoops Fairfield 1.gif" style="width:80%">
 
 The audience’s attention was immediately captured as the choir began their performance with an uplifting song titled ‘Why We Sing’. Numerous amazing songs such as ‘Hikari Ga (The Light)’ and ‘Just A Single Voice’ were not only beautifully sung but were actually conducted by Fairfield Choir’s very own student conductors, Nathaniel and Kayden.  
 
