@@ -44,7 +44,6 @@ description: ""
 | Tan Xin Ru (Ms) | [tan\_xin\_ru@moe.edu.sg](mailto:tan_xin_ru@moe.edu.sg) |
 | Aminah Beevi (Ms) | [aminah\_beevi\_rahim@moe.edu.sg](mailto:aminah_beevi_rahim@moe.edu.sg) |
 | Arif Bin Bakar (Mr) | [arif\_bakar@moe.edu.sg](mailto:arif_bakar@moe.edu.sg) |
-| Chan Thing Lee Trixie (Ms) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg) |
 | Chan Xin Hui Charmaine (Ms) | [charmaine\_chan\_xin\_hui@moe.edu.sg](mailto:charmaine_chan_xin_hui@moe.edu.sg) |
 | Chak-Goh Chiow Yean Jessica (Mrs) | [goh\_chiow\_yean\_jessica@moe.edu.sg](mailto:goh_chiow_yean_jessica@moe.edu.sg) |
 | Chen Minhua (Ms) | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg) |
