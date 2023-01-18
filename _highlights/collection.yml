@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Overview.md
       - Our Stories/.keep
