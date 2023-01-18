@@ -90,9 +90,4 @@ links:
       - title: 2022 Open House
         url: /prospective-students/2022-open-house/
   - title: Highlights
-    url: /about-us/highlights/
-    sublinks:
-      - title: Our Stories
-        url: /our-stories/overview/
-      - title: Latest Updates
-        url: /latest-updates/overview/
+    collection: highlights
