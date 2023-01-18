@@ -2,5 +2,4 @@ collections:
   latest-updates:
     output: true
     order:
-      - Overview.md
       - 2022 Sem 2 Class Timetable.md
