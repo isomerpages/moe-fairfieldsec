@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - Overview.md
       - 2022 Term 4/Hoops, Fairfield Did it Again!.md
       - 2022 Term 4/The Melody of Fairfield.md
       - 2022 Term 4/.keep
