@@ -76,7 +76,12 @@ links:
         url: /parents/personalised-digital-literacy/overview/
       - title: Vendors and Services
         url: /parents/vendors-and-services/
-  - title: Highlights
-    collection: highlights
   - title: Prospective Students
     collection: prospective-students
+  - title: Highlights
+    url: /our-stories/overview/
+    sublinks:
+      - title: Latest Updates
+        url: /latest-updates/overview/
+      - title: Our Stories
+        url: /our-stories/overview/
