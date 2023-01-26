@@ -5,7 +5,9 @@ description: ""
 ---
 ### Our Stories
 
+<img src="/images/MF Hoops Fairfield.jpg" style="width:100px;height:100px;margin-right:15px;" align = "left"> Hoops, Fairfield Did it Again!  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2022-Term-4/Hoops-Fairfield-Did-it-Again/) <Br><br>
 
+* * *
 <img src="/images/MF - The Melody of Fairfield.jpeg" style="width:100px;height:100px;margin-right:15px;" align = "left"> The Melody of Fairfield  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2022-Term-4/The-Melody-of-Fairfield/) <Br><br>
 
 * * *
