@@ -5,7 +5,11 @@ description: ""
 ---
 ### Our Stories
 
-<img src="/images/NDP Main Feature Photo.jpeg" style="width:100px;height:100px;margin-right:15px;" align = "left"> Flourishing at the 2022 National Day Parade  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2022-Term-3/Flourishing-2022NDP/) <Br><br>
+
+<img src="/images/MF - The Melody of Fairfield.jpeg" style="width:100px;height:100px;margin-right:15px;" align = "left"> The Melody of Fairfield  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2022-Term-4/The-Melody-of-Fairfield/) <Br><br>
+
+* * *
+<img src="/images/MF NDP2022.jpg" style="width:100px;height:100px;margin-right:15px;" align = "left"> Flourishing at the 2022 National Day Parade  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2022-Term-3/Flourishing-2022NDP/) <Br><br>
 
 * * *
 
