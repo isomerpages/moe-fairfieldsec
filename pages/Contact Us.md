@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
-
 ### Contact Us
 
 
@@ -40,4 +38,4 @@ Buona Vista MRT
 
 #### Feedback
 
-Please click&nbsp;[**here**](https://forms.cwp.gov.sg/fairfieldmethodistsec/FormHSPCK)&nbsp;to send us your feedback.
+Please click&nbsp;[**here**](https://form.gov.sg/63d36db30d26690011f57a8d)&nbsp;to send us your feedback.
