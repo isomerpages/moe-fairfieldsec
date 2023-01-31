@@ -8,7 +8,6 @@ third_nav_title: Administrative Matters
 
 Dear Parent/Guardian,
 
-
 ##### Guidelines for Year-End Purchase of 2023 School Textbooks/Stationery and School Attire
 
   
