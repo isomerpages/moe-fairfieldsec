@@ -4,7 +4,26 @@ permalink: /parents/administrative-matters/2022-textbook-and-stationery-list/
 description: ""
 third_nav_title: Administrative Matters
 ---
-### 2022 Textbook and Stationery List
+### Purchase of Uniform and School Attire for Year 2023
+
+Dear Parent/Guardian,
+
+
+##### Guidelines for Year-End Purchase of 2023 School Textbooks/Stationery and School Attire
+
+  
+
+Parents/Guardians can start purchasing the items online from 11 Nov 2022, 5pm. 
+
+  
+
+For those who have opted for self-collection, do adhere to stipulated collection dates (see attached). To facilitate crowd control in the premises, please note also that only one parent/guardian and one student are allowed to enter the school premises for self-collection.  
+
+  
+
+Please refer to the [Schedule of Sale for 2023 Sec 2-5 Students](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/2022/2023%20Booklist/Schedule%20of%20Sale%20for%202023%20Sec%202-5%20Students.pdf) for more information.
+
+### 2023 Textbook and Stationery List
 
 #### Sec 1
 
