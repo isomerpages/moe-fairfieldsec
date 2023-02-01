@@ -11,8 +11,8 @@ third_nav_title: Our People
 | Name | Designation | Email |
 |---|---|---|
 | **Mr Wee Tat Chuen** | Principal | [WEE\_Tat\_Chuen@schools.gov.sg](mailto:WEE_Tat_Chuen@schools.gov.sg) |
-| **Mr Lim Sin Heng** | Vice-Principal 1 | [LIM\_Sin\_Heng@schools.gov.sg](mailto:LIM_Sin_Heng@schools.gov.sg) |
-| **Mr Alan Lim** | Vice-Principal 2 | [Alan\_LIM@schools.gov.sg](mailto:Alan_LIM@schools.gov.sg) |
+| **Mr Alan Lim** | Vice-Principal  | [Alan\_LIM@schools.gov.sg](mailto:Alan_LIM@schools.gov.sg) |
+| **Mr Jeromy Ngian** | Vice-Principal  | [Jeromy_NGIAN@schools.gov.sg](mailto:Jeromy_NGIAN@schools.gov.sg) |
 | **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | **Mr Chua Chang Fong** | HOD Aesthetics | [chua\_chang\_fong@moe.edu.sg](mailto:chua_chang_fong@moe.edu.sg) |
 | **Mr Joel Li Weihan** | HOD Character & Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
@@ -24,7 +24,7 @@ third_nav_title: Our People
 | **Mr Francis Ng Hun Boon** | HOD PE & CCA | [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
 | **Mr Ang Yuan Peng** | HOD Science | [ang\_yuan\_peng@moe.edu.sg](mailto:ang_yuan_peng@moe.edu.sg) |
 | **Mr Glen Tan Li Ming** | HOD Special Educational Needs | [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
-| **Ms Lee Sok Fun** | HOD Mother Tongue Languages (Covering) |  [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
+| **Ms Lee Sok Fun** | HOD Mother Tongue Languages |  [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
 | **Ms Koh Wei Shan Clarissa** | Year Head ( Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 | **Mr Eric Loh Youn Leong** | Year Head ( Lower Sec ) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
 | **Ms Nio Qing Hui Brenda** | Assistant Year Head | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
@@ -37,5 +37,6 @@ third_nav_title: Our People
 | **Mdm Tan Sor Tin** |  SH Literature | [tan\_sor-tin@moe.edu.sg](mailto:tan_sor-tin@moe.edu.sg) |
 | **Mr Wee Guoyuan** | SH Social Studies | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 | **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
+| **Ms Chen Minhua** | SH Mother Tongue Languages (covering) | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg)
 | **Mdm Veronica Chua** | Administration Manager | [chua\_jiayin@schools.gov.sg](mailto:chua_jiayin@schools.gov.sg) |
 | **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
