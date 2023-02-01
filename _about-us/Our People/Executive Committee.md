@@ -32,7 +32,7 @@ third_nav_title: Our People
 | **Mr Joseph Guo Enliang** | LH English Language | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
 | **Mr James Quek Chin Wee** | LH Mathematics | [james\_quek\_chin\_wee@moe.edu.sg](mailto:james_quek_chin_wee@moe.edu.sg) |
 | **Mr Wilson Ho Wee Yew** | LH Mathematics | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
-| **Mr Tan Aik Hwee, Alester** | SH Character & Citizenship Education (NE & VIA) | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
+| **Mr Tan Aik Hwee, Alester** | SH Co-Curricular Activities | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
 | **Ms Shamsiah Bte Zainalabidin** | SH Character & Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
 | **Mdm Tan Sor Tin** |  SH Literature | [tan\_sor-tin@moe.edu.sg](mailto:tan_sor-tin@moe.edu.sg) |
 | **Mr Wee Guoyuan** | SH Social Studies | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
