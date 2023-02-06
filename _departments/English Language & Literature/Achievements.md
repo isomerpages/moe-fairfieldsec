@@ -6,9 +6,7 @@ third_nav_title: English Language & Literature
 ---
 ### Achievements
 
-#### 2018 YMCA Plain English Speaking Awards (PESA)
 
-B Vithiyadhar (Sec 3A) – Champion (Upper Secondary Category)
 
   
 
@@ -102,27 +100,16 @@ Chan Zhi Yang (Sec 4F) --- Bronze Award
 
   
 
-#### Achievements in Scrabble Competitions 
+#### Achievements in Public Speaking Competitions 
 
-Taking part in Scrabble competitions is a new endeavour that a handful of Secondary One students initiated in 2018. It all started with three students who took part in Scrabble competitions while they were in primary school, who expressed their desire to join the secondary school Scrabble competitions. They roped in their classmates and friends to form teams, to great success. Scrabble is a great platform to hone students’ strategic thinking skills and to draw on and expand their extensive vocabulary.
 
-  
+In recognition of the budding talents in public speaking among Fairsians, the English Language Department identifies and registers students to participate in national and inter-school public speaking competitions such as the YMCA Plain English Speaking Awards (PESA) and National Public Speaking Competition (NPSC) every year.
 
-#### 2018 8th Super Zone Schools Scrabble Competition
+Students are given close guidance in writing their own original speeches for the competitions, and they receive feedback on how to improve and prepare for the competitions.
 
-Wong Min (Sec 1E) (Captain) -- Champion <br>
-Nathaniel Hsiao Chi Ping (Sec 1A)-- Champion <br>
-Siak Wan Rong Megan (Sec 1E) -- Champion 
+The school is proud of all the students who have bravely taken on the challenge of writing and presenting their speeches in front of unfamiliar audiences and judges.
 
-  
+#### 2018 YMCA Plain English Speaking Awards (PESA)
 
-#### Rayner Wan (Sec 1E) (Captain) --- 4th Runner Up
+B Vithiyadhar (Sec 3A) – Champion (Upper Secondary Category)  
 
-Chrisye Cheong (Sec 1E) --- 4th Runner Up<Br>
-Thisath Atapattu (Sec 1E) --- 4th Runner Up 
-
-  
-
-#### 17th Inter-School National Scrabble Championship
-
-Nathaniel Hsiao Chi Ping (Sec 1A) --- ‘C’ Division – Bowl Category - 4th Placing
