@@ -6,7 +6,7 @@ third_nav_title: Humanities
 ---
 ### Humanities
 
-<img src="/images/dpm6.png" style="width:80%">
+<img src="/images/Dept Photos/humanities department 2.jpg" style="width:80%">
 
 <figure><img src="/images/hum1.png" style="width:40%"></figure>
 
