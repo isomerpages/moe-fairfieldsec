@@ -8,12 +8,7 @@ third_nav_title: English Language & Literature
 
 <img src="/images/Dept Photos/english language department 2.jpg" style="width:80%">
 
-#### Mission: 
 
-To nurture Fairsians to become effective listeners, avid readers, inspiring orators, perceptive thinkers and outstanding wordsmiths
-
+We are a team of creative and passionate language professionals, tenaciously devoted to nurturing Fairsians to become effective listeners, avid readers, inspiring orators, perceptive thinkers and outstanding wordsmiths. We seek to provide a learner-centered curriculum that draws on real world knowledge so that our students can develop personal and critical responses towards the ways language is used today.
   
 
-#### Vision: 
-
-Provide a good foundation in English that culminates in excellent reading, writing, speaking, listening and thinking skills for life by exposing students to a wide range of engaging materials, providing them with varying perspectives, and arousing their curiosity to form educated opinions.
