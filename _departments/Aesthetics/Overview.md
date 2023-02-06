@@ -6,7 +6,7 @@ third_nav_title: Aesthetics
 ---
 ### Aesthetics
 
-<img src="/images/dpm5.png" style="width:80%">
+<img src="/images/Dept Photos/aesthetics department 2.jpg" style="width:80%">
 
 To nurture students to become creative lifelong learners who are effective and affective Fairsians, committed to serve the school and the community.
 
