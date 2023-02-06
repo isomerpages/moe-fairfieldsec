@@ -8,22 +8,14 @@ third_nav_title: English Language & Literature
 
 #### Voice of a Fairsian Programme
 
-The English department’s four-year ‘Voice of A Fairsian Programme’ cultivates students’ confidence in public speaking and advocacy skills. This programme, which consists of engaging language-focused activities like debate, drama, speech and oral presentations, enable students to develop the ability to form sound opinions through thorough analysis and deep reflection; articulate, persuade and convince others appropriately; and muster the courage to speak up, stand up for and act upon one’s views and beliefs – and hence, grow a stronger personal voice.
+The English department’s four-year ‘Voice of A Fairsian Programme’ builds students’ confidence in public speaking and develops their advocacy and writing skills by exposing students to a variety of texts and themes. Through debates, dramatic performances, presentations, talk shows, multi-media projects and e-audio picture books, students exercise their creativity, deepen their analysis and discover their personal voice to respond to the world we live in.
 
 #### Community Problem Solving Project  
 
-One of the key highlights for Secondary Three students is the Community Problem Solving Project. For a duration of two terms, students work in groups of four to five to create a solution for an authentic problem faced by the Fairfield community and a community that they have identified beyond Fairfield. This project hones the students’ critical and inventive thinking, communication abilities, collaborative and information skills, which are key competencies required in the 21st Century.
+One of the department’s signature programmes, the Community Problem Solving Project hones students’ critical and inventive thinking, communication abilities, and collaborative and information skills by applying divergent and convergent thinking in teams to solve a significant problem faced by a community. This project combines research, writing and presentation skills, and offers an avenue for students to deepen their understanding of communities to become empathetic and caring citizens.
 
   
 
-Applying the rigour of divergent and convergent thinking in their teams, students work on a series of comparative evaluation to arrive at the most significant problem and most effective solution, before presenting their final research findings and detailed analysis to their peers and teachers. After that, the best projects from each class are considered for actual implementation and follow through. This is a signature project of the English department that aims to make learning and problem solving as real and authentic as possible for the students.
+#### Literature ‘Watch A Play’ Programme
 
-  
-
-
-
-  
-
-#### Sec 1 to 4 ‘Watch A Play’ Programme
-
-To help Literature students understand and engage with their Literature texts more successfully, excursions to the theatre are organised for them. We hope that this will increase their appreciation for the Arts and inculcate in them a love for the performance of literary works.
+Excursions to the theatre are organised for Literature students to expose students to theatre arts to heighten their appreciation for the arts and cultivate in them a love for the performance of literary works. This will in turn help them better appreciate the dramatic techniques used after experiencing what it is like to be an audience in an authentic theatre setting.
