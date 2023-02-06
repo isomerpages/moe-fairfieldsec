@@ -6,9 +6,9 @@ third_nav_title: English Language & Literature
 ---
 ### Key Programmes
 
-We are a team of creative and passionate language professionals, tenaciously devoted to nurturing Fairsians to become effective listeners, avid readers, inspiring orators, perceptive thinkers and outstanding wordsmiths.
+#### Voice of a Fairsian Programme
 
-  
+The English department’s four-year ‘Voice of A Fairsian Programme’ cultivates students’ confidence in public speaking and advocacy skills. This programme, which consists of engaging language-focused activities like debate, drama, speech and oral presentations, enable students to develop the ability to form sound opinions through thorough analysis and deep reflection; articulate, persuade and convince others appropriately; and muster the courage to speak up, stand up for and act upon one’s views and beliefs – and hence, grow a stronger personal voice.
 
 #### Community Problem Solving Project  
 
@@ -20,9 +20,7 @@ Applying the rigour of divergent and convergent thinking in their teams, student
 
   
 
-#### Voice of a Fairsian Programme
 
-The English department’s four-year ‘Voice of A Fairsian Programme’ cultivates students’ confidence in public speaking and advocacy skills. This programme, which consists of engaging language-focused activities like debate, drama, speech and oral presentations, enable students to develop the ability to form sound opinions through thorough analysis and deep reflection; articulate, persuade and convince others appropriately; and muster the courage to speak up, stand up for and act upon one’s views and beliefs – and hence, grow a stronger personal voice.
 
   
 
