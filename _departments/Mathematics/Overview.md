@@ -6,7 +6,7 @@ third_nav_title: Mathematics
 ---
 ### Mathematics
 
-<img src="/images/dpm3.png" style="width:80%">
+<img src="/images/Dept Photos/mathematics department 2.jpg" style="width:80%">
 
 With a group of committed and passionate teachers, the department aims to provide our students with a strong foundation in mathematical concepts and skills that will help them to solve real life problems and pursue further interest in Mathematics. We also aim to develop in our students a positive attitude towards the learning of Mathematics so that they will be resilient and confident in solving mathematical problems.
 
