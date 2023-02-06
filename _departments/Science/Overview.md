@@ -6,7 +6,7 @@ third_nav_title: Science
 ---
 ### Science
 
-<img src="/images/dpm4.png" style="width:80%">
+<img src="/images/Dept Photos/science department 2.jpg" style="width:80%">
 
 #### Vision
 
