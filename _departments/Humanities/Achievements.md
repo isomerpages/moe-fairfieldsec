@@ -25,7 +25,7 @@ Lye Jae Vir (4A)
 Eileen Chung (2A) <br>
 Samantha Lim (2E)<br>
 Tashfeen (2E)<br>
-Charlotte Kee (3A)<br> 
+Charlotte Kee (3A)<br>
 Agnieszka Song (3E)<br>
 Ang Jan Tsi (3F)
 
