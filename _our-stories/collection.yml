@@ -2,8 +2,8 @@ collections:
   our-stories:
     output: true
     order:
-      - 2023 Term 1/.keep
       - Overview.md
+      - 2023 Term 1/.keep
       - 2022 Term 4/.keep
       - 2022 Term 4/Hoops, Fairfield Did it Again!.md
       - 2022 Term 4/The Melody of Fairfield.md
