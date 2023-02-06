@@ -26,14 +26,9 @@ The Secondary Two enrichment programme serves as an extension to the curriculum 
 
 Students experience in depth how the Physics or Chemistry topics they have learnt in the classroom are applied in a hands-on and authentic context. They apply their scientific knowledge such as building a solar cooker in Physics, investigate the authentic applications of rate of reaction in Chemistry, or learning journeys to Lee Kong Chian Natural History Museum in Biology.
 
-  
-
-#### 4\. Secondary Three Trips for International Experience
-
-The Science Department collaborates with Mother Tongue and Humanities department on overseas trips. While learning about the culture of the local community and performing community service, students also experience authentic learning contexts and learn across different disciplines in Science.
 
   
 
-#### 5\. Science National Competitions
+#### 4\. Science National Competitions
 
 Fairsians who have strong inclination in Science can participate in various Science National Competitions. The Science Programme for Education of Aspiring Researchers, or SPEAR, is set up to allow Fairsians to develop a passion in science by allowing them to explore their areas of interest outside the curriculum. Students conduct different projects from a wide range of topics, and subsequently submitted their projects for competitions such as the Singapore Science and Engineering Fair. Upper secondary students talented in the various Science subjects also participate in the Biology, Chemistry and Physics Junior Olympiads.
