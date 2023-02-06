@@ -6,7 +6,7 @@ third_nav_title: Info & Comm Technology
 ---
 ### Information & Communication Technology
 
-<img src="/images/dpm7.png" style="width:80%">
+<img src="/images/Dept Photos/information technology department 2.jpg" style="width:80%">
 
 #### Vision:
 
