@@ -14,6 +14,8 @@ third_nav_title: Science
 
 Singapore Science and Engineering Fair 2022 – 5 Finalist
 
+Singapore Junior Chemistry Olympiad 2022 – 1 Silver
+
   
 
 #### 2021
