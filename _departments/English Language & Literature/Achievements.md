@@ -58,7 +58,7 @@ Clara Ng Xin Yue (4F) -  Bronze <br>
 Nicole Lim Hwee See (4F) - Bronze <br>
 Megan Kirsty Dawe (4F) - Bronze<br>
 Kimberly Niam (4E) - Consolation<br>
-Leong Ren Kai Caleb (4A) - Consolation  (Journalism CCA)
+Leong Ren Kai Caleb (4A) - Consolation 
 
   
 
