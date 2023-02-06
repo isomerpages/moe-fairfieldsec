@@ -4,22 +4,7 @@ permalink: /departments/English-Language-and-Literature/achievements/
 description: ""
 third_nav_title: English Language & Literature
 ---
-### Achievements
-
-
-
-  
-
-#### 2018 National Schools Literature Festival 
-
-On 21 July 2018, two teams of Literature students represented Fairfield at the National Schools Literature Festival. Over 2000 participants from over 120 schools attended the event held at Paya Lebar Methodist Secondary School. A team of eight students participated in the lower secondary book trailer category, and a team of four Secondary 3 students participated in the Upper Secondary Unseen Text Debate. This was meant to expose students to how Literature is taught and presented in other schools, and to allow them to learn from other students about different modes of performances and genres of Literature. It also allows them to challenge themselves and pit their skills against stronger competitors so that they can always improve and be a better version of themselves. Both teams came in first in their competition rooms at the National Schools Literature Festival.
-
-  
-
-Upper Secondary Unseen Text Debate --- National First Placing<br>
-Lower Secondary Book Trailer --- National First Placing
-
-  
+### Achievements 
 
 #### Achievements in Writing Competitions
 
@@ -111,5 +96,4 @@ The school is proud of all the students who have bravely taken on the challenge 
 
 #### 2018 YMCA Plain English Speaking Awards (PESA)
 
-B Vithiyadhar (Sec 3A) – Champion (Upper Secondary Category)  
-
+B Vithiyadhar (Sec 3A) – Champion (Upper Secondary Category)
