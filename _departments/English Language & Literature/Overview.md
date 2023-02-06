@@ -6,7 +6,7 @@ third_nav_title: English Language & Literature
 ---
 ### English Language & Literature
 
-<img src="/images/dpm1.png" style="width:80%">
+<img src="/images/Dept Photos/english language department 2.jpg" style="width:80%">
 
 #### Mission: 
 
