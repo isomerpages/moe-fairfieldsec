@@ -35,7 +35,12 @@ Through the close guidance of our English Language teachers, students gain the i
 
 Fairfield is proud of the achievements of the following talented and creative young writers who delivered prize-winning masterpieces after seizing the unique opportunity to make their voice heard on both the local and global platforms.
 
-  
+#### 2022 Queen’s Commonwealth Essay Competition
+
+Lee Ray En (Sec 3B) – Silver Award<Br>
+Lauren Soh (Sec 2E) - Silver Award<Br>
+Delaine Tan (Sec 2E) – Bronze Award<Br>
+Wynstelle Olga (Sec 2E) - Bronze Award
 
 #### 2021 Queen’s Commonwealth Essay Competition
 
@@ -121,4 +126,3 @@ Thisath Atapattu (Sec 1E) --- 4th Runner Up 
 #### 17th Inter-School National Scrabble Championship
 
 Nathaniel Hsiao Chi Ping (Sec 1A) --- ‘C’ Division – Bowl Category - 4th Placing
-
