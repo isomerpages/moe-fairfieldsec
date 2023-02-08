@@ -5,3 +5,5 @@ description: ""
 third_nav_title: 2022 Open House
 ---
 Principal's Slides:
+
+[](/files/Prospective%20Students/Open%20House%20and%20P6%202022.pdf)
