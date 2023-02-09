@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Face 516b330ad_374.jpg
+      background: /images/ban.gif
       key_highlights:
         - title: Our Stories
           description: ""
