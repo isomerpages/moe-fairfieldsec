@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Animated GIF.gif
+      background: /images/Hero banner 1200 X 630.gif
       key_highlights:
         - title: Our Stories
           description: ""
