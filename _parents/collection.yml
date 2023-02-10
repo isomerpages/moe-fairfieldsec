@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Latest Updates/.keep
       - Overview.md
       - Parents in Education/.keep
       - Parents in Education/Overview.md
