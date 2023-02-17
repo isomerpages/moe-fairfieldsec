@@ -5,6 +5,9 @@ description: ""
 ---
 ### Our Stories
 
+<img src="/images/Our Stories/2023/MF_Kylee_Tan.jpeg" style="width:100px;height:100px;margin-right:15px;" align = "left"> When the going gets tough, Kylee gets going! [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-Term-1/when-the-going-gets-tough-kylee-gets-going/) <Br><br>
+
+* * *
 <img src="/images/Hoops Fairfield.jpeg" style="width:100px;height:100px;margin-right:15px;" align = "left"> Hoops, Fairfield Did it Again!  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2022-Term-4/Hoops-Fairfield-Did-it-Again/) <Br><br>
 
 * * *
