@@ -4,10 +4,13 @@ permalink: /our-stories/2023-Term-1/when-the-going-gets-tough-kylee-gets-going/
 description: ""
 third_nav_title: 2023 Term 1
 ---
+### When the going gets tough, Kylee gets going!
 
 by Daniel Gan (Sec 4A), Sarah Chan (Sec 4B), Kayla Ng (Sec 4B) and Kylee Tan
 
 Known for having a calm disposition, Kylee was well-liked by her peers. She was also an independent learner who displayed enthusiasm and diligence in her studies and needed minimal supervision in her assigned tasks. Kylee also took the initiative to broaden her horizons by taking part in the OnePeople.sg Model United Nations (OPMUN) Conference. An active and enthusiastic member of Fairfield English Drama, she took part in many school-based drama performances. Furthermore, she served as the President of Fairfield Journalism Club from 2021 to 2022, where she effectively guided and mentored her juniors in the writing of articles to promote school pride. Kylee's flair for writing also enabled her to win the Reader's Choice Award for Rice Media X Dialogic Op-Ed Essay Competition in the under-16 category in 2020.
+
+<img src="/images/Our Stories/2023/kylee_gets_going.gif" style="width:80%">
 
 On 12 January 2023, Kylee received her GCE O-Level examination results and emerged as one of Fairfield’s outstanding all-round students. A wave of sentiment washed over her as she recounted her journey as a Fairsian.
 
