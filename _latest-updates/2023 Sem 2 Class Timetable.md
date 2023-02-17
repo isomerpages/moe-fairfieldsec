@@ -12,4 +12,3 @@ description: ""
 <br>
 [Sem 1 2023\_Sec 3\_Timetable\_13 Jan.pdf](/files/2023S1S3.pdf)  
 [Sem 1 2023\_Sec 45\_Timetable\_13 Jan.pdf](/files/2023S1S45.pdf)
-
