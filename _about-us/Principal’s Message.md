@@ -64,4 +64,3 @@ May all glory be to Him!
 
 Mr Wee Tat Chuen  
 Principal
-
