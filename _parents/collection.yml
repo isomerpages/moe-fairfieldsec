@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Overview.md
       - Parents in Education/.keep
       - Parents in Education/Overview.md
       - Parents in Education/The Team.md
