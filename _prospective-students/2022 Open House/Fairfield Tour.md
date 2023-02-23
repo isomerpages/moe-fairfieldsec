@@ -10,6 +10,8 @@ third_nav_title: 2022 Open House
 
 ### Open House Brochure
 
+![](/images/Prospective%20Students/2023/2022_Open%20House_Brochure.gif)
+
 
 
 
