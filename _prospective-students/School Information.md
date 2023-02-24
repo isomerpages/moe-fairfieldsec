@@ -36,7 +36,7 @@ Affiliated School
 
 Fairfield Methodist School (Primary), Anglo-Chinese Junior College
 
-#### FMS(S) Non-Affiliation Achievement Levels for Year 2021
+#### FMS(S) Non-Affiliation Achievement Levels for Year 2022
 
 |  |  |
 |---|---|
