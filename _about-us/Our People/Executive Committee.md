@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Executive Committee
 
-<img src="/images/Dept Photos/executive committee 2.jpg" style="width:80%">
+<img src="/images/Dept Photos/executive committee 2.jpg" style="width:100%">
 
 <br>
 
