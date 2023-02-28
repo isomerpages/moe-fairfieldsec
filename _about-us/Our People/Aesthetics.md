@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Aesthetics
 
-![](/images/Dept%20Photos/aesthetics%20department%202.jpg)
+<img src="/images/Dept Photos/aesthetics department 2.jpg" style="width:100%">
 
 #### Key Personnel
 
