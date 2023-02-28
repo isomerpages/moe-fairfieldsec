@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Character & Citizenship Education
 
-<img src="/images/op10.png" style="width:80%">
+<img src="/images/Dept Photos/character and citizenship education department 2.jpg" style="width:100%">
 
 #### Key Personnel
 
