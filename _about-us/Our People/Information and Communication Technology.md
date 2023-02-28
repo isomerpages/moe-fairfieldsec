@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Information & Communication Technology
 
-<img src="/images/op14.png" style="width:90%">
+<img src="/images/Dept Photos/information technology department 2.jpg" style="width:90%">
 
 #### Key Personnel
 
