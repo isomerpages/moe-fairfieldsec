@@ -6,5 +6,5 @@ third_nav_title: Our People
 ---
 ### Board of Management
 
-<img src="/images/op1.png" style="width:70%">
-<img src="/images/op2.png" style="width:70%">
+<img src="/images/op1.png" style="width:100%">
+<img src="/images/op2.png" style="width:100%">
