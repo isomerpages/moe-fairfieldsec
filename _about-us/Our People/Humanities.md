@@ -27,3 +27,5 @@ third_nav_title: Our People
 | **Mr Loke Liang En Joel** | Sec 4A Form Teacher | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) |
 | **Ms Wong Jiayi** | Sec 3C Form Teacher | [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
 | **Mdm Yee Suet Fong Dawn** | Sec 2C Form Teacher | [yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
+| **Ms Wee Xuemei** | Teacher | [wee_xuemei@moe.edu.sg](mailto:wee_xuemei@moe.edu.sg) |
+| **Ms Tan Kher Sin** | Teacher | [tan_kher_sin@moe.edu.sg](mailto:tan_kher_sin@moe.edu.sg) |
