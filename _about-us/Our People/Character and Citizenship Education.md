@@ -14,7 +14,7 @@ third_nav_title: Our People
 |---|---|---|
 | **Mr Joel Li Weihan** | HOD Character & Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg)
 | **Ms Shamsiah Bte Zainalabidin** | SH Character & Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
-| **Mr Tan Aik Hwee Alester** | SH Character & Citizenship Education (NE & VIA) | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
+| **Mr Tan Aik Hwee Alester** | SH Co-Curricular Activities | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
 
 #### Our Teachers
 
