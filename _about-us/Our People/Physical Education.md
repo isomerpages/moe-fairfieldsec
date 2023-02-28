@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### Physical Education
 
-<img src="/images/op15.png" style="width:80%">
+<img src="/images/Dept Photos/physical education department 2.jpg" style="width:100%">
 
 #### Key Personnel
 
@@ -20,7 +20,7 @@ third_nav_title: Our People
 | Name | Designation | Email |
 |---|---|---|
 | **Mr Jason Lum Tuck Choi** |  Lead Teacher | [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
-| **Mr Arif Bin Bakar** | Sec 4H Form Teacher | [arif\_bakar@moe.edu.sg](mailto:arif_bakar@moe.edu.sg) |
-| **Ms Goh Shi Le Priscilla** | Sec 3H Form Teacher | [goh\_shi\_le\_priscilla@moe.edu.sg](mailto:goh_shi_le_priscilla@moe.edu.sg) |
-| **Mr Tan Zhiwei** | Sec 1H Form Teacher | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
+| **Mr Arif Bin Bakar** | Sec 1C Form Teacher | [arif\_bakar@moe.edu.sg](mailto:arif_bakar@moe.edu.sg) |
+| **Mr Tan Zhiwei** | Sec 2H Form Teacher | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
 | **Mr Ravi Shankar**  | Teacher  | [ravi\_shankar\_kathergamathamby@moe.edu.sg](mailto:ravi_shankar_kathergamathamby@moe.edu.sg)  |
+| **Mr Gan Chin Kai**  | Teacher  | [gan_chin_kai@moe.edu.sg](mailto:gan_chin_kai@moe.edu.sg)  |
