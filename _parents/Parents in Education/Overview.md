@@ -107,12 +107,11 @@ All FMS(S) parents are welcome to join FMS(S) PiE. Sign up by completing the onl
 
 <img src="/images/PiE/2023/PIE_Sign_Up_QR_Code.png" style="width:40%">
 
-
-<p><a href="[https://tinyurl.com/yc6s3yj5](https://tinyurl.com/yc6s3yj5)"><img style="width:25%" src="/images/par3.png"></a></p>
-
 All FMS(S) parents are welcome to join FMS(S) PiE.  
 Sign-up via our online form. Scan the QR code or at:
-![](/images/PiE/2023/PIE_Sign_Up_URL.jpg)
+
+<p><a href="[https://forms.gle/Ne5mHnMvEPZyumRJA](https://forms.gle/Ne5mHnMvEPZyumRJA)"><img style="width:100%" src="/images/PiE/2023/PIE_Sign_Up_URL.jpg"></a></p>
+
 You will, nearer the date, receive information on the PiE events that you have indicated interest in.For more information or enquiries, you can reach us via email at [fmss.pie@gmail.com](mailto:fmss.pie@gmail.com).
 
 
