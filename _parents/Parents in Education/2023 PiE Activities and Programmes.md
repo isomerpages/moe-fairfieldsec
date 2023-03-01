@@ -4,17 +4,15 @@ permalink: /parents/Parents-in-Education/2023-pie-activities-and-programmes/
 description: ""
 third_nav_title: Parents in Education
 ---
-
 ### 2023 PiE Activities/Programmes
 
 | PiE Projects 2023 | Date/Time | Information |
 |---|---|---|
 | Teachers Breakfast Goodie Bags | 3 Jan | Prepare "Welcome Back to School" snacks for teachers & staff |
 | Sec 1 Parents Welcome Party at Tzone | 3 Jan | A time of getting to know FMS(S) & Partners-in-Education (PiE) better through various sharing platforms followed by light refreshments served with coffee & tea |
-| Principal’s Address to Sec 1 Parents | 7 Jan 2022 | Principal’s Address |
-| Parenting Talk 1 (Mental Wellness) | 19 Feb 2022 | Parenting talk by Dr Tan E Ching<br>Topic - Helping Your Child Cope with Stress and Anxiety |
-| Panel Discussion - Transition to<br>Secondary School cum breakfast chat with Principal<br>  | 26 Feb 2022 | Dialogue session with panel of school leaders and parents on Transition to Secondary School |
-| Parenting Talk 2 (Digital Literacy) | 12 Mar 2022 | Parenting talk by Ms Nio on Digital Literacy |
+| Principal’s Address to Sec 1 Parents Parents/Installation Night | 6 Jan | Mr Wee Tat Chuen’s address to all Sec 1 Parents|
+| Parenting Talk 1 (Mental Wellness) | 10 Feb  | Parenting talk by Dr Tan E Ching |
+| Panel Discussion - Transition to<br>Secondary School   | 25 Feb  | Dialogue session with panel comprising of school leaders and parents on transition into secondary school |
 | Lower Sec NA Parenting Chat | 25 Mar 2022 | Parenting Chat by Ms Nio on NA pathway |
 | Virtual Fairfield Run | April 2022 | Parents to Participate with their child |
 | Dad-Child or Parent-Child Bonding Activity | May 2022 | Dad-Child or Parent-Child Bonding Activity for non-repetitive parent. |
