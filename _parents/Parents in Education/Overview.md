@@ -4,10 +4,9 @@ permalink: /parents/partners-in-education/
 description: ""
 third_nav_title: Parents in Education
 ---
-
 ### Partners-in-Education
 
-<img src="/images/par1.png" style="width:80%">
+<img src="/images/PiE/2023/203_PIE_Wecome_Page.jpg" style="width:90%">
 
 #### Welcome to Fairfield Family
 
@@ -31,26 +30,26 @@ As Partners-in-Education, we aim to:
 
 #### 1. Be Present Welcome to Fairfield Family
 
-Lending support to school events.
+To lend support to school events.
 
 
 #### 2. Be Equipped
 
- Empowering ourselves to be more effective parents.
+ To empower ourselves to be more effective parents.
   
 
 #### 3. Be Connected
 
-To students & a network of supportive parents.
+To be a support network for parents and students.
   
 
 #### 4. Be a Blessing
 
-Being a parent volunteer and making a difference.
+To be parent volunteers and making a difference.
 
   
 
-We collaborate with the school through various projects throughout the year.
+We collaborate with the School on various projects and platforms throughout the year, so as to promote strong home-school partnership.
 
   
 
@@ -58,25 +57,20 @@ We collaborate with the school through various projects throughout the year.
 
 ##### Ongoing PiE involvement in FMS(S):
 
-**• Tzone**
 
-A safe haven within the school compound. It's a student’s hub run exclusively by parents. Parents can volunteer to serve in various capacities on Wednesdays & Thursdays, 1:00pm - 4:00pm.   
-
-_**NOTE:** Due to the COVID-19 situation, Tzone will be closed temporarily until further notice._
+_***Each year’s line-up of events is subject to change.**_
 
   
 
 **• Dads@Fairfield**
 
-A platform especially for parents to connect! Networking, sharing of experiences through different activities organised by parents in Fairfield for not only dads but also for the parent community at large. Let’s learn and journey together to connect & make an impact in your child's life.
+A platform especially for Dads! Networking, sharing and parenting talks for Dads only. Learn how to connect with your child and make an impact in his / her life.
 
   
 
-**• Prayer Group**  
+**• Parents Connect through Talks and Quarterly Walks**  
 
-Parents gather fortnightly on Fridays to pray for the school, students and the Fairfield community.   
-
-  
+ 
 
 **• BLESS/Structured Self-Study Program**
 
