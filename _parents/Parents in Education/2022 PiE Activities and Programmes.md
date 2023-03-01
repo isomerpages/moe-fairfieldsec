@@ -6,9 +6,10 @@ third_nav_title: Parents in Education
 ---
 ### 2023 PiE Activities/Programmes
 
-| PiE Projects 2022 | Date/Time | Information |
+| PiE Projects 2023 | Date/Time | Information |
 |---|---|---|
-| Teachers Breakfast | 4 Jan 2022 | Prepare "Welcome Back to School" snacks for teachers & staff |
+| Teachers Breakfast Goodie Bags | 3 Jan | Prepare "Welcome Back to School" snacks for teachers & staff |
+| Sec 1 Parents Welcome Party at Tzone | 3 Jan | A time of getting to know FMS(S) & Partners-in-Education (PiE) better through various sharing platforms followed by light refreshments served with coffee & tea |
 | Principal’s Address to Sec 1 Parents | 7 Jan 2022 | Principal’s Address |
 | Parenting Talk 1 (Mental Wellness) | 19 Feb 2022 | Parenting talk by Dr Tan E Ching<br>Topic - Helping Your Child Cope with Stress and Anxiety |
 | Panel Discussion - Transition to<br>Secondary School cum breakfast chat with Principal<br>  | 26 Feb 2022 | Dialogue session with panel of school leaders and parents on Transition to Secondary School |
