@@ -43,8 +43,7 @@ Where all our hearts are light<br>
 Where love is in the sunshine<Br>
 And all the world is bright
 
-Insert audio clip here.
-
+[School Song.mp3](https://drive.google.com/file/d/13qW3YWi2QF4sDGtgj67TrMlOo23hNqln/view)
 #### School Hymn
 
 Bless this school, O Lord we pray  
@@ -74,6 +73,5 @@ May dwell, O Lord, with Thee
 
 Insert audio clip here.
 
-https://drive.google.com/file/d/13qW3YWi2QF4sDGtgj67TrMlOo23hNqln/view?usp=sharing
 
-[School Song.mp3 - Google Drive](https://drive.google.com/file/d/13qW3YWi2QF4sDGtgj67TrMlOo23hNqln/view)
+
