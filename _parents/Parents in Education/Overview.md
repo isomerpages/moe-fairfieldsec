@@ -107,10 +107,13 @@ All FMS(S) parents are welcome to join FMS(S) PiE. Sign up by completing the onl
 
 <p><a href="[https://tinyurl.com/yc6s3yj5](https://tinyurl.com/yc6s3yj5)"><img style="width:25%" src="/images/par3.png"></a></p>
 
-[https://tinyurl.com/yc6s3yj5](https://tinyurl.com/yc6s3yj5)
+All FMS(S) parents are welcome to join FMS(S) PiE.  
+Sign-up via our online form. Scan the QR code or at:
+![](/images/PiE/2023/PIE_Sign_Up_URL.jpg)
+You will, nearer the date, receive information on the PiE events that you have indicated interest in.For more information or enquiries, you can reach us via email at [fmss.pie@gmail.com](mailto:fmss.pie@gmail.com).
 
-You will receive periodic information on upcoming PiE events and Dads@Fairfield activities through different platforms.  
 
+
+Looking forward to having you as part of our big Fairfield family!
   
 
-For more information or any queries, please feel free to email us at: [fmss.pie@gmail.com](mailto:fmss.pie@gmail.com)
