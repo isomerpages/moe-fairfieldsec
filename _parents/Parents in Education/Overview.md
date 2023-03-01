@@ -69,18 +69,33 @@ A platform especially for Dads! Networking, sharing and parenting talks for Dads
   
 
 **• Parents Connect through Talks and Quarterly Walks**  
+*   Parenting talks on topics close to parents’ hearts. Get equipped to journey with your teens. Network, bond and share over informal dialogues and chit chat sessions   
+    
+*   Quarterly walks are organised for parents to bond not only while walking and enjoying scenic views, but also while having a good time over breakfast.
 
- 
 
-**• BLESS/Structured Self-Study Program**
+**• Christian Prayer Group**
 
-A programme to encourage Upper Secondary students who are preparing for their O & N-level examinations. Snacks, little gifts are provided and prepared by parents to motivate and spur them on. This program runs from August – September on a yearly basis.
+Christian parents gather fortnightly on Fridays to pray for the School, the students and the Fairfield community at large.
 
+**• Christian Fathers' Prayer Group**
+
+Christian fathers gather together to pray every last Saturday of the month.
+
+**• Sports Day**
+
+Takes place at the end of Term 1. Besides volunteer opportunities, it also Includes a time where parents and child / children can participate together in a family-relay activity.
+
+
+**• Carnival**
+
+In April, FMS(S) will come together to celebrate 135 years of God’s blessings and faithfulness.
+
+ 
+**• BLESS/Study Programme**
+
+A programme to encourage Upper Secondary students who are preparing for their O- and N-level examinations. Snacks and little gifts are provided, packed and delivered by parents to motivate and spur these students on. This program runs from August to September.
   
-
-**• Fairfield Run**
-
-Every April, FMS(S) organises an outdoor race for all students. Parents are encouraged to join their child/children in a long-distance run.
 
  
 
