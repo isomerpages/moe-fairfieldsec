@@ -105,7 +105,8 @@ A programme to encourage Upper Secondary students who are preparing for their O
 
 All FMS(S) parents are welcome to join FMS(S) PiE. Sign up by completing the online form at link below or scan the QR code provided:
 
-![](/images/PiE/2023/PIE_Sign_Up_QR_Code.png)
+<img src="/images/PiE/2023/PIE_Sign_Up_QR_Code.png" style="width:40%">
+
 
 <p><a href="[https://tinyurl.com/yc6s3yj5](https://tinyurl.com/yc6s3yj5)"><img style="width:25%" src="/images/par3.png"></a></p>
 
