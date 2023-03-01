@@ -105,6 +105,8 @@ A programme to encourage Upper Secondary students who are preparing for their O
 
 All FMS(S) parents are welcome to join FMS(S) PiE. Sign up by completing the online form at link below or scan the QR code provided:
 
+![](/images/PiE/2023/PIE_Sign_Up_QR_Code.png)
+
 <p><a href="[https://tinyurl.com/yc6s3yj5](https://tinyurl.com/yc6s3yj5)"><img style="width:25%" src="/images/par3.png"></a></p>
 
 All FMS(S) parents are welcome to join FMS(S) PiE.  
@@ -115,5 +117,3 @@ You will, nearer the date, receive information on the PiE events that you have 
 
 
 Looking forward to having you as part of our big Fairfield family!
-  
-
