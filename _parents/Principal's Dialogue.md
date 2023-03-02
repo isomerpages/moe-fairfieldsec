@@ -5,6 +5,8 @@ description: ""
 ---
 ### Principal’s Dialogue with Parents
 
+https://for.edu.sg/principals-dialogue-sec-two-slides
+
 ##### 08-04-2022 Dialogue with Sec 2 Parents
 
 [2022 Meet the Parents Sec 2s.pdf](/files/pdp1.pdf)
