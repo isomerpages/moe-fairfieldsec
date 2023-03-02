@@ -190,8 +190,44 @@ third_nav_title: Parents in Education
 </tbody>
 </table>
 
-
-
+<table style="width: 700px;" border="0">
+<tbody>
+<tr>
+<td style="width: 180px;">
+<p><strong>&nbsp;</strong><strong>PiE Involvement 2023</strong></p>
+</td>
+<td style="width: 121.906px;">
+<p><strong>&nbsp;</strong><strong>Days</strong></p>
+</td>
+<td style="width: 395.094px;">
+<p><strong>&nbsp;</strong><strong>Information</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 180px;">
+<p>&ldquo;Let Us Chat&rdquo;</p>
+<p>Sessions</p>
+</td>
+<td style="width: 121.906px;">
+<p>Bi/Monthly starting in term 2</p>
+</td>
+<td style="width: 395.094px;">
+<p>Chit chat sessions where parents and/or child/ren come together to have heart-to-heart conversations so as to understand one another better.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 180px;">
+<p>Parents Prayer Meeting</p>
+</td>
+<td style="width: 121.906px;">
+<p>Fortnightly &ndash; Fridays (Physical/Zoom)</p>
+</td>
+<td style="width: 395.094px;">
+<p>For all Christian parents to pray for the School, the students and the Fairfield community at large.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
