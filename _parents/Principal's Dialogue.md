@@ -7,9 +7,9 @@ description: ""
 
 https://for.edu.sg/principals-dialogue-sec-two-slides
 
-##### 08-04-2022 Dialogue with Sec 2 Parents
+##### 03-02-2023 Dialogue with Upper Secondary Parents
 
-[2022 Meet the Parents Sec 2s.pdf](/files/pdp1.pdf)
+[Principals Sharing for Upper Sec Parents 3 Feb 2023.pdf](https://drive.google.com/file/d/1kZTDrnl6v8ML82Hn6aPp4E-8Na-vceeG/view?usp=sharing)
 
 [2022 Subject Combination - Sec 2Exp.pdf](/files/pdp2.pdf)
 
