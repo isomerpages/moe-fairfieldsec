@@ -11,12 +11,10 @@ https://for.edu.sg/principals-dialogue-sec-two-slides
 
 [Principals Sharing for Upper Sec Parents 3 Feb 2023.pdf](https://drive.google.com/file/d/1kZTDrnl6v8ML82Hn6aPp4E-8Na-vceeG/view?usp=sharing)
 
-[2022 Subject Combination - Sec 2Exp.pdf](/files/pdp2.pdf)
+[ECG Sharing 3 Feb 2023.pdf](/files/Parents/Ps%20Dialogue/2023/ECG%20Sharing%203%20Feb%202023.pdf)
+[Information Sheet for Sec 3 Parents 2023.pdf](/files/Parents/Ps%20Dialogue/2023/Information%20Sheet%20for%20Sec%203%20Parents%202023.pdf)
 
-[2022 Subject Combination - Sec 2NA.pdf](/files/pdp3.pdf)
-
-[2022 Subject Combination - Sec 2NT.pdf](/files/pdp4.pdf)
-
+[Information Sheet for Sec 4_5 Parents 2023.pdf](/files/Parents/Ps%20Dialogue/2023/Information%20Sheet%20for%20Sec%204_5%20Parents%202023.pdf)
 
 
 ##### 13-01-2023 Dialogue with Sec 2 Parents
