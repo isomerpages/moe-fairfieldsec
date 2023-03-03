@@ -21,13 +21,12 @@ https://for.edu.sg/principals-dialogue-sec-two-slides
 
 ##### 13-01-2023 Dialogue with Sec 2 Parents
 
-[Sec 1 Meet the Parents 18 Jan 2022.pdf](https://fairfieldmethodistsec.moe.edu.sg/qql/slot/u618/Parents/Principals%20Dialogue%20with%20Parents/Sec%201%20MTP/Sec%201%20Meet%20the%20Parents%2018%20Jan%202022.pdf) Re-upload this PDF here.
+[Principals Dialogue Sec 2 Slides.pdf](https://for.edu.sg/principals-dialogue-sec-two-slides)
 
-[Sec 1 Ps Dialogue FAQs.pdf](/files/pdp7.pdf)
+
 
 
 ##### 06-01-2023 Dialogue with Sec 1 Parents
 
 
 [Sec 1 Meet the Parents 06 Jan 2023.pdf](https://drive.google.com/file/d/1YqLvYPxnas7xgwxDmnv1yPft0M7XSRBm/view?usp=sharing)
-
