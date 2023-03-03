@@ -22,6 +22,10 @@ description: ""
 
 [Principals Dialogue Sec 2 Slides.pdf](https://for.edu.sg/principals-dialogue-sec-two-slides)
 
+[2023 Exp Subject Combination Briefing.pdf](/files/Parents/Ps%20Dialogue/2023/2023%20Exp%20Subject%20Combination%20Briefing.pdf)
+
+[2023 NA_NT Subject Combination Briefing.pdf](/files/Parents/Ps%20Dialogue/2023/2023%20NA_NT%20Subject%20Combination%20Briefing.pdf)
+
 
 
 
