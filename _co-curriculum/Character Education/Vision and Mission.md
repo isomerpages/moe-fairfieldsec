@@ -6,7 +6,7 @@ third_nav_title: Character Education
 ---
 ### Character & Citizenship Education
 
-<img src="/images/cc3.png" style="width:80%">
+<img src="/images/Dept Photos/character and citizenship education department 2.jpg" style="width:100%">
 
 #### Vision and Mission
 
