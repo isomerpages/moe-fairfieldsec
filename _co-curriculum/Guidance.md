@@ -5,7 +5,7 @@ description: ""
 ---
 ### Guidance
 
-<img src="/images/cc6.png" style="width:80%">
+<img src="/images/Dept Photos/guidance committee 2.jpg" style="width:90%">
 
 #### Counselling
 
