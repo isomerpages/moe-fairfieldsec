@@ -5,7 +5,7 @@ description: ""
 ---
 ### Discipline
 
-<img src="/images/cc4.png" style="width:90%">
+<img src="/images/Dept Photos/discipline committee 2.jpg" style="width:90%">
 
 Fairfield seeks to provide a conducive environment for staff and students so that joy of learning (MOE Workplan 2016) can be experienced. Recognising that discipline is important, the school strives to create a climate where student morale is high and students are well taken care of.  
 
