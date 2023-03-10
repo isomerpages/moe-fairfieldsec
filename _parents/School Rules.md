@@ -5,17 +5,44 @@ description: ""
 ---
 ### School Rules
 
-#### Discipline, Rules & Regulations
+#### Rules & Regulations
 
 
-#### 1\. INTRODUCTION
-
-##### 1.1  Approach
-
-Our approach to discipline is a student-centric, values-driven one that is aimed at building a student’s character, personhood and commitment to the school community. When a student follows the school rules, it reflects a desire to respect the values that the school stands for and a commitment to being a part of the school community. Our discipline measures therefore, are meant to create a conducive learning environment in which all students can learn effectively.
+##### I ATTENDANCE AND PUNCTUALITY
 
 
-##### 1.2  Behaviour Monitoring
+_Students need to take ownership of their learning by being present and punctual for lessons. Students who come late will lose out on valuable learning time._ 
+
+  
+
+● Attendance in school is compulsory. Absence from school is permitted only when it is supported by a Medical Certificate (MC) or a parent’s letter with valid reasons. Students should not submit more than three excuse letters per semester. Subsequently, students will be booked for Absence Without Valid Reasons, which is deemed as truancy. 
+
+  
+
+● If students wish to leave or absent themselves from school for private matters, parents need to apply for leave of absence for their child through his or her Form Teacher. Permission will be granted on a case-by-case basis by the Principal (P) or Vice-Principals (VP).
+
+  
+
+● Students must be punctual for all school functions, lessons and CCA. Students who are late for school assembly will be booked. Students who are very late for school i.e. after the first period begins, will be booked for skipping lessons.
+
+  
+
+● Students who arrive after the end of morning assembly must register at the guard post and obtain a late-coming green slip before they can proceed to join their class.  Students caught bypassing the guard post without obtaining a green slip will face more severe consequences. 
+
+  
+
+● Students are expected to be in their respective classrooms for lessons within five minutes of the school bell. Students who are late without a valid reason will be booked.
+
+  
+
+● Students are not to leave the school premises before the dismissal bell without special permission from their Form Teacher/HOD Discipline/VP/P. In the event that the student is unwell and needs to leave the school early, his or her parent or guardian will be contacted and the student is expected to produce a MC the next day. When special permission is granted, students must proceed to the General Office to sign out before leaving school.
+
+  
+
+● Co-Curricular Activities (CCA) are an integral part of our students’ holistic education and CCA participation is compulsory for all students. Missing CCA sessions without valid reasons is considered the same offence as skipping lessons. Students who fail to support their absence with an MC will be booked for skipping CCA.
+
+
+##### II  DAILY ASSEMBLIES
 
 A student spends most of his/her time in the classroom as it is the main place for academic learning. Hence a student’s behaviour and attitude in this space should be a positive reflection of his/her attitude towards learning. Form and Subject teachers convey expectations to students of the right way to behave so that everyone can learn effectively.   
 
@@ -71,16 +98,33 @@ _Students need to take ownership of their learning by being present and punctual
 
 _Morning assemblies are meant for the student body to gather together as a school community. During this time, students show their love for the country through the singing of the National Anthem and reciting of the Pledge. Daily devotions follow after this as a means for students to learn values and appreciate God._
 
+  
 
-
-*   When the music plays to signal assembly time, students are to assemble in the parade square. 
-*   By the first bell, students should already be seated according to index number in their classes at the parade square. All Form Teachers will then mark attendance with the assistance of their Class Chairperson. Students who are not at the parade square by the second bell will be considered late. 
-*   Students must be in full school uniform for morning assembly. Only students who are having PE are allowed to come in half-uniform (except on Tuesdays). Attire (includes grooming) checks will be conducted daily. Students with improper attire will be booked. Students whose attire or grooming cannot be rectified on the spot may be sent home for rectification. 
-*   Boys are to put on their ties on chapel days and for special school functions to show their respect for the solemnity of the occasion. 
-*   Students must stand at attention during the National Anthem and Pledge-taking. Students who are Singapore citizens must sing the National Anthem and take the Pledge, which is recited with the right fist placed over the heart. 
-*   Students must sing the School Song with pride and respect to demonstrate their commitment to the school community.
+● When the music plays to signal assembly time, students are to assemble in the parade square.
 
   
+
+● By the first bell, students should already be seated according to index number in their classes at the parade square. All Form Teachers will then mark attendance.  Students who are not at the parade square by the start of morning assembly will be considered late.
+
+  
+
+● Students must be in full school uniform for morning assembly. Only students who are having PE are allowed to come in half-uniform (except on chapel days). Attire (includes grooming) checks will be conducted daily. Students with improper attire will be booked. Students whose attire or grooming cannot be rectified on the spot may be sent home for rectification.
+
+  
+
+● Boys are to put on their ties on chapel days and for special school functions to show their respect for the significance of the occasion.
+
+  
+
+● Students must stand at attention during the National Anthem and Pledge-Taking. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
+
+  
+
+● Students must sing the school song with pride and respect to demonstrate their commitment to the school community.
+
+
+
+
 
 ##### C. CHAPEL / FAIRSIANS CONNECT
 
