@@ -4,6 +4,7 @@ permalink: /parents/administrative-matters/parents-gateway-guide/
 description: ""
 third_nav_title: Administrative Matters
 ---
+
 ### Parents Gateway Guide
 
 <img src="/images/pgg1.png" style="width:70%">
@@ -16,6 +17,6 @@ third_nav_title: Administrative Matters
 <img src="/images/pgg8.png" style="width:70%">
 <img src="/images/pgg9.png" style="width:70%">
 
-[Parents Guide for PG Travel Declaration.pptx](https://fairfieldmethodistsec.moe.edu.sg/qql/slot/u618/2020/Parents/Administration%20&%20Forms/PG%20User%20Guide%20for%20Travel%20Declaration/Parents%20Guide%20for%20PG%20Travel%20Declaration.pptx)
+[Parents Guide for PG Travel Declaration.pptx]
+(/files/Parents/Admin%20Matters/2023/Parents%20Guide%20for%20PG%20Travel%20Declaration.pdf)
 
-Upload PPT slides here.
