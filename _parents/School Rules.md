@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Rules
 
-#### Rules & Regulations
+### Rules & Regulations
 
 
 ##### I ATTENDANCE AND PUNCTUALITY
@@ -44,58 +44,6 @@ _Students need to take ownership of their learning by being present and punctual
 
 ##### II  DAILY ASSEMBLIES
 
-A student spends most of his/her time in the classroom as it is the main place for academic learning. Hence a student’s behaviour and attitude in this space should be a positive reflection of his/her attitude towards learning. Form and Subject teachers convey expectations to students of the right way to behave so that everyone can learn effectively.   
-
-
-Teachers can address and record any student offences during curriculum time. Students with repeated offences will need to take progressive corrective measures to demonstrate their commitment to be part of this learning community. Any student who fails to heed the warning of the teachers and/or commits any major offence will be referred to the Discipline Team for further action.
-
-
-##### 1.3  Forms of Corrective Measures
-
-Corrective measures are used to help students understand both the consequences of their actions and the right values on which their actions should be based. Corrective measures are a form of deterrence and a way to teach students to respect the school, the school staff and their peers. Hence, the severity of corrective measures will escalate depending on a student’s behaviour and attitude.
-
-
-
-##### *   DETENTION
-
-Detention sessions take place after curriculum time in the afternoons, under adult supervision. These are opportunities for students to serve the school, reflect on their actions, learn from their mistakes, poor behaviour or attitude and to change for the better. The duration of each session is one hour and students will be assigned tasks to keep the school clean.
-
-
-
-##### *   CANING
-
-Caning is meted out to male students who have committed major offences. It will usually take place in the Vice-Principal’s Office. Depending on the severity of the offence, subsequent caning may be carried out in classrooms, at level assemblies or in front of the whole school.
-
-
-##### *   OTHERS 
-
-Other forms of corrective measures include drawing up a self-discipline plan, in-house/home suspension, and expulsion. 
-
-Counselling will be availed to students who need the support as it will equip them with skills to cope with their problems.
-
-
-#### 2\. RULES & REGULATIONS
-
-##### A. ATTENDANCE AND PUNCTUALITY
-
-_Students need to take ownership of their learning by being present and punctual for lessons. Students who come late will lose out on valuable learning time._
-
-*   Attendance in school is compulsory. Absence from school is permitted only when it is supported by a medical certificate or a parent’s letter with valid reasons. Students should not submit more than three excuse letters per term. Absence without valid reasons will be deemed as truancy. 
-
-*   If students wish to leave or absent themselves from school for private matters, parents need to apply for leave of absence for their child through his/her Form Teacher. Permission will be granted on a case-by-case basis by the P/VPs. 
-
-*   Students must be punctual for all school functions, lessons and CCAs. Students who are late for school assembly will be booked. Students who are very late for school i.e. after the first period begins, will be booked for skipping lessons. 
-*   Students who arrive after the end of morning assembly must register at the guard post and obtain a late-coming green slip before they can proceed to join their class.
-*   Students are expected to be in their respective classrooms for lessons within five minutes of the school bell. Students who are late without a valid reason will be booked.
-
-*   Students are not to leave the school premises before the dismissal bell without special permission from their Form Teacher/HOD Discipline/VP/P. In the event that the student is unwell and needs to leave the school early, his/her parent/guardian will be contacted and the student is expected to produce a Medical Certificate the next day. When special permission is granted, students must proceed to the General Office to sign out before leaving school. 
-
-*   CCAs are an integral part of our students’ holistic education and CCA participation is compulsory for all students. Missing CCA sessions without valid reasons is considered the same offence as skipping lessons. Students who fail to support their absence with an MC will be booked for skipping CCAs.
-
-
-
-##### B. DAILY ASSEMBLIES
-
 _Morning assemblies are meant for the student body to gather together as a school community. During this time, students show their love for the country through the singing of the National Anthem and reciting of the Pledge. Daily devotions follow after this as a means for students to learn values and appreciate God._
 
   
@@ -124,7 +72,7 @@ _Morning assemblies are meant for the student body to gather together as a schoo
 
 
 
-####   CLASSROOM BEHAVIOUR
+###   CLASSROOM BEHAVIOUR
 
 ##### I CONDUCT IN CLASSROOMS & LABORATORIES
 
@@ -141,7 +89,7 @@ _The school aims to provide a safe and conducive environment for all the student
 <img src="/images/attire1.png" style="width:60%">
 <img src="/images/attire2.png" style="width:60%">
 
-#### PERSONAL GROOMING
+### PERSONAL GROOMING
 
 _An individual shows his/her commitment to the community by presenting himself/herself in a common and easily recognisable manner. Students show that they are proud of their identities as ambassadors of the school by dressing appropriately and respectfully._
 
@@ -238,7 +186,7 @@ The school believes that it is important for students to show empathy and unders
 
   
 
-##### USE OF MOBILE PHONES, ELECTRONIC COMMUNICATION DEVICES, AND TECHNOLOGY
+### USE OF MOBILE PHONES, ELECTRONIC COMMUNICATION DEVICES, AND TECHNOLOGY
 
 _Students are to be discerning, prudent and responsible in their use of technology. Students demonstrate their commitment to community when they consider the impact their online activities have on others._
 
@@ -274,14 +222,14 @@ _Students are to be discerning, prudent and responsible in their use of technolo
 
   
 
-##### DISALLOWED ITEMS
+### DISALLOWED ITEMS
 
 *   Students are not allowed to bring items used for gambling purposes.
 *   Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to self or others.
 
   
 
-##### THE CANTEEN
+### THE CANTEEN
 
 _Students are to show courtesy to others during recess time. They show their commitment to the community by maintaining a conducive environment for their peers and teachers to enjoy their break time and their food._ 
 
