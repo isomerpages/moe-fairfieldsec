@@ -16,39 +16,121 @@ third_nav_title: Form Teachers
 <div>
 
 <p> 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation</th></tr></thead><tbody><tr>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Chan Xin Hui Charmaine</td>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Form Teacher</span></td></tr><tr>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">&nbsp;</td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></td></tr><tr><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject Teachers</td><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject</td></tr><tr>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Chew Kwai Hoong Gary</td>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">English</span></td></tr><tr>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Nio Qing Hui Brenda</td>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Literature</span></td></tr><tr>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Uma Devi D/O Muthamilan</td>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Geography</span></td></tr><tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Chan Xin Hui Charmaine</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">History</span></td></tr><tr>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;</td>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Chinese</span></td></tr><tr>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Zhang Lu</td>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Higher Chinese</span></td></tr><tr>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Teo-Tan Li Ling Terri</td>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Science</span></td></tr><tr>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Lee Shu Pei</td>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Mathematics</span></td></tr><tr>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Dannish Kurniago</td>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Design and Technology</span></td></tr><tr>
-                        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Yap Hock Heng</td>
-                        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"></span>Design and Technology</td></tr><tr>
-                          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Heng Khim Liang Amos</td>
-                          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Music</span></td></tr><tr>
-                            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Art RT</td>
-                            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Art</span></td></tr>
-                          <tr>
-                            <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Tan Zhiwei</td>
-                            <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Physical Education</span></td>
-                          </tr>
-                          </tbody>
+<table style="width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Ms Chan Xin Hui Charmaine</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td style="text-align: left; ">
+</td>
+<td style="text-align: left; "><br>
+</td>
+</tr>
+<tr>
+<th><b>Subject Teachers</b>
+</th>
+<th><b>Subject</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Chew Kwai Hoong Gary</b><br>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td><b>Ms Nio Qing Hui Brenda</b>
+</td>
+<td>Literature
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Ms Uma Devi D/O Muthamilan</b><b></b>
+</td>
+<td style="text-align: left; ">Geography
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Chan Xin Hui Charmaine</b>
+</td>
+<td style="text-align: left; ">
+History
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms&nbsp; Zhang Lu</b>
+</td>
+<td style="text-align: left; ">Higher Chinese
+</td>
+</tr>
+<tr>
+<td><b>Ms Chong Ning Shuang</b>
+</td>
+<td>Chinese
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Teo-Tan Li Ling Terri</b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Lee Shu Pei</b>
+</td>
+<td style="text-align: left; ">
+Mathematics
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Dannish Kurniago</b>
+</td>
+<td style="text-align: left; ">
+Design and Technology
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Yap Hock Heng</b>
+</td>
+<td style="text-align: left; ">
+Design and Technology
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Heng Khim Liang Amos</b>
+</td>
+<td style="text-align: left; ">
+Music
+</td>
+</tr>
+<tr>
+<td><b>Mr Soon Mah Kit</b>
+</td>
+<td>Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Tan Zhiwei</b>
+</td>
+<td style="text-align: left; ">
+PE
+</td>
+</tr>
+</tbody>
 </table>
 </p>
 </div>
@@ -61,31 +143,121 @@ third_nav_title: Form Teachers
 <label for="accordion2">Sec 2B</label>
 <div>
 
-<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation</th></tr></thead><tbody><tr>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Tan Siok Hoon</td>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Form Teacher</span></td></tr><tr>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">&nbsp;</td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></td></tr><tr><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject Teachers</td><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject</td></tr><tr>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Nio Qing Hui</td>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">English</span></td></tr><tr>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Tan Sor Tin</td>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Literature</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Yee Suet Fong Dawn</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Geography</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">Ms Chan Xin Hui Charmaine</span></td>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">History</span> </td></tr><tr>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Shang Xiaomeng</td>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Chinese</span></td></tr><tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Tan Siok Hoon</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Science</span></td></tr><tr>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Kho Eng Kiong Patrick</td>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Science</span></td></tr><tr>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Lim Nina</td>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Mathematics</span></td></tr><tr>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Juliana Bte Jamil</td>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Food and Consumer Education</span></td></tr><tr>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Tan Eeok Kooi Katherine</td>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Food and Consumer Education</td></tr><tr>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Heng Khim Liang Amos</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Music</span></td></tr><tr>
-                        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Tham Xue Ping Desiree</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Art</span></td></tr><tr>
-                          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Ng Hun Boon Francis</td>
-                          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Physical Education</span></td></tr></tbody></table>
+<p>
+	<table style="width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Ms Tan Siok Hoon</b><b></b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>  
+</tr>
+<tr>
+<th><b>Subject Teachers</b>
+</th>
+<th><b>Subject</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms&nbsp;</b><b>Nio Qing Hui Brenda</b><b></b>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Tan Sor Tin</b>
+</td>
+<td style="text-align: left; ">Literature
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm&nbsp;Yee Suet Fong Dawn</b><b style="color: rgb(0, 0, 0);"></b><b>
+</b>
+</td>
+<td style="text-align: left; ">
+Geography
+</td>
+</tr>
+<tr>
+<td><b style="color: rgb(46, 46, 46);">Ms Chan Xin Hui Charmaine</b><b></b>
+</td>
+<td><span style="background-color: rgb(255, 242, 204);">History</span>
+</td>
+</tr>
+<tr>
+<td><b>Ms Shang Xiaomeng</b>
+</td>
+<td>Chinese
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Ms Tan Siok Hoon</b><b></b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td><b>Mr Kho Eng Kiong<span>&nbsp;Patrick</span></b>
+</td>
+<td>Science&nbsp;
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Lim Nina</b><b style="color: rgb(0, 0, 0);"></b><b>
+</b>
+</td>
+<td style="text-align: left; ">
+Mathematics
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Juliana Bte Jamil</b>
+</td>
+<td style="text-align: left; ">
+Food &amp; Consumer Education
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Tan Geok Kooi Katherine</b>
+</td>
+<td style="text-align: left; ">Food &amp; Consumer Education
+</td>
+</tr>
+<tr>
+<td><b>Mr Heng Khim Liang Amos</b>
+</td>
+<td>Music
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Tham Xue Ping Desiree</b>
+</td>
+<td style="text-align: left; ">
+Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Ng Hun Boon Francis</b>
+</td>
+<td style="text-align: left; ">
+PE
+</td>
+</tr>
+</tbody>
+</table>
 	</p>
 
 </div>
@@ -99,29 +271,122 @@ third_nav_title: Form Teachers
 <label for="accordion3">Sec 2C</label>
 <div>
 
-<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation</th></tr></thead><tbody><tr>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Yee Suet Fong Dawn</td>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Form Teacher</span></td></tr><tr>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Yen Ding Yi</td>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Form Teacher</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></td></tr><tr><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject Teachers</td><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject</td></tr><tr>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Nio Qing Hui Brenda</td>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">English</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Tan Sor Tin</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Literature</span></td></tr><tr>
-        <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Yee Suet Fong Dawn</td>
-        <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Geography</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">Ms Chan Xin Hui Charmaine</span><span style="color:#2E2E2E;background-color:#FFF5D5"> </span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">History</span></td></tr><tr>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Yen Dingyi</td>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Chinese</span></td></tr><tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Lim Yuen Tuck</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Science</span></td></tr><tr>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Lee Shu Pei</td>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Mathematics</span></td></tr><tr>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Dannish Kurniago</td>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Design and Technology</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Yap Hock Heng</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Design and Technology</span></td></tr><tr>
-                  <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Heng Khim Liang Amos</td>
-                  <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Music</span></td></tr><tr>
-                    <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Art RT</span></td>
-                    <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Art</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">Ms Tham Xue Ping Desiree</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Art</span></td></tr><tr>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Tan Zhiwei</td>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Pysical Education</span></td></tr></tbody></table>
+<p>
+	<table style="text-align: justify; width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left;"><b style="color: rgb(0, 0, 0);">Mdm Yee Suet Fong Dawn</b>
+</td>
+<td style="text-align: left;">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td><b>Ms Yen Ding Yi</b>
+</td>
+<td>Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0pxx none;"><br>
+</td>  
+</tr>
+<tr>
+<th><b>Subject Teachers</b>
+</th>
+<th><b>Subject</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Nio Qing Hui Brenda</b>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Tan Sor Tin</b>
+</td>
+<td style="text-align: left; ">
+Literature
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mdm&nbsp;Yee Suet Fong Dawn</b><b></b>
+</td>
+<td style="text-align: left; ">
+Geography
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Ms Chan Xin Hui Charmaine</b><b></b>
+</td>
+<td style="text-align: left; ">
+History
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Yen Ding Yi</b>
+</td>
+<td style="text-align: left; ">
+Chinese
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Lim Yuen Tuck</b><b></b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mdm Lee Shu Pei</b><b></b>
+</td>
+<td style="text-align: left; ">
+Mathematics
+</td>
+</tr>
+<tr>
+<td><b>Mr&nbsp;Dannish Kurniago</b>
+</td>
+<td>Design and Technology
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Yap Hock Heng</b>
+</td>
+<td style="text-align: left; ">
+Design and Technology
+</td>
+</tr>
+<tr>
+<td><b>Mr Heng Khim Liang Amos</b>
+</td>
+<td>&nbsp;Music
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Soon Mah Kit</b>
+</td>
+<td style="text-align: left; ">
+Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Tan Zhiwei</b><b></b>
+</td>
+<td style="text-align: left; ">
+PE
+</td>
+</tr>
+</tbody>
+</table>
 </p>
 
 </div>
@@ -135,36 +400,123 @@ third_nav_title: Form Teachers
 <label for="accordion4">Sec 2D </label>
 <div>
 
-<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation</th></tr></thead><tbody><tr>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Haliza Bte Abdul Hamid Khan</td>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Form Teacher</span></td></tr><tr>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">&nbsp;</td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></td></tr><tr><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject</td><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject Teachers</td></tr><tr>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Lee Xiao-En Tabitha</td>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">English</span></td></tr><tr>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Nio Qing Hui Brenda</td>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Literature</span></td></tr><tr>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Yee Suet Fong Dawn</td>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Geography</span></td></tr><tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Chan Xin Hui Charmaine</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">History</span></td></tr><tr>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Wong Jia Xian</td>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Chinese</span></td></tr><tr>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Samsiah Bte Mohamed Diah</td>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Malay</span></td></tr><tr>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Teo-Tan Li Ling</td>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Science</span></td></tr><tr>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Haliza Bte Abdul Hamid Khan</td>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Mathematics</span></td></tr><tr>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Juliana Bte Jamil</td>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Food and Consumer Education</span></td></tr><tr>
-                        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Tan Eeok Kooi Katherine</td>
-                        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Food and Consumer Education</td></tr><tr>
-                          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Heng Khim Liang Amos</td>
-                          <td style="background-color:#FFF2CC;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color: #000">Music</span></td></tr><tr>
-                          <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Art RT</td>
-                          <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color: #000; background-color: #FFF">Art</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#000">Mdm Lim Shih Haan Johanna Noella</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Music</span></td></tr><tr>
-                            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Ng Hun Boon Francis</td>
-                            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Physical Education</span></td></tr></tbody></table>
+<p>
+	<table style="text-align: justify; width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Mdm Haliza Bte Abdul Hamid Khan</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>  
+</tr>
+<tr>
+<th><b>Subject</b>
+</th>
+<th><b>Subject Teachers</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Lee Xiao-En Tabitha</b>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms&nbsp;Nio Qing Hui Brenda</b>
+</td>
+<td style="text-align: left; ">Literature
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mdm&nbsp;Yee Suet Fong Dawn</b><b></b>
+</td>
+<td style="text-align: left; ">
+Geography
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Liew Koon Ern William Isaac</b><b></b>
+</td>
+<td style="text-align: left; ">
+History
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Wong Jia Xian</b>
+</td>
+<td style="text-align: left; ">
+Chinese
+</td>
+</tr>
+<tr>
+<td><b>Ms Samsiah Bte Mohamed Diah</b>
+</td>
+<td>Malay
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Teo-Tan Li Ling Terri</b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Haliza Bte Abdul Hamid Khan</b><b></b>
+</td>
+<td style="text-align: left; ">
+Mathematics
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Juliana Bte Jamil</b>
+</td>
+<td style="text-align: left; ">
+Food &amp; Consumer Education
+</td>
+</tr>
+<tr>
+<td><b>Mrs Tan Geok Kooi Katherine</b>
+</td>
+<td>Food &amp; Consumer Education<span style="background-color: rgb(255, 242, 204);"><span style="color: rgb(0, 0, 0);"></span></span>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Heng Khim Liang Amos</b><b></b>
+</td>
+<td style="text-align: left; ">
+Music
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Soon Mah Kit</b>
+</td>
+<td style="text-align: left; ">
+Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Ng Hun Boon Francis</b><b></b>
+</td>
+<td style="text-align: left; ">
+PE
+</td>
+</tr>
+</tbody>
+</table>
 	</p>
 
 </div>
@@ -179,36 +531,121 @@ third_nav_title: Form Teachers
 <div>
 
 <p>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation</th></tr></thead><tbody><tr>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Chew Kwai Hoong Gary</td>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Form Teacher</span></td></tr><tr>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">&nbsp;</td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></td></tr><tr><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject Teachers</td><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject</td></tr><tr>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Lee Xiao-En Tabitha</td>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">English</span></td></tr><tr>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Nio Qing Hui Brenda</td>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Literature</span></td></tr><tr>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Yee Suet Fong Dawn</td>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Geography</span></td></tr><tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Chan Xin Hui Charmaine</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">History</span></td></tr><tr>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Ezal Bin Sani</td>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">History</span></td></tr><tr>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Wong Jia Xian</td>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Chinese</span></td></tr><tr>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Zhang Lu</td>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Higher Chinese</span></td></tr><tr>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Ho-Leong Yuet Lim Rosalind</td>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">Science</span><span style="background-color:#FFF"> </span></td></tr><tr>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Haliza Bte Abdul Hamid Khan</td>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Mathematics</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Woo Chee Keong Alex</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Design and Technology</span></td></tr><tr>
-                        <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Yap Hock Heng</td>
-                        <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Design and Technology</span></td></tr><tr>
-                          <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Heng Khim Liang Amos</td>
-                          <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Music</span></td></tr><tr>
-                            <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Tham Xue Ping Desiree</td>
-                            <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Music</span></td></tr><tr>
-                              <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Tan Zhiwei</td>
-                              <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Physical Education</span></td></tr></tbody></table>	
+	<table style="text-align: justify; width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Mr Chew Kwai Hoong Gary</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>  
+</tr>
+<tr>
+<th><b>Subject Teachers</b>
+</th>
+<th><b>Subject</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Lee Xiao-En Tabitha</b><b></b>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms&nbsp;Nio Qing Hui Brenda</b><b></b>
+</td>
+<td style="text-align: left; ">
+Literature
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Ms Uma Devi D/O Muthamilan</b><b></b>
+</td>
+<td style="text-align: left; ">
+Geography
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Chew Kwai Hoong Gary<span style="white-space:pre">	</span></b>
+</td>
+<td style="text-align: left; ">History
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Zhang Lu</b>
+</td>
+<td style="text-align: left; ">Higher Chinese
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Wong Jia Xian</b>
+</td>
+<td style="text-align: left; ">Chinese
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Ho-Leong Yuet Lim Rosalind</b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Haliza Bte Abdul Hamid Khan</b><b></b>
+</td>
+<td style="text-align: left; ">
+Mathematics
+</td>
+</tr>
+<tr>
+<td><b>Mr Woo Chee Keong Alex</b>
+</td>
+<td>Design and Technology
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Yap Hock Heng
+</b>
+</td>
+<td style="text-align: left; ">
+Design and Technology
+</td>
+</tr>
+<tr>
+<td><b>Mr Heng Khim Liang Amos</b>
+</td>
+<td>Music
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Tham Xue Ping Desiree</b><b></b>
+</td>
+<td style="text-align: left; ">
+Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Tan Zhiwei</b>
+</td>
+<td style="text-align: left; ">
+PE
+</td>
+</tr>
+</tbody>
+</table>
 </p>
 
 </div>
@@ -223,41 +660,173 @@ third_nav_title: Form Teachers
 <div>
 
 <p>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation</th></tr></thead><tbody><tr>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Lim Chee Chin</td>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Form Teacher</span></td></tr><tr>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Kua Khuan Tiong</td>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">Form Teacher</span><span style="background-color:#FFF"> </span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></td></tr><tr><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject Teachers</td><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject</td></tr><tr>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Khoo Khai Shee Yvonne</td>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">English</span></td></tr><tr>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Chew Kwai Hoong Gary</td>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">English</span><span style="background-color:#FFF"> </span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Khoo Khai Shee Yvonne</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Literature</span></td></tr><tr>
-          <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Yee Suet Fong Dawn</td>
-          <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Geography</span></td></tr><tr>
-            <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Chan Xin Hui Charmaine</td>
-            <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">History</span></td></tr><tr>
-              <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Ezal Bin Sani</td>
-              <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">History</span></td></tr><tr>
-                <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Shang Xiaomeng</td>
-                <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Chinese</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Yen Ding Yi</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Chinese</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Shang Xiaomeng</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Chinese</span></td></tr><tr>
-                  <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm Lim Chee Chin</td>
-                  <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Science</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Kho Eng Kiong Patrick</td><td style="background-color:#FFF2CC;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">Science</span><span style="background-color:#FFF2CC"> </span></td></tr><tr>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Lim Yuen Tuck</td>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Science</span></td></tr><tr>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Kua Khuan Tiong</td>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Mathematics</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Paul Tarwasokono</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#2E2E2E">Mathematics</span><span style="background-color:#FFF"> </span></td></tr><tr>
-                        <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Elijah-Lily Cleaopatra</td>
-                        <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Food and Consumer Education</span></td></tr><tr>
-                          <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mdm  Juliana Bte Jamil</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Food and Consumer Education</td></tr><tr>
-                            <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Tan Geok Kooi Katherine</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Food and Consumer Education</span></td></tr><tr>
-                              <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Heng Khim Liang Amos</td>
-                              <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Music</span></td></tr><tr>
-                                <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Tham Xue Ping Desiree</td>
-                                <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Art</span></td></tr>
-                              <tr>
-                                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Tan Zhiwei</td>
-                                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Physical Education</span></td>
-                              </tr>
+<table style="text-align: justify; width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Ms Lim Chee Chin</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td><b>Mr Kua Khuan Tiong</b>
+</td>
+<td>Form Teacher&nbsp;
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>  
+</tr>
+<tr>
+<th><b>Subject Teachers</b>
+</th>
+<th><b>Subject</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Khoo Khai Shee Yvonne</b>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td><b style="color: rgb(46, 46, 46);">Mr Chew Kwai Hoong Gary</b>
+</td>
+<td>English
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mdm Khoo Khai Shee Yvonne</b><b></b>
+</td>
+<td style="text-align: left; ">
+Literature
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm&nbsp;Yee Suet Fong Dawn</b><b style="color: rgb(0, 0, 0);"></b><b></b>
+</td>
+<td style="text-align: left; ">
+Geography
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Wong Jiayi</b>
+</td>
+<td style="text-align: left; ">Geography
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Chan Xin Hui Charmaine</b><b></b>
+</td>
+<td style="text-align: left; ">History
+</td>
+</tr>
+<tr>
+<td><b>Mr Ezal Bin Sani</b>
+</td>
+<td>History&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Mr Chew Kwai Hoong Gary<span style="white-space:pre">	</span></b>
+</td>
+<td>History&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Ms Shang Xiaomeng</b>
+</td>
+<td>Chinese
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Lim Chee Chin</b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td><b>Mr Kho Eng Kiong Patrick</b>
+</td>
+<td>Science<br>
+</td>
+</tr>
+<tr>
+<td><b>Mr Lim Yuen Tuck</b>
+</td>
+<td>Science
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Kua Khuan Tiong</b>
+</td>
+<td style="text-align: left; ">
+Mathematics
+</td>
+</tr>
+<tr>
+<td><b style="color: rgb(0, 0, 0);">Mr Paul Tarwasokono</b>
+</td>
+<td>Mathematics
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Elijah-Lily Cleaopatra</b>
+</td>
+<td style="text-align: left; ">
+Food &amp; Consumer Education
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Juliana Bte Jamil</b>
+</td>
+<td style="text-align: left; ">Food &amp; Consumer Education
+</td>
+</tr>
+<tr>
+<td><b>Mrs Tan Geok Kooi Katherine</b>
+</td>
+<td>Food &amp; Consumer Education&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Mr Heng Khim Liang Amos</b>
+</td>
+<td>Music
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Tham Xue Ping Desiree</b><b>
+</b>
+</td>
+<td style="text-align: left; ">
+Art
+</td>
+</tr>
+<tr>
+<td><b>Mr Soon Mah Kit</b>
+</td>
+<td>Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mr Tan Zhiwei</b><b></b>
+</td>
+<td style="text-align: left; ">
+PE
+</td>
+</tr>
 </tbody>
 </table>
 </p>
@@ -274,49 +843,172 @@ third_nav_title: Form Teachers
 <div>
 
 <p>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation</th></tr></thead><tbody><tr>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Tan Zhi Wei</td>
-  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Form Teacher</span></td></tr><tr>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Teo-Tan Li Ling Terri</td>
-    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Form Teacher</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2"></td></tr><tr><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject Teachers</td><td style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Subject</td></tr><tr>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Lee Chiew Yi</td>
-      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">English</span></td></tr><tr>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Liew Koon Ern William Isaac</td>
-        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Social Studies</span></td></tr><tr>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Ezal Bin Sani</td>
-          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Social Studies</span></td></tr><tr>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Lee Sok Fun</td>
-            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color: #000; background-color: #FFF">Basic Chinese</span></td></tr><tr>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Siti Ainah Bte Maduri</td>
-              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color: #2E2E2E; background-color: #FFF5D5">Basic Malay</span></td></tr><tr>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mrs Teo-Tan Li Ling Terri</td>
-                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Science</span></td></tr><tr>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Koh Wei Shan Clarissa</td>
-                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Science </span></td></tr><tr>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Ang Yuan Peng</td>
-                    <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Science</span></td></tr><tr>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Chia Wey Ling Vincent</td>
-                      <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Mathematics</span></td></tr><tr>
-                        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Paul Tarwasokono</td>
-                        <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color: #000; background-color: #FFF">Mathematics</span></td></tr><tr>
-                          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Quek Chin Wee James</td>
-                          <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Computer Applications</span></td></tr><tr>
-                            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Tan Li Ming Glen</td>
-                            <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Computer Applications</td></tr><tr>
-                              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Yap Hock Heng</td>
-                              <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Design and Technology</span></td></tr><tr>
-                                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Woo Chee Keong Alex</td>
-                                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Design and Technology </span></td></tr>
-                              <tr>
-                                <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Heng Khim Liang Amos</td>
-                                <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Music</span></td>
-                              </tr>
-                              <tr>
-                                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Tham Xue Ping Desiree</td>
-                                <td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Art</span></td></tr><tr>
-                                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Tan Zhiwei</td>
-                                  <td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Physical Education</span></td></tr></tbody></table>	
-	
+<table style="text-align: justify; width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mr Tan Zhi Wei</b><b></b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Mrs Teo-Tan Li Ling Terri</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>  
+</tr>
+<tr>
+<th><b>Subject Teachers</b>
+</th>
+<th><b>Subject</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Lee Chiew Yi</b>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Liew Koon Ern William Isaac</b>
+</td>
+<td style="text-align: left; ">
+Social Studies
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mdm Yee Suet Fong Dawn<span style="white-space:pre">	</span></b>
+</td>
+<td style="text-align: left; ">
+Social Studies
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms&nbsp;</b><b style="color: rgb(0, 0, 0);">Lee Sok Fun</b>
+</td>
+<td style="text-align: left; ">
+Basic Chinese
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms
+Siti Ainah Bte Maduri</b>
+</td>
+<td style="text-align: left; ">
+Basic Malay
+</td>
+</tr>
+<tr>
+<td><b>Ms Samsiah Bte Mohamed Diah</b>
+</td>
+<td>Malay
+</td>
+</tr>
+<tr>
+<td><b>Ms Shang Xiaomeng</b>
+</td>
+<td>CL (N)
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Teo-Tan Li Ling Terri</b><b style="color: rgb(0, 0, 0);"></b><b style="color: rgb(0, 0, 0);"></b><b></b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Koh Wei Shan Clarissa</b>
+</td>
+<td style="text-align: left; ">
+Science
+</td>
+</tr>
+<tr>
+<td><b>Mr Ang Yuan Peng</b>
+</td>
+<td>Science
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="background-color: rgb(255, 242, 204);">Mr</b><b style="background-color: rgb(255, 242, 204);">&nbsp;</b><b>Chia Wey Ling Vincent</b>
+</td>
+<td style="text-align: left; ">
+Mathematics
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mr Quek Chin Wee James</b><b></b>
+</td>
+<td style="text-align: left; ">
+Computer Applications
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr Tan Li Ming Glen</b><b></b>
+</td>
+<td style="text-align: left; ">
+Computer Applications
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Yap Hock Heng</b>
+</td>
+<td style="text-align: left; ">
+Design and Technology
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr Woo Chee Keong Alex</b><b></b>
+</td>
+<td style="text-align: left; ">
+Design and Technology
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mr Heng Khim Liang Amos</b><b></b>
+</td>
+<td style="text-align: left; ">
+Music
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Ms Tham Xue Ping Desiree</b><b>
+</b>
+</td>
+<td style="text-align: left; ">
+Art
+</td>
+</tr>
+<tr>
+<td><b>Mr Soon Mah Kit</b>
+</td>
+<td>Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Tan Zhiwei</b>
+</td>
+<td style="text-align: left; ">
+PE
+</td>
+</tr>
+</tbody>
+</table>
 </p>
 
 </div>
