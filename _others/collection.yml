@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - 2023 Textbook and Stationery List.md
       - Principal's Message (1st item under About Us).md
       - Information for Sec 1 2022/Overview.md
       - Information for Sec 1 2022/.keep
