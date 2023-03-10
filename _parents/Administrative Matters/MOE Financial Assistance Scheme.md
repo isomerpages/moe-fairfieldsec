@@ -46,8 +46,5 @@ If you have any queries, please contact the school at 67788702 or fmss@moe.edu.s
 
 #### Application Forms
 
-• [Application Form for MOE-FAS](/files/fas1.pdf)
+[Revised Application Form for MOE-FAS](/files/fas1.pdf)
 
-• [Application Form for NEU-PC Plus Programme](/files/fas2.pdf)
-
-  
