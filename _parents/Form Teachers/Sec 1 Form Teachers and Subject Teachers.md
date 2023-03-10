@@ -978,7 +978,7 @@ PE
 </li>
 	
 	
-	
+<li>	
 <input id="accordion8" type="checkbox">
 
 <label for="accordion8">Sec 1 Unity (Sec 1E, 1F, 1G, 1H)</label>
