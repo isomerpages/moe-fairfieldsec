@@ -816,81 +816,6 @@ PE
 </li>
 	
 
-<li>
-	
-<input id="accordion8" type="checkbox">
-
-<label for="accordion8">Sec 1G</label>
-<div>
-
-<p>
-<table class="ive_eobj_center iveo_table ives_tab_1" style="color: rgb(46, 46, 46); width: 752.474px;">
-<tbody>
-<tr>
-<th style="width: 414px;"><b>Name</b>
-</th>
-<th style="width: 338px;"><b>Designation</b>
-</th>
-</tr>
-<tr>
-<td><b>Mrs Ho-Leong Yuet Lim Rosalind</b>
-</td>
-<td>Form Teacher
-</td>
-</tr>
-<tr>
-<td><b>Ms Shang Xiaomeng</b>
-</td>
-<td>Form Teacher
-</td>
-</tr>
-<tr>
-<td colspan="2" style="border: 0px none;"><br>
-</td>
-</tr>
-<tr>
-<th><b>Subject Teachers</b>
-</th>
-<th><b>Subject</b>
-</th>
-</tr>
-<tr>
-<td><b>Mr&nbsp;</b><b></b><b style="color: rgb(46, 46, 46);">Heng Khim Liang Amos</b>
-</td>
-<td>Music
-</td>
-</tr>
-<tr>
-<td><b style="color: rgb(0, 0, 0);">Mr Woo Chee Keong Alex</b>
-</td>
-<td>Design and Technology
-</td>
-</tr>
-<tr>
-<td><b>Mr Chua Chang Fong</b>
-</td>
-<td>Design and Technology
-</td>
-</tr>
-<tr>
-<td><b>M</b><b>s Tham Xue Ping Desiree</b>
-</td>
-<td>Art
-</td>
-</tr>
-<tr>
-<td><b>Mr Loh Youn Leong Eric</b><b></b>
-</td>
-<td>PE
-</td>
-</tr>
-</tbody>
-</table>
-</p>
-
-</div>
-
-</li>
 
 <li>
 	
@@ -1053,7 +978,6 @@ PE
 </li>
 	
 	
-	<li>
 	
 <input id="accordion8" type="checkbox">
 
