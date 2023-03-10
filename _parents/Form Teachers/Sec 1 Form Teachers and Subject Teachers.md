@@ -974,33 +974,36 @@ PE
 	
 <input id="accordion8" type="checkbox">
 
-<label for="accordion8">Sec 1G</label>
+<label for="accordion8">Sec 1H</label>
 <div>
 
 <p>
-<table class="ive_eobj_center iveo_table ives_tab_1" style="color: rgb(46, 46, 46); width: 752.474px;">
+<table style="width: 727px; height: 313px;" class="ive_eobj_center iveo_table ives_tab_1">
 <tbody>
 <tr>
-<th style="width: 414px;"><b>Name</b>
+<th style="width: 393px;"><b>Name</b>
 </th>
-<th style="width: 338px;"><b>Designation</b>
+<th style="width: 333px;"><b>Designation</b>
 </th>
 </tr>
 <tr>
-<td><b>Mrs Ho-Leong Yuet Lim Rosalind</b>
+<td style="text-align: left; "><b>
+Mdm Foo Choon Huay Serena</b>
 </td>
-<td>Form Teacher
+<td style="text-align: left; ">
+Form Teacher
 </td>
 </tr>
 <tr>
-<td><b>Ms Shang Xiaomeng</b>
+<td style="text-align: left; "><b>Ms Zhang Lu</b><br>
 </td>
-<td>Form Teacher
+<td style="text-align: left; ">
+Form Teacher
 </td>
 </tr>
 <tr>
 <td colspan="2" style="border: 0px none;"><br>
-</td>
+</td>  
 </tr>
 <tr>
 <th><b>Subject Teachers</b>
@@ -1009,33 +1012,36 @@ PE
 </th>
 </tr>
 <tr>
-<td><b>Mr&nbsp;</b><b></b><b style="color: rgb(46, 46, 46);">Heng Khim Liang Amos</b>
+<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mr&nbsp;</b><b style="color: rgb(0, 0, 0);"></b><b style="color: rgb(0, 0, 0);">Heng Khim Liang Amos</b>
 </td>
-<td>Music
-</td>
-</tr>
-<tr>
-<td><b style="color: rgb(0, 0, 0);">Mr Woo Chee Keong Alex</b>
-</td>
-<td>Design and Technology
+<td style="text-align: left; ">Music
 </td>
 </tr>
 <tr>
-<td><b>Mr Chua Chang Fong</b>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Ms Lee Chiew Yi</b><br><b></b>
 </td>
-<td>Design and Technology
-</td>
-</tr>
-<tr>
-<td><b>M</b><b>s Tham Xue Ping Desiree</b>
-</td>
-<td>Art
+<td style="text-align: left; ">Food &amp; Consumer Education<br>
 </td>
 </tr>
 <tr>
-<td><b>Mr Loh Youn Leong Eric</b><b></b>
+<td><b>Mrs Tan Geok Kooi Katherine</b>
 </td>
-<td>PE
+<td>Food &amp; Consumer Education<br>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>M</b><b>s Tham Xue Ping Desiree</b><b>
+</b>
+</td>
+<td style="text-align: left; ">
+Art
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr&nbsp;Arif Bin Bakar</b><b></b>
+</td>
+<td style="text-align: left; ">
+PE
 </td>
 </tr>
 </tbody>
