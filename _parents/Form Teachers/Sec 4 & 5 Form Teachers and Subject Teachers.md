@@ -1004,7 +1004,250 @@ Form Teacher
 <div>
 
 <p>
-
+<table style="width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Ho-Tan Siew Ching Jean</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>  
+</tr>
+<tr>
+<th>
+<strong>Subject Teachers</strong>
+</th>
+<th>
+<strong>Subject</strong>
+</th>
+</tr>
+<tr class=""> 
+<td width="154" class="">
+  <p class=""><b>Mr Guo Enliang Joseph</b></p>  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">English</span></p>  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Ms Lai Xin Yi Felicia</b>
+</td>
+<td>English
+</td>
+</tr> 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Mr Loke Liang En Joel</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Combined Humanities</span>&nbsp;/
+  History</p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mr Ezal Bin Sani</b>
+</td>
+<td>Combined Humanities / History
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Mrs Oh-Ong Lei Wan Jasmin</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Combined Humanities</span>&nbsp;/
+  Geography</p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mr Wee Guoyuan</b>
+</td>
+<td>Combined Humanities / Geography&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Ms Chen Minhua</b>
+</td>
+<td>Chinese
+</td>
+</tr>
+<tr>
+<td><b>Ms Liong Huimin</b>
+</td>
+<td>Chinese
+</td>
+</tr>
+<tr>
+<td><b>Ms He Ying</b>
+</td>
+<td>Chinese
+</td>
+</tr>
+<tr>
+<td><b>Ms Tan Zhen Yi Jenny</b>
+</td>
+<td>Chinese Language B
+</td>
+</tr>
+ 
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Ms Tan Yi Qian</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Higher Chinese </span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Ms Siti Ainah Bte Maduri</b>
+</td>
+<td>Malay
+</td>
+</tr>
+ 
+ 
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Ms Wee Lay Kit Jasmine</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Biology</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Ms Koh Wei Shan Clarissa&nbsp;</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Chemistry</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Mrs Ho-Tan Siew Ching Jean</span></b><span lang="EN-SG" class=""></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Physics</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Ms Shamsiah Bin&nbsp;</span>Zainalabidin</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">E Mathematics</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Mr Ho Wee Yew Wilson</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">A Mathematics</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mr Dannish Kurniago</b>
+</td>
+<td>Design and Technology&nbsp;
+</td>
+</tr>
+<tr>
+<td><b>Mdm Juliana Bte Jamil</b>
+</td>
+<td>Nutrition and Food Studies
+</td>
+</tr>
+<tr>
+<td><b>Ms Tham Xue Ping Desiree</b>
+</td>
+<td>Art
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Mr Arif Bin Bakar</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Physical Education</span></p>
+  
+</td>
+  
+</tr>
+</tbody>
+</table>
 </p>
 
 </div>
@@ -1277,7 +1520,229 @@ Form Teacher
 <div>
 
 <p>
-
+<table style="text-align: left; width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Ms Samsiah Bte Mohamed Diah</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td><b>Mr Chua Chong Yuan Alvin</b>
+</td>
+<td>Form Teacher&nbsp;
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>  
+</tr>
+<tr>
+<th>
+<strong>Subject Teachers</strong>
+</th>
+<th>
+<strong>Subject</strong>
+</th>
+</tr>
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Mr Chua Chong Yuan Alvin</span></b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">English</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Mr Poh Jing Ping Jon&nbsp; &nbsp; &nbsp;&nbsp;</b>&nbsp; &nbsp; &nbsp;&nbsp;</p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Combined Humanities</span>&nbsp;/
+  History</p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Ms Uma Devi D/O Muthamilan</span></b><span lang="EN-SG" class=""></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Combined Humanities</span>&nbsp;/
+  Geography</p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Ms Chen Minhua</span></b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">CL (N)</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Ms He Ying</b>
+</td>
+<td>Chinese
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Ms Chong Ning Shuang</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Chinese Language B</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+ 
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Ms Koh Wei Shan Clarissa</span></b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Science (Chemistry)</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mrs Lim Hwee Ling</b>
+</td>
+<td>Science (Chemistry)
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Mr Liew Hoe Meng Keith</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Science (Physics)</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mr Tan Puok Yee</b>
+</td>
+<td>Science (Physics)<br>
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Mrs Chak-Goh Chiow Yean Jessica</span></b><span lang="EN-SG" class=""></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Mathematics</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mr Kua Khuan Tiong</b>
+</td>
+<td>E Mathematics
+</td>
+</tr>
+ 
+<tr>
+<td><b>Mrs&nbsp;Tan Geok Kooi Katherine</b>
+</td>
+<td>Nutrition and Food Studies
+</td>
+</tr>
+<tr>
+<td><b>Ms Lee Chiew Yi</b>
+</td>
+<td>Nutrition and Food Studies
+</td>
+</tr>
+<tr>
+<td><b>Mr Woo Chee Keong Alex</b>
+</td>
+<td>Design and Technology
+</td>
+</tr>
+<tr>
+<td><b>Ms Tham Xue Ping Desiree</b>
+</td>
+<td>Art
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Mr Loh Youn Leong Eric</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" align="left"><span lang="EN-SG" class="">Physical Education</span></p>
+  
+</td>
+  
+</tr>
+</tbody>
+</table>
 </p>
 
 </div>
@@ -1294,7 +1759,200 @@ Form Teacher
 <div>
 
 <p>
-
+<table style="width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Mr Siti Ainah Bte Maduri</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Ms Lee Chiew Yi</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px none;"><br>
+</td>
+</tr>
+<tr>
+<th>
+<strong>Subject Teachers</strong>
+</th>
+<th>
+<strong>Subject</strong>
+</th>
+  
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Mr Chew Kwai Hoong Gary</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" style="text-align: left;"><span lang="EN-SG" class="">English</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mr Lim Ming Hee Nicholas</b>
+</td>
+<td>English&nbsp;
+</td>
+</tr>
+ 
+<tr>
+<td><b>Ms Chan Xin Hui Charmaine&nbsp;</b>
+</td>
+<td>Social Studies
+</td>
+</tr>
+<tr>
+<td>Mr Poh Jing Ping Jon
+</td>
+<td>Social Studies&nbsp;
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Ms Liong Hui Min</b><br></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" style="text-align: left;"><span lang="EN-SG" class="">Basic Chinese</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Ms Siti Ainah Bte Maduri</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" style="text-align: left;"><span lang="EN-SG" class="">Basic Malay</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Ms Samsiah Bte Mohamed Diah</b>
+</td>
+<td>&nbsp;ML (N)
+</td>
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Ms Lim Chee Shan</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" style="text-align: left;"><span lang="EN-SG" class="">Science</span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b><span lang="EN-SG" class="">Mr&nbsp;</span><span lang="EN-SG" class=""></span>Li Weihan Joel&nbsp;</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" style="text-align: left;"><span lang="EN-SG" class="">E Mathematics</span></p>
+  
+</td>
+  
+ 
+</tr>
+<tr>
+<td><b>Mr Paul Tarwasokono</b>
+</td>
+<td>E Mathematics
+</td>
+</tr>
+ 
+<tr>
+<td><b>Mr Quek Chin Wee James&nbsp;</b>
+</td>
+<td>Computer Applications
+</td>
+</tr>
+<tr>
+<td><b>Mrs&nbsp;Tan Geok Kooi Katherine&nbsp;</b>
+</td>
+<td>Nutrition and Food Studies
+</td>
+</tr>
+<tr>
+<td><b>&nbsp;Mrs Elijah-Lily Cleaopatra</b>
+</td>
+<td>Nutrition and Food Studies&nbsp;
+</td>
+</tr>
+ 
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><b>Mr Chua Chang Fong</b></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" style="text-align: left;"><span lang="EN-SG" class="">Design and Technology </span></p>
+  
+</td>
+  
+ 
+</tr>
+ 
+<tr class="">
+  
+<td width="154" class="">
+  <p class=""><span lang="EN-SG" class=""><b>Mr Loh Youn Leong Eric</b></span></p>
+  
+</td>
+  
+<td width="179" class="">
+  <p class="" style="text-align: left;"><span lang="EN-SG" class="">Physical Education</span></p>
+  
+</td>
+  
+</tr>
+</tbody>
+</table>
 </p>
 
 </div>
@@ -1309,7 +1967,118 @@ Form Teacher
 <div>
 
 <p>
-
+<table style="width: 100%;" class="ive_eobj_center iveo_table ives_tab_1">
+<tbody>
+<tr>
+<th><b>Name</b>
+</th>
+<th><b>Designation</b>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>
+Mdm Aminah Beevi</b>
+</td>
+<td style="text-align: left; ">
+Form Teacher
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border: 0px solid;"><br>
+</td>
+</tr>
+<tr>
+<th>
+<strong>Subject Teachers</strong>
+</th>
+<th>
+<strong>Subject</strong>
+</th>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Chua Chong Yuan Alvin</b>
+</td>
+<td style="text-align: left; ">
+English
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Loke Liang En Joel&nbsp;</b>
+</td>
+<td style="text-align: left; ">
+Combined Humanities / History
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Wong Jiayi</b>
+</td>
+<td style="text-align: left; ">
+Combined Humanities / Geography
+</td>
+</tr>
+<tr>
+<td><b>Mrs Choe Wai Leng</b>
+</td>
+<td>Combined Humanities / Geography
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Chen Minhua</b>
+</td>
+<td style="text-align: left; ">
+Chinese
+</td>
+</tr>
+<tr>
+<td><b>Ms Samsiah Bte Mohamed Diah</b>
+</td>
+<td>Malay
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Koh Wei Shan Clarissa</b>
+</td>
+<td style="text-align: left; ">
+Science (Chemistry)
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Tan Puok Yuee</b>
+</td>
+<td style="text-align: left; ">
+Science (Physics)
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Ms Lee Chee Peng</b>
+</td>
+<td style="text-align: left; ">
+E Mathematics
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mrs Elijah-Lily Cleaopatra</b>
+</td>
+<td style="text-align: left; ">
+Food and Nutrition
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Yap Hock Heng</b>
+</td>
+<td style="text-align: left; ">
+Design and Technology
+</td>
+</tr>
+<tr>
+<td style="text-align: left; "><b>Mr Lum Tuck Choi Jason</b>
+</td>
+<td style="text-align: left; ">
+Physical Education
+</td>
+</tr>
+</tbody>
+</table>
 </p>
 
 </div>
