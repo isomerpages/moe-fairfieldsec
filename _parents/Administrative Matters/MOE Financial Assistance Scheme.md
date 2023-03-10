@@ -6,7 +6,7 @@ third_nav_title: Administrative Matters
 ---
 ### Ministry of Education - Financial Assistance Scheme (MOE-FAS)
 
-  
+#### Revised Income Eligibility Criteria w.e.f from 1 Jan 2023
 
 #### Application Procedure
 
