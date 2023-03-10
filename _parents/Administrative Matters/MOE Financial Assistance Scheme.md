@@ -46,5 +46,4 @@ If you have any queries, please contact the school at 67788702 or fmss@moe.edu.s
 
 #### Application Forms
 
-[Revised Application Form for MOE-FAS](/files/fas1.pdf)
-
+[Revised Application Form for MOE-FAS](https://go.gov.sg/ggas-application-form)
