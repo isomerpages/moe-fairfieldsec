@@ -124,18 +124,9 @@ _Morning assemblies are meant for the student body to gather together as a schoo
 
 
 
+####   CLASSROOM BEHAVIOUR
 
-
-##### C. CHAPEL / FAIRSIANS CONNECT
-
-*   Students are to proceed to the School Hall as a class, in a quiet, orderly and timely manner.
-*   Students are to be seated quickly, and maintain a respectful silence during chapel. 
-*   Students must not be absent.
-
-
-#### 2.1  CLASSROOM BEHAVIOUR
-
-##### I. CONDUCT IN CLASSROOMS & LABORATORIES
+##### I CONDUCT IN CLASSROOMS & LABORATORIES
 
 _The school aims to provide a safe and conducive environment for all the students to learn in. When students behave appropriately in the classrooms, they show the respect they have for their teacher and their peers. They also demonstrate their commitment to be active and considerate learners in the community._  
 
@@ -150,7 +141,7 @@ _The school aims to provide a safe and conducive environment for all the student
 <img src="/images/attire1.png" style="width:60%">
 <img src="/images/attire2.png" style="width:60%">
 
-#### 2.2  PERSONAL GROOMING
+#### PERSONAL GROOMING
 
 _An individual shows his/her commitment to the community by presenting himself/herself in a common and easily recognisable manner. Students show that they are proud of their identities as ambassadors of the school by dressing appropriately and respectfully._
 
@@ -239,7 +230,7 @@ _An individual shows his/her commitment to the community by presenting himself/h
 
   
 
-##### 2.3 VALUABLES 
+##### VALUABLES 
 
 The school believes that it is important for students to show empathy and understanding of others in the school community. Hence, students are discouraged from bringing expensive personal belongings to the school, as these can become distractions for the student body. By not bringing expensive electronic devices and jewellery to school, students also prevent any feelings of envy and inferiority from forming unnecessarily. This way, students do not have to worry about the safety of their expensive belongings as well.  
 
@@ -247,29 +238,50 @@ The school believes that it is important for students to show empathy and unders
 
   
 
-##### 2.4 USE OF MOBILE PHONES, ELECTRONIC COMMUNICATION DEVICES, AND TECHNOLOGY
+##### USE OF MOBILE PHONES, ELECTRONIC COMMUNICATION DEVICES, AND TECHNOLOGY
 
-_Students are to be discerning, prudent and responsible in their use of technology. Students demonstrate their commitment to community when they consider the impact their online activities have on others._   
+_Students are to be discerning, prudent and responsible in their use of technology. Students demonstrate their commitment to community when they consider the impact their online activities have on others._
 
-*   Students are discouraged from bringing electronic devices to school. The use of all personal electronic devices (except MOE-approved electronic calculators and dictionaries) is disallowed during curriculum time. The school will not bear responsibility for the loss of these devices.
-*   Mobile phones are not to be used during curriculum time, including free periods and recesses / lunch breaks. They must be switched off and kept in the students’ lockers during curriculum time. Students who use their phones during curriculum time will be booked and their phones will be confiscated for a period of time. Recalcitrant students will face stiffer consequences.
-*   Mobile phones and electronic communication devices (e.g., smart watches, fitness trackers) are strictly disallowed in examination premises. When these items are found in any student’s possession during the examinations, he/she will be booked for having the intent to cheat.
-*   Students should be responsible in their use of technology, including the internet and social media.
-*   Students are not to use the technology to abuse or hurt the school, her staff or students in any way.
-*   Students are not to use the technology for personal gain and inappropriate purposes (e.g. surfing pornographic / hate sites, downloading of pirated software/files, hacking into school or external systems, etc).
-*   If the school has reason to suspect that a student’s mobile phone has been used to commit an offence, the school may confiscate the mobile phone for further investigation.
-*   The school views such offences very seriously and will involve the police if necessary.
+● Mobile phones are not to be used during curriculum time, including free periods and recesses / lunch breaks. They must be switched off and kept in the students’ lockers during curriculum time. Students who use their phones during curriculum time will be booked and their phones will be confiscated for a period of time. Recalcitrant students will face stiffer consequences.
 
   
 
-##### 2.5 DISALLOWED ITEMS
+● Mobile phones and electronic communication devices (e.g., smart watches, fitness trackers) are strictly disallowed in examination premises. When these items are found in any student’s possession during the examinations, he/she will be booked for possession of disallowed items.
+
+  
+
+● Personal Learning Devices (PLD) are to be used responsibly for academic purposes. They should not be left unattended (e.g. during PE) and should be kept in the students’ lockers for safekeeping. PLDs should not be charged in school.  The school will not bear responsibility for the loss of these devices.
+
+  
+
+● Students should be responsible in their use of technology, including the internet and social media.
+
+  
+
+● Students are not to use the technology to abuse or hurt the school, her staff or students in any way.
+
+  
+
+● Students are not to use the technology for personal gain and inappropriate purposes (e.g. surfing pornographic / hate sites, downloading pirated software/files, hacking into school or external systems, etc). Photographs and videos of schoolmates and staff should not be taken without their permission.
+
+  
+
+● If the school has reason to suspect that a student’s electronic device has been used to commit an offence, the school may confiscate the electronic device for further investigation.
+
+  
+
+● The school views such offences very seriously and will involve the police if necessary.
+
+  
+
+##### DISALLOWED ITEMS
 
 *   Students are not allowed to bring items used for gambling purposes.
 *   Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to self or others.
 
   
 
-##### 2.6 THE CANTEEN
+##### THE CANTEEN
 
 _Students are to show courtesy to others during recess time. They show their commitment to the community by maintaining a conducive environment for their peers and teachers to enjoy their break time and their food._ 
 
