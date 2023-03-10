@@ -4,7 +4,6 @@ permalink: /parents/administrative-matters/parents-gateway-guide/
 description: ""
 third_nav_title: Administrative Matters
 ---
-
 ### Parents Gateway Guide
 
 <img src="/images/pgg1.png" style="width:70%">
@@ -17,6 +16,4 @@ third_nav_title: Administrative Matters
 <img src="/images/pgg8.png" style="width:70%">
 <img src="/images/pgg9.png" style="width:70%">
 
-[Parents Guide for PG Travel Declaration.pptx]
-(/files/Parents/Admin%20Matters/2023/Parents%20Guide%20for%20PG%20Travel%20Declaration.pdf)
-
+[Parents Guide for PG Travel Declaration.pdf](/files/Parents/Admin%20Matters/2023/Parents%20Guide%20for%20PG%20Travel%20Declaration.pdf)
