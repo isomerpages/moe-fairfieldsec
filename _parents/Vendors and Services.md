@@ -9,11 +9,12 @@ description: ""
 
 |  |  |
 |---|---|
-| **Name of Vendor:** | E-Z Stationery & Book Centre Pte Ltd |
+| **Name of Vendor:** | Asencio Pte Ltd |
 | **Operating Hours:** | Mondays to Fridays, 7am - 3.30pm<br>* School Days only |
 | **Contact Person:** | Cherlyn |
-| **Contact Number:** | 8699 9191 |
-| **Email Address:** | watergoh@yahoo.com.sg |
+| **Contact Number:** |67643102  |
+| **Email Address:** | bookshop@asencio.com.sg |
+| **Website:** | https://asencio.com.sg/<br>\*Only available during year-end sales |
 |  |  |
 
 #### School Uniform and PE Attire
