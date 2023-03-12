@@ -8,4 +8,5 @@ third_nav_title: Personalised Digital Literacy
 
 #### Resources
 
-[FMSS Parent Engagement Deck.pdf](/files/parentengagement.pdf)
+
+[Parent Engagement Deck_FMSS_2023.pdf](/files/Parents/PDLP/2023/Parent%20Engagement%20Deck_FMSS_2023.pdf)
