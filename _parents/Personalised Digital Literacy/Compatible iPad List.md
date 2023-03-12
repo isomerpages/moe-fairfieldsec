@@ -13,20 +13,26 @@ The school strongly recommends that the iPad is purchased through the school to 
 
 Parents who opt not to purchase must ensure that their existing iPads meet the following conditions: 
 
-• Compatible with Device Management Application (DMA) software (for DMA to be installed)
-• Compatible with stylus and keyboard (e.g Apple Pencil, Ruggedized Combo 3)
-• Not older than 4 years from manufacturing date
-• Battery should hold charge for at least 4 hours. 
-• Wi-fi function should work and **support at least IEEE 802.11 a/n/ac standard that uses 5GHz band.  
+• Compatible with Device Management Application (DMA) software 
 
+    Processor: A10 Fusion or better 
 
-In addition, they must allow the existing iPad to go through a factory reset, **i.e., existing data in the device will be wiped out.**
+    Capacity: 32GB or Higher
 
-**Due to the implementation of Phase 2 (Heightened Alert), please await further information from the school with regards to the assessment process for  compatible devices.**
+    OS version: iPadOS 15 or higher
+
+• Must have a compatible with stylus and keyboard cover (e.g Apple Pencil, Logitech Ruggedized Combo 3)
+
+• DMA must be installed on the iPad
+
+• Factory reset will be required (Existing data in the device will be wiped; all personal data must be backed-up)
+
 
 The table below shows the iPad models that are compatible with DMA software.
 
-<img src="/images/ipad1.png" style="width:80%">
+<img src="/images/Parents/2023/compatible list 2023.jpeg" style="width:100%">
+
+
 
 **How to find the model number of your iPad:**
 
