@@ -28,7 +28,7 @@ _iPad 9th Gen  64 Gb 10.2-inch with Apple pencil and casing with attached keybo
 
   
 
-The price of the device bundle (inclusive of GST) is: **S$842.09**
+The price of the device bundle (inclusive of GST) is: **S$857.50**
 
   
 
