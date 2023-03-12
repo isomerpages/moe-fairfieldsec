@@ -46,6 +46,6 @@ Please call to make appointment. NO WALK-IN.
 
 | Clinic | Telephone | Address | Staff i/c |
 |---|---|---|---|
-| Pei Tong Primary<br>(open on Tues, Wed & Fri of odd week) | 8909 1679 | 15 Clementi Ave 5, S129857 | Mdm Wan |
-| Queenstown Primary (open on Tues, Wed & Fri of even week) | 8909 2160 | 310 Margaret Dr, S149303 | Mdm Wan |
+| Pei Tong Primary<br>(opens on odd week) | 8909 1679 | 15 Clementi Ave 5, S129857 | Mdm Wan |
+| Queenstown Primary (opens on even week) | 8909 2160 | 310 Margaret Dr, S149303 | Mdm Wan |
 | Henry Park Primary<br>(open on Mon to Fri of even week) | 9114 8656 | 1 Holland Grove Road, S278790 | Ms Nur Aqilah |
