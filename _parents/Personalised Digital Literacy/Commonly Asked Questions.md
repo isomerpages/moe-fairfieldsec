@@ -34,11 +34,11 @@ You can call 6260 0777 to check on your child’s edusave balance.
 
   
 
-**Q3. When will my child, who is in Sec 1 2022, be receiving the device?** 
+**Q3. When will my child, who is in Sec 1 2023, be receiving the device?** 
 
   
 
-Your child should receive his/her device in end Feb 2022. More details will be shared once the school has more detailed information from the vendor.
+Your child should receive his/her device in end Mar 2023. More details will be shared once the school has more detailed information from the vendor.
 
   
 
