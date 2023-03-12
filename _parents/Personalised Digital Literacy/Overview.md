@@ -20,7 +20,7 @@ The PLD will be used in tandem with the national e-learning platform – the Sin
 
 #### Purchase of PLD bundle. 
 
-The PLD bundle which includes warranty and insurance for purchase for Sec 1 students in 2022 will be: 
+The PLD bundle which includes warranty and insurance for purchase for Sec 1 students in 2023 will be: 
 
   
 
