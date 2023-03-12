@@ -4,7 +4,7 @@ permalink: /parents/resources-for-parents/information-on-sexuality-education-202
 description: ""
 third_nav_title: Resources for Parents
 ---
-### Information on Sexuality Education 2022
+### Information on Sexuality Education 2023
 
 **MOE SEXUALITY EDUCATION IN SCHOOLS**
 
