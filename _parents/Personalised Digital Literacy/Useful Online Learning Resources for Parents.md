@@ -16,6 +16,5 @@ To support you in keeping your child safe online, you may refer to these additio
 
 [Parent Handbook I on Learning with a PLD.pdf](/files/pld1.pdf)
 
-[Parent Handbook II on Learning with a Personal Learning Device.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/PDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf)
+[Parent Handbook II on Learning with a Personal Learning Device.pdf](https://for.edu.sg/pld-parent-handbook)
 
-Upload PDF here.
