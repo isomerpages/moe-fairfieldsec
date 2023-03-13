@@ -14,7 +14,8 @@ To support you in keeping your child safe online, you may refer to these additio
 
  •Parent Handbooks (I) and (II) on Learning with a Personal Learning Device
 
-[Parent Handbook I on Learning with a PLD.pdf](/files/pld1.pdf)
+[Parent Handbook I on Learning with a PLD_2023.pdf](/files/Parents/PDLP/2023/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf)
 
-[Parent Handbook II on Learning with a Personal Learning Device.pdf](https://for.edu.sg/pld-parent-handbook)
+[Parent Handbook II on Learning with a PLD_2023.pdf](/files/Parents/PDLP/2023/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf)
+
 
