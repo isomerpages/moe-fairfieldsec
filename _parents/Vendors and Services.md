@@ -37,15 +37,13 @@ description: ""
 | **Operating Hours:** | Mondays to Thursdays: 8am – 5.30pm<br>Friday: 8am – 5pm<br>Lunch Break: 1pm – 2pm<br><br>* Clinic is opened on alternate week. |
 | **Venue:** | Fairfield Methodist School (Primary) |
 | **Contact Number:** | 8764 7361 (WhatsApp only) |
-| **Other Remarks:** | Students who require emergency dental treatment can contact School Dental Centre (SDC). Please be informed that a fee may be charged at SDC.<br><br><br><br>School Dental Centre (SDC)<br>Health Promotion Board<br>3 Second Hospital Ave Singapore 168937 | <br> <br>For Dental Emergency, please contact Health Promotion Board at [Contact\_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg)
+| **Other Remarks:** | Students who require emergency dental treatment can contact School Dental Centre (SDC). Please be informed that a fee may be charged at SDC.<br><br><br><br>School Dental Centre (SDC)<br>Health Promotion Board<br>3 Second Hospital Ave Singapore 168937<br><br>For Dental Emergency, please contact Health Promotion Board at [Contact\_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg)
 |  |  |
 
-Urgent dental treatment, (When FMSP clinic is closed) can visit the following places:
-
-Please call to make appointment. NO WALK-IN.
+Urgent dental treatment, (When FMSP clinic is closed) can visit the following places. NO WALK-IN.
 
 | Clinic | Telephone | Address | Staff i/c |
 |---|---|---|---|
 | Pei Tong Primary<br>(opens on odd week) | 8909 1679 | 15 Clementi Ave 5, S129857 | Ms Gwee & Ms Tan |
 | Queenstown Primary (opens on even week) | 8909 2160 | 310 Margaret Dr, S149303 | Mdm Chui |
-| Henry Park Primary<br>(open on Mon to Fri of even week) | 9114 8656 | 1 Holland Grove Road, S278790 | Ms Nur Aqilah |
+| Henry Park Primary<br>(opens on odd week) | 9114 8656 | 1 Holland Grove Road, S278790 | Ms Nur Aqilah |
