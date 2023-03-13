@@ -6,7 +6,6 @@ third_nav_title: Student Well Being
 ---
 ### Understanding Mental Health
 
-Upload all the PDF files in the table.
 
 |  |  |  |
 |---|---|---|
