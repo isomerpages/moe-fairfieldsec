@@ -1,0 +1,33 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language & Literature/Overview.md
+      - English Language & Literature/Key Programmes.md
+      - English Language & Literature/Achievements.md
+      - English Language & Literature/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Key Programmes.md
+      - Mother Tongue/Achievements.md
+      - Mother Tongue/.keep
+      - Mathematics/Overview.md
+      - Mathematics/Key Programmes.md
+      - Mathematics/Achievements.md
+      - Mathematics/.keep
+      - Science/Overview.md
+      - Science/Key Programmes.md
+      - Science/Achievements.md
+      - Science/.keep
+      - Aesthetics/Overview.md
+      - Aesthetics/Key Programmes.md
+      - Aesthetics/.keep
+      - Humanities/Overview.md
+      - Humanities/Key Programmes.md
+      - Humanities/Achievements.md
+      - Humanities/.keep
+      - Info & Comm Technology/Overview.md
+      - Info & Comm Technology/Key Programmes.md
+      - Info & Comm Technology/.keep
+      - Physical Education/Overview.md
+      - Physical Education/Key Programmes.md
+      - Physical Education/.keep

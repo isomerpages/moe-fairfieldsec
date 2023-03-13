@@ -1,15 +1,85 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/mission-vision-values/
+    sublinks:
+      - title: Mission, Vision & Values
+        url: /about-us/mission-vision-values/
+      - title: Crest and Motto
+        url: /about-us/crest-and-motto/
+      - title: School History
+        url: /about-us/school-history/
+      - title: School Song and Hymn
+        url: /about-us/school-song-and-hymn/
+      - title: Our People
+        url: /about-us/our-people/board-of-management/
+      - title: Useful Links for Teachers
+        url: /about-us/useful-links-for-teachers/
+      - title: Contact Us
+        url: /contact-us/
+      - title: PDPA Policy for FMS(S)
+        url: /about-us/pdpa-policy-for-fms/
+      - title: Financial & Non Financial Info
+        url: about-us/financial-and-non-financial-information/
+  - title: Curriculum
+    url: /curriculum/active-learning-culture/
+    sublinks:
+      - title: Active Learning Culture
+        url: /curriculum/active-learning-culture/
+      - title: Voice of a Fairsian Programme
+        url: /curriculum/voice-of-a-fairsian-programme/
+      - title: Subjects Offered
+        url: /curriculum/subjects-offered/
+      - title: Dept Programmes & Achievements
+        url: /departments/English-Language-and-Literature/overview/
+      - title: Full SBB
+        url: /curriculum/Full-SBB/
+  - title: Co-Curriculum
+    url: /co-curriculum/overview/
+    sublinks:
+      - title: Overview
+        url: /co-curriculum/overview/
+      - title: Sophia Blackmore Leadership
+        url: /co-curriculum/sophia-blackmore-leadership/
+      - title: CCAs
+        url: /cca/overview/
+      - title: Character Education
+        url: /co-curriculum/character-education/
+      - title: Discipline
+        url: /co-curriculum/discipline/
+      - title: Guidance
+        url: /co-curriculum/guidance/
+      - title: Student Well-being
+        url: /co-curriculum/student-well-being/overview/
+  - title: Parents
+    url: /parents/partners-in-education/
+    sublinks:
+      - title: Partners-in-Education
+        url: /parents/partners-in-education/
+      - title: School Leaders' Updates
+        url: /parents/school-leaders-updates/
+      - title: "Principal's Dialogue "
+        url: /parents/principals-dialogue/
+      - title: Form Teachers
+        url: /parents/sec-1-teachers/
+      - title: Assessment Matters
+        url: /parents/assessment-matters/
+      - title: Administrative Matters
+        url: /parents/administrative-matters/leave-of-absence/
+      - title: School Rules
+        url: /parents/school-rules/
+      - title: Resources for Parents
+        url: /parents/resources-for-parents/education-and-career-guidance/
+      - title: "Personalised Digital Literacy "
+        url: /parents/personalised-digital-literacy/overview/
+      - title: Vendors and Services
+        url: /parents/vendors-and-services/
+  - title: Prospective Students
+    collection: prospective-students
+  - title: Highlights
+    url: /our-stories/overview/
+    sublinks:
+      - title: Latest Updates
+        url: /latest-updates/overview/
+      - title: Our Stories
+        url: /our-stories/overview/

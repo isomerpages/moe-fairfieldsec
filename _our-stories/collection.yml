@@ -1,0 +1,21 @@
+collections:
+  our-stories:
+    output: true
+    order:
+      - Overview.md
+      - 2023 Term 1/.keep
+      - 2023 Term 1/When the going gets tough, Kylee gets going!.md
+      - 2023 Term 2/.keep
+      - 2023 Term 3/.keep
+      - 2023 Term 4/.keep
+      - 2022 Term 1/.keep
+      - 2022 Term 1/All(im) Time Star Conquering Mountains.md
+      - "2022 Term 1/Natalie Khoo: Keeping ‘Khool’ Under Pressure.md"
+      - 2022 Term 1/(FL)EXpressing Our Empathy.md
+      - 2022 Term 2/.keep
+      - 2022 Term 2/The Sprint Towards a New Normal.md
+      - 2022 Term 3/.keep
+      - 2022 Term 3/Flourishing at the 2022 National Day Parade.md
+      - 2022 Term 4/.keep
+      - 2022 Term 4/Hoops, Fairfield Did it Again!.md
+      - 2022 Term 4/The Melody of Fairfield.md

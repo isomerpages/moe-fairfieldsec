@@ -1,0 +1,39 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parents in Education/.keep
+      - Parents in Education/Overview.md
+      - Parents in Education/The Team.md
+      - Parents in Education/2023 PiE Activities and Programmes.md
+      - Parents in Education/Photo Gallery.md
+      - School Leaders' Updates.md
+      - Principal's Dialogue.md
+      - Form Teachers/.keep
+      - Form Teachers/Sec 1 Form Teachers and Subject Teachers.md
+      - Form Teachers/Sec 2 Form Teachers and Subject Teachers.md
+      - Form Teachers/Sec 3 Form Teachers and Subject Teachers.md
+      - Form Teachers/Sec 4 & 5 Form Teachers and Subject Teachers.md
+      - Assessment Matters.md
+      - Administrative Matters/.keep
+      - Administrative Matters/Leave of Absence.md
+      - Administrative Matters/Group Personal Accident Insurance for Students.md
+      - Administrative Matters/MOE Financial Assistance Scheme.md
+      - Administrative Matters/Parents Gateway Guide.md
+      - School Rules.md
+      - Resources for Parents/.keep
+      - Resources for Parents/Education and Career Guidance.md
+      - Resources for Parents/Information on Digital Literacy.md
+      - Resources for Parents/Information on Sexuality Education 2023.md
+      - Resources for Parents/MOE Guide on Transition to Secondary School.md
+      - Personalised Digital Literacy/.keep
+      - Personalised Digital Literacy/Overview.md
+      - Personalised Digital Literacy/Guide on DMA.md
+      - Personalised Digital Literacy/Student Device Briefing.md
+      - Personalised Digital Literacy/Useful Online Learning Resources for
+        Parents.md
+      - Personalised Digital Literacy/Videos on PDLP.md
+      - Personalised Digital Literacy/Parents Engagement Session.md
+      - Personalised Digital Literacy/Compatible iPad List.md
+      - Personalised Digital Literacy/Commonly Asked Questions.md
+      - Vendors and Services.md
