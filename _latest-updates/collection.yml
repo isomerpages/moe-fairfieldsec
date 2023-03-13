@@ -2,6 +2,7 @@ collections:
   latest-updates:
     output: true
     order:
+      - Donation and Sponsorship Poster.md
       - 2023 FMSS Carnival eflyer.md
       - Purchase of Uniform and School Attire for Year 2023.md
       - Overview.md
