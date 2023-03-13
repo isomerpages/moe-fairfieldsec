@@ -50,7 +50,7 @@ description: ""
 | Chan Xin Hui Charmaine (Ms) | [charmaine\_chan\_xin\_hui@moe.edu.sg](mailto:charmaine_chan_xin_hui@moe.edu.sg) |
 | Chak-Goh Chiow Yean Jessica (Mrs) | [goh\_chiow\_yean\_jessica@moe.edu.sg](mailto:goh_chiow_yean_jessica@moe.edu.sg) |
 | Chen Minhua (Ms) | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg) |
-| Chew Kwai Hoong Gary (Mr) | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) 
+| Chew Kwai Hoong Gary (Mr) | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) |
 | Chua Chong Yuan Alvin (Mr) | [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
 | Dannish Kurniago (Mr) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) |
 | He Ying (Ms) | [he\_ying@moe.edu.sg](mailto:he_ying@moe.edu.sg) |
