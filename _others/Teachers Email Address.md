@@ -18,8 +18,8 @@ description: ""
 | Kwok-Chang Jiapei (Mrs) | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
 | Lee Chee Peng (Ms) | [lee\_chee\_peng@moe.edu.sg](mailto:lee_chee_peng@moe.edu.sg) |
 | Lee Sok Fun (Ms) | [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
-| Lee Xiao-En Tabitha (Ms) | [[lee\_xiao-en\_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg)](mailto:[lee\_xiao-en\_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg)) |
-| Lee Chiew Yi (Ms) | [[lee\_chiew\_yi@moe.edu.sg](mailto:lee_chiew_yi@moe.edu.sg)](mailto:[lee\_chiew\_yi@moe.edu.sg](mailto:lee_chiew_yi@moe.edu.sg)) |
+| Lee Xiao-En Tabitha (Ms) | [lee\_xiao-en\_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg) |
+| Lee Chiew Yi (Ms) | [lee\_chiew\_yi@moe.edu.sg](mailto:lee_chiew_yi@moe.edu.sg) |
 | Liew Hoe Meng Keith (Mr) | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
 | Lim Yuen Tuck (Mr) | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | Li Weihan Joel (Mr) | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
@@ -50,7 +50,8 @@ description: ""
 | Chan Xin Hui Charmaine (Ms) | [charmaine\_chan\_xin\_hui@moe.edu.sg](mailto:charmaine_chan_xin_hui@moe.edu.sg) |
 | Chak-Goh Chiow Yean Jessica (Mrs) | [goh\_chiow\_yean\_jessica@moe.edu.sg](mailto:goh_chiow_yean_jessica@moe.edu.sg) |
 | Chen Minhua (Ms) | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg) |
-| Chew Kwai Hoong Gary (Mr) | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) || Chua Chong Yuan Alvin (Mr) | [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
+| Chew Kwai Hoong Gary (Mr) | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) 
+| Chua Chong Yuan Alvin (Mr) | [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
 | Dannish Kurniago (Mr) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) |
 | He Ying (Ms) | [he\_ying@moe.edu.sg](mailto:he_ying@moe.edu.sg) |
 | Ho-Leong Yuet Lim Rosalind (Mrs) | [leong\_yuet\_lim@moe.edu.sg](mailto:leong_yuet_lim@moe.edu.sg) |
@@ -62,8 +63,8 @@ description: ""
 | Lai Xin Yi Felicia (Ms) | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
 | Lee Shu Pei (Mdm) | [lee\_shu\_pei@moe.edu.sg](mailto:lee_shu_pei@moe.edu.sg) |
 | Lee Yong Seng Peter (Mr) | [lee\_yong\_seng\_peter@moe.edu.sg](mailto:lee_yong_seng_peter@moe.edu.sg) |
-| Liong Hui Min (Ms) |[liong\_hui\_min@moe.edu.sg](mailto:liong_hui_min@moe.edu.sg)[liew\_koon\_ern\_william@moe.edu.sg](mailto:liew_koon_ern_william@moe.edu.sg) |
-| Liew Koon Ern William Isaac (Mr) | liew_koon_ern_william@moe.edu.sg |
+| Liong Hui Min (Ms) |[liong\_hui\_min@moe.edu.sg](mailto:liong_hui_min@moe.edu.sg)
+| Liew Koon Ern William Isaac (Mr) |[liew\_koon\_ern\_william@moe.edu.sg](mailto:liew_koon_ern_william@moe.edu.sg) |
 | Lim Chee Chin (Mdm) | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
 | Lim Chee Shan (Ms) | [chee\_shan\_lim@moe.edu.sg](mailto:chee_shan_lim@moe.edu.sg) |
 | Lim Hwee Ling (Mrs) | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
@@ -96,6 +97,3 @@ description: ""
 | Yeo Rena (Mrs) | [gomes\_rena\_jeanette@moe.edu.sg](mailto:gomes_rena_jeanette@moe.edu.sg) |
 | Zhang Lu (Ms) | [zhang\_lu\_a@moe.edu.sg](mailto:zhang_lu_a@moe.edu.sg) |
 | Shang Xiaomeng (Ms) | [shang\_xiaomeng@moe.edu.sg](mailto:shang_xiaomeng@moe.edu.sg) |
-
-
-
