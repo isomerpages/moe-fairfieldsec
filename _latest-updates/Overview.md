@@ -7,7 +7,7 @@ description: ""
 
 #### Donation and Sponsorship Poster
 
-[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2023-sem1-class-timetable/)
+[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/donation-sponsorship-poster/)
 
 * * *
 
