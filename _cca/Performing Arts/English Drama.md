@@ -28,7 +28,7 @@ Friday: 2.00 pm – 5.00 pm <br><br>
 <b>Teachers In Charge:</b><br><br>
 
 Ms. Yen Ding Yi (I/C)  <br>
-Ms. Chen Shuhui  <br><br>
+Ms. Tabitha Lee  <br><br>
 
   
 
