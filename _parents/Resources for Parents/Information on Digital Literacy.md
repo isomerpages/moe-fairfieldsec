@@ -45,13 +45,13 @@ As IT-related issues and risks are constantly evolving, it is important to ensur
 #### Digi-Byte Newsletters
 
 **Issue #1 - Term 1 2022**
-[Digi-Byte Newsletter 1.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Resources%20for%20Parents/Digi-Byte%20Newsletter%201.pdf)  Upload PDF here.
+[Digi-Byte Newsletter 1.pdf](https://drive.google.com/file/d/1qZ9H5Wn-bT0sNlodDOtstVEcjXvQpKo9/view?usp=sharing)  
   
 **Issue #2 - Term 2 2022**
-[Digi-Byte Newsletter 2.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Resources%20for%20Parents/Digi-Byte%20Newsletter%202.pdf)  Upload PDF here.
+[Digi-Byte Newsletter 2.pdf](https://drive.google.com/file/d/1YB3N5ZrOpCYiEKG1Vv5pSub74RGZuCIj/view?usp=sharing)  
   
 **Issue #3 - Term 3 2022**
-[Digi-Byte Newsletter 3.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Resources%20for%20Parents/Digi-Byte%20Newsletter%203.pdf)  Upload PDF here.
+[Digi-Byte Newsletter 3.pdf](https://drive.google.com/file/d/1m76HT48gqQReQVZyhGD7PNfRhcqW6iRy/view?usp=sharing)  
   
 **Issue #4 - Term 4 2022**  
 [Digi-Byte Newsletter 4.pdf](/files/digi.pdf)
@@ -69,10 +69,17 @@ As IT-related issues and risks are constantly evolving, it is important to ensur
 
 
 [Parent Kit – Cyber Wellness for Your Child](/files/tip1.pdf)
+
 [Tip Sheet for Parents - Personal Data.pdf](/files/tip2.pdf)
+
 [Tip Sheet for Parents - Appropriate Online Expression.pdf](/files/tip3.pdf)
+
 [Tip Sheet for Parents - Cyber Bullying.pdf](/files/tip4.pdf) 
+
 [Tip Sheet for Parents - Handling Online Content.pdf](/files/tip5.pdf) 
+
 [Tip Sheet for Parents - Discerning Online Information.pdf](/files/tip6.pdf)
+
 [Tip Sheet for Parents - Excessive Internet Use.pdf](/files/tip7.pdf)
-[Student Kit for Cyber Wellness and Learning with a Personal Learning Device.pdf](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/2021/Parents/Resources%20for%20Parents/Student%20Kit%20for%20Cyber%20Wellness%20and%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) Upload PDF here.
+
+[Student Kit for Cyber Wellness and Learning with a Personal Learning Device.pdf](https://drive.google.com/file/d/1lvYeLNl_19tH7lWwzwoV6BzLIbmPt0Gx/view?usp=sharing) 
