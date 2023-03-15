@@ -33,4 +33,4 @@ third_nav_title: Our People
 | **Ms Yee Minyi Meagan** | Teacher |  [yee\_minyi@moe.edu.sg](mailto:yee_minyi@moe.edu.sg)  |
 | **Mdm Foo Choon Huay Serena** | Sec 1H Form Teacher |  [foo\_choon\_huay\_serena@moe.edu.sg](mailto:foo_choon_huay_serena@moe.edu.sg) |
 |  **Ms Lee Xiao-En, Tabitha** | Sec 1C Form Teacher  |  [lee_xiao-en_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg) |
-|  **Mr Nicholas Lim Ming Hee** | Teacher  |  [[lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg)](mailto:[lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |
+|  **Mr Nicholas Lim Ming Hee** | Teacher  |  [lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |

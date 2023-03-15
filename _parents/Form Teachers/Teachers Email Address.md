@@ -1,8 +1,11 @@
 ---
 title: Teachers Email Address
-permalink: /others/teachers-email-address/
+permalink: /parents/teachers-email-address/
 description: ""
+third_nav_title: Form Teachers
 ---
+
+
 ### Teachers Email Address
 
 | Name | Email Address |
