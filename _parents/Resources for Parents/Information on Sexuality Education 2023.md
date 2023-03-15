@@ -506,7 +506,7 @@ b. Character and Citizenship Education (CCE)
 
 **At Fairfield Methodist School (Secondary), the eTeens programme will be implemented as follows in 2023:**
 
-<table style="width: 930px;">
+<table style="width: 680px;">
 <thead>
 <tr>
 <td width="177">
