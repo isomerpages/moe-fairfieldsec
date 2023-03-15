@@ -16,7 +16,7 @@ Please download the guides according to the options you have selected below:
 
 ### DMA Hours
 
-<img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br>
+<img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br>
 
 #### Quick guide on which DMA option to choose
 
