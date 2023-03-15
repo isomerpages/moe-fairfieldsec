@@ -160,7 +160,9 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 2</b></figure>
 
-<table width="2021" >
+
+
+<table style="width: 1030px;">
 <thead>
 <tr>
 <td width="142">
@@ -194,9 +196,9 @@ b. Character and Citizenship Education (CCE)
 </td>
 <td width="270">
 <p>This lesson focus on how the family, culture and society can influence one&rsquo;s perception of their gender roles. Students will learn what gender stereotypes are (e.g., males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. &nbsp;Students will discuss how one&rsquo;s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</p>
-<p>&nbsp;</p>
+
 <p>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.</p>
-<p>&nbsp;</p>
+
 <p>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
@@ -217,7 +219,7 @@ b. Character and Citizenship Education (CCE)
 </td>
 <td width="270">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students&rsquo; conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.</p>
-<p>&nbsp;</p>
+
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 <p>&nbsp;</p>
 </td>
@@ -252,7 +254,7 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 3</b></figure>
 
-<table width="1001">
+<table style="width: 1030px;">
 <thead>
 <tr>
 <td width="151"><strong><br /> </strong>
@@ -339,7 +341,7 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 4</b></figure>
 
-<table width="1049">
+<table style="width: 1030px;">
 <thead>
 <tr>
 <td width="114">
@@ -448,7 +450,7 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 5</b></figure>
 
-<table width="1001">
+<table style="width: 1030px;">
 <thead>
 <tr>
 <td width="120">
@@ -504,7 +506,7 @@ b. Character and Citizenship Education (CCE)
 
 **At Fairfield Methodist School (Secondary), the eTeens programme will be implemented as follows in 2023:**
 
-<table width="819">
+<table style="width: 930px;">
 <thead>
 <tr>
 <td width="177">
