@@ -124,7 +124,7 @@ b. Character and Citizenship Education (CCE)
 </td>
 <td style="width: 268px;">
 <p>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one&rsquo;s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 <p>&nbsp;</p>
 </td>
@@ -143,7 +143,7 @@ b. Character and Citizenship Education (CCE)
 </td>
 <td style="width: 268px;">
 <p>This lesson touches on two areas relevant to an adolescent&rsquo;s curiosity on matters related to sexuality &ndash; masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>&nbsp;</p>
+
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td style="width: 298px;">
@@ -160,7 +160,7 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 2</b></figure>
 
-<table width="1021">
+<table width="2021" >
 <thead>
 <tr>
 <td width="142">
