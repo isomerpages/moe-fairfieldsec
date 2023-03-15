@@ -53,8 +53,7 @@ As IT-related issues and risks are constantly evolving, it is important to ensur
 **Issue #3 - Term 3 2022**
 [Digi-Byte Newsletter 3.pdf](https://drive.google.com/file/d/1m76HT48gqQReQVZyhGD7PNfRhcqW6iRy/view?usp=sharing)  
   
-**Issue #4 - Term 4 2022**  
-[Digi-Byte Newsletter 4.pdf](/files/digi.pdf)
+**Issue #4 - Term 4 2022**  [Digi-Byte Newsletter 4.pdf](/files/digi.pdf)
   
 
 #### Useful Links
@@ -82,4 +81,4 @@ As IT-related issues and risks are constantly evolving, it is important to ensur
 
 [Tip Sheet for Parents - Excessive Internet Use.pdf](/files/tip7.pdf)
 
-[Student Kit for Cyber Wellness and Learning with a Personal Learning Device.pdf](https://drive.google.com/file/d/1lvYeLNl_19tH7lWwzwoV6BzLIbmPt0Gx/view?usp=sharing) 
+[Student Kit for Cyber Wellness and Learning with a Personal Learning Device.pdf](https://drive.google.com/file/d/1lvYeLNl_19tH7lWwzwoV6BzLIbmPt0Gx/view?usp=sharing)
