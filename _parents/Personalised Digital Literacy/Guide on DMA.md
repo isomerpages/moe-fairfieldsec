@@ -6,7 +6,7 @@ third_nav_title: Personalised Digital Literacy
 ---
 ### Quick guide on which DMA option to choose
 
-<img src="/images/dma1.png" style="width:80%">
+<img src="/images/dma1.png" style="width:90%">
 
 The after-school hours are as follows:
 
