@@ -4,21 +4,9 @@ permalink: /parents/personalised-digital-literacy/
 description: ""
 third_nav_title: Personalised Digital Literacy
 ---
-### DMA Guides
 
-Please download the guides according to the options you have selected below:  
-  
-1) **Default Option** \--[DMA Parent Guide v2.0 - Default iPadOS.pdf](/files/dma1.pdf)
-  
-2) **Option A** \--[DMA Parent Guide v2.0 - Option A iPadOS.pdf](/files/dma2.pdf)
-  
-3) **Option B** \--[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/dma3.pdf)
 
-### DMA Hours
-
-<img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br><br>
-
-#### Quick guide on which DMA option to choose
+### Quick guide on which DMA option to choose
 
 <img src="/images/dma1.png" style="width:60%">
 
@@ -86,3 +74,17 @@ For parents of Sec 1 students 2023, please click on this [link](https://form.go
 #### Request for change to DMA option 
 
 Please email Mr Lee Yew Ming  ( [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)  ) for any changes.
+
+### DMA Guides
+
+Please download the guides according to the options you have selected below:  
+  
+1) **Default Option** \--[DMA Parent Guide v2.0 - Default iPadOS.pdf](/files/dma1.pdf)
+  
+2) **Option A** \--[DMA Parent Guide v2.0 - Option A iPadOS.pdf](/files/dma2.pdf)
+  
+3) **Option B** \--[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/dma3.pdf)
+
+### DMA Hours
+
+<img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br><br>
