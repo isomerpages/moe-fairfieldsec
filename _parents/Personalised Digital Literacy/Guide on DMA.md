@@ -4,11 +4,9 @@ permalink: /parents/personalised-digital-literacy/
 description: ""
 third_nav_title: Personalised Digital Literacy
 ---
-
-
 ### Quick guide on which DMA option to choose
 
-<img src="/images/dma1.png" style="width:60%">
+<img src="/images/dma1.png" style="width:100%">
 
 The after-school hours are as follows:
 
