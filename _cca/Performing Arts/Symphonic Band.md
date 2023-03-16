@@ -34,9 +34,7 @@ Friday (Sec. 1-5): 2.00 pm - 5.00 pm<br><br>
 
 <b>Teachers In Charge:</b><br><br>
 
-Ms Noella Lim (I/C)<br>
-
-Ms Lim Chee Shan (2 I/C)<br>
+Ms Lim Chee Shan (I/C)<br>
 
 Mr James Quek<br>
 
@@ -44,11 +42,11 @@ Ms Tan Yi Qian<br><br>
 
   
 
-<b>Conductors  </b><br><br>
+<b>Conductors  </b><br>
 
 Mrs Chua - Tan Soh Hwa (Advisor)   <br>
 Mr Patrick Neo  <br>
-Mr Wong Yin Xuan   <br><br>
+Mr Wong Yin Xuan   <br>
   
 
 Mrs Chua - Tan Soh Hwa and Mr Chua Tiong Hong began to lead the band in 2007. Under their baton, the band has soared and reached a new level of excellence in performance and showmanship, where it has achieved Gold Awards in consecutive SYFs, including the recent Certificates of Distinction in the SYF Arts Presentation in 2017 and 2019.
