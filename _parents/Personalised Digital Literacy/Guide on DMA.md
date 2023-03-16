@@ -23,6 +23,8 @@ _During school hours, the Default Setting will apply. Parents/Guardians are give
 <img src="/images/Parents/2023/Summary_of_DMA_setings.jpg" style="width:100%">
 
 
+
+
 #### What the different options mean
 
   
