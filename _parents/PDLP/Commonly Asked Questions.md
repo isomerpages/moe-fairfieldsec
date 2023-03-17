@@ -1,9 +1,10 @@
 ---
 title: Commonly Asked Questions
-permalink: /parents/personalised-digital-literacy/commonly-asked-questions/
+permalink: /parents/pdlp/commonly-asked-questions/
 description: ""
 third_nav_title: PDLP
 ---
+
 
 ### Commonly asked questions
 

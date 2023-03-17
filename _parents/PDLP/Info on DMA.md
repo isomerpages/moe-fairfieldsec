@@ -1,9 +1,10 @@
 ---
 title: Info on DMA
-permalink: /parents/personalised-digital-literacy/
+permalink: /parents/pdlp/
 description: ""
 third_nav_title: PDLP
 ---
+
 ### Quick guide on which DMA option to choose
 
 <img src="/images/dma1.png" style="width:90%">

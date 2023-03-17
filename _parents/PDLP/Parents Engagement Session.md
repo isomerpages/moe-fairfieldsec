@@ -1,9 +1,10 @@
 ---
 title: Parents Engagement Session
-permalink: /parents/personalised-digital-literacy/parents-engagement-session/
+permalink: /parents/pdlp/parents-engagement-session/
 description: ""
 third_nav_title: PDLP
 ---
+
 
 ### Parents Engagement Deck
 

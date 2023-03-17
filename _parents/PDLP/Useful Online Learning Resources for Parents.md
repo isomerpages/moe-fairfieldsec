@@ -1,9 +1,10 @@
 ---
 title: Useful Online Learning Resources for Parents
-permalink: /parents/personalised-digital-literacy/useful-online-learning-resources-for-parents/
+permalink: /parents/pdlp/useful-online-learning-resources-for-parents/
 description: ""
 third_nav_title: PDLP
 ---
+
 
 ### Useful Online Learning Resources for parents (PDLP)
 

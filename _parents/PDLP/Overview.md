@@ -1,9 +1,10 @@
 ---
 title: Overview
-permalink: /parents/personalised-digital-literacy/overview/
+permalink: /parents/pdlp/overview/
 description: ""
 third_nav_title: PDLP
 ---
+
 
 
 

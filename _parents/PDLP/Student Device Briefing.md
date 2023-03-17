@@ -1,9 +1,10 @@
 ---
 title: Student Device Briefing
-permalink: /parents/personalised-digital-literacy/student-device-briefing/
+permalink: /parents/pdlp/student-device-briefing/
 description: ""
 third_nav_title: PDLP
 ---
+
 
 ### Student Device Briefing ( 10 Mar 2022)
 
