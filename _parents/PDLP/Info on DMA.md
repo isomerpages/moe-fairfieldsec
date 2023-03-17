@@ -84,7 +84,7 @@ Please download the guides according to the options you have selected below:
 
 ### DMA Hours
 
-<img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 For parents of Sec 1 students 2023, please click on this [link](https://form.gov.sg/63fec1ae0e50510012577ff6) to indicate your DMA option.
   
