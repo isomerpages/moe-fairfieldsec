@@ -69,12 +69,7 @@ Parents/Guardians may wish to consider the following questions before deciding o
 * Are there existing routines and open conversations on the use of the internet at home?
 * Am I aware of how to prevent different types of cyber threats that my child/ward might face?
 
-For parents of Sec 1 students 2023, please click on this [link](https://form.gov.sg/63fec1ae0e50510012577ff6) to indicate your DMA option.
-  
 
-#### Request for change to DMA option 
-
-Please email Mr Lee Yew Ming  ( [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)  ) for any changes.
 
 ###  Parent Guide on DMA
 
@@ -86,6 +81,14 @@ Please download the guides according to the options you have selected below:
   
 3) **Option B** \--[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/dma3.pdf)
 
+
 ### DMA Hours
 
 <img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br><br>
+
+For parents of Sec 1 students 2023, please click on this [link](https://form.gov.sg/63fec1ae0e50510012577ff6) to indicate your DMA option.
+  
+
+#### Request for change to DMA option 
+
+Please email Mr Lee Yew Ming  ( [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)  ) for any changes.
