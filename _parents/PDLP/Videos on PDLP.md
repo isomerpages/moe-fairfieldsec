@@ -1,9 +1,10 @@
 ---
 title: Videos on PDLP
-permalink: /parents/Personalised-Digital-Literacy/videos-on-PDLP/
+permalink: /parents/pdlp/videos-on-pdlp/
 description: ""
 third_nav_title: PDLP
 ---
+
 
 ### Videos on PDLP
 
