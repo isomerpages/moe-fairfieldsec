@@ -4,8 +4,6 @@ permalink: /parents/personalised-digital-literacy/
 description: ""
 third_nav_title: PDLP
 ---
-
-
 ### Quick guide on which DMA option to choose
 
 <img src="/images/dma1.png" style="width:90%">
@@ -78,7 +76,7 @@ For parents of Sec 1 students 2023, please click on this [link](https://form.go
 
 Please email Mr Lee Yew Ming  ( [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)  ) for any changes.
 
-### DMA Guides
+###  Parent Guide on DMA
 
 Please download the guides according to the options you have selected below:  
   
