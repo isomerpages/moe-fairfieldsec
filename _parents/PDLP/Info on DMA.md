@@ -1,12 +1,12 @@
 ---
-title: Guide on DMA
+title: Info on DMA
 permalink: /parents/personalised-digital-literacy/
 description: ""
-third_nav_title: Personalised Digital Literacy
+third_nav_title: PDLP
 ---
 ### Quick guide on which DMA option to choose
 
-<img src="/images/dma1.png" style="width:100%">
+<img src="/images/dma1.png" style="width:90%">
 
 The after-school hours are as follows:
 
@@ -20,7 +20,10 @@ The after-school hours are as follows:
 
 _During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours._
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School hours</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">After-school hours</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Regular school days</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Default settings between 6 a.m. to 6 p.m.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Parents’/Guardians’ after-school option between 6 p.m. to 6 a.m.</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School events (e.g. Cross Country Runs, Speech Day)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Default settings between 6 a.m. to 1 p.m.</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Parents’/Guardians’ after-school option between 1 p.m. to 6 a.m.</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Weekends, School and Public Holidays</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Parents’ / Guardians’ After-School DMA Option for the whole day</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+<img src="/images/Parents/2023/Summary_of_DMA_setings.jpg" style="width:100%">
+
+
+
 
 #### What the different options mean
 
@@ -66,14 +69,9 @@ Parents/Guardians may wish to consider the following questions before deciding o
 * Are there existing routines and open conversations on the use of the internet at home?
 * Am I aware of how to prevent different types of cyber threats that my child/ward might face?
 
-For parents of Sec 1 students 2023, please click on this [link](https://form.gov.sg/63fec1ae0e50510012577ff6) to indicate your DMA option.
-  
 
-#### Request for change to DMA option 
 
-Please email Mr Lee Yew Ming  ( [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)  ) for any changes.
-
-### DMA Guides
+###  Parent Guide on DMA
 
 Please download the guides according to the options you have selected below:  
   
@@ -83,6 +81,14 @@ Please download the guides according to the options you have selected below:
   
 3) **Option B** \--[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/dma3.pdf)
 
+
 ### DMA Hours
 
 <img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br><br>
+
+For parents of Sec 1 students 2023, please click on this [link](https://form.gov.sg/63fec1ae0e50510012577ff6) to indicate your DMA option.
+  
+
+#### Request for change to DMA option 
+
+Please email Mr Lee Yew Ming  ( [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)  ) for any changes.

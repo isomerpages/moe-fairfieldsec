@@ -2,8 +2,9 @@
 title: Commonly Asked Questions
 permalink: /parents/personalised-digital-literacy/commonly-asked-questions/
 description: ""
-third_nav_title: Personalised Digital Literacy
+third_nav_title: PDLP
 ---
+
 ### Commonly asked questions
 
 **Q1. What is the device that FMS(S) students will be purchasing and what is included in the package?**
