@@ -9,7 +9,7 @@ description: ""
 [Sem 1 2023\_Sec 1\_Timetable\_6 Feb.pdf](/files/Latest%20Updates/2023S1S1_6%20Feb.pdf)  (new timetable will take effect on 13 Feb)
 <br>
 
-[Sem 1 2023\_Sec 2\_Timetable\_13 Jan.pdf](/files/Latest%20Updates/2023S1S2.pdf)
+[Sem 1 2023\_Sec 2\_Timetable\_13Jan.pdf](/files/Latest%20Updates/2023S1S2.pdf)
 
 <br>
 [Sem 1 2023\_Sec 3\_Timetable\_13 Jan.pdf](/files/2023/S1S3.pdf)  
