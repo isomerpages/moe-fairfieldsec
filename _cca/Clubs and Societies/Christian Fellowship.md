@@ -6,19 +6,17 @@ third_nav_title: Clubs and Societies
 ---
 ### Christian Fellowship
 
-<img src="/images/cca5.gif" style="width:80%">
+<img style="width:80%" src="/images/cca5.gif"><br>
 
 <ul class="jekyllcodex_accordion">
-<li>
-
-<input id="accordion1" type="checkbox">
+<li type="checkbox" id="accordion1">
 
 <label for="accordion1">Details</label>
 
 <div>
 
 <p> 
-<b>Training Days & Time:</b><br><br>
+<b>Training Days &amp; Time:</b><br><br>
 
 Monday: 3.30 pm - 5.00 pm  <br><br>
 
@@ -50,7 +48,7 @@ She worships and serves in Toa Payoh Chinese Methodist Church.<br><br>
 
 <b>Ms Esther Lim Si Xiu</b><br><br>
 
-Ms Esther Lim Si Xiu was a Fairsian and grew up in FMSP and FMSS. As a student in Fairfield Secondary back in 2000 to 2003, she had the opportunity of being a Student Councillor and that was indeed a growth journey and an enriching experience to her. Her teachers at Fairfield also imparted to me this passion to journey alongside teenagers and encourage them to persevere on in the challenges that they may face. That was why she chose teaching as my first career and she was a Secondary School teacher for 10 years.
+Ms Esther Lim Si Xiu was a Fairsian and grew up in FMSP and FMSS. As a&nbsp;student in Fairfield Secondary back in 2000 to 2003, she had the opportunity of being a&nbsp;Student Councillor and that was indeed a growth journey and an enriching&nbsp;experience to her. Her teachers at Fairfield also imparted to me this passion to&nbsp;journey alongside teenagers and encourage them to persevere on in the challenges&nbsp;that they may face. That was why she chose teaching as my first career and she was a&nbsp;Secondary School teacher for 10 years.
 </p>
 </div>
 
@@ -59,7 +57,7 @@ Ms Esther Lim Si Xiu was a Fairsian and grew up in FMSP and FMSS. As a student 
 
 
 
-<input id="accordion2" type="checkbox">
+<input type="checkbox" id="accordion2">
 
 <label for="accordion2">Overview</label>
 
@@ -68,11 +66,11 @@ Ms Esther Lim Si Xiu was a Fairsian and grew up in FMSP and FMSS. As a student 
 <p>
 <b>Who we are ….</b><br>
 
-It is challenging for youths today to find their identity, especially for children who openly express to be Christians. The influence of social media is not only a distraction but a real challenge to the healthy development of our young people in Singapore. <br><br>
+It is challenging for youths today to find their identity, especially for children who openly express to be Christians. The influence of social media is not only a distraction but a real challenge to the healthy development of our young people in Singapore.&nbsp;<br><br>
 
   
 
-The rich tradition of the Methodist Mission Schools already encourages all students to learn from the wisdom the Bible has to offer.  Just as the school is open to students regardless of their religious beliefs, the Fairfield Christian Fellowship also welcomes everyone to join us in our meetings, either as committed members or as visitors. We are most willing to share the teachings of the bible with anyone who wishes to find out more about the Christian faith.<br><br>
+The rich tradition of the Methodist Mission Schools already encourages all students to learn from the wisdom the Bible has to offer.&nbsp; Just as the school is open to students regardless of their religious beliefs, the Fairfield Christian Fellowship also welcomes everyone to join us in our meetings, either as committed members or as visitors. We are most willing to share the teachings of the bible with anyone who wishes to find out more about the Christian faith.<br><br>
 
   
 
@@ -80,25 +78,25 @@ The Fairfield Christian Fellowship aims to deepen the understanding of scripture
 
   
 
-Students can choose to join us as a first or second CCA (if it does not clash with the other). There will be opportunity for you to serve as leaders and attain the highest level possible in the LEAPS 2.0 system. <br><br>
+Students can choose to join us as a first or second CCA (if it does not clash with the other). There will be opportunity for you to serve as leaders and attain the highest level possible in the LEAPS 2.0 system.&nbsp;<br><br>
 
   
 
 <b>Our Activities</b><br> 
 
-We meet once a week for a time of worship followed by an exhortation from the Bible before we break out into groups for prayer and fellowship. There will be sessions where we learn the basic foundations of scripture as well as discussion topics that are current and relevant to our youths today. Besides the weekly meetings, we hope to bless others by engaging in Community Involvement Projects and supporting school initiatives such as Fairfield Make Someone Smile (F.M.S.S.) Day. Members of CF will have ample opportunity to discover their talent and use it to serve others.   <br><br>
+We meet once a week&nbsp;for a time of worship followed by an exhortation from the Bible before we break out into groups for prayer and fellowship. There will be sessions where we learn the basic foundations of scripture as well as discussion topics that are current and relevant to our youths today. Besides the weekly meetings, we hope to bless others by engaging in Community Involvement Projects and supporting school initiatives such as Fairfield Make Someone Smile (F.M.S.S.) Day. Members of CF will have ample opportunity to discover their talent and use it to serve others.&nbsp;  <br><br>
 
   
 
 <b>Our Vision:</b><br> 
 
-We aspire to form a community of believers who seek to follow Jesus Christ and to apply Kingdom values in our daily lives.   <br><br>
+We aspire to form a community of believers who seek to follow Jesus Christ and to apply Kingdom values in our daily lives.&nbsp;  <br><br>
 
   
 
 <b>Our Mission:</b><br> 
 
-To be a community with a passion for all people.   <br><br>
+To be a community with a passion for all people.&nbsp;  <br><br>
 
   
 
@@ -114,11 +112,11 @@ To be a community with a passion for all people.   <br><br>
 
 <b>Our Motto</b><br> 
 
-Colossians 3:16 <br>
+Colossians 3:16&nbsp;<br>
 
-‘Let the message of Christ dwell among you richly <br>
+‘Let the message of Christ dwell among you richly&nbsp;<br>
 
-as you teach and admonish one another with all wisdom through psalms, <br>
+as you teach and admonish one another with all wisdom through psalms,&nbsp;<br>
 
 hymns, and songs from the Spirit, singing to God with gratitude in your hearts.’<br><br>
 
@@ -140,11 +138,11 @@ We seek to serve God, the school community and beyond.<br><br>
 
 <b>Programme</b><br>
 
-A typical schedule for our weekly meetings is as follows: <br><br>
+A typical schedule for our weekly meetings is as follows:&nbsp;<br><br>
 
   
 
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152px;">Time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 319px;">Activity<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 237px;">Facilitator<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;">3 30 – 3 45 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;">Fellowship time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;">All<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;">3 45 – 4 00 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;">Worship<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;">Student worship leader<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;">4 00 – 4 05 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;">Devotion message for the week<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;">Committee member<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;">4 05 – 4 30 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;">Bible study and group discussions<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;">Christian Ministry staff or invited speakers<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;">4 30 – 4 45 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;">Praying for one another<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;">In groups of 4 students to one teacher or CMS<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;">4 45 – 5 00 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;">Announcements and packing up<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;">All<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br><br>
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 152px;" valign="top">Time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 319px;" valign="top">Activity<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 237px;" valign="top">Facilitator<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;" valign="top">3 30 – 3 45 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;" valign="top">Fellowship time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;" valign="top">All<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;" valign="top">3 45 – 4 00 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;" valign="top">Worship<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;" valign="top">Student worship leader<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;" valign="top">4 00 – 4 05 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;" valign="top">Devotion message for the week<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;" valign="top">Committee member<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;" valign="top">4 05 – 4 30 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;" valign="top">Bible study and group discussions<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;" valign="top">Christian Ministry staff or invited speakers<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;" valign="top">4 30 – 4 45 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;" valign="top">Praying for one another<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;" valign="top">In groups of 4 students to one teacher or CMS<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 94.25pt;" valign="top">4 45 – 5 00 pm<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 206.25pt;" valign="top">Announcements and packing up<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150.3pt;" valign="top">All<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br><br>
 
   
 
