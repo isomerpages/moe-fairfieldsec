@@ -9,7 +9,7 @@ description: ""
 <li type="checkbox" id="accordion1">
 
 <label for="accordion1">Clubs &amp; Societies</label>
-
+	
 <div>
 
 <p> 
