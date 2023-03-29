@@ -23,7 +23,7 @@ Wednesday: 3.30 pm - 6.00 pm (B Div)  <br>
 Friday: 2.00 pm – 5.00 pm (All)&nbsp;  <br><br>
   
 
-<b>Teachers In Charge:</b><br><br>
+<b>Teachers In Charge:</b><br>
 
 Mr Jason Lum (I/C)<br>
 Mr Yap Hock Heng<br>
