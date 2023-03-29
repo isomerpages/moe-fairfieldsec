@@ -1004,7 +1004,7 @@ Design and Technology
 
 <div>
 
-<p>Click <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/">here</a> to view all teacher's email addresses. </p>
+<p>Click <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/">here</a> to view all teachers email addresses. </p>
 
 	
 </div>
