@@ -6,21 +6,19 @@ third_nav_title: Performing Arts
 ---
 ### Symphonic Band
 
-<img src="/images/cca14.gif" style="width:80%">
+<img style="width:80%" src="/images/cca14.gif">
 
 <ul class="jekyllcodex_accordion">
-<li>
-
-<input id="accordion1" type="checkbox">
+<li type="checkbox" id="accordion1">
 
 <label for="accordion1">Details</label>
 
 <div>
 
 <p> 
-<b>Training Days & Time:</b><br><br>
+<b>Training Days &amp; Time:</b><br><br>
 
-*Monday (Sec. 1 only. Sec. 2-5 during concert/competition season): 3.30 pm - 6.00 pm  <br>
+*Monday (Sec. 1 only. Sec. 2-5 during concert/competition season):&nbsp;3.30 pm - 6.00 pm  <br>
 
 Wednesday (Sec. 2-5): 3.30 pm - 6.00 pm<br>
 
@@ -44,9 +42,9 @@ Ms Tan Yi Qian<br><br>
 
 <b>Conductors  </b><br>
 
-Mrs Chua - Tan Soh Hwa (Advisor)   <br>
+Mrs Chua - Tan Soh Hwa (Advisor)&nbsp;  <br>
 Mr Patrick Neo  <br>
-Mr Wong Yin Xuan   <br>
+Mr Wong Yin Xuan&nbsp;  <br>
   
 
 Mrs Chua - Tan Soh Hwa and Mr Chua Tiong Hong began to lead the band in 2007. Under their baton, the band has soared and reached a new level of excellence in performance and showmanship, where it has achieved Gold Awards in consecutive SYFs, including the recent Certificates of Distinction in the SYF Arts Presentation in 2017 and 2019.
@@ -54,9 +52,7 @@ Mrs Chua - Tan Soh Hwa and Mr Chua Tiong Hong began to lead the band in 2007. Un
 </div>
 
 </li>
-<li>
-
-<input id="accordion2" type="checkbox">
+<li type="checkbox" id="accordion2">
 
 <label for="accordion2">Overview</label>
 
@@ -109,9 +105,7 @@ Band Camp
 </div>
 
 </li>
-<li>
-
-<input id="accordion3" type="checkbox">
+<li type="checkbox" id="accordion3">
 
 <label for="accordion3">Achievements</label>
 
@@ -120,15 +114,15 @@ Band Camp
 <p>
 	
 <b>2021</b><br>
-<table border="0" cellpadding="0" cellspacing="0" width="682" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr height="20" style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;"><td height="20" class="xl65" width="481" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2021 Arts Presentation for Band (Team A, Team B & Percussion Ensemble)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Accomplishment</b></td></tr></tbody></table><br><br>		
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Accomplishment</b></td></tr></tbody></table><br><br>		
 
 	
 <b>2019</b><br>
-<table border="0" cellpadding="0" cellspacing="0" width="682" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr height="20" style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;"><td height="20" class="xl65" width="481" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2019 Arts Presentation for Band (Concert)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</b></td></tr></tbody></table><br><br>	
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2019 Arts Presentation for&nbsp;Band (Concert)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</b></td></tr></tbody></table><br><br>	
 	
 	
 <b>2017</b><br>
-<table border="0" cellpadding="0" cellspacing="0" width="682" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr height="20" style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;"><td height="20" class="xl65" width="481" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2017 Arts Presentation for Band (Concert)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</b></td></tr></tbody></table>
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2017 Arts Presentation for&nbsp;Band (Concert)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</b></td></tr></tbody></table>
 </p>
 
 	
