@@ -4,7 +4,6 @@ permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-
 ### Badminton
 
 <img style="width:80%" src="/images/cca15.gif"><br>
