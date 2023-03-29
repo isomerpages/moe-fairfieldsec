@@ -75,30 +75,3 @@ description: ""
 _Note: Inter-School Competitions may take place on days and timings not stated here. Selected students will be dismissed from class lessons to have lunch and take bus to venue._
 
 _Priority is given to attendance of MEP, Remedial and MT lessons at external venues._
-
-
-
-
-<table border="1">
-<tbody>
-<tr>
-<td>
-<p class=""><strong class=""><span lang="EN-GB" class="">Name of Organisation:<br><br></span></strong></p>
-<p class=""><span lang="EN-GB" class="">Fairfield Methodist School (Secondary)</span></p>
-<p class=""><strong class=""><span lang="EN-GB" class="">&nbsp;</span></strong></p>
-<p class=""><strong class=""><span lang="EN-GB" class="">Address:</span></strong></p>
-<p class=""><span lang="EN-GB" class="">102 Dover Road</span></p>
-<p class=""><span lang="EN-GB" class="">Singapore 139649</span></p>
-</td>
-<td>
-<p class=""><strong class=""><span lang="EN-GB" class="">Contact Information</span></strong></p>
-<p class=""><strong class=""><span lang="EN-GB" class="">&nbsp;</span></strong></p>
-<p class=""><span lang="EN-GB" class="">Name of Contact Person: Mdm Veronica Chua</span></p>
-<p class=""><span lang="EN-GB" class="">Telephone No: 67788702</span></p>
-<p class=""><span lang="EN-GB" class="">Fax No: 67797482</span></p>
-<p class=""><span lang="EN-GB" class="">Email Address:&nbsp;<a href="mailto:CHUA_Jiayin@schools.gov.sg" class="">CHUA_Jiayin@schools.gov.sg</a></span></p>
-<p class=""><span lang="EN-GB" class="">Web-site Address:&nbsp;<a href="https://fairfieldmethodistsec.moe.edu.sg/" class="">https://fairfieldmethodistsec.moe.edu.sg/</a></span></p>
-</td>
-</tr>
-</tbody>
-</table>
