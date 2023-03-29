@@ -16,25 +16,19 @@ third_nav_title: Sports
 <div>
 
 <p> 
-<b>Training Days &amp; Time:</b><br><br>
+<b>Training Days &amp; Time:</b><br>
 
-Monday&nbsp; (Boys): 3.30 pm - 6.00 pm<br>
-
-Wednesday (Girls): 3.30 pm - 6.00 pm<br>
-
-  
+Monday: 3.30 pm - 6.00 pm (Boys)<br>
+Wednesday: 3.30 pm - 6.00 pm (Girls)<br>
 
 Friday:<br>
 1.30 pm - 4.00 pm (Girls)<br>
 3.30 pm - 6.00 pm (Boys)<br>
  
-
-Selected Saturdays (for friendly matches): 8.00 am - 12.00 pm<br><br>
-
+Selected Saturdays (for friendly matches): 8.00 am - 12.00 pm<br>
   
 
-<b>Teachers In Charge:</b><br><br>
-
+<b>Teachers In Charge:</b><br>
 I/C: Mr William Liew (Overall&nbsp; I/C &amp; Coach)<br>
 2 I/C: Mdm Nina Lim (Girls I/C)<br>
 Mr Tan Zhiwei  <br>
