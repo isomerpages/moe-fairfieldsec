@@ -9,6 +9,7 @@ third_nav_title: Clubs and Societies
 <img src="/images/cca5.gif" style="width:80%"><br>
 
 
+<ul class="jekyllcodex_accordion">
 <li id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
