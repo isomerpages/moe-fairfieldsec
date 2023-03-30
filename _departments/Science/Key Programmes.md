@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Science
 ---
 
-![](/images/Dept%20Photos/Science-ezgif.gif)
-
 ### Key Programmes
 
 The learning of Science is crafted in a progressive fashion where learning activities are learner-centric, inquiry-based and authentic:  
+
+<img src="/images/Dept Photos/Science-ezgif.gif" style="width:80%">
 
   
 
