@@ -6,7 +6,8 @@ third_nav_title: Mother Tongue
 ---
 ### Key Programmes
 
-![](/images/Dept%20Photos/MT-ezgif.gif)
+<img src="/images/Dept Photos/MT-ezgif.gif" style="width:80%">
+
 
 #### Chinese Language  
 
