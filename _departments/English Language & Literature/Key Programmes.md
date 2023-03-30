@@ -6,6 +6,8 @@ third_nav_title: English Language & Literature
 ---
 ### Key Programmes
 
+![](/images/Dept%20Photos/EL-ezgif.gif)
+
 #### Voice of a Fairsian Programme
 
 The English department’s four-year ‘Voice of A Fairsian Programme’ builds students’ confidence in public speaking and develops their advocacy and writing skills by exposing students to a variety of texts and themes. Through debates, dramatic performances, presentations, talk shows, multi-media projects and e-audio picture books, students exercise their creativity, deepen their analysis and discover their personal voice to respond to the world we live in.
