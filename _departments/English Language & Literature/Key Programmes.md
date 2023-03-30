@@ -6,7 +6,8 @@ third_nav_title: English Language & Literature
 ---
 ### Key Programmes
 
-![](/images/Dept%20Photos/EL-ezgif.gif)
+<img src="/images/Dept Photos/EL-ezgif.gif" style="width:80%">
+
 
 #### Voice of a Fairsian Programme
 
