@@ -8,7 +8,7 @@ third_nav_title: Humanities
 
 The Humanities Department offers three subjects –Geography, History and Social Studies to help our pupils critically understand and appreciate both the human and physical worlds around them.
 
-  
+<img src="/images/Dept Photos/Humaities-ezgif.gif" style="width:80%">  
 
 #### Joy of Learning and Culture of Thinking
 
@@ -39,4 +39,3 @@ _**Historical Investigation**_ (or HI for short) is designed to provide further
 _**Social Studies Issue Investigation**_ (or II for short) is a performance task designed to provide a platform for students to demonstrate the knowledge, skills and values needed for active citizenship. As students conduct investigations on societal issues of meaning to them, they extend their inquiry skills by working as a group to identify a societal issue that is a cause of concern, gather data that reflects multiple perspectives, analyse the data gathered to surface trends and patterns that help address the issue, arrive at well-reasoned and substantiated conclusions, consider possible recommendations to the societal issue, and reflect on their understanding of the societal issue and examine personal assumptions and beliefs about the issue.
 
 <img src="/images/humanities.gif" style="width:80%">
-
