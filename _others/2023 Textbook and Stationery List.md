@@ -3,7 +3,6 @@ title: 2023 Textbook and Stationery List
 permalink: /parents/administrative-matters/2023-textbook-and-stationery-list/
 description: ""
 ---
-
 ### Purchase of Uniform and School Attire for Year 2023
 
 Dear Parent/Guardian,
@@ -11,6 +10,7 @@ Dear Parent/Guardian,
 **Guidelines for Year-End Purchase of 2023 School Textbooks/Stationery and School Attire**
 
   
+TEST TEST TEST 
 
 Parents/Guardians can start purchasing the items online from 11 Nov 2022, 5pm. 
 

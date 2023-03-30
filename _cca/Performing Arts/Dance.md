@@ -6,19 +6,17 @@ third_nav_title: Performing Arts
 ---
 ### Dance
 
-<img src="/images/cca11.gif" style="width:80%">
+<img style="width:80%" src="/images/cca11.gif">
 
 <ul class="jekyllcodex_accordion">
-<li>
-
-<input id="accordion1" type="checkbox">
+<li type="checkbox" id="accordion1">
 
 <label for="accordion1">Details</label>
 
 <div>
 
 <p> 
-<b>Training Days & Time:</b><br><br>
+<b>Training Days &amp; Time:</b><br><br>
 
 Monday : 3.30 pm - 6.00 pm<br>
 
@@ -28,17 +26,17 @@ Wednesday : 3.30 pm – 6.00 pm<br><br>
 
 <b>Teachers In Charge:</b><br><br>
 
-Ms Ng Ting Ting (I/C)<br>
+Ms Liong Hui Min (I/C)<br>
 
-Ms Zhang Lu<br><br>
+Ms Serena Foo Choon Huay<br><br>
 
 <b> Our Instructor</b><br><br>
 	
-<img src="/images/shirlyn.png" style="width:183px;height:240px;margin-right:15px;" align = "left">	Shir Lyn is a well-loved instructor among the dancers. She inspires the team towards achieving personal excellence and emphasizes to them the importance in reaching out to others, making connections and nurturing one another with encouraging words and actions. <br><br>
+<img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/shirlyn.png">	Shir Lyn is a well-loved instructor among the dancers. She inspires the team towards achieving personal excellence and emphasizes to them the importance in reaching out to others, making connections and nurturing one another with encouraging words and actions.&nbsp;<br><br>
 
   
 
-Shir Lyn started dancing at a young age of 7. Trained in Chinese dance, she has become a versatile dancer who excels in Contemporary and Jazz. Some of her awards include being placed Champion in Super 24 (2012) and runners-up in The Royal Dance Off (TRDO, 2011 – 2014). Her achievements as a coach in schools are also a testament to her strong-willed and disciplined commitment in dance. <br><br>
+Shir Lyn started dancing at a young age of 7. Trained in Chinese dance, she has become a versatile dancer who excels in Contemporary and Jazz. Some of her awards include being placed Champion in Super 24 (2012) and runners-up in The Royal Dance Off (TRDO, 2011 – 2014). Her achievements as a coach in schools are also a testament to her strong-willed and disciplined commitment in dance.&nbsp;<br><br>
 
   
 
@@ -47,9 +45,7 @@ Over the years, Shir lyn has taken on the role of a choreographer and producer. 
 </div>
 
 </li>
-<li>
-
-<input id="accordion2" type="checkbox">
+<li type="checkbox" id="accordion2">
 
 <label for="accordion2">Overview</label>
 
@@ -80,7 +76,7 @@ Fairfield Dance was established in 2004 and has since come a long way. Its avant
 
   
 
-From 2015, Shir Lyn (Ms Quek) took over and laid the foundation of contemporary jazz and modern ballet into Fairfield’s style of dancing. Under her leadership, the team achieved their first SYF Arts Presentation (AP) certificate of Distinction in International Dance. Shir Lyn continued to raise the dancers’ standards and heighten their passion through participation in prestigious national competitions like Super 24 and The Royal Dance Off (TRDO). In 2018 and 2020, Fairfield Dancers choreographed and put up their own graduation recitals, Black Box Volume 1 & 2.<br><br>
+From 2015, Shir Lyn (Ms Quek) took over and laid the foundation of contemporary jazz and modern ballet into Fairfield’s style of dancing. Under her leadership, the team achieved their first SYF Arts Presentation (AP) certificate of Distinction in International Dance. Shir Lyn continued to raise the dancers’ standards and heighten their passion through participation in prestigious national competitions like Super 24 and The Royal Dance Off (TRDO). In 2018 and 2020, Fairfield Dancers choreographed and put up their own graduation recitals, Black Box Volume 1 &amp; 2.<br><br>
 
   
 
@@ -114,9 +110,7 @@ Our dancers choreograph and put together their very own recital during non-SYF y
 </div>
 
 </li>
-<li>
-
-<input id="accordion3" type="checkbox">
+<li type="checkbox" id="accordion3">
 
 <label for="accordion3">Achievements</label>
 
@@ -126,19 +120,19 @@ Our dancers choreograph and put together their very own recital during non-SYF y
 
 
 <b>2021</b><br>
-<table border="0" cellpadding="0" cellspacing="0" width="682" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr height="20" style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;"><td height="20" class="xl65" width="481" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF Arts Presentation (AP) for International Dance</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Distinction ( 2 Teams)</b></td></tr></tbody></table>	<br><br>
+<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF Arts Presentation (AP) for International Dance</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Distinction (2 Teams)</b></td></tr></tbody></table>	<br><br>
 
 
 <b>2020</b><br>
-<b>SYFgoesOnline!\_DanceVerve20! UrbanContempDelight 2 Showcase</b>	<br><iframe width="763" height="375" src="https://www.youtube.com/embed/Pk_p9dQdISE" title="UrbanContempDelight 2 Showcase [SYFgoesOnline!_DanceVerve20!]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<b>SYFgoesOnline!\_DanceVerve20! UrbanContempDelight 2 Showcase</b>	<br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="UrbanContempDelight 2 Showcase [SYFgoesOnline!_DanceVerve20!]" src="https://www.youtube.com/embed/Pk_p9dQdISE" height="375" width="763"></iframe><br><br>
 <b>2019</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 623px;"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF Arts Presentation (AP) for International Dance</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 247px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Distinction</b></td></tr></tbody></table><br><br>	
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 623px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF Arts Presentation (AP) for International Dance</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 247px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Distinction</b></td></tr></tbody></table><br><br>	
 	
 <b>2018</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 623px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Super 24 Division Runners-Up and National Finalist (Secondary)</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 247px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody></table><br><br>	
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 623px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Super 24 Division Runners-Up and National Finalist (Secondary)</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 247px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody></table><br><br>	
 	
 <b>2017</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 623px;"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF Arts Presentation (AP) for International Dance&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 247px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Accomplishment</b></td></tr></tbody></table>	
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 623px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF Arts Presentation (AP) for International Dance&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 247px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Accomplishment</b></td></tr></tbody></table>	
 </p>
 
 	

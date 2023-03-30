@@ -6,21 +6,19 @@ third_nav_title: Clubs and Societies
 ---
 ### Journalism
 
-<img src="/images/cca6.gif" style="width:80%">
+<img style="width:80%" src="/images/cca6.gif">
 
 <ul class="jekyllcodex_accordion">
-<li>
-
-<input id="accordion1" type="checkbox">
+<li type="checkbox" id="accordion1">
 
 <label for="accordion1">Details</label>
 
 <div>
 
 <p> 
-<b>Training Days & Time:</b><br><br>
+<b>Training Days &amp; Time:</b><br><br>
 
-Tuesday: 3.00 pm - 5.30 pm  <br><br>
+Thursday: 3.00 pm - 5.30 pm  <br><br>
   
 
 <b>Teacher In Charge:</b><br><br>
@@ -30,9 +28,7 @@ Mr Joseph Guo
 </div>
 
 </li>
-<li>
-
-<input id="accordion2" type="checkbox">
+<li type="checkbox" id="accordion2">
 
 <label for="accordion2">Overview</label>
 
@@ -71,9 +67,7 @@ In Fairfield’s Multi-Ethnic Celebrations, National Day Parades, and various ot
 </div>
 
 </li>
-<li>
-
-<input id="accordion3" type="checkbox">
+<li type="checkbox" id="accordion3">
 
 <label for="accordion3">Achievements</label>
 
@@ -82,15 +76,15 @@ In Fairfield’s Multi-Ethnic Celebrations, National Day Parades, and various ot
 <p>
 
 <b>2021</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; font-family: Lato, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 377px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Queen's Commonwealth Essay Competition 2021</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 393px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Silver &amp; Representation</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">2021 Safety Starts With Me Writing Competition</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Consolation &amp; Representation</b>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Science Chronicles Creative Writing Competition</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;">&nbsp;<b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr></tbody></table><br><br>	
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; font-family: Lato, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 377px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Queen's Commonwealth Essay Competition 2021</b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 393px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Silver &amp; Representation</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">2021 Safety Starts With Me Writing Competition</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Consolation &amp; Representation</b>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Science Chronicles Creative Writing Competition</b>&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;">&nbsp;<b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr></tbody></table><br><br>	
 
 <b>2020</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; font-family: Lato, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 377px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2020 Safety Starts With Me Writing Competition<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 393px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr></tbody></table><br><br>	
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; font-family: Lato, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 377px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2020 Safety Starts With Me Writing Competition<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 393px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr></tbody></table><br><br>	
 	
 <b>2019</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; font-family: Lato, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; text-align: left; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 377px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2019 Queen’s Commonwealth Essay Competition<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 393px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Enne Er (Sec 2E) --- Bronze Award (Junior Category)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">2019 Safety Starts With Me Writing Competition</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Enne Er (Sec 2E) --- Consolation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">2019 Voice of a Fairfield Journalist<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Joshua Ho (Sec 1E 2019)</b></td></tr></tbody></table><br><br>	
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; font-family: Lato, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; text-align: left; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 377px;"><b style="margin: 0px; outline: 0px; padding: 0px;">2019 Queen’s Commonwealth Essay Competition<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 393px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Enne Er (Sec 2E) --- Bronze Award (Junior Category)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">2019 Safety Starts With Me Writing Competition</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Enne Er (Sec 2E) --- Consolation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">2019 Voice of a Fairfield Journalist<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left;"><b style="margin: 0px; outline: 0px; padding: 0px;">Joshua Ho (Sec 1E 2019)</b></td></tr></tbody></table><br><br>	
 
-Joshua Ho's article titled ‘Let Idea of Rooftop Farms Grow’ was published on the <b><i>Straits Times Youth Forum</i></b>.<br><br>
+Joshua Ho's article titled ‘Let Idea of Rooftop Farms Grow’ was published on the&nbsp;<b><i>Straits Times Youth Forum</i></b>.<br><br>
 
 <a href="https://www.straitstimes.com/forum/letters-in-print/let-idea-of-rooftop-farms-grow">https://www.straitstimes.com/forum/letters-in-print/let-idea-of-rooftop-farms-grow</a>
  

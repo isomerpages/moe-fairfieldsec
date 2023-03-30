@@ -1,12 +1,11 @@
 ---
-title: Teachers Email Address
+title: Teachers' Email Address
 permalink: /parents/teachers-email-address/
 description: ""
 third_nav_title: Form Teachers
 ---
 
-
-### Teachers Email Address
+### Teachers' Email Address
 
 | Name | Email Address |
 |---|---|
