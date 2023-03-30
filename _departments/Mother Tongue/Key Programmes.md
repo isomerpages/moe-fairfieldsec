@@ -6,6 +6,8 @@ third_nav_title: Mother Tongue
 ---
 ### Key Programmes
 
+![](/images/Dept%20Photos/MT-ezgif.gif)
+
 #### Chinese Language  
 
 ##### Voice of a Fairsian Mother Tongue Programme
