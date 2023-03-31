@@ -8,7 +8,7 @@ third_nav_title: Science
 
 The learning of Science is crafted in a progressive fashion where learning activities are learner-centric, inquiry-based and authentic:  
 
-<img src="/images/Dept Photos/Science-ezgif.gif" style="width:60%">
+<img src="/images/Dept Photos/Science-ezgif.gif" style="width:40%">
 
   
 
