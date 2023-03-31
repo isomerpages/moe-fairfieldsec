@@ -33,13 +33,6 @@ third_nav_title: Science
 
 
 
-#### Community in Bloom (CIB) Awards  
-
-
-*   Achievement Band: Gold
-*   Achievement Ribbon: Outstanding Edibles –Growing Community Garden
-
-
 #### Singapore Junior Biology Olympiad
 
 2019 – 2 Silvers
@@ -54,4 +47,8 @@ third_nav_title: Science
 
 2018 – Commendation Award
 
+#### Community in Bloom (CIB) Awards  
 
+
+*   Achievement Band: Gold
+*   Achievement Ribbon: Outstanding Edibles –Growing Community Garden
