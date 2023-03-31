@@ -5,7 +5,7 @@ description: ""
 ---
 ### Assessment Matters
 
-**Term 2 WA Schedule** 
+#### Term 2  Weighted&nbsp;Assessment Schedule
 
 [2023 Term 2 WA Schedule Sec 1.pdf](/files/Parents/Assessment%20Matters/2023/2023%20term%202%20wa_v5_sec%201.pdf)
 
@@ -19,7 +19,7 @@ description: ""
 
 
 
-**Sec 1 to 3 EOY Exam Timetable**  <br>
+#### Sec 1 to 3 EOY Exam Timetable  <br>
 
 [2023 WA 1 Schedule Sec 1.pdf](/files/Parents/Assessment%20Matters/2023/2023%20WA%201%20Schedule%20Sec%201.pdf)
 
