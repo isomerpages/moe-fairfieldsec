@@ -2,12 +2,12 @@
 title: Key Programmes
 permalink: /departments/English-Language-and-Literature/key-programmes/
 description: ""
-third_nav_title: English Language & Literature
+third_nav_title: English Language &amp; Literature
 ---
 ### Key Programmes
 
-<img src="/images/Dept Photos/EL-ezgif.gif" style="width:80%">
-
+<img src="/images/Dept Photos/el-ezgif-2.gif" style="width:80%">
+![](/images/Dept%20Photos/el-ezgif-2.gif)
 
 #### Voice of a Fairsian Programme
 
