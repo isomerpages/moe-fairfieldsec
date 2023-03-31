@@ -5,7 +5,7 @@ description: ""
 ---
 ### Assessment Matters
 
-#### Term 2  Weighted&nbsp;Assessment Schedule
+#### Term 2  Weighted Assessment Schedule
 
 [2023 Term 2 WA Schedule Sec 1.pdf](/files/Parents/Assessment%20Matters/2023/2023%20term%202%20wa_v5_sec%201.pdf)
 
