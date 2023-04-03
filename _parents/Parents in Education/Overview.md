@@ -69,7 +69,7 @@ A platform especially for Dads! Networking, sharing and parenting talks for Dads
   
 
 **• Parents Connect through Talks and Quarterly Walks**  
-*   Parenting talks on topics close to parents’ hearts. Get equipped to journey with your teens. Network, bond and share over informal dialogues and chit chat sessions   
+*   Parenting talks on topics close to parents’ hearts. Get equipped to journey with your teens. Network, bond and share over informal dialogues and chit chat sessions&nbsp;  
     
 *   Quarterly walks are organised for parents to bond not only while walking and enjoying scenic views, but also while having a good time over breakfast.
 
@@ -94,7 +94,7 @@ In April, FMS(S) will come together to celebrate 135 years of God’s blessings 
  
 **• BLESS/Study Programme**
 
-A programme to encourage Upper Secondary students who are preparing for their O- and N-level examinations. Snacks and little gifts are provided, packed and delivered by parents to motivate and spur these students on. This program runs from August to September.
+A programme to encourage Upper Secondary students who are preparing for their&nbsp;O- and N-level examinations. Snacks and little gifts are provided, packed and delivered by parents to motivate and spur these students on. This program runs from&nbsp;August to September.
   
 
  
@@ -110,9 +110,9 @@ All FMS(S) parents are welcome to join FMS(S) PiE. Sign up by completing the onl
 All FMS(S) parents are welcome to join FMS(S) PiE.  
 Sign-up via our online form. Scan the QR code or at:
 
-<a href="[https://forms.gle/Ne5mHnMvEPZyumRJA](https://forms.gle/Ne5mHnMvEPZyumRJA)"><img style="width:80%" src="/images/PiE/2023/PIE_Sign_Up_URL.jpg"></a>
+<a href="https://forms.gle/Ne5mHnMvEPZyumRJA"><img style="width:80%" src="/images/PiE/2023/PIE_Sign_Up_URL.jpg"></a>
 
-You will, nearer the date, receive information on the PiE events that you have indicated interest in.For more information or enquiries, you can reach us via email at [fmss.pie@gmail.com](mailto:fmss.pie@gmail.com).
+You will, nearer the date, receive information on the PiE events&nbsp;that you have indicated interest in.For more information or enquiries, you can reach us via email at&nbsp;[fmss.pie@gmail.com](mailto:fmss.pie@gmail.com).
 
 
 

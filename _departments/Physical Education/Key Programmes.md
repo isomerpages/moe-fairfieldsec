@@ -6,6 +6,9 @@ third_nav_title: Physical Education
 ---
 ### Key Programmes
 
+
+<img src="/images/Dept Photos/PE-ezgif.gif" style="width:80%">  
+
 #### Sec 2 Fairfield Learning Experience (FLEX) Week
 
 The school adopts a holistic approach towards imbuing in the students an adventurous spirit and a love for outdoor education. All Secondary 2 students are given the opportunity to spend 4 Days 3 Nights at an outdoor campsite for an expeditionary programme that consists of outdoor cooking, tent pitching, as well as land & sea expeditions.

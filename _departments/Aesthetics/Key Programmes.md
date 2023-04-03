@@ -6,6 +6,8 @@ third_nav_title: Aesthetics
 ---
 ### Key Programmes
 
+<img src="/images/Dept Photos/Aes-ezgif.gif" style="width:80%">
+
 #### Arts Parade (with Aes PDOC)
 
 As part of our plan to enrich our students’ aesthetic experiences and to broaden their understanding and appreciation of the diversity and richness of the Arts, our department teachers (together with others in the Aesthetics PDOC) helps to organise a series of “Art Parades” – Art related classes and workshops ranging from dance, drawing, sketching to Disc jockey introductory sessions, 3D modelling workshops, cold batik and many other art forms.
