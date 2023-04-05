@@ -18,6 +18,8 @@ third_nav_title: Form Teachers
 <p> 
          <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
+&nbsp;
+
 <table style="width: 710px; height: 367px;" class="ive\_eobj\_center iveo\_table ives\_tab\_1">
 
 <tbody>
@@ -36,11 +38,11 @@ third_nav_title: Form Teachers
 
 <tr>
 
-<td style="text-align: left; "><b>Mdm Lim Nina</b><br>
+<td style="text-align: left;"><b>Mdm Lim Nina</b><br>
 
 </td>
 
-<td style="text-align: left; ">
+<td style="text-align: left;">
 
 Form Teacher
 
@@ -50,11 +52,11 @@ Form Teacher
 
 <tr>
 
-<td style="text-align: left; "><b>Ms Tan&nbsp; Zhen Yi Jenny</b>
+<td style="text-align: left;"><b>Ms Tan&nbsp; Zhen Yi Jenny</b>
 
 </td>
 
-<td style="text-align: left; ">
+<td style="text-align: left;">
 
 Form Teacher
 
@@ -66,9 +68,7 @@ Form Teacher
 
 <td colspan="2" style="border: 0px none;"><br>
 
-</td> 
-
-</tr>
+</td></tr>
 
 <tr>
 
@@ -88,11 +88,11 @@ Form Teacher
 
 <tr>
 
-<td style="text-align: left; "><b>Mr Heng Khim Liang Amos</b>
+<td style="text-align: left;"><b>Mr Heng Khim Liang Amos</b>
 
 </td>
 
-<td style="text-align: left; ">
+<td style="text-align: left;">
 
 Music
 
@@ -102,11 +102,11 @@ Music
 
 <tr>
 
-<td style="text-align: left; "><b>Mr Soon Mah Kit</b>
+<td style="text-align: left;"><b>Mr Soon Mah Kit</b>
 
 </td>
 
-<td style="text-align: left; ">
+<td style="text-align: left;">
 
 Art
 
@@ -116,11 +116,11 @@ Art
 
 <tr>
 
-<td style="text-align: left; "><b>Mr Yap Hock Heng</b><b><br></b>
+<td style="text-align: left;"><b>Mr Yap Hock Heng</b><b><br></b>
 
 </td>
 
-<td style="text-align: left; ">
+<td style="text-align: left;">
 
 Design and Technology
 
@@ -142,11 +142,11 @@ Design and Technology
 
 <tr>
 
-<td style="text-align: left; "><b>Mr Loh Youn Leong Eric</b><b></b>
+<td style="text-align: left;"><b>Mr Loh Youn Leong Eric</b><b></b>
 
 </td>
 
-<td style="text-align: left; ">
+<td style="text-align: left;">
 
 PE
 
@@ -158,10 +158,10 @@ PE
 
 </table>
 
-<div><br>
+</p><div><br>
 
 </div>
-</p>
+<p></p>
 </div>
 
 </li>
@@ -182,17 +182,17 @@ PE
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Ms Liong Hui Min</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Oh-Ong Lei Wan Jasmin</b><br>
+<td style="text-align: left;"><b>Mrs Oh-Ong Lei Wan Jasmin</b><br>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -207,16 +207,16 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mr&nbsp;</b><b></b><b>Heng Khim Liang Amos</b>
+<td style="text-align: left;"><b style="color: rgb(0, 0, 0);">Mr&nbsp;</b><b></b><b>Heng Khim Liang Amos</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Music
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mdm Juliana Bte Jamil</b>
+<td style="text-align: left;"><b>Mdm Juliana Bte Jamil</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Food &amp; Consumer Education
 </td>
 </tr>
@@ -227,16 +227,16 @@ Food &amp; Consumer Education
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Soon Mah Kit<br></b>
+<td style="text-align: left;"><b>Mr Soon Mah Kit<br></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Art
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Ravi Shankar</b>
+<td style="text-align: left;"><b>Mr Ravi Shankar</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 PE
 </td>
 </tr>
@@ -265,17 +265,17 @@ PE
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Arif Bin Bakar</b><b></b>
+<td style="text-align: left;"><b>Mr Arif Bin Bakar</b><b></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Ms Lee Xiao-En Tabitha</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -290,30 +290,30 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr&nbsp;</b><b>Heng Khim Liang Amos</b>
+<td style="text-align: left;"><b>Mr&nbsp;</b><b>Heng Khim Liang Amos</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Music
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr&nbsp;</b><b style="color: rgb(46, 46, 46);">Soon Mah Kit</b><br>
+<td style="text-align: left;"><b style="color: rgb(46, 46, 46);">Mr&nbsp;</b><b style="color: rgb(46, 46, 46);">Soon Mah Kit</b><br>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Art
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr Woo Chee Keong Alex</b>
+<td style="text-align: left;"><b style="color: rgb(46, 46, 46);">Mr Woo Chee Keong Alex</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Design and Technology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr&nbsp;Arif Bin Bakar</b><b></b>
+<td style="text-align: left;"><b style="color: rgb(46, 46, 46);">Mr&nbsp;Arif Bin Bakar</b><b></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 PE
 </td>
 </tr>
@@ -672,17 +672,17 @@ PE
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Mr Dannish Kurniago</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Ms He Ying</b>
+<td style="text-align: left;"><b style="color: rgb(46, 46, 46);">Ms He Ying</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -697,16 +697,16 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr&nbsp;</b><b></b><b style="color: rgb(0, 0, 0);">Heng Khim Liang Amos</b>
+<td style="text-align: left;"><b>Mr&nbsp;</b><b></b><b style="color: rgb(0, 0, 0);">Heng Khim Liang Amos</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Music
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Dannish Kurniago</b>
+<td style="text-align: left;"><b>Mr Dannish Kurniago</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Design and Technology
 </td>
 </tr>
@@ -717,16 +717,16 @@ Design and Technology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Soon Mah Kit</b>
+<td style="text-align: left;"><b>Mr Soon Mah Kit</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Art
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Loh Youn Leong Eric</b>
+<td style="text-align: left;"><b>Mr Loh Youn Leong Eric</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 PE
 </td>
 </tr>
@@ -912,17 +912,17 @@ PE
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Mdm Foo Choon Huay Serena</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Zhang Lu</b><br>
+<td style="text-align: left;"><b>Ms Zhang Lu</b><br>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -937,15 +937,15 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mr&nbsp;</b><b style="color: rgb(0, 0, 0);"></b><b style="color: rgb(0, 0, 0);">Heng Khim Liang Amos</b>
+<td style="text-align: left;"><b style="color: rgb(0, 0, 0);">Mr&nbsp;</b><b style="color: rgb(0, 0, 0);"></b><b style="color: rgb(0, 0, 0);">Heng Khim Liang Amos</b>
 </td>
-<td style="text-align: left; ">Music
+<td style="text-align: left;">Music
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Ms Lee Chiew Yi</b><br><b></b>
+<td style="text-align: left;"><b style="color: rgb(46, 46, 46);">Ms Lee Chiew Yi</b><br><b></b>
 </td>
-<td style="text-align: left; ">Food &amp; Consumer Education<br>
+<td style="text-align: left;">Food &amp; Consumer Education<br>
 </td>
 </tr>
 <tr>
@@ -955,17 +955,17 @@ Form Teacher
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>M</b><b>s Tham Xue Ping Desiree</b><b>
+<td style="text-align: left;"><b>M</b><b>s Tham Xue Ping Desiree</b><b>
 </b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Art
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr&nbsp;Arif Bin Bakar</b><b></b>
+<td style="text-align: left;"><b style="color: rgb(46, 46, 46);">Mr&nbsp;Arif Bin Bakar</b><b></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 PE
 </td>
 </tr>
@@ -1264,7 +1264,7 @@ PE
 
 <div>
 
-<p>Click <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/">here</a> to view all teachers email addresses. </p>
+<p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/">here</a>&nbsp;to view all teachers email addresses. </p>
 
 	
 </div>

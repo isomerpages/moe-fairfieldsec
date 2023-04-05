@@ -4,7 +4,7 @@ permalink: /parents/Parents-in-Education/2023-pie-activities-and-programmes/
 description: ""
 third_nav_title: Parents in Education
 ---
-### 2023 PiE Activities/Programmes
+### 2023 PiE&nbsp;Activities/Programmes
 
 <table style="width: 803px;">
 <tbody>
@@ -21,7 +21,7 @@ third_nav_title: Parents in Education
 </tr>
 <tr style="height: 61px;">
 <td style="width: 272px; height: 61px;">
-<p>Teachers&rsquo; Breakfast Goodie Bags</p>
+<p>Teachers’ Breakfast Goodie Bags</p>
 </td>
 <td style="width: 111.406px; height: 61px;">
 <p style="text-align: center;">3 Jan</p>
@@ -43,14 +43,14 @@ third_nav_title: Parents in Education
 </tr>
 <tr style="height: 61px;">
 <td style="width: 272px; height: 61px;">
-<p>Principal&rsquo;s Address to Sec 1</p>
+<p>Principal’s Address to Sec 1</p>
 <p>Parents/Installation Night</p>
 </td>
 <td style="width: 111.406px; text-align: center; height: 61px;">
 <p>6 Jan</p>
 </td>
 <td style="width: 413.594px; height: 61px;">
-<p>Mr Wee Tat Chuen&rsquo;s address to all Sec 1 Parents.</p>
+<p>Mr Wee Tat Chuen’s address to all Sec 1 Parents.</p>
 </td>
 </tr>
 <tr style="height: 61px;">
@@ -88,7 +88,7 @@ third_nav_title: Parents in Education
 </tr>
 <tr style="height: 61px;">
 <td style="width: 272px; height: 61px;">
-<p><strong>&nbsp;</strong>Parents&rsquo; Bonding Walk 1</p>
+<p><strong>&nbsp;</strong>Parents’ Bonding Walk 1</p>
 </td>
 <td style="width: 111.406px; text-align: center; height: 61px;">
 <p><strong>&nbsp;</strong>18 Mar</p>
@@ -105,7 +105,7 @@ third_nav_title: Parents in Education
 <p><strong>&nbsp;</strong>29 Apr</p>
 </td>
 <td style="width: 413.594px; height: 61px;">
-<p>A time for all to celebrate 135 years of God&rsquo;s blessings in FMS(S).</p>
+<p>A time for all to celebrate 135 years of God’s blessings in FMS(S).</p>
 </td>
 </tr>
 <tr style="height: 91px;">
@@ -123,7 +123,7 @@ third_nav_title: Parents in Education
 </tr>
 <tr style="height: 61px;">
 <td style="width: 272px; height: 61px;">
-<p><strong>&nbsp;</strong>Parents&rsquo; Bonding Walk 2</p>
+<p><strong>&nbsp;</strong>Parents’ Bonding Walk 2</p>
 </td>
 <td style="width: 111.406px; text-align: center; height: 61px;">
 <p><strong>&nbsp;</strong>27 May</p>
@@ -156,7 +156,7 @@ third_nav_title: Parents in Education
 </tr>
 <tr style="height: 61px;">
 <td style="width: 272px; height: 61px;">
-<p><strong>&nbsp;</strong>Teachers&rsquo; Day Celebration</p>
+<p><strong>&nbsp;</strong>Teachers’ Day Celebration</p>
 </td>
 <td style="width: 111.406px; text-align: center; height: 61px;">
 <p><strong>&nbsp;</strong>31 Aug</p>
@@ -167,7 +167,7 @@ third_nav_title: Parents in Education
 </tr>
 <tr style="height: 61px;">
 <td style="width: 272px; height: 61px;">
-<p><strong>&nbsp;</strong>Parents&rsquo; Bonding Walk 3</p>
+<p><strong>&nbsp;</strong>Parents’ Bonding Walk 3</p>
 </td>
 <td style="width: 111.406px; text-align: center; height: 61px;">
 <p><strong>&nbsp;</strong>2 Sep</p>
@@ -178,7 +178,7 @@ third_nav_title: Parents in Education
 </tr>
 <tr style="height: 61px;">
 <td style="width: 272px; height: 61px;">
-<p><strong>&nbsp;</strong>Parents&rsquo; Bonding Walk 4</p>
+<p><strong>&nbsp;</strong>Parents’ Bonding Walk 4</p>
 </td>
 <td style="width: 111.406px; height: 61px;">
 <p style="text-align: center;"><strong>&nbsp;</strong>11 Nov</p>
@@ -205,7 +205,7 @@ third_nav_title: Parents in Education
 </tr>
 <tr>
 <td style="width: 180px;">
-<p>&ldquo;Let Us Chat&rdquo;</p>
+<p>“Let Us Chat”</p>
 <p>Sessions</p>
 </td>
 <td style="width: 121.906px;">
@@ -220,7 +220,7 @@ third_nav_title: Parents in Education
 <p>Parents Prayer Meeting</p>
 </td>
 <td style="width: 121.906px;">
-<p>Fortnightly &ndash; Fridays (Physical/Zoom)</p>
+<p>Fortnightly – Fridays (Physical/Zoom)</p>
 </td>
 <td style="width: 395.094px;">
 <p>For all Christian parents to pray for the School, the students and the Fairfield community at large.</p>
@@ -232,30 +232,3 @@ third_nav_title: Parents in Education
 
 
 
-#### Parenting Talks / Breakfast Chats sessions
-
-1\. Parenting talk on Digital Literacy (13 Mar 2021)
-
-Presentation shared by Ms Carol Loi -> [For Sharing Digital Literacy March 2021.pdf](/files/pt1.pdf)
-
-  
-
-2\. Parenting talk on Mental Wellness (10 April 2021)
-
-Book shared by Mr Edgar Tham ->  [Mental Toughness Training model.pdf](/files/pt2.pdf)  
-
-  
-
-3\. Breakfast Chat on How to Prepare Your Child for Major Exams (3 Jul 2021)
-
-Presentation shared by Year Heads (Ms Clarissa Koh and Mr Eric Loh) -> [Parents Talk 3 July 2021 Clarissa.pdf](/files/pt3.pdf) 
-
-Presentation shared by Lilian Hor (PiE Chairperson) -> [Prepare for exams sharing Lilian.pdf](/files/pt4.pdf) 
-
-  
-
-4\. Parenting Talk on Resilience is about how you recharge, not how you endure (14 Aug 21)
-
-[The Science of Recovery Handout - FMSS with Editable Fields 14 Aug.pdf](/files/pt5.pdf)  
-
-Click [here](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/parents/partners-in-education/2021-pie-activities-programmes/parenting-talk-on-resilience-useful-links) for all the useful links shared during the session.
