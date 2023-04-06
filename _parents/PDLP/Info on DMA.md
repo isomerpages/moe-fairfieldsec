@@ -4,7 +4,6 @@ permalink: /parents/pdlp/info-on-dma/
 description: ""
 third_nav_title: PDLP
 ---
-
 ### Quick guide on which DMA option to choose
 
 <img src="/images/dma1.png" style="width:90%">
@@ -17,7 +16,7 @@ The after-school hours are as follows:
 | School events (e.g. Cross Country Runs, Speech Day) | Default settings between 6 a.m. to 1 p.m. | Parents’/Guardians’ after-school option between 1 p.m. to 6 a.m. |
 | Weekends, School and Public Holidays | Parents’ / Guardians’ After-School DMA Option for the whole day |  |
 
-#### Summary of DMA Settings After School Hours 
+#### Summary of DMA Settings After School Hours&nbsp;
 
 _During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours._
 
@@ -32,19 +31,19 @@ _During school hours, the Default Setting will apply. Parents/Guardians are give
 
 ##### Default
 
-Default setting treats the iPad as a device which is used for learning only. The restrictions set in place are derived from the perspective of how a teacher would want the device to behave in order for the student to learn in the most desirable environment. The assumption is that the student will be inclined to use the iPad more as an entertainment device rather than as a learning device if there are no clear boundaries and control.
+Default setting treats the iPad as a device which is used for learning only. The restrictions set in place are derived from the perspective of how a teacher would want the device to behave in order for the student to learn in the most desirable environment.&nbsp;The assumption is that the student will be inclined to use the iPad more as an entertainment device rather than as a learning device if there are no clear boundaries and control.
 
   
 
 ##### Option A
 
-Option A provides a hybrid model of allowing parental control after school hours so that their child’s online behaviour can be managed according to the parents’ preferences. **However, this option requires the parent to be more savvy with technology, as there are more settings to be managed by the parent.** Choose this option if you would like to give more opportunities for your child to explore the cyberworld of online amusement and attractions. Conversely, you may tighten the controls or shut the iPad down earlier.
+Option A provides a hybrid model of allowing parental control after school hours so that their child’s online behaviour can be managed according to the parents’ preferences.&nbsp;**However, this option requires the parent to be more savvy with technology, as there are more settings to be managed by the parent.**&nbsp;Choose this option if you would like to give more opportunities for your child to explore the cyberworld of online amusement and attractions. Conversely, you may tighten the controls or shut the iPad down earlier.
 
   
 
 ##### Option B
 
-Option B gives the student complete freedom in the use of iPad after school. **This option should only be chosen if parents totally trust their child’s handling of the iPad and what they do online.** Ideally, such a child should be rule-abiding, disciplined and mature enough to control his/her actions. Without boundaries and control, students may find themselves glued to their screens and become addicted to the various online games and videos.
+Option B gives the student complete freedom in the use of iPad after school.&nbsp;**This option should only be chosen if parents totally trust their child’s handling of the iPad and what they do online.**&nbsp;Ideally, such a child should be rule-abiding, disciplined and mature enough to control his/her actions. Without boundaries and control, students may find themselves glued to their screens and become addicted to the various online games and videos.
 
 
 
@@ -56,7 +55,7 @@ _\*Please note that the Apps purchased (using your personal Apple ID) under opti
 
   
 
-Parents/Guardians may wish to consider the following questions before deciding on which After-School DMA Option is best for their child/ward. 
+Parents/Guardians may wish to consider the following questions before deciding on which After-School DMA Option is best for their child/ward.&nbsp;
 
   
 
@@ -76,20 +75,18 @@ Parents/Guardians may wish to consider the following questions before deciding o
 
 Please download the guides according to the options you have selected below:  
   
-1) **Default Option** \--[DMA Parent Guide v2.0 - Default iPadOS.pdf](/files/dma1.pdf)
+1)&nbsp;**Default Option**&nbsp;\--[DMA Parent Guide v2.0 - Default iPadOS.pdf](/files/dma1.pdf)
   
-2) **Option A** \--[DMA Parent Guide v2.0 - Option A iPadOS.pdf](/files/dma2.pdf)
+2)&nbsp;**Option A**&nbsp;\--[DMA Parent Guide v2.0 - Option A iPadOS.pdf](/files/dma2.pdf)
   
-3) **Option B** \--[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/dma3.pdf)
+3)&nbsp;**Option B**&nbsp;\--[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/dma3.pdf)
 
 
 ### DMA Hours
 
-<img src="/images/dma2.png" style="width:45%" align=left> <img src="/images/dma3.png" style="width:45%" align=left> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/dma2.png" style="width:45%" align="left"> <img src="/images/dma3.png" style="width:45%" align="left"> <br><br><br><br><br><br><br><br><br><br><br><br>
 
-For parents of Sec 1 students 2023, please click on this [link](https://form.gov.sg/63fec1ae0e50510012577ff6) to indicate your DMA option.
-  
 
-#### Request for change to DMA option 
+#### Request for change to DMA option&nbsp;
 
-Please email Mr Lee Yew Ming  ( [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)  ) for any changes.
+Please email Mr Lee Yew Ming&nbsp; (&nbsp;[lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg)&nbsp;&nbsp;)&nbsp;for any changes.
