@@ -84,7 +84,7 @@ Please download the guides according to the options you have selected below:
 
 ### DMA Hours
 
-<img src="/images/dma2.png" style="width:45%" align="left"> <img src="/images/dma3.png" style="width:45%" align="left"> <br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/dma2.png" style="width:45%" align="left">&nbsp;<img src="/images/dma3.png" style="width:45%" align="left"> <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 #### Request for change to DMA option&nbsp;
