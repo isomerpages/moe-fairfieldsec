@@ -6,7 +6,7 @@ third_nav_title: PDLP
 ---
 ### Quick guide on which DMA option to choose
 
-<img src="/images/dma1.png" style="width:90%">
+<img src="/images/dma1.png" style="width:80%">
 
 The after-school hours are as follows:
 
