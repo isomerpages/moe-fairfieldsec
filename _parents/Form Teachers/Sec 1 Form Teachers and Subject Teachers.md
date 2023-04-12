@@ -897,9 +897,9 @@ PE
 
 <li>
 	
-<input id="accordion8" type="checkbox">
+<input id="accordion9" type="checkbox">
 
-<label for="accordion8">Sec 1H</label>
+<label for="accordion9">Sec 1H</label>
 <div>
 
 <p>
@@ -979,9 +979,9 @@ PE
 	
 	
 <li>	
-<input id="accordion8" type="checkbox">
+<input id="accordion10" type="checkbox">
 
-<label for="accordion8">Sec 1 Unity (Sec 1E, 1F, 1G, 1H)</label>
+<label for="accordion10">Sec 1 Unity (Sec 1E, 1F, 1G, 1H)</label>
 <div>
 
 <p>
@@ -1258,9 +1258,9 @@ PE
 
 <li>
 
-<input id="accordion9" type="checkbox">
+<input id="accordion11" type="checkbox">
 
-<label for="accordion9">Teachers' Email Address</label>
+<label for="accordion11">Teachers' Email Address</label>
 
 <div>
 
