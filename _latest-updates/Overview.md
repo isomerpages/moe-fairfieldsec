@@ -31,6 +31,7 @@ description: ""
 
 #### Personalised Digital Literacy Programme (PDLP)
 
-[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/personalised-digital-literacy/overview/)
+[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/pdlp/overview/)
+
 
 * * *
