@@ -4,7 +4,7 @@ permalink: /prospective-students/direct-school-admission/faq/
 description: ""
 third_nav_title: Direct School Admission
 ---
-### 2022 DSA ─ Frequently Asked Questions (FAQs)
+### 2023 DSA ─ Frequently Asked Questions (FAQs)
 
   
 
@@ -16,7 +16,7 @@ All Primary 6 students in Singapore may apply for the DSA to the school of their
 
 ##### 2) Can my child apply for the DSA to your school based on academic results alone, or based on another CCA not on your list?
 
-For our DSA exercise, we would only accept applicants based on the 4 Sports, 5 Performing Arts CCAs and Leadership requirements stated on our DSA page.
+For our DSA exercise, we would only accept applicants based on the 4 Sports, 3 Performing Arts CCAs requirements stated on our DSA page.
 
   
 
