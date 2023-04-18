@@ -3,14 +3,14 @@ title: Overview
 permalink: /cca/overview/
 description: ""
 ---
-
 ### Overview
 
 <ul class="jekyllcodex_accordion">
-<li type="checkbox" id="accordion1">
+<li>
+		
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Clubs &amp; Societies</label>
-	
 <div>
 
 <p> 
@@ -20,9 +20,11 @@ description: ""
 </div>
 
 </li>
-<li type="checkbox" id="accordion2">
+<li>
+		
+<input id="accordion2" type="checkbox">
 
-<label for="accordion2">Performing Arts </label>
+<label for="accordion2">Performing Arts</label>
 <div>
 
 <p>
@@ -34,8 +36,9 @@ description: ""
 </div>
 
 </li>
-	
-<li type="checkbox" id="accordion3">
+<li>
+		
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Sports</label>
 <div>
@@ -50,11 +53,11 @@ description: ""
 </div>
 
 </li>
-	
-<li type="checkbox" id="accordion4">
+<li>
+		
+<input id="accordion4" type="checkbox">
 
 <label for="accordion4">Uniformed Groups</label>
-
 <div>
 
 <p>

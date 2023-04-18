@@ -1,17 +1,18 @@
 ---
-title: 2022 DSA Sports
+title: 2023 DSA Sports
 permalink: /prospective-students/direct-school-admission/sports/
 description: ""
 third_nav_title: Direct School Admission
 ---
-### 2022 DSA Sports
+### 2023 DSA Sports
 
-Our selection panel seeks to identify students with high levels of sporting ability and achievement in the following sports:   
+Our selection panel seeks to identify students with high levels of sporting ability and achievement in the following sports:&nbsp;  
 
-\- Badminton (Girls)   <br>
-\- Basketball (Boys) <br>
-\- Football (Boys) <br>
-\- Volleyball (Mixed)
+\- Badminton (Girls)&nbsp;  <br>
+\- Badminton (Boys)&nbsp;  <br>
+\- Basketball (Boys)&nbsp;<br>
+\- Football (Boys)&nbsp;<br>
+\-&nbsp;Volleyball (Mixed)
 
 #### Selection Criteria
 
@@ -21,12 +22,12 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 #### Dates of Trials/Interviews
 
-##### Badminton (Girls)
+##### Badminton
 
 |  |  |
 |---|---|
-| **Date** | 1 Jul 2022 (Friday) |
-| **Time** | 2.30pm to 4.00pm |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -34,8 +35,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | 8 Jul 2022 (Friday) |
-| **Time** | 2.30pm |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -43,8 +44,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | 8 Jul 2022 (Friday) |
-| **Time** | 2.00pm |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -52,7 +53,7 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | 6 Jul 2022 (Wed) - Girls<br>8 Jul 2022 (Fri) - Boys |
-| **Time** | 3.30pm |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
