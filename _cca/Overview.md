@@ -20,9 +20,11 @@ description: ""
 </div>
 
 </li>
-<li type="checkbox" id="accordion2">
+<li>
+		
+<input id="accordion2" type="checkbox">
 
-<label for="accordion2">Performing Arts </label>
+<label for="accordion2">Performing Arts</label>
 <div>
 
 <p>
