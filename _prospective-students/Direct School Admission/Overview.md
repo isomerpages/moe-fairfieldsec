@@ -22,7 +22,7 @@ Successful students, regardless of stream, will gain admission into FMS(S) for t
 **Areas offered by FMS(S) for DSA-Sec Exercise**
 
 
-| Sports | Performing Arts | 
+| Sports | Performing Arts |
 |:---:|:---:|
 | Badminton (Girls) | Choir (Mixed) |
 | Badminton (Boys) | Modern Contemporary Dance (Mixed)
