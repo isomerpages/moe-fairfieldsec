@@ -36,8 +36,9 @@ description: ""
 </div>
 
 </li>
-	
-<li type="checkbox" id="accordion3">
+<li>
+		
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Sports</label>
 <div>
@@ -52,11 +53,11 @@ description: ""
 </div>
 
 </li>
-	
-<li type="checkbox" id="accordion4">
+<li>
+		
+<input id="accordion4" type="checkbox">
 
 <label for="accordion4">Uniformed Groups</label>
-
 <div>
 
 <p>
