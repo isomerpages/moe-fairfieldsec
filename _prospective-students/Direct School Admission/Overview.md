@@ -22,13 +22,16 @@ Successful students, regardless of stream, will gain admission into FMS(S) for t
 **Areas offered by FMS(S) for DSA-Sec Exercise**
 
 
+
 | Sports | Performing Arts |
-|:---:|:---:|
-| Badminton (Girls) | Choir (Mixed) |
-| Badminton (Boys) | Modern Contemporary Dance (Mixed)
-| Basketball (Boys) | Symphonic Band (Mixed)
-| Football (Boys) |
-| Volleyball (Mixed)
+| -------- | -------- | 
+| Badminton (Girls)| Choir (Mixed)
+| Badminton (Boys)| Modern Contemporary Dance (Mixed)
+| Basketball (Boys)| Symphonic Band (Mixed)
+| Football (Boys)
+|  Volleyball (Mixed)
+
+
 
 Detailed criteria are provided in the respective page of each group.
 
@@ -47,13 +50,12 @@ Follow these steps to apply your child's application:
 
 Parents should apply online for a Registration Number, so they can apply through DSA Portal. This is done using an online form via MOE DSA website.
 
-4\) The application period for DSA is from&nbsp;**5 May 2022, 11am to 1 June 2022, 3pm.**&nbsp;Applicants must submit their applications through the DSA-Sec Portal.&nbsp;Incomplete or late applications will not be considered.
+
 
 #### Timeline for DSA
 
 **1) Selection of Trials/Auditions**
 
-*   The selection will happen from&nbsp;**late June – mid September.**
 *   Applicants who are shortlisted will be notified to attend the Selection Trials.  
     
 
@@ -70,7 +72,6 @@ Parents should apply online for a Registration Number, so they can apply through
 
 *   Applicants will know the outcome of their applications via letters/email.
 
-*   Selected students will receive offers from the schools directly in&nbsp;**mid September 2022.**
 
 **3) Submission of School Preference**
 
