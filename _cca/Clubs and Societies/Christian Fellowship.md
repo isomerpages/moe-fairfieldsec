@@ -10,7 +10,8 @@ third_nav_title: Clubs and Societies
 
 
 <ul class="jekyllcodex_accordion">
-<li type="checkbox" id="accordion1">
+<li>
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
 
