@@ -17,18 +17,18 @@ Parents and students are encouraged to choose wisely based on the student’s ap
 
   
 
-Successful students, regardless of stream, will gain admission into FMS(S) for the academic year beginning January 2023 and will complete their secondary school education in FMS(S) as long as they meet the set criteria for DSA to FMS(S) and pass the PSLE.
+Successful students, regardless of stream, will gain admission into FMS(S) for the academic year beginning January 2024 and will complete their secondary school education in FMS(S) as long as they meet the set criteria for DSA to FMS(S) and pass the PSLE.
 
 **Areas offered by FMS(S) for DSA-Sec Exercise**
 
 
-| Sports | Performing Arts | General |
-|:---:|:---:|:---:|
-| Badminton (Girls) | Choir (Mixed) | Leadership (Mixed) |
-| Basketball (Boys) | English Drama (Mixed)  |  |
-| Football (Boys) | Guitar Ensemble (Mixed) |  |
-| Volleyball (Mixed) | Modern Contemporary Dance (Mixed) |  |
-|  | Symphonic Band (Mixed) |  |
+| Sports | Performing Arts | 
+|:---:|:---:|
+| Badminton (Girls) | Choir (Mixed) |
+| Badminton (Boys) | Modern Contemporary Dance (Mixed)
+| Basketball (Boys) | Symphonic Band (Mixed)
+| Football (Boys) |
+| Volleyball (Mixed)
 
 Detailed criteria are provided in the respective page of each group.
 
