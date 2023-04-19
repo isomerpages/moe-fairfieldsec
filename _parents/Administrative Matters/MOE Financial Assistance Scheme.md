@@ -14,8 +14,9 @@ third_nav_title: Administrative Matters
 
 * Application is open throughout the year. Siblings in the same school can submit all their applications using one form.
 
-* Apply for MOE FAS via eFAS https://go.gov.sg/moe-efas or approach the school directly and submit the application form. **Online submission is strongly encouraged.**
-  
+* Apply for MOE FAS via eFAS [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) or approach the school directly and submit the application form. **Online submission is strongly encouraged.**
+ 
+ 
 Hard copy application form is required for the following scenarios.
 
 * Families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)
@@ -38,7 +39,7 @@ School will request for any other documents when required for the purpose of ver
 
 Parents who would like to know more about MOE FAS and eligibility, you can visit this link
 
-https://www.moe.gov.sg/financial-matters/financial-assistance
+[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 
 If you have any queries, please contact the school at 67788702 or fmss@moe.edu.sg
