@@ -24,7 +24,7 @@ Friday: 2.00 pm - 6.00 pm  <br><br>
 
 <b>Teachers In Charge:</b><br>
 
-Mr. Jon Poh Jing Ping (I/C)<br>
+Mr Jon Poh Jing Ping (I/C)<br>
 Ms Shamsiah<br>
 
 </p>
