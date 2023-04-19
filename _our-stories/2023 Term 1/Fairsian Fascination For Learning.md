@@ -12,11 +12,7 @@ What a way to end the term! The Fairfield Learning Festival was a resounding suc
 
 The Secondary One students kicked off the festival with a series of learning journeys, starting with a trip to Labrador Nature Reserve. The Rainforest Race was a hit, with students competing in a group scavenger hunt and completing tasks that allowed them to immerse in nature. The subsequent days were just as enriching, with the students going on a Singapore River learning journey and joining a curated tour at the National Gallery.
 
-<img src="/images/Our Stories/2023/kylee_gets_going.gif" style="width:80%">
-
-![](/images/Our%20Stories/2023/learning-fest-ezgif.gif)
-
-![](/images/Our%20Stories/2023/learning-fest-ezgif-800x600.gif)
+<img src="/images/Our Stories/2023/learning-fest-ezgif.gif" style="width:80%">
 
 The Secondary Two students had a blast during their Mother Tongue learning journey in Chinatown. They explored the Chinese heritage of Singapore by finding iconic murals and shops around Chinatown. They also visited the National Museum and Punggol for their Geographical Investigation into sustainable housing. They rounded up their experience with arts parade workshops where they learnt skills such as sculpting and bread-making.
 
