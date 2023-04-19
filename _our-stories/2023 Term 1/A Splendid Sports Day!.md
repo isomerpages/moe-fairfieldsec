@@ -4,9 +4,6 @@ permalink: /our-stories/2023-term-1/splendid-sports-day/
 description: ""
 third_nav_title: 2023 Term 1
 ---
-
-
-
 by Alicia Ng (1C), Mikaela Tay (1C), Tricia Chua (2A), Sarah Goh (2C), Delaine Tan (3A), Chloe Chin (3D), Amelia Lee (3E), Reuven Tay (3E), Bertrand Tang (4A), Daniel Gan (4A), Ian Lau (4A) and Sarah Chan (4B)
 
 The Fairfield Sports Day at Ngee Ann Polytechnic on 10 March 2023 was a triumphant celebration of sportsmanship, unity, and resilience. After three years of safe-distancing restrictions, our staff and students were thrilled to finally participate in this highly anticipated event.
@@ -16,7 +13,6 @@ Excitement was in the air as the events kicked off, with male and female represe
 The Secondary Two students battled it out in an intense tug-of-war competition, displaying creative strategies and teamwork. Spectators roared with excitement as each class gave it their all. The special teacher-versus-student match was a highlight, as it allowed the students to challenge their teachers' physical prowess.
 
 ![](/images/Our%20Stories/2023/splendid-sports-day-ezgif.gif)
-
 
 
 The Secondary Three students demonstrated their prowess in Captain's Rugby, with loud cheers from their peers echoing throughout the two-level hall. The matches were exhilarating, and the level established stronger ties through these competitive matches.
