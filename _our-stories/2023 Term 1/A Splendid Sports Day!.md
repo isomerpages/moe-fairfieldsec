@@ -12,7 +12,7 @@ Excitement was in the air as the events kicked off, with male and female represe
 
 The Secondary Two students battled it out in an intense tug-of-war competition, displaying creative strategies and teamwork. Spectators roared with excitement as each class gave it their all. The special teacher-versus-student match was a highlight, as it allowed the students to challenge their teachers' physical prowess.
 
-![](/images/Our%20Stories/2023/splendid-sports-day-ezgif.gif)
+<img src="/images/Our Stories/2023/splendid-sports-day-ezgif.gif" style="width:80%">
 
 
 The Secondary Three students demonstrated their prowess in Captain's Rugby, with loud cheers from their peers echoing throughout the two-level hall. The matches were exhilarating, and the level established stronger ties through these competitive matches.
