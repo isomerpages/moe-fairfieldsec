@@ -12,6 +12,12 @@ What a way to end the term! The Fairfield Learning Festival was a resounding suc
 
 The Secondary One students kicked off the festival with a series of learning journeys, starting with a trip to Labrador Nature Reserve. The Rainforest Race was a hit, with students competing in a group scavenger hunt and completing tasks that allowed them to immerse in nature. The subsequent days were just as enriching, with the students going on a Singapore River learning journey and joining a curated tour at the National Gallery.
 
+<img src="/images/Our Stories/2023/kylee_gets_going.gif" style="width:80%">
+
+![](/images/Our%20Stories/2023/learning-fest-ezgif.gif)
+
+![](/images/Our%20Stories/2023/learning-fest-ezgif-800x600.gif)
+
 The Secondary Two students had a blast during their Mother Tongue learning journey in Chinatown. They explored the Chinese heritage of Singapore by finding iconic murals and shops around Chinatown. They also visited the National Museum and Punggol for their Geographical Investigation into sustainable housing. They rounded up their experience with arts parade workshops where they learnt skills such as sculpting and bread-making.
 
 For the Secondary Three students, the festival provided a chance to broaden their understanding of career opportunities in Singapore. They listened to Education and Career Guidance talks by leading industry professionals and clarified their aspirations in these industries. The talks on safeguarding one’s mental health were presented by social media influencers Krison Sum and Aiken Chia, who are icons of inspiration! The students were also taken on fascinating learning journeys to gain hands-on experience on the real-life applications of science.
