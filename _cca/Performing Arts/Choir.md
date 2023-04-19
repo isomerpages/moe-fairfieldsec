@@ -9,10 +9,11 @@ third_nav_title: Performing Arts
 <img src="/images/cca10.gif" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
-<li id="accordion1" type="checkbox">
+<li>
+		
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
-
 <div>
 
 <p> 
@@ -54,11 +55,12 @@ Ms Wong Jia Xian<br><br>
 </p>
 </div>
 
-</li>
-<li id="accordion2" type="checkbox">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion2" type="checkbox">
 
 <label for="accordion2">Overview</label>
-
 <div>
 
 <p>
@@ -151,11 +153,12 @@ Fairfield Choir is honoured to have had so many opportunities to showcase their 
 	
 </div>
 
-</li>
-<li id="accordion3" type="checkbox">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Achievements</label>
-
 <div>
 
 <p>
@@ -180,4 +183,4 @@ Fairfield Choir is honoured to have had so many opportunities to showcase their 
 
 </li>
 	
-</ul>
+</ul></li></ul></li></ul>
