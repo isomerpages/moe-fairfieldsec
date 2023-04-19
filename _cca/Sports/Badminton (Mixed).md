@@ -1,5 +1,5 @@
 ---
-title: Badminton
+title: Badminton (Mixed)
 permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
@@ -9,10 +9,11 @@ third_nav_title: Sports
 <img style="width:80%" src="/images/cca15.gif"><br>
 
 <ul class="jekyllcodex_accordion">
-<li type="checkbox" id="accordion1">
+<li>
+		
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
-
 <div>
 
 <p>
@@ -38,11 +39,12 @@ Mrs Jean Ho (I/C)
 </p>
 </div>
 
-</li>
-<li type="checkbox" id="accordion2">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion2" type="checkbox">
 
 <label for="accordion2">Overview</label>
-
 <div>
 
 <p>
@@ -66,11 +68,12 @@ To develop pupils to become sports leaders who are intrinsically motivated and f
 	
 </div>
 
-</li>
-<li type="checkbox" id="accordion3">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Achievements</label>
-
 <div>
 
 <p>
@@ -98,4 +101,4 @@ To develop pupils to become sports leaders who are intrinsically motivated and f
 
 </li>
 	
-</ul>
+</ul></li></ul></li></ul>

@@ -63,7 +63,7 @@ Parents should apply online for a Registration Number, so they can apply through
 
 *   For Performing Arts CCA, please refer&nbsp;**[here](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/prospective-students/direct-school-admission/performing-arts/).**
 
-*   For Leadership, please refer&nbsp;**[here](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/prospective-students/direct-school-admission/leadership/).**
+
 
 *   Applicants who are not successful will be informed via letters/email.
 

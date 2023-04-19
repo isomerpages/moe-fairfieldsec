@@ -56,11 +56,12 @@ Ms Esther Lim Si Xiu was a Fairsian and grew up in FMSP and FMSS. As a&nbsp;stud
 </p>
 </div>
 
-</li>
-<li id="accordion2" type="checkbox">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion2" type="checkbox">
 
 <label for="accordion2">Overview</label>
-
 <div>
 
 <p>
@@ -163,4 +164,4 @@ One of the goals of CF is to bless the community. We have selected The Lion Befr
 
 </li>
 	
-</ul>
+</ul></li></ul>
