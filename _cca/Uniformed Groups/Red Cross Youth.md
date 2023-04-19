@@ -10,15 +10,14 @@ third_nav_title: Uniformed Groups
 
 <ul class="jekyllcodex_accordion">
 <li>
-
+		
 <input id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
-
 <div>
 
 <p> 
-<b>Training Days & Time:</b><br>
+<b>Training Days &amp; Time:</b><br>
 
 Friday: 2.00 pm - 6.00 pm  <br><br>
   
@@ -26,26 +25,24 @@ Friday: 2.00 pm - 6.00 pm  <br><br>
 <b>Teachers In Charge:</b><br>
 
 Mr. Jon Poh Jing Ping (I/C)<br>
-
-Ms Nur Fazilah<br>
-
 Ms Shamsiah<br>
 
-Ms Aminah<br>
 </p>
 </div>
 
 </li>
-<li>
 
+<ul class="jekyllcodex_accordion">
+<li>
+		
 <input id="accordion2" type="checkbox">
 
 <label for="accordion2">Overview</label>
-
 <div>
 
+
 <p>
-<b>Vision & Mission</b><br> 
+<b>Vision &amp; Mission</b><br> 
 
 Fairfield Methodist School (Secondary)’s Red Cross Youth unit specialise in teaching first aid skill and evaluation knowledge to our cadets. But more than that the unit strives to teach our cadets about discipline, unity, teamwork through our various activities such as evacuation, foot drills and outdoor activities.<br><br>
 
@@ -85,13 +82,14 @@ At the beginning of the year, our Secondary 3 Cadets will all undergo a Leadersh
 </div>
 
 </li>
-<li>
 
+<ul class="jekyllcodex_accordion">
+<li>
+		
 <input id="accordion3" type="checkbox">
 
 <label for="accordion3">Achievements</label>
-
-<div>
+<div>	
 
 <p>
 
@@ -119,4 +117,4 @@ At the beginning of the year, our Secondary 3 Cadets will all undergo a Leadersh
 
 </li>
 	
-</ul>
+</ul></ul></ul>
