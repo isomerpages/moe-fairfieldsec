@@ -6,7 +6,8 @@ description: ""
 ### Our Stories
 
 
-<img src="/images/Our Stories/2023/MF_Kylee_Tan.jpeg" style="width:100px;height:100px;margin-right:15px;" align="left"> A Splendid Sports Day!  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-Term-1/when-the-going-gets-tough-kylee-gets-going/) <br><br>
+<img src="/images/Our%20Stories/2023/sports_day_mf_photo.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> A Splendid Sports Day!  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-term-1/splendid-sports-day/) <br><br>
+
 
 * * *
 <img src="/images/Our Stories/2023/MF_Kylee_Tan.jpeg" style="width:100px;height:100px;margin-right:15px;" align="left"> When the going gets tough, Kylee gets going! [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-Term-1/when-the-going-gets-tough-kylee-gets-going/) <br><br>
