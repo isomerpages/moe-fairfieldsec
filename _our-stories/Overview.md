@@ -5,7 +5,7 @@ description: ""
 ---
 ### Our Stories
 
-<img src="/images/Our Stories/2023/learning%20fest%20mf.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> Fairsians’ Fest-cination For Learning [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-term-1/splendid-sports-day/) <br><br>
+<img src="/images/Our Stories/2023/learning%20fest%20mf.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> Fairsians’ Fest-cination For Learning [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-term-1/fairsian-fascination-for-learning/) <br><br>
 
 
 * * *
