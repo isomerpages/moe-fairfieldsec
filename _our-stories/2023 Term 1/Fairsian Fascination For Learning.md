@@ -4,7 +4,7 @@ permalink: /our-stories/2023-term-1/fairsian-fascination-for-learning/
 description: ""
 third_nav_title: 2023 Term 1
 ---
-
+### Fairsians’ Fest-cination For Learning
 
 by Lauren Soh (3A), Kerin Chua (3D), Amelia Lee (3E), Shaan Naresh Anand (3E), Daniel Gan (4A) and Kayla Ng (4B)
 
