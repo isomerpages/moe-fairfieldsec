@@ -9,10 +9,11 @@ third_nav_title: Uniformed Groups
 <img style="width:80%" src="/images/cca24.gif">
 
 <ul class="jekyllcodex_accordion">
-<li type="checkbox" id="accordion1">
+<li>
+		
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
-
 <div>
 
 <p> 
@@ -24,17 +25,18 @@ Friday:&nbsp;2.30 pm – 6.30 pm (at Kallang Sea Sports Centre)<br>
 
 <b>Teachers In Charge:</b><br>
 Mr Arif Bakar (Commanding Officer)<br>
-Ms Wong Jiayi (2 I/C)
+Ms Wong Jiayi (2 I/C)<br>
 Mr Wee Guo Yuan (MLS)<br>
 Ms Lee Chiew Yi<br>
 </p>
 </div>
 
-</li>
-<li type="checkbox" id="accordion2">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion2" type="checkbox">
 
 <label for="accordion2">Overview</label>
-
 <div>
 
 <p>
@@ -71,11 +73,12 @@ Being a CCA filled with numerous adventurous activities, the cadets are constant
 	
 </div>
 
-</li>
-<li type="checkbox" id="accordion3">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Achievements</label>
-
 <div>
 
 <p>
@@ -104,4 +107,4 @@ Being a CCA filled with numerous adventurous activities, the cadets are constant
 
 </li>
 	
-</ul>
+</ul></li></ul></li></ul>
