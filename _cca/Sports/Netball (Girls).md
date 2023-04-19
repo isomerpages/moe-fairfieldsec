@@ -9,10 +9,11 @@ third_nav_title: Sports
 <img style="width:80%" src="/images/cca18.gif">
 
 <ul class="jekyllcodex_accordion">
-<li type="checkbox" id="accordion1">
+<li>
+		
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
-
 <div>
 
 <p> 
@@ -30,11 +31,12 @@ Ms Tan Sor Tin<br>
 </p>
 </div>
 
-</li>
-<li type="checkbox" id="accordion2">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion2" type="checkbox">
 
 <label for="accordion2">Overview</label>
-
 <div>
 
 <p>
@@ -80,11 +82,12 @@ Many of our girls started without any experience in competitive sports. Netball 
 	
 </div>
 
-</li>
-<li type="checkbox" id="accordion3">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Achievements</label>
-
 <div>
 
 <p>
@@ -110,4 +113,4 @@ Many of our girls started without any experience in competitive sports. Netball 
 
 </li>
 	
-</ul>
+</ul></li></ul></li></ul>
