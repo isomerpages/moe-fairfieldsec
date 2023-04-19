@@ -19,7 +19,7 @@ description: ""
 
 
 
-#### Sec 1 to 3 EOY Exam Timetable  <br>
+#### Term 1 Weighted Assessment Schedule  <br>
 
 [2023 WA 1 Schedule Sec 1.pdf](/files/Parents/Assessment%20Matters/2023/2023%20WA%201%20Schedule%20Sec%201.pdf)
 
