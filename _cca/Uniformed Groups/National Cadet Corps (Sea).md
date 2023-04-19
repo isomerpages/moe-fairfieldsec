@@ -25,7 +25,7 @@ Friday:&nbsp;2.30 pm – 6.30 pm (at Kallang Sea Sports Centre)<br>
 
 <b>Teachers In Charge:</b><br>
 Mr Arif Bakar (Commanding Officer)<br>
-Ms Wong Jiayi (2 I/C)
+Ms Wong Jiayi (2 I/C)<br>
 Mr Wee Guo Yuan (MLS)<br>
 Ms Lee Chiew Yi<br>
 </p>
