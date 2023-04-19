@@ -26,7 +26,7 @@ Friday: 2.00 pm - 5.30 pm (All)<br>
 
 Boys:<br>
 Wednesday: 3.00 pm - 5.30 pm<br>
-Friday: 2.30 pm - 5.00 pm
+Friday: 2.30 pm - 5.00 pm<br>
 
 <b>Teachers In Charge:</b><br>
 Girls:<br>
