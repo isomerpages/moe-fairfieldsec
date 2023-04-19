@@ -8,8 +8,7 @@ third_nav_title: Direct School Admission
 
 Our selection panel seeks to identify students with high levels of sporting ability and achievement in the following sports:&nbsp;  
 
-\- Badminton (Girls)&nbsp;  <br>
-\- Badminton (Boys)&nbsp;  <br>
+\- Badminton (Mixed)&nbsp;  <br>
 \- Basketball (Boys)&nbsp;<br>
 \- Football (Boys)&nbsp;<br>
 \-&nbsp;Volleyball (Mixed)
@@ -22,7 +21,7 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 #### Dates of Trials/Interviews
 
-##### Badminton
+##### Badminton (Mixed)
 
 |  |  |
 |---|---|

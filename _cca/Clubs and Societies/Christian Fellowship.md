@@ -10,11 +10,14 @@ third_nav_title: Clubs and Societies
 
 
 <ul class="jekyllcodex_accordion">
-<li id="accordion1" type="checkbox">
+	
+<li>
+		
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Details</label>
-
 <div>
+	
 
 <p> 
 <b>Training Days &amp; Time:</b><br><br>
