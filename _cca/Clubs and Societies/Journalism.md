@@ -68,11 +68,12 @@ In Fairfield’s Multi-Ethnic Celebrations, National Day Parades, and various ot
 	
 </div>
 
-</li>
-<li type="checkbox" id="accordion3">
+<ul class="jekyllcodex_accordion">
+<li>
+		
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Achievements</label>
-
 <div>
 
 <p>
@@ -98,4 +99,4 @@ Joshua Ho's article titled ‘Let Idea of Rooftop Farms Grow’ was published on
 
 </li>
 	
-</ul></li></ul>
+</ul></li></ul></li></ul>
