@@ -23,7 +23,7 @@ third_nav_title: Clubs and Societies
 <b>Training Days &amp; Time:</b><br>
 Monday: 3.30 pm - 5.00 pm<br>
 
-<b>Teacher i/c:</b><br>
+<b>Teacher I/C:</b><br>
 <b>Mrs Rosalind Ho</b><br>
 	
 Mrs Ho has been teaching in FMS(S) since 1996. She is a Senior Teacher, teaching lower secondary and N(T) Science.
