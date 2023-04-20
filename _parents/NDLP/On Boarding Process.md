@@ -33,7 +33,7 @@ The school has made arrangements for you to purchase the PLD from AsiaPac Distri
 	
 ![](/images/Parents/2023/NDLP/pld%209%20gen%201.png)	![](/images/Parents/2023/NDLP/pld%209%20gen%202.png)
 
-10.9-inch iPad 9th Gen Wifi 64GB – Gray, with 3-year warranty and insurance
+10.9-inch iPad 9th Gen WiFi 64GB – Gray, with 3-year warranty and insurance
 
 Apple Pencil (1st Gen) with 3-year warranty
 
