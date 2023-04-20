@@ -32,5 +32,10 @@ Parents are given the flexibility and autonomy, through Option 2 and 3, to choos
 The school has made arrangements for you to purchase the PLD from AsiaPac Distribution Pte. Ltd. (Vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
 	
 ![](/images/Parents/2023/NDLP/pld%209%20gen%201.png)	![](/images/Parents/2023/NDLP/pld%209%20gen%202.png)
-	
-	</div></li></ul>
+
+10.9-inch iPad 9th Gen Wifi 64GB – Gray, with 3-year warranty and insurance
+
+Apple Pencil (1st Gen) with 3-year warranty
+
+Logitech Rugged Combo 3 – protective keyboard case with 3-year warranty
+</div></li></ul>
