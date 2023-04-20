@@ -70,8 +70,6 @@ description: ""
 </li>
 </ul>
 
-\* Students are expected to travel to external venues on their own or return home directly from venue
-
-_Note: Inter-School Competitions may take place on days and timings not stated here. Selected students will be dismissed from class lessons to have lunch and take bus to venue._
-
+\* Students are expected to travel to external venues on their own or return home directly from venue<br><br>
+_Note: Inter-School Competitions may take place on days and timings not stated here. Selected students will be dismissed from class lessons to have lunch and take bus to venue._<br><br>
 _Priority is given to attendance of MEP, Remedial and MT lessons at external venues._
