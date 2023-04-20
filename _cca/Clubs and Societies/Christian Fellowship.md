@@ -22,7 +22,6 @@ third_nav_title: Clubs and Societies
 <p> 
 <b>Training Days &amp; Time:</b><br>
 Monday: 3.30 pm - 5.00 pm<br>
-  
 
 <b>Teacher i/c:</b><br>
 <b>Mrs Rosalind Ho</b><br>
