@@ -11,6 +11,6 @@ third_nav_title: NDLP
 <h3>Learning with a PLD @ FMS(S)</h3>
 <p>At FMS(S), our guidelines to our student on of how to use their PLDs follow  the acronym R.E.A.D.Y as shown in the graphic below.</p>
 <br>
-<p><img src="width=" height="517" alt=""></p>
+![](/images/Parents/2023/NDLP/ready%20ipad.jpg)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
