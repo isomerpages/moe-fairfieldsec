@@ -20,19 +20,14 @@ third_nav_title: Clubs and Societies
 	
 
 <p> 
-<b>Training Days &amp; Time:</b><br><br>
-
-Monday: 3.30 pm - 5.00 pm  <br><br>
-
+<b>Training Days &amp; Time:</b><br>
+Monday: 3.30 pm - 5.00 pm<br>
   
 
-<b>Teacher i/c:</b><br><br>
-
+<b>Teacher i/c:</b><br>
 <b>Mrs Rosalind Ho</b><br>
-
-Mrs Ho has been teaching in FMS(S) since 1996. She is a Senior Teacher, teaching lower secondary and N(T) Science.<br><br>
-
-  
+	
+Mrs Ho has been teaching in FMS(S) since 1996. She is a Senior Teacher, teaching lower secondary and N(T) Science.
 
 She received Christ in 1978 during the Billy Graham crusade and has been a member of Church of the Good Shepherd (Anglican) since then. Currently, Mrs Ho is a member of the English Congregation Council and is actively involved in the prayer ministry as well as being part of the team planning the ALPHA programme.<br><br>
 
