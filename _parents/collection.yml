@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
-      - NDLP@FMS(S)/FAQs.md
-      - NDLP@FMS(S)/Resources for Parents.md
-      - NDLP@FMS(S)/Device Support.md
       - NDLP@FMS(S)/.keep
       - NDLP@FMS(S)/On Boarding Process.md
       - NDLP@FMS(S)/Device Management Application (DMA).md
+      - NDLP@FMS(S)/Device Support.md
+      - NDLP@FMS(S)/Resources for Parents.md
+      - NDLP@FMS(S)/FAQs.md
       - Parents in Education/.keep
       - Parents in Education/Overview.md
       - Parents in Education/The Team.md
