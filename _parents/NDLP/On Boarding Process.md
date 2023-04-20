@@ -5,7 +5,6 @@ description: ""
 third_nav_title: NDLP
 ---
 # On Boarding Process
-
 ### **Personal Learning Device (PLD) (2021 - 2023)**
 
 FMS(S) has selected iPad with iPadOS for students for the following rationale:
@@ -27,12 +26,4 @@ Parents are given 3 options for NDLP
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
-
 
