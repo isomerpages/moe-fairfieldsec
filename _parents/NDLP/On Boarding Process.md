@@ -40,3 +40,27 @@ Apple Pencil (1st Gen) with 3-years warranty
 
 Logitech Ruggedized Combo 3 – protective keyboard case with 3-years warranty
 </div></li></ul>
+
+<li>
+	
+<input id="accordion2" type="checkbox">
+	
+### <label for="accordion2">Option 2 – Purchase New iPad on Your Own and Option 3 Bring Existing iPad</label>
+	
+<div>
+Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
+
+*   Compatible with Device Management Application (DMA) software
+*   Must have a compatible stylus and keyboard cover (e.g Apple Pencil, Logitech Touch Combo 3)
+*   DMA must be installed on the iPad
+*   Factory reset will be required (Existing data in the device will be wiped out)
+	
+Parents who are opting for Option 2, purchasing a new iPad on your own, are strongly recommended to consider the add-on, Apple Care+ for the following rationale:
+
+*   Warranty being extended to 2 years.
+*   Servicing can be done at Apple Service Centres.
+*   Accidental damage protection is included with a service fee
+
+(Please refer to the full T&amp;C on the link:&nbsp;**[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
+	
+</div></li>
