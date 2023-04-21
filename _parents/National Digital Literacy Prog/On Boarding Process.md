@@ -26,7 +26,7 @@ Parents are given the flexibility and autonomy, through Option 2 and 3, to choos
 	
 <input id="accordion1" type="checkbox">
 	
-### <label for="accordion1">Option 1: MOE iPad Bundle</label>
+<label for="accordion1">Option 1: MOE iPad Bundle</label>
 	
 <div>
 
