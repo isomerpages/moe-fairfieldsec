@@ -61,4 +61,45 @@ Please see the infographics below for the DMA schedule set by FMS(S)
 
 <div>
 
-</div></li>
+##### DEFAULT OPTION
+
+Parents who choose to leave their child's iPad to the default option should take note of the following:
+
+Default option school hours on weekdays will be as follows: 6AM - 6PM  
+Default option school hours on the weekends will run for 24 hours.
+
+Default option After-School hours on weekdays will be as follows: 6PM - 10PM  
+
+Default option Sleep hours on weekdays will be as follows: 10PM - 6AM  
+**Note: When activated,&nbsp;Sleep hours will disable access to the device completely, forcing them to charge the iPad and sleep**
+	
+Click [here](/files/dma1.pdf) to download the Parents guide for Default Option.
+
+#### OPTION A
+
+Parents who choose the option to control the child's iPad during&nbsp;After-School hours&nbsp;should take note of the following:
+
+Option A&nbsp;school hours on weekdays will be as follows: 6AM - 6PM (School Control)
+
+Parents will control the&nbsp; Internet connectivity or blocking device hours on the child's iPad during these timings:  
+Weekdays - 6PM - 6AM  
+Weekends - 24 Hours
+	
+Click [here](/files/dma2.pdf) to download the Parents guide for Default Option.
+	
+#### OPTION&nbsp;B
+
+Parents who choose to disable the DMA&nbsp;on&nbsp;the child's iPad during After-School hours should take note of the following:
+
+Option&nbsp;B&nbsp;school hours on weekdays will be as follows: 6AM - 6PM (School Control)
+
+The DMA will be disabled allowing anyone holding on to the child's iPad to take full control&nbsp;of it during these timings:  
+Weekdays - 6PM - 6AM  
+Weekends - 24 Hours
+
+Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.	
+</div>
+
+</li>
+
+
