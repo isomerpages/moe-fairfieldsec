@@ -56,10 +56,10 @@ Parents should apply online for a Registration Number, so they can apply through
 *   Applicants will know the outcome of their applications via letters/email.
 
 **3) Submission of School Preference**
-*   **Information will be provided at a later date but it is tentatively in late October.**
+*   **Information will be provided at a later date but it is tentatively in late October.**<br>
 \-&nbsp; &nbsp; You can submit your child’s preferences:
 *   Through the DSA-Sec Portal.
-*   In person at your child’s primary school.
+*   In person at your child’s primary school.<br>
 \-&nbsp; &nbsp; Applicants who have received at least one DSA-Sec offer may indicate up to three school preferences.  
 \-&nbsp; &nbsp; Details will be provided to successful applicants.  
 
