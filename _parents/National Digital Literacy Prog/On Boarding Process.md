@@ -87,7 +87,9 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 ### <label for="accordion3"> How to Find the Model Number of your iPad</label>
 	
 <div>
-Open the Settings app and tap on&nbsp;_General &gt; About_&nbsp;Look for the Model entry on this page. You should see a model number beginning with an&nbsp;**M.**&nbsp;Tap on the Model entry and it will show a model number beginning with an&nbsp;**‘A’**. The image below shows the iPad model is&nbsp;**A2316**
 	
+Open the Settings app and tap on&nbsp;_General &gt; About_&nbsp;Look for the Model entry on this page. You should see a model number beginning with an&nbsp;**M**.&nbsp;Tap on the Model entry and it will show a model number beginning with an &nbsp;**A**. The image below shows the iPad model is&nbsp;**A2316**
+
+![](/images/Parents/2023/NDLP/how%20to%20find%20model%20of%20ipad.png)
 	
 </div></li>
