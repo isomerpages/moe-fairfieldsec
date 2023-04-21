@@ -12,7 +12,7 @@ Our selection panel seeks to identify students with high levels of ability and a
 
 \- Choir (Mixed) <br>
 \- Modern Contemporary Dance (Mixed) <br>
-\- Symphonic Band (Mixed) 
+\- Concert Band (Mixed) 
 
 #### Selection Criteria
 
