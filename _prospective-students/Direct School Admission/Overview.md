@@ -27,7 +27,7 @@ Successful students, regardless of stream, will gain admission into FMS(S) for t
 | -------- | -------- | 
 | Badminton (Mixed)| Choir (Mixed)
 | Basketball (Boys)| Modern Contemporary Dance (Mixed)
-| Football (Boys)| Symphonic Band (Mixed)
+| Football (Boys)| Concert Band (Mixed)
 | Volleyball (Mixed)
 
 
