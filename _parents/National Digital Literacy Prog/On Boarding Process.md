@@ -55,6 +55,21 @@ Parents who opt not to purchase the MOE iPad bundle must ensure that their new o
 *   DMA must be installed on the iPad
 *   Factory reset will be required (Existing data in the device will be wiped out)
 	
+The table below shows the iPad models that are compatible with DMA software:
+	
+	
+
+| Model name | Compatible Apple Pencil | 
+| -------- | -------- |
+| iPad 7th Gen or later     | Apple Pencil 1st Gen 
+| iPad Air 3rd Gen | Apple Pencil 1st Gen
+| iPad Pro 10.5 inch | Apple Pencil 1st Gen
+| iPad Pro 12.9 inch 1st and 2nd Gen | Apple Pencil 1st Gen
+| iPad Air 4th Gen or later | Apple Pencil 2nd Gen
+| iPad Pro 11 inch 1st Gen or later | Apple Pencil 2nd Gen
+| iPad Pro 12.9 inch 3rd Gen or later | Apple Pencil 2nd Gen
+	
+
 Parents who are opting for Option 2, purchasing a new iPad on your own, are strongly recommended to consider the add-on, Apple Care+ for the following rationale:
 
 *   Warranty being extended to 2 years.
@@ -62,5 +77,17 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 *   Accidental damage protection is included with a service fee
 
 (Please refer to the full T&amp;C on the link:&nbsp;**[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
+	
+</div></li>
+
+<li>
+	
+<input id="accordion3" type="checkbox">
+	
+### <label for="accordion3"> How to Find the Model Number of your iPad</label>
+	
+<div>
+Open the Settings app and tap on&nbsp;_General &gt; About_&nbsp;Look for the Model entry on this page. You should see a model number beginning with an&nbsp;**M.**&nbsp;Tap on the Model entry and it will show a model number beginning with an&nbsp;**‘A’**. The image below shows the iPad model is&nbsp;**A2316**
+	
 	
 </div></li>
