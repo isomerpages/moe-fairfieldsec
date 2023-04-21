@@ -17,22 +17,16 @@ third_nav_title: Clubs and Societies
 <div>
 
 <p> 
-<b>Training Days &amp; Time:</b><br><br>
+<b>Training Days &amp; Time:</b><br>
+Wednesday (Sec 1): 3.30 pm - 5.00 pm <br>
+Friday (Sec 2 - 5): 2.00 pm - 4.30 pm <br>
 
-Wednesday (Sec. 1): 3.30 pm - 5.00 pm  <br>
-Friday (Sec. 2-5): 2.00 pm - 4.30pm  <br><br>
-  
-
-<b>Teachers In Charge:</b><br><br>
-
-Ms Desiree Tham (I/C)  <br>
-Ms Samsiah (2 I/C)  <br>
-Mr Alester Tan<br><br>
-
-  
+<b>Teachers In Charge:</b><br>
+Ms Desiree Tham (I/C)<br>
+Ms Samsiah (2 I/C)<br>
+Mr Alester Tan<br>
 
 <b>Social Media:</b><br>
-
 <b>Instagram:&nbsp;<a href="https://www.instagram.com/media_at_fairfield/?hl=en">Media at Fairfield</a></b>
 </p>
 </div>
@@ -47,23 +41,14 @@ Mr Alester Tan<br><br>
 
 <p>
 <b>Vision</b><br>
-
-To build confident and passionate photographers and videographers in communicating their ideas, thoughts, and feelings through the medium of photography and film.  <br><br>
-
-  
+To build confident and passionate photographers and videographers in communicating their ideas, thoughts, and feelings through the medium of photography and film.<br>
 
 <b>Mission</b><br>
+To nurture passionate photographers and videographers by providing internal and external activities / competitions to broaden their knowledge of the medium. Through our programme, we aim to cultivate student's project management, leadership skills, confidence and being an active contributor to the school.<br>
 
-To nurture passionate photographers and videographers by providing internal and external activities / competitions to broaden their knowledge of the medium. Through our programme, we aim to cultivate student's project management, leadership skills, confidence and being an active contributor to the school.<br><br>
-
-  
-
-<b> History	</b><br><br>
-<img style="width:70%" src="/images/Media.png"><br><br>
-	
+<b> History	</b>
+<img style="width:70%" src="/images/Media.png"><br>
 Media@Fairfield is a CCA that aims to equip students with Basic Photography, Video editing, film appreciation and documenting and archiving of various school events. Students are dedicated towards being a passionate Photographer or Videographer as well as an active contributor to the school such as our Founders Day, Fairfield Run, National Day, Teachers day and Open House. Our Secondary one enters our Programme having a foundation of both Photography and Film before they decide to specialise in a specific field of interest in Secondary 2. Students begin to develop their passion and interest in their specialised field of practice. Our Key competitions that Media@Fairfield participates in are “Our Schools Our Stories” photo contest and the “TwentyFour” a short film-making hackathon with inter-schools and JC level competition.<br><br>
-
-  
 
 <b>Key Programmes</b><br>
 

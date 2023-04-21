@@ -27,7 +27,7 @@ Successful students, regardless of stream, will gain admission into FMS(S) for t
 | -------- | -------- | 
 | Badminton (Mixed)| Choir (Mixed)
 | Basketball (Boys)| Modern Contemporary Dance (Mixed)
-| Football (Boys)| Symphonic Band (Mixed)
+| Football (Boys)| Concert Band (Mixed)
 | Volleyball (Mixed)
 
 
@@ -107,4 +107,4 @@ After reading through the FAQ page&nbsp;**[here](https://staging.d1wp5xkpm2dbnc.
 
   
 
-\- Mr. Alester Tan (SH CCA)&nbsp;at&nbsp;[tan\_aik\_hwee@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg)&nbsp;(for PA-related DSA enquires)
+\- Mr. Alester Tan (SH CCA)&nbsp;at&nbsp;[tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg)&nbsp;(for PA-related DSA enquires)

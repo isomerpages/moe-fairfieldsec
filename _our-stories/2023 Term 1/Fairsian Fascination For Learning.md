@@ -6,7 +6,7 @@ third_nav_title: 2023 Term 1
 ---
 ### Fairsian Fascination For Learning
 
-by Lauren Soh (3A), Kerin Chua (3D), Amelia Lee (3E), Shaan Naresh Anand (3E), Daniel Gan (4A) and Kayla Ng (4B)
+by Erica Ng (1D), Fayth Wai (1D), Titus Wong (2A), Tricia Chua (2A), Sarah Goh (2C), Lauren Soh (3A), Kerin Chua (3D), Amelia Lee (3E), Shaan Naresh Anand (3E), Daniel Gan (4A) and Kayla Ng (4B)
 
 What a way to end the term! The Fairfield Learning Festival was a resounding success, with students from Secondary One to Four going on learning journeys and listening to talks from industry professionals and former students. This week-long festival was an opportunity for Fairsians to learn beyond the confines of the classroom, broaden their horizons, and create unforgettable memories together.
 
