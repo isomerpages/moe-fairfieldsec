@@ -2,7 +2,7 @@
 title: On Boarding Process
 permalink: /parents/ndlp/on-boarding-process/
 description: ""
-third_nav_title: NDLP
+third_nav_title: National Digital Literacy Prog
 ---
 # On Boarding Process
 ### **Personal Learning Device (PLD) (2021 - 2023)**
