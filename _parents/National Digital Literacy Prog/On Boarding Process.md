@@ -49,7 +49,6 @@ Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) t
 </div></li></ul>
 
 <li>
-	
 <input id="accordion2" type="checkbox">
 	
 <label for="accordion2">Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad</label>
