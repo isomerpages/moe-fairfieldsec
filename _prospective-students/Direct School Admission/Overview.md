@@ -32,7 +32,7 @@ Successful students, regardless of stream, will gain admission into FMS(S) for t
 
 
 #### **Note:**<br>
-English Drama &amp; Guitar Ensemble are no longer offered for DSA
+**English Drama &amp; Guitar Ensemble are no longer offered for DSA**
 
 Detailed criteria are provided in the respective page of each group.
 
