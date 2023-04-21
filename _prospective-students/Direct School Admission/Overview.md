@@ -30,11 +30,9 @@ Successful students, regardless of stream, will gain admission into FMS(S) for t
 | Football (Boys)| Concert Band (Mixed)
 | Volleyball (Mixed)
 
-
-#### **Note:**<br>
-**English Drama &amp; Guitar Ensemble are no longer offered for DSA**
-
 Detailed criteria are provided in the respective page of each group.
+#### **Note:**
+**English Drama &amp; Guitar Ensemble are no longer offered for DSA**
 
 #### Application Procedure
 
