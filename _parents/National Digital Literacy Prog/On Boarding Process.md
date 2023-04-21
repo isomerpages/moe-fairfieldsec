@@ -55,6 +55,7 @@ Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) t
 <label for="accordion2">Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad</label>
 	
 <div>
+
 Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
 
 *   Compatible with Device Management Application (DMA) software
