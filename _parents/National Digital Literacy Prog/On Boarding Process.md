@@ -39,13 +39,17 @@ The school has made arrangements for you to purchase the PLD from AsiaPac Distri
 Apple Pencil (1st Gen) with 3-years warranty
 
 Logitech Ruggedized Combo 3 – protective keyboard case with 3-years warranty
+	
+The price of the device bundle (inclusive of GST) is:&nbsp;**S$857.50** as of the year 2023. 
+	
+	
 </div></li></ul>
 
 <li>
 	
 <input id="accordion2" type="checkbox">
 	
-### <label for="accordion2">Option 2 – Purchase New iPad on Your Own and Option 3 Bring Existing iPad</label>
+### <label for="accordion2">Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad</label>
 	
 <div>
 Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
