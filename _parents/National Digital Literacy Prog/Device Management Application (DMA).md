@@ -21,43 +21,12 @@ The diagram below shows the summary of DMA settings during school hours and afte
 ![](/images/Parents/2023/NDLP/dma%20options%20from%20moe.png)
 
 _\*School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by FMS(S) is from 6am – 6pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours._
+
 <li>
 
 <input id="accordion1" type="checkbox">
 
-### <label for="accordion1">Choose the RIGHT option for your child</label>
-
-<div>
-
-![](/images/dma1.png)
-	
-</div>
-
-</li>
-
-<li>
-
-<input id="accordion2" type="checkbox">
-
-### <label for="accordion2">FMS(S) DMA Hours</label>
-
-<div>
-
-Please see the infographics below for the DMA schedule set by FMS(S)
-
-![](/images/dma2.png)
-	
-![](/images/dma3.png)
-
-	</div>
-
-</li>
-
-<li>
-
-<input id="accordion3" type="checkbox">
-
-### <label for="accordion3">DMA Options</label>
+### <label for="accordion1">DMA Options</label>
 
 <div>
 
@@ -102,4 +71,75 @@ Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.
 
 </li>
 
+<li>
+
+<input id="accordion2" type="checkbox">
+
+### <label for="accordion2">FMS(S) DMA Hours</label>
+
+<div>
+
+Please see the infographics below for the DMA schedule set by FMS(S)
+
+![](/images/dma2.png)
+	
+![](/images/dma3.png)
+
+</div>
+
+</li>
+
+<li>
+
+<input id="accordion3" type="checkbox">
+
+### <label for="accordion3">Choose the RIGHT option for your child</label>
+
+<div>
+
+![](/images/dma1.png)
+	
+</div>
+
+</li>
+
+
+
+<li>
+
+<input id="accordion4" type="checkbox">
+
+### <label for="accordion4">DMA Parent Portal</label>
+
+<div>
+
+The DMA Parent Portal allows parents to regulate their child’s device after school hours. Please refer to the DMA Parent Guides below, for details on how to set up your account and use the Parent Portal.
+
+
+
+| Option | DMA Guides | 
+| -------- | -------- |
+| Default Option     | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) Here     
+| Option A | Click Here
+| Additional Guide for Option A to create and setup rules and reports | Click Here
+| Option B | Click Here
+
+
+	
+</div>
+	
+</li>
+
+<li>
+
+<input id="accordion5" type="checkbox">
+
+### <label for="accordion5">Option Form for After-School DMA Settings</label>
+
+<div>
+
+	
+</div>
+
+</li>
 
