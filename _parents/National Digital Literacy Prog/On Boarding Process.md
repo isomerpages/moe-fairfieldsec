@@ -51,8 +51,8 @@ Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) t
 <li>
 	
 <input id="accordion2" type="checkbox">
-	
-### <label for="accordion2">Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad</label>
+
+<label for="accordion2">Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad</label>
 	
 <div>
 Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
