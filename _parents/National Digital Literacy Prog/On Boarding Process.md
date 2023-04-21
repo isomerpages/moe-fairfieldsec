@@ -91,7 +91,7 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 	
 <input id="accordion3" type="checkbox">
 	
-### <label for="accordion3"> How to Find the Model Number of your iPad</label>
+<label for="accordion3"> How to Find the Model Number of your iPad</label>
 	
 <div>
 	
