@@ -42,6 +42,10 @@ Logitech Ruggedized Combo 3 – protective keyboard case with 3-years warranty
 	
 The price of the device bundle (inclusive of GST) is:&nbsp;**S$857.50** as of the year 2023. 
 	
+Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about the use of Edusave.
+	
+Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about Financial Assistance.
+	
 </div></li></ul>
 
 <li>
