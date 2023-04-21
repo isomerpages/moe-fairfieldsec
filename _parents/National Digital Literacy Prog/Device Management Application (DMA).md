@@ -120,9 +120,9 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 | Option | DMA Guides | 
 | -------- | -------- |
 | Default Option     | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) Here     
-| Option A | Click Here
-| Additional Guide for Option A to create and setup rules and reports | Click Here
-| Option B | Click Here
+| Option A | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-a-ipados.pdf)Here
+| Additional Guide for Option A to create and setup rules and reports | Click [](/files/Parents/PDLP/2023/creating_and_setting_up_rules_and_reports.pdf)Here
+| Option B | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-b-ipados.pdf)Here
 
 
 	
@@ -137,9 +137,8 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 ### <label for="accordion5">Option Form for After-School DMA Settings</label>
 
 <div>
-
+Parents may request to change their choice of DMA settings via the form:&nbsp;http://www.go.gov.sg/cgsdmaoptions(http://www.go.gov.sg/cgsdmaoptions). Parents should consider their child’s current device usage habits (time spent, self-regulation and self-discipline) and parental involvement (awareness of youth’s cyber wellness trend and threat as well as routines and ground rules on device usage) before opting for Option A and B. The request to change DMA option will be processed by the school twice a term.
 	
 </div>
 
 </li>
-
