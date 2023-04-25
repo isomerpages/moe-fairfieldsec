@@ -58,7 +58,7 @@ links:
         url: /parents/partners-in-education/
       - title: School Leaders' Updates
         url: /parents/school-leaders-updates/
-      - title: "Principal's Dialogue "
+      - title: Principal's Dialogue
         url: /parents/principals-dialogue/
       - title: Form Teachers
         url: /parents/sec-1-teachers/
@@ -74,6 +74,8 @@ links:
         url: /parents/pdlp/overview/
       - title: Vendors and Services
         url: /parents/vendors-and-services/
+      - title: NDLP
+        url: /ndlp
   - title: Prospective Students
     collection: prospective-students
   - title: Highlights
@@ -83,3 +85,6 @@ links:
         url: /latest-updates/overview/
       - title: Our Stories
         url: /our-stories/overview/
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
