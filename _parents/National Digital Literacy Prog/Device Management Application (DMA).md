@@ -26,7 +26,7 @@ _\*School hours refer to the time within which students are involved in structur
 
 <input id="accordion1" type="checkbox">
 
-### <label for="accordion1">DMA Options</label>
+<label for="accordion1">DMA Options</label>
 
 <div>
 
@@ -75,7 +75,7 @@ Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.
 
 <input id="accordion2" type="checkbox">
 
-### <label for="accordion2">FMS(S) DMA Hours</label>
+<label for="accordion2">FMS(S) DMA Hours</label>
 
 <div>
 
@@ -109,7 +109,7 @@ Please see the infographics below for the DMA schedule set by FMS(S)
 
 <input id="accordion4" type="checkbox">
 
-### <label for="accordion4">DMA Parent Portal</label>
+<label for="accordion4">DMA Parent Portal</label>
 
 <div>
 
@@ -134,7 +134,7 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 
 <input id="accordion5" type="checkbox">
 
-### <label for="accordion5">Option Form for After-School DMA Settings</label>
+<label for="accordion5">Option Form for After-School DMA Settings</label>
 
 <div>
 Parents may request to change their choice of DMA settings via the form:&nbsp;https://form.gov.sg/64425238e85d2b0012423b37 Parents should consider their child’s current device usage habits (time spent, self-regulation and self-discipline) and parental involvement (awareness of youth’s cyber wellness trend and threat as well as routines and ground rules on device usage) before opting for Option A and B. The request to change DMA option will be processed by the school twice a term.
