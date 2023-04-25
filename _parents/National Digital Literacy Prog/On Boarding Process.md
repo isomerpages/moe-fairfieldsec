@@ -65,7 +65,7 @@ Parents who opt not to purchase the MOE iPad bundle must ensure that their new o
 	
 The table below shows the iPad models that are compatible with DMA software:
 	
-	
+</div></li>
 
 | Model name | Compatible Apple Pencil | 
 | -------- | -------- |
@@ -86,7 +86,7 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 
 (Please refer to the full T&amp;C on the link:&nbsp;**[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
 	
-</div></li>
+
 
 <li>
 	
