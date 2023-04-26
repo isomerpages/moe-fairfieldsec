@@ -49,7 +49,7 @@ To create an inclusive community where everyone is treated fairly and with respe
 
 <b>Mission</b><br>
 
-To empower every members of Robotics@Fairfield to push past their limits and plan for the future.<br><br>
+To empower every member of Robotics Club to push past their limits and plan for the future.<br><br>
 
   
 
