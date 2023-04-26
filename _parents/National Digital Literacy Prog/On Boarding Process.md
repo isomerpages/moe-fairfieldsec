@@ -20,15 +20,7 @@ Parents are given 3 options for NDLP
 
 Parents are given the flexibility and autonomy, through Option 2 and 3, to choose the most suitable model of iPad for their child if it is compatible with the MOE Device Management Application (DMA) and the apps for teaching and learning in school.
 
-<ul class="jekyllcodex_accordion">
-	
-<li>
-	
-<input id="accordion1" type="checkbox">
-	
-<label for="accordion1">Option 1: MOE iPad Bundle</label>
-	
-<div>
+#### Option 1: MOE iPad Bundle
 
 The school has made arrangements for you to purchase the PLD from AsiaPac Distribution Pte. Ltd. (Vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
 	
@@ -45,16 +37,9 @@ The price of the device bundle (inclusive of GST) is:&nbsp;**S$857.50** as of th
 Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about the use of **Edusave**.
 	
 Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about **Financial Assistance**.
-	
-</div></li></ul>
 
-<li>
 
-<input id="accordion2" type="checkbox">
-
-<label for="accordion2">Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad</label>
-	
-<div>
+#### Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad
 
 Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
 
@@ -64,8 +49,6 @@ Parents who opt not to purchase the MOE iPad bundle must ensure that their new o
 *   Factory reset will be required (Existing data in the device will be wiped out)
 	
 The table below shows the iPad models that are compatible with DMA software:
-	
-</div></li>
 
 | Model name | Compatible Apple Pencil | 
 | -------- | -------- |
@@ -86,18 +69,8 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 
 (Please refer to the full T&amp;C on the link:&nbsp;**[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
 	
-
-
-<li>
-	
-<input id="accordion3" type="checkbox">
-	
-<label for="accordion3"> How to Find the Model Number of your iPad</label>
-	
-<div>
+#### How to Find the Model Number of your iPad
 	
 Open the Settings app and tap on&nbsp;_General &gt; About_&nbsp;Look for the Model entry on this page. You should see a model number beginning with an&nbsp;**M**.&nbsp;Tap on the Model entry and it will show a model number beginning with an &nbsp;**A**. The image below shows the iPad model is&nbsp;**A2316**
 
 ![](/images/Parents/2023/NDLP/how%20to%20find%20model%20of%20ipad.png)
-	
-</div></li>
