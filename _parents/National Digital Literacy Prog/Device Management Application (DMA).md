@@ -89,4 +89,4 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 
 
 ### Option Form for After-School DMA Settings
-Parents may request to change their choice of DMA settings via the form:&nbsp;https://form.gov.sg/64425238e85d2b0012423b37 Parents should consider their child’s current device usage habits (time spent, self-regulation and self-discipline) and parental involvement (awareness of youth’s cyber wellness trend and threat as well as routines and ground rules on device usage) before opting for Option A and B. The request to change DMA option will be processed by the school twice a term.
+Parents may request to change their choice of DMA settings via the form:[https://go.gov.sg/fmssdmaoptions](https://go.gov.sg/fmssdmaoptions) Parents should consider their child’s current device usage habits (time spent, self-regulation and self-discipline) and parental involvement (awareness of youth’s cyber wellness trend and threat as well as routines and ground rules on device usage) before opting for Option A and B. The request to change DMA option will be processed by the school twice a term.
