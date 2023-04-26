@@ -26,7 +26,7 @@ Parents are given the flexibility and autonomy, through Option 2 and 3, to choos
 	
 <input id="accordion1" type="checkbox">
 	
-### <label for="accordion1">Option 1: MOE iPad Bundle</label>
+<label for="accordion1">Option 1: MOE iPad Bundle</label>
 	
 <div>
 
@@ -39,15 +39,23 @@ The school has made arrangements for you to purchase the PLD from AsiaPac Distri
 Apple Pencil (1st Gen) with 3-years warranty
 
 Logitech Ruggedized Combo 3 – protective keyboard case with 3-years warranty
+	
+The price of the device bundle (inclusive of GST) is:&nbsp;**S$857.50** as of the year 2023. 
+	
+Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about the use of **Edusave**.
+	
+Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about **Financial Assistance**.
+	
 </div></li></ul>
 
 <li>
-	
+
 <input id="accordion2" type="checkbox">
-	
-### <label for="accordion2">Option 2 – Purchase New iPad on Your Own and Option 3 Bring Existing iPad</label>
+
+<label for="accordion2">Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad</label>
 	
 <div>
+
 Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
 
 *   Compatible with Device Management Application (DMA) software
@@ -55,6 +63,21 @@ Parents who opt not to purchase the MOE iPad bundle must ensure that their new o
 *   DMA must be installed on the iPad
 *   Factory reset will be required (Existing data in the device will be wiped out)
 	
+The table below shows the iPad models that are compatible with DMA software:
+	
+</div></li>
+
+| Model name | Compatible Apple Pencil | 
+| -------- | -------- |
+| iPad 7th Gen or later     | Apple Pencil 1st Gen 
+| iPad Air 3rd Gen | Apple Pencil 1st Gen
+| iPad Pro 10.5 inch | Apple Pencil 1st Gen
+| iPad Pro 12.9 inch 1st and 2nd Gen | Apple Pencil 1st Gen
+| iPad Air 4th Gen or later | Apple Pencil 2nd Gen
+| iPad Pro 11 inch 1st Gen or later | Apple Pencil 2nd Gen
+| iPad Pro 12.9 inch 3rd Gen or later | Apple Pencil 2nd Gen
+	
+
 Parents who are opting for Option 2, purchasing a new iPad on your own, are strongly recommended to consider the add-on, Apple Care+ for the following rationale:
 
 *   Warranty being extended to 2 years.
@@ -62,5 +85,19 @@ Parents who are opting for Option 2, purchasing a new iPad on your own, are stro
 *   Accidental damage protection is included with a service fee
 
 (Please refer to the full T&amp;C on the link:&nbsp;**[https://www.apple.com/sg/support/products/ipad/](https://www.apple.com/sg/support/products/ipad/)**
+	
+
+
+<li>
+	
+<input id="accordion3" type="checkbox">
+	
+<label for="accordion3"> How to Find the Model Number of your iPad</label>
+	
+<div>
+	
+Open the Settings app and tap on&nbsp;_General &gt; About_&nbsp;Look for the Model entry on this page. You should see a model number beginning with an&nbsp;**M**.&nbsp;Tap on the Model entry and it will show a model number beginning with an &nbsp;**A**. The image below shows the iPad model is&nbsp;**A2316**
+
+![](/images/Parents/2023/NDLP/how%20to%20find%20model%20of%20ipad.png)
 	
 </div></li>
