@@ -22,13 +22,7 @@ The diagram below shows the summary of DMA settings during school hours and afte
 
 _\*School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by FMS(S) is from 6am – 6pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours._
 
-<li>
-
-<input id="accordion1" type="checkbox">
-
-<label for="accordion1">DMA Options</label>
-
-<div>
+### DMA Options
 
 ##### DEFAULT OPTION
 
@@ -44,7 +38,7 @@ Default option Sleep hours on weekdays will be as follows: 10PM - 6AM
 	
 Click [here](/files/dma1.pdf) to download the Parents guide for Default Option.
 
-#### OPTION A
+##### OPTION A
 
 Parents who choose the option to control the child's iPad during&nbsp;After-School hours&nbsp;should take note of the following:
 
@@ -56,7 +50,7 @@ Weekends - 24 Hours
 	
 Click [here](/files/dma2.pdf) to download the Parents guide for Default Option.
 	
-#### OPTION&nbsp;B
+##### OPTION&nbsp;B
 
 Parents who choose to disable the DMA&nbsp;on&nbsp;the child's iPad during After-School hours should take note of the following:
 
@@ -67,17 +61,8 @@ Weekdays - 6PM - 6AM
 Weekends - 24 Hours
 
 Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.	
-</div>
 
-</li>
-
-<li>
-
-<input id="accordion2" type="checkbox">
-
-<label for="accordion2">FMS(S) DMA Hours</label>
-
-<div>
+### FMS(S) DMA Hours
 
 Please see the infographics below for the DMA schedule set by FMS(S)
 
@@ -85,36 +70,14 @@ Please see the infographics below for the DMA schedule set by FMS(S)
 	
 ![](/images/dma3.png)
 
-</div>
 
-</li>
-
-<li>
-
-<input id="accordion3" type="checkbox">
-
-### <label for="accordion3">Choose the RIGHT option for your child</label>
-
-<div>
+### Choose the RIGHT option for your child
 
 ![](/images/dma1.png)
 	
-</div>
-
-</li>
-
-
-
-<li>
-
-<input id="accordion4" type="checkbox">
-
-<label for="accordion4">DMA Parent Portal</label>
-
-<div>
+### DMA Parent Portal
 
 The DMA Parent Portal allows parents to regulate their child’s device after school hours. Please refer to the DMA Parent Guides below, for details on how to set up your account and use the Parent Portal.
-
 
 
 | Option | DMA Guides | 
@@ -125,20 +88,5 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 | Option B | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-b-ipados.pdf)Here
 
 
-	
-</div>
-	
-</li>
-
-<li>
-
-<input id="accordion5" type="checkbox">
-
-<label for="accordion5">Option Form for After-School DMA Settings</label>
-
-<div>
+### Option Form for After-School DMA Settings
 Parents may request to change their choice of DMA settings via the form:&nbsp;https://form.gov.sg/64425238e85d2b0012423b37 Parents should consider their child’s current device usage habits (time spent, self-regulation and self-discipline) and parental involvement (awareness of youth’s cyber wellness trend and threat as well as routines and ground rules on device usage) before opting for Option A and B. The request to change DMA option will be processed by the school twice a term.
-	
-</div>
-
-</li>
