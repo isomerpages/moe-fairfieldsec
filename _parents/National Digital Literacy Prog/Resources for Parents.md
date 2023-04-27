@@ -11,7 +11,7 @@ third_nav_title: National Digital Literacy Prog
 
 <input id="accordion1" type="checkbox">
 
-### <label for="accordion1">Use of Edusave</label>
+<label for="accordion1">Use of Edusave</label>
 
 <div>
 MOE has provided an Edusave top-up of $200 in 2020, and will provide another Edusave top-up of $200 in May 2021 (as part of the Household Support Package announced in Budget 2021), to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.
@@ -24,7 +24,7 @@ MOE has provided an Edusave top-up of $200 in 2020, and will provide another Edu
 
 <input id="accordion2" type="checkbox">
 
-### <label for="accordion2">Financial Assistance</label>
+<label for="accordion2">Financial Assistance</label>
 
 <div>
 	
@@ -46,7 +46,7 @@ Subsidies are available for students who require funding support to purchase a P
 
 <input id="accordion3" type="checkbox">
 
-### <label for="accordion3">Software Applications</label>
+<label for="accordion3">Software Applications</label>
 
 <div>
 
