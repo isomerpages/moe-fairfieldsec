@@ -41,12 +41,10 @@ All students are required to sign into FMS(S) Managed Apple ID so that teachers 
 
 
 
-
-
 <ul class="jekyllcodex_accordion">
 <li>
 
-<input type="checkbox" id="accordion1">
+<input id="accordion1" type="checkbox">
 
 <label for="accordion1">Use of Edusave</label>
 
@@ -62,7 +60,7 @@ MOE has provided an Edusave top-up of $200 in 2020, and will provide another Edu
 	
 <li>
 
-<input type="checkbox" id="accordion2">
+<input id="accordion2" type="checkbox">
 
 <label for="accordion2">Financial Assistance</label>
 
@@ -84,7 +82,7 @@ Subsidies are available for students who require funding support to purchase a P
 	
 <li>
 
-<input type="checkbox" id="accordion3">
+<input id="accordion3" type="checkbox">
 
 <label for="accordion3">Software Applications</label>
 
