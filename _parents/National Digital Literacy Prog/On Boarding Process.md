@@ -19,7 +19,7 @@ Parents are given 3 options for NDLP
 ![](/images/Parents/2023/NDLP/pld%20buy%20option.png)
 
 Parents are given the flexibility and autonomy, through Option 2 and 3, to choose the most suitable model of iPad for their child if it is compatible with the MOE Device Management Application (DMA) and the apps for teaching and learning in school.
-
+	
 #### Option 1: MOE iPad Bundle
 
 The school has made arrangements for you to purchase the PLD from AsiaPac Distribution Pte. Ltd. (Vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
@@ -42,8 +42,7 @@ The price of the device bundle (inclusive of GST) is:&nbsp;**S$857.50** as of th
 Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about the use of **Edusave**.
 	
 Please click [here](/parents/nationaldigitalliiteracyprog/resourcesforparents) to find out about **Financial Assistance**.
-
-
+	
 #### Option 2: Purchase New iPad on Your Own and Option 3 Use Existing iPad
 
 Parents who opt not to purchase the MOE iPad bundle must ensure that their new or existing iPads meet the following conditions:
