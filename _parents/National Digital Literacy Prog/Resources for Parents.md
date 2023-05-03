@@ -68,6 +68,5 @@ On top of this, students are also provided with school-managed Apple ID which co
 
 All students are required to sign into FMS(S) Managed Apple ID so that teachers are able to use Apple Classroom during lessons.
 
-	</p>
 	
-</div></li></ul>
+</p></div></li></ul>
