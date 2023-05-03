@@ -68,10 +68,11 @@ Please see the infographics below for the DMA schedule set by FMS(S)
 
 <table>
   <tbody><tr>
-    <td><img alt="Image 1" src="/images/dma2.png)"></td>
-    <td><img alt="Image 2" src="/image2.jpg"></td>
+    <td><img alt="DMA Hours 1" src="/images/dma2.png"></td>
+    <td><img alt="DMA Hours 2" src="/images/dma3.png"></td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 
 ### Choose the RIGHT option for your child
