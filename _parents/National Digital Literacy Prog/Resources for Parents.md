@@ -30,6 +30,7 @@ MOE has provided an Edusave top-up of $200 in 2020, and will provide another Edu
 
 <div>
 	
+<p>
 Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:
 
 | Students eligible for subsidy | Income criteria | How to Apply for Subsidy |
@@ -39,6 +40,8 @@ Subsidies are available for students who require funding support to purchase a P
 | Students who are currently not under the MOE FAS or School-based FAS | GHI is $4,000 or less, or PCI is $1,000 or less | Approach the school’s General Office to apply for a subsidy. |
 
 **\* PCI**&nbsp;refers to the GHI divided by the total number of family members in the household.
+	
+</p>
 	
 	</div>
 
@@ -52,6 +55,7 @@ Subsidies are available for students who require funding support to purchase a P
 
 <div>
 
+<p>
 The school will progressively roll out Software Applications that will be vital for students’ teaching and learning. These include:&nbsp;
 
 (a)&nbsp;**Student iCON**: Every student will be provided with access to the Google Suite set of tools, including email address.  
@@ -63,4 +67,7 @@ The school will need to use students’ full name, Student iCON ID and class to 
 On top of this, students are also provided with school-managed Apple ID which comes with 200GB of iCloud storage.
 
 All students are required to sign into FMS(S) Managed Apple ID so that teachers are able to use Apple Classroom during lessons.
+
+	</p>
+	
 </div></li></ul>
