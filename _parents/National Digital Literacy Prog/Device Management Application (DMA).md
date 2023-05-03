@@ -66,9 +66,13 @@ Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.
 
 Please see the infographics below for the DMA schedule set by FMS(S)
 
-![](/images/dma2.png)
-	
-![](/images/dma3.png)
+<table>
+  <tbody><tr>
+    <td><img alt="DMA Hours 1" src="/images/dma2.png"></td>
+    <td><img alt="DMA Hours 2" src="/images/dma3.png"></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Choose the RIGHT option for your child
