@@ -42,7 +42,7 @@ Default option After-School hours on weekdays will be as follows: 6PM - 10PM
 Default option Sleep hours on weekdays will be as follows: 10PM - 6AM  
 **Note: When activated,&nbsp;Sleep hours will disable access to the device completely, forcing them to charge the iPad and sleep**
 	
-Click [here](/files/dma1.pdf) to download the Parents guide for Default Option.
+Click [here](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) to download the Parents guide for Default Option.
 
 ##### OPTION A
 
