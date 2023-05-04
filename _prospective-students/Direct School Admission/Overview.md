@@ -40,7 +40,9 @@ Follow these steps to apply your child's application:
 
 1\)&nbsp;Applicants studying in MOE mainstream primary schools: Only one parent’s SingPass is needed to log in. If parent/guardian is unable to apply online, they can approach the child’s primary school for assistance.
 
-2\) Applicants NOT studying in MOE mainstream primary schools:  
+2\) Please refer to the following link for [Direct School Admission (DSA-Sec): Apply](https://www.moe.gov.sg/secondary/dsa)
+
+3\) Applicants NOT studying in MOE mainstream primary schools:  
 
 Parents should apply online for a Registration Number, so they can apply through DSA Portal. This is done using an online form via MOE DSA website.
 
