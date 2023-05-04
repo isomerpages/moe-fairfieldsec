@@ -46,6 +46,8 @@ Follow these steps to apply your child's application:
 
 Parents should apply online for a Registration Number, so they can apply through DSA Portal. This is done using an online form via MOE DSA website.
 
+4\) The application period for DSA is from 4 May 2023, 11am to 31 May 2023, 3pm. Applicants must submit their applications through the DSA-Sec Portal by 3pm on Wednesday, 31 May 2023. Incomplete or late applications will not be considered.
+
 #### Timeline for DSA
 
 **1) Selection of Trials/Auditions**
