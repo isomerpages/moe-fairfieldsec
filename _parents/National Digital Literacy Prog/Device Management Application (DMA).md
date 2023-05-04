@@ -91,7 +91,7 @@ Please see the infographics below for the DMA schedule set by FMS(S)
 
 <p>
 	
-![](/images/dma1.png)
+
 
 </p><hr>
 
