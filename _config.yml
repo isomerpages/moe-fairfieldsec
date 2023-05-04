@@ -1,6 +1,6 @@
 title: Fairfield Methodist School
 url: https://fairfieldmethodistsec.moe.edu.sg
-favicon: /images/fav.png
+favicon: /images/fav_transbg.png
 colors:
   primary-color: "#2d4091"
   secondary-color: "#4a4a4a"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
