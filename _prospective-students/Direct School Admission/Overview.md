@@ -56,7 +56,7 @@ Parents should apply online for a Registration Number, so they can apply through
 *   For Performing Arts CCA, please refer&nbsp;**[here](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/prospective-students/direct-school-admission/performing-arts/).**
 *   Applicants who are not successful will be informed via letters/email.
 
-**2) Outcomes of DSA-Sec Applications**
+**2) Outcomes of DSA-Sec Applications (from 9am on Monday, 23 October 2023 to 3pm on Friday, 27 October 2023).**
 *   Applicants will know the outcome of their applications via letters/email.
 *   Selected students will receive DSA-Sec offers directly from schools by Monday, 11 September 2023.
 
