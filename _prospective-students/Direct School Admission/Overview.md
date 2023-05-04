@@ -58,6 +58,7 @@ Parents should apply online for a Registration Number, so they can apply through
 
 **2) Outcomes of DSA-Sec Applications**
 *   Applicants will know the outcome of their applications via letters/email.
+*   Selected students will receive DSA-Sec offers directly from schools by Monday, 11 September 2023.
 
 **3) Submission of School Preference**
 *   **Information will be provided at a later date but it is tentatively in late October.**<br>
