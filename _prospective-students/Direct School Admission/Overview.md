@@ -67,7 +67,7 @@ Parents should apply online for a Registration Number, so they can apply through
 \-&nbsp; &nbsp; Applicants who have received at least one DSA-Sec offer may indicate up to three school preferences.  
 \-&nbsp; &nbsp; Details will be provided to successful applicants.  
 
-**4) Release of Results (between **
+**4) Release of Results (between Wednesday, 22 November and Friday, 24 November 2023).**
 *   Information will be provided at a later date but it is tentatively in late November.  
 *   Applicants studying in mainstream schools will receive their DSA-Sec results together with their PSLE results&nbsp;through their primary schools.
 *   If your child is currently not studying in a MOE school, you will be informed via email.
