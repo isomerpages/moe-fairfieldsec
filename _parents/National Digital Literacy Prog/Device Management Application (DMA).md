@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 ---
 # Device Management Application (DMA)
-<p>
+
 All students’ devices are installed with the MOE Device Management Application (DMA) as part of the measures to enable a safe and conducive learning environment for students. The purpose of the MOE DMA is to:
 
 *   keep your child safe online by blocking off undesirable websites
@@ -21,8 +21,7 @@ The diagram below shows the summary of DMA settings during school hours and afte
 ![](/images/Parents/2023/NDLP/dma%20options%20from%20moe.png)
 
 _\*School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by FMS(S) is from 6am – 6pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours.
-	
-</p>
+
 <hr>
 
 <p>
