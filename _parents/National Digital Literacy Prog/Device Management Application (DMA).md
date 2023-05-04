@@ -22,12 +22,6 @@ The diagram below shows the summary of DMA settings during school hours and afte
 
 *School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by FMS(S) is from 6am – 6pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours.
 	
-
-
-
-
-<p>
-	
 ### DMA Options
 
 ##### DEFAULT OPTION
@@ -68,12 +62,6 @@ Weekends - 24 Hours
 
 Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.	
 	
-</p>
-
-<hr>
-
-<p>
-	
 ### FMS(S) DMA Hours
 
 Please see the infographics below for the DMA schedule set by FMS(S)
@@ -85,22 +73,20 @@ Please see the infographics below for the DMA schedule set by FMS(S)
   </tr>
 </tbody>
 </table>
-</p>
+<p></p>
 
-<hr>
+
 
 ### Choose the RIGHT option for your child
 
-<p>
 	
 ![](/images/Parents/2023/NDLP/choose_dma_option1.png)
 
-</p><hr>
+
 
 ### DMA Parent Portal
 
-<p>
-	
+
 The DMA Parent Portal allows parents to regulate their child’s device after school hours. Please refer to the DMA Parent Guides below, for details on how to set up your account and use the Parent Portal.
 
 | Option | DMA Guides | 
@@ -110,9 +96,7 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 | Additional Guide for Option A to create and setup rules and reports | Click [](/files/Parents/PDLP/2023/creating_and_setting_up_rules_and_reports.pdf)Here
 | Option B | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-b-ipados.pdf)Here
 
-</p>
 
-<hr>
 
 ### Option Form for After-School DMA Settings
 Parents may request to change their choice of DMA settings via the form:[https://go.gov.sg/fmssdmaoptions](https://go.gov.sg/fmssdmaoptions) Parents should consider their child’s current device usage habits (time spent, self-regulation and self-discipline) and parental involvement (awareness of youth’s cyber wellness trend and threat as well as routines and ground rules on device usage) before opting for Option A and B. The request to change DMA option will be processed by the school twice a term.
