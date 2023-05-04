@@ -21,6 +21,7 @@ The diagram below shows the summary of DMA settings during school hours and afte
 ![](/images/Parents/2023/NDLP/dma%20options%20from%20moe.png)
 
 *School hours refer to the time within which students are involved in structured learning activities within the school, including time allocated for CCAs and enrichment programmes. The hours defined by FMS(S) is from 6am – 6pm on weekdays. Application installed by parents/guardian and/or students after school hours will be disabled during school hours.
+
 	
 ### DMA Options
 
@@ -38,6 +39,7 @@ Default option Sleep hours on weekdays will be as follows: 10PM - 6AM
 	
 Click [here](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) to download the Parents guide for Default Option.
 
+
 ##### OPTION A
 
 Parents who choose the option to control the child's iPad during&nbsp;After-School hours&nbsp;should take note of the following:
@@ -49,6 +51,7 @@ Weekdays - 6PM - 6AM
 Weekends - 24 Hours
 	
 Click [here](/files/dma2.pdf) to download the Parents guide for Default Option.
+
 	
 ##### OPTION&nbsp;B
 
@@ -61,6 +64,7 @@ Weekdays - 6PM - 6AM
 Weekends - 24 Hours
 
 Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.	
+
 	
 ### FMS(S) DMA Hours
 
