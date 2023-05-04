@@ -91,7 +91,7 @@ Please see the infographics below for the DMA schedule set by FMS(S)
 
 <p>
 	
-
+![](/images/Parents/2023/NDLP/choose_dma_option1.png)
 
 </p><hr>
 
