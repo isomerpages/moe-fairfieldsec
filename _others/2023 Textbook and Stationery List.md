@@ -10,7 +10,6 @@ Dear Parent/Guardian,
 **Guidelines for Year-End Purchase of 2023 School Textbooks/Stationery and School Attire**
 
   
-TEST TEST TEST 
 
 Parents/Guardians can start purchasing the items online from 11 Nov 2022, 5pm. 
 
