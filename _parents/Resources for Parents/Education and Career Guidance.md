@@ -31,29 +31,28 @@ Education and Career Guidance (ECG) facilitates the acquisition of necessary kno
 <div>
 
 <p>
-ECG Counselling provides dedicated support for graduating students who have yet to identify their career interests, select post-secondary educational institutions/subject combinations and/or require assistance with JAE application: <Br><br>
+ECG Counselling provides dedicated support for graduating students who have yet to identify their career interests, select post-secondary educational institutions/subject combinations and/or require assistance with JAE application: <br><br>
 
   
 
 <b>ECG Services</b> <br><br>
 
-	<b>1. Individual Consultations for Students and/or Parents</b> <br><Br>
+	<b>1. Individual Consultations for Students and/or Parents</b> <br><br>
 
 • Identifying Career Interests, Personality Strengths, Skill Strengths, Values<br>
 • Selecting Upper Secondary Subject Combinations<br>
-• Exploring Post-Secondary Educational Pathways & Institutions (IB, A-Levels, Diploma JCs & Polys.)<br>
+• Exploring Post-Secondary Educational Pathways &amp; Institutions (IB, A-Levels, Diploma JCs &amp; Polys.)<br>
 • Choosing JC Subject Combinations<br>
 • Understanding University Admissions<br>
 • Preparing for School Admission Exercises (ie., DSA-JC, Poly EAE, PFP, DPP, JAE)<br>
 • PTM ECG Enquiries<br>
 • Applying for Scholarships<br>
-• Resume & Interview Skills<br>
+• Resume &amp; Interview Skills<br>
 • Personality Profile Interpretations  <br>
  <br> 
 
-<b>2. ECG Workshops Talks</b><br><br>
 
-<b>3. Online & Print Resources</b>
+<b>2. Online &amp; Print Resources</b>
 </p>
 
 </div>
@@ -70,27 +69,27 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 <p>
 	<b>General Information</b><br><br>
 
-•<b>ECG Website:</b><a href="https://www.moe.gov.sg/programmes/education-and-career-guidance/overview">https://www.moe.gov.sg/programmes/education-and-career-guidance/overview</a>  <br>
-•<b>The Next Step Forward (ebook):</b><a href="https://www.moe.gov.sg/microsites/next-step-forward/index.html">https://www.moe.gov.sg/microsites/next-step-forward/index.html</a> <br>
-•<b>ECG Parent Guide – Journeying with Our Children, Achieving Their Aspirations:</b> <a href="www.moe.gov.sg/ECG-parent-guide">www.moe.gov.sg/ECG-parent-guide</a> <br><br>
+•<b>ECG Website:</b><a href="https://www.moe.gov.sg/programmes/education-and-career-guidance/overview">https://www.moe.gov.sg/programmes/education-and-career-guidance/overview</a>&nbsp; <br>
+•<b>The Next Step Forward (ebook):</b><a href="https://www.moe.gov.sg/microsites/next-step-forward/index.html">https://www.moe.gov.sg/microsites/next-step-forward/index.html</a>&nbsp;<br>
+•<b>ECG Parent Guide – Journeying with Our Children, Achieving Their Aspirations:</b>&nbsp;<a href="www.moe.gov.sg/ECG-parent-guide">www.moe.gov.sg/ECG-parent-guide</a> <br><br>
       
     
 
 <b>Information on Secondary Education</b><br><br>
 
-•<b>About Secondary Education:</b> <a href="https://www.moe.gov.sg/secondary">https://www.moe.gov.sg/secondary</a><br>
-•<b>Secondary School Education Booklet (in 4 languages):</b> <a href="https://www.moe.gov.sg/secondary/courses">https://www.moe.gov.sg/secondary/courses</a><br>
-•<b>Whats Next (N) Levels:</b> <a href="https://www.moe.gov.sg/microsites/whats-next/for-gce-n-level-students/index.html">https://www.moe.gov.sg/microsites/whats-next/for-gce-n-level-students/index.html</a><br>
-•<b>Whats Next (O) Levels:</b><a href="https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html">https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html</a> <br>
+•<b>About Secondary Education:</b>&nbsp;<a href="https://www.moe.gov.sg/secondary">https://www.moe.gov.sg/secondary</a><br>
+•<b>Secondary School Education Booklet (in 4 languages):</b>&nbsp;<a href="https://www.moe.gov.sg/secondary/courses">https://www.moe.gov.sg/secondary/courses</a><br>
+•<b>Whats Next (N) Levels:</b>&nbsp;<a href="https://www.moe.gov.sg/microsites/whats-next/for-gce-n-level-students/index.html">https://www.moe.gov.sg/microsites/whats-next/for-gce-n-level-students/index.html</a><br>
+•<b>Whats Next (O) Levels:</b><a href="https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html">https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html</a>&nbsp;<br>
 •<b>ITE EAE:</b><a href="https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise">https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise</a><br>
-•<b>Myskillsfuture Portal:</b> <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a> <br><br>
+•<b>Myskillsfuture Portal:</b>&nbsp;<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a> <br><br>
       
     
 
 <b>Through-train Pathways for N(A) Students (Please use PFP and DPP)</b> <br><br>
 
-•<b>PFP:</b><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp">https://www.moe.gov.sg/post-secondary/admissions/pfp</a> <br>
-•<b>DPP:</b><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp">https://www.moe.gov.sg/post-secondary/admissions/dpp</a> <br><br>
+•<b>PFP:</b><a href="https://www.moe.gov.sg/post-secondary/admissions/pfp">https://www.moe.gov.sg/post-secondary/admissions/pfp</a>&nbsp;<br>
+•<b>DPP:</b><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp">https://www.moe.gov.sg/post-secondary/admissions/dpp</a>&nbsp;<br><br>
 
   
 
@@ -98,12 +97,12 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
 <b>Information on Post-Secondary Education</b><br><br>
 
-•<b>Post-Secondary Education Options:</b> <a href="www.moe.gov.sg/post-sec">www.moe.gov.sg/post-sec</a><br>
-•<b>Direct School Admission – Junior Colleges:</b> <a href="www.moe.gov.sg/DSA-JC">www.moe.gov.sg/DSA-JC</a><br>
-•<b>Joint Admissions Exercise:</b> <a href="www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a><br>
-•<b>Polytechnic Foundation Programme:</b> <a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a><br>
-•<b>A levels curriculum and subject syllabuses:</b> <a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a><br>
-•<b>Post Secondary options:</b> <a href="https://www.moe.gov.sg/-/media/files/post-secondary/post-secondary-brochure-2020.pdf?la=en&hash=174B2DEE1A6C215E15278DB7D0521425656AF017">https://www.moe.gov.sg/-/media/files/post-secondary/post-secondary-brochure-2020.pdf?la=en&hash=174B2DEE1A6C215E15278DB7D0521425656AF017</a>
+•<b>Post-Secondary Education Options:</b>&nbsp;<a href="www.moe.gov.sg/post-sec">www.moe.gov.sg/post-sec</a><br>
+•<b>Direct School Admission – Junior Colleges:</b>&nbsp;<a href="www.moe.gov.sg/DSA-JC">www.moe.gov.sg/DSA-JC</a><br>
+•<b>Joint Admissions Exercise:</b>&nbsp;<a href="www.moe.gov.sg/JAE">www.moe.gov.sg/JAE</a><br>
+•<b>Polytechnic Foundation Programme:</b>&nbsp;<a href="https://pfp.polytechnic.edu.sg/PFP/index.html">https://pfp.polytechnic.edu.sg/PFP/index.html</a><br>
+•<b>A levels curriculum and subject syllabuses:</b>&nbsp;<a href="https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses">https://www.moe.gov.sg/post-secondary/a-level-curriculum-and-subject-syllabuses</a><br>
+•<b>Post Secondary options:</b>&nbsp;<a href="https://www.moe.gov.sg/-/media/files/post-secondary/post-secondary-brochure-2020.pdf?la=en&amp;hash=174B2DEE1A6C215E15278DB7D0521425656AF017">https://www.moe.gov.sg/-/media/files/post-secondary/post-secondary-brochure-2020.pdf?la=en&amp;hash=174B2DEE1A6C215E15278DB7D0521425656AF017</a>
 </p>
 
 </div>
@@ -114,13 +113,13 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
 <input id="accordion4" type="checkbox">
 
-<label for="accordion4">Scholarships & Awards </label>
+<label for="accordion4">Scholarships &amp; Awards </label>
 <div>
 
 <p>
-•<b>MOE Scholarships:</b><a href="https://www.moe.gov.sg/admissions/scholarships">https://www.moe.gov.sg/admissions/scholarships</a> <br>
-•<b>A*STAR Scholarships for Secondary Schools:</b><a href="https://www.a-star.edu.sg/Scholarships/junior-college-and-polytechnic-and-secondary-school-students/a-star-science-award-upper-sec">https://www.a-star.edu.sg/Scholarships/junior-college-and-polytechnic-and-secondary-school-students/a-star-science-award-upper-sec</a> <br>
-•<b>BrightSparks Singapore Scholarships:</b><a href="http://brightsparks.com.sg/scholarshipproviders.php">http://brightsparks.com.sg/scholarshipproviders.php</a> 
+•<b>MOE Scholarships:</b><a href="https://www.moe.gov.sg/admissions/scholarships">https://www.moe.gov.sg/admissions/scholarships</a>&nbsp;<br>
+•<b>A*STAR Scholarships for Secondary Schools:</b><a href="https://www.a-star.edu.sg/Scholarships/junior-college-and-polytechnic-and-secondary-school-students/a-star-science-award-upper-sec">https://www.a-star.edu.sg/Scholarships/junior-college-and-polytechnic-and-secondary-school-students/a-star-science-award-upper-sec</a>&nbsp;<br>
+•<b>BrightSparks Singapore Scholarships:</b><a href="http://brightsparks.com.sg/scholarshipproviders.php">http://brightsparks.com.sg/scholarshipproviders.php</a>&nbsp;
 </p>
 
 </div>
@@ -146,7 +145,7 @@ ECG Counselling provides dedicated support for graduating students who have yet 
   
 
 <b><i>‘Want a job in 2025? These are the sectors to focus on’ – World Economic Forum</i></b><br><br>
-<a href="https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer">https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer</a>
+<a href="https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&amp;utm\_medium=social&amp;utm\_source=facebook.com&amp;utm\_campaign=buffer">https://www.weforum.org/agenda/2016/09/job-in-2025-skills-sectors-to-focus-on?utm\_content=buffer98dac&amp;utm\_medium=social&amp;utm\_source=facebook.com&amp;utm\_campaign=buffer</a>
 <br><br>
 
   
@@ -164,7 +163,7 @@ ECG Counselling provides dedicated support for graduating students who have yet 
   
 
 <b><i>‘Employers are going soft: the skills companies are looking for’ – World Economic Forum</i></b><br><br>
-<a href="https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer">https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&utm\_medium=social&utm\_source=facebook.com&utm\_campaign=buffer</a>
+<a href="https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&amp;utm\_medium=social&amp;utm\_source=facebook.com&amp;utm\_campaign=buffer">https://www.weforum.org/agenda/2017/02/employers-are-going-soft-the-skills-companies-are-looking-for?utm\_content=bufferbb9c2&amp;utm\_medium=social&amp;utm\_source=facebook.com&amp;utm\_campaign=buffer</a>
 <br><br>
 
   
@@ -189,13 +188,13 @@ ECG Counselling provides dedicated support for graduating students who have yet 
   
 
 <b><i>‘He will finally be an inspector thanks to Singapore Police Force’s unified rank scheme’ – Straits Times</i></b><br><br>
-<a href="http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany">http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany</a>
+<a href="http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&amp;utm_source=whatsapp&amp;utm_medium=social-media&amp;utm_campaign=addtoany">http://www.straitstimes.com/singapore/he-will-finally-be-an-inspector-thanks-to-scheme?&amp;utm_source=whatsapp&amp;utm_medium=social-media&amp;utm_campaign=addtoany</a>
 <br><br>
 
   
 
 <b><i>‘Top poly graduates choose work over university’ - TNP</i></b><br><br>
-<a href="http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&utm\_medium=Social&utm\_source=Facebook#link\_time=1494204464">http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&utm\_medium=Social&utm\_source=Facebook#link\_time=1494204464</a>
+<a href="http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&amp;utm\_medium=Social&amp;utm\_source=Facebook#link\_time=1494204464">http://www.tnp.sg/news/singapore/top-poly-graduates-choose-work-over-university?utm\_campaign=Echobox&amp;utm\_medium=Social&amp;utm\_source=Facebook#link\_time=1494204464</a>
 <br><br>
 
   
@@ -258,10 +257,10 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 <a href="http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24">http://www.businesstimes.com.sg/technology/innovation-ecosystem-support-key-to-startup-growth-job-creation?xtor=CS3-24</a>
 <br><br>
 
-   
+&nbsp;  
 
 <b><i>‘Out of work and out of luck in search for full time jobs’ – Straits Times</i></b><br><br>
-<a href="http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17">http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&xtor=CS3-17</a>
+<a href="http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&amp;xtor=CS3-17">http://www.straitstimes.com/singapore/out-of-work-and-out-of-luck-in-search-for-full-time-jobs?login=true&amp;xtor=CS3-17</a>
 <br><br>
 
   
@@ -296,7 +295,7 @@ ECG Counselling provides dedicated support for graduating students who have yet 
   
 
 
-2.  Future of Education   <br><br>
+2.  Future of Education&nbsp;  <br><br>
 <b><i>‘Pay attention to lifelong learning’ – Straits Times</i></b>  <br><br>
 
 <a href="http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning">http://www.straitstimes.com/singapore/education/pay-attention-to-lifelong-learning</a>
@@ -341,7 +340,7 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
 3.  Personal Growth<br><br>
 
-<b><i>‘UOB chief’s advice to young people: invest in yourself’ – Straits Times</i></b><br><br> <a href="http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself">http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself</a><br><br>
+<b><i>‘UOB chief’s advice to young people: invest in yourself’ – Straits Times</i></b><br><br>&nbsp;<a href="http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself">http://www.straitstimes.com/business/companies-markets/uob-chiefs-advice-to-young-people-invest-in-yourself</a><br><br>
 
   
 
@@ -351,9 +350,9 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 
   
 
-<b><i>‘8 Habits of the Most Resilient People’ – Inc.com</i></b> <br><br>
+<b><i>‘8 Habits of the Most Resilient People’ – Inc.com</i></b>&nbsp;<br><br>
 <a href="http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html">http://www.inc.com/jeremy-goldman/8-habits-of-resilient-people.html</a>
- <br><br>
+&nbsp;<br><br>
 
   
 
@@ -423,7 +422,7 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 <p>
 <a href="https://drive.google.com/drive/folders/1Ozy5ek6gra3SKr8uEdfRXDp53YCmvRBk?usp=sharing">Sec 2 Express ECG Talk for Parents</a>
   
-<a href="https://drive.google.com/drive/folders/1-fJJrZkdQN0I7ddh6GIRzfGLuOdfRyVX?usp=sharing">Sec 4NA ECG Talk for Parents on DPP & PFP</a>
+<a href="https://drive.google.com/drive/folders/1-fJJrZkdQN0I7ddh6GIRzfGLuOdfRyVX?usp=sharing">Sec 4NA ECG Talk for Parents on DPP &amp; PFP</a>
 </p>
 
 	
@@ -432,4 +431,3 @@ ECG Counselling provides dedicated support for graduating students who have yet 
 </li>
 	
 </ul>
-
