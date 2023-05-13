@@ -5,6 +5,12 @@ description: ""
 ---
 ### School Leaders' Updates
 
-**30-Dec-2022**  
+**16-Mar-2023**  
+[PG to Parents -Start of T2 2023.pdf](/files/Parents/SL%20Updates/2023/pg_to_parents-start_of_t2_2023.pdf)
 
-[PG to Parents - Start of T2 2022.pdf](/files/par3.pdf)
+**19-Jan-2023**  
+[PG to Parents - 2023 T1 Updates.pdf](/files/Parents/SL%20Updates/2023/pg_to_parents-2023_t1_updates.pdf)
+
+
+**30-Dec-2022**  
+[PG to Parents - Start of 2023.pdf](/files/Parents/SL%20Updates/2023/pg_to_parents-start_of_2023.pdf)

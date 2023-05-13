@@ -1,5 +1,5 @@
 ---
-title: 2023 Sem 2 Class Timetable
+title: 2023 Sem 1 Class Timetable
 permalink: /latest-updates/2023-sem1-class-timetable/
 description: ""
 ---
