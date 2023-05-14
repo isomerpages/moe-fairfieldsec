@@ -5,17 +5,6 @@ description: ""
 ---
 ### Latest Updates
 
-#### Donation and Sponsorship Poster
-
-[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/donation-sponsorship-poster/)
-
-* * *
-
-#### 2023 FMSS Carnival e-flyer
-
-[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/carnival-eflyer/)
-
-* * *
 
 #### 2023 Sem 1 Class Timetable
 
