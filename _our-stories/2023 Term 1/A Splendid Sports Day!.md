@@ -6,7 +6,7 @@ third_nav_title: 2023 Term 1
 ---
 ### A Splendid Sports Day! 
 
-by Alicia Ng (1C), Mikaela Tay (1C), Tricia Chua (2A), Sarah Goh (2C), Delaine Tan (3A), Chloe Chin (3D), Amelia Lee (3E), Reuven Tay (3E), Bertrand Tang (4A), Daniel Gan (4A), Ian Lau (4A) and Sarah Chan (4B)
+by Alicia Ng (1C), Mikaela Tay (1C), Tricia Chua (2A), Sarah Goh (2C), Delaine Tan (3A), Chloe Chin (3D), Amelia Lee (3E), Reuven Tay (3E), Bertrand Tang (4A), Daniel Gan (4A), Ian Lau (4A), Nur Ilya Aqilah Binte Muhammad Hakim (4C) and Sarah Chan (4B)
 
 The Fairfield Sports Day at Ngee Ann Polytechnic on 10 March 2023 was a triumphant celebration of sportsmanship, unity, and resilience. After three years of safe-distancing restrictions, our staff and students were thrilled to finally participate in this highly anticipated event.
 
