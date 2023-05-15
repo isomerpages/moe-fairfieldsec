@@ -3,7 +3,7 @@ title: Vendors and Services
 permalink: /parents/vendors-and-services/
 description: ""
 ---
-### Vendors & Services
+### Vendors &amp; Services
 
 ####  School Bookshop
 
@@ -12,7 +12,8 @@ description: ""
 | **Name of Vendor:** | Asencio Pte Ltd |
 | **Operating Hours:** | Mondays to Fridays, 7am - 3.30pm<br>* School Days only |
 | **Contact Person:** | Cherlyn |
-| **Contact Number:** |67643102  |
+| **Office Hotline (Week days 9am - 6pm only) :** |67643102  |
+| **Text Message Only:** | 80310502 |
 | **Email Address:** | bookshop@asencio.com.sg |
 | **Website:** | https://asencio.com.sg/<br>\*Only available during year-end sales |
 |  |  |
@@ -44,6 +45,6 @@ Urgent dental treatment, (When FMSP clinic is closed) can visit the following pl
 
 | Clinic | Telephone | Address | Staff i/c |
 |---|---|---|---|
-| Pei Tong Primary<br>(opens on odd week) | 8909 1679 | 15 Clementi Ave 5, S129857 | Ms Gwee & Ms Tan |
+| Pei Tong Primary<br>(opens on odd week) | 8909 1679 | 15 Clementi Ave 5, S129857 | Ms Gwee &amp; Ms Tan |
 | Queenstown Primary (opens on even week) | 8909 2160 | 310 Margaret Dr, S149303 | Mdm Chui |
 | Henry Park Primary<br>(opens on odd week) | 9114 8656 | 1 Holland Grove Road, S278790 | Ms Nur Aqilah |
