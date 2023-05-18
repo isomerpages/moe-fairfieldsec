@@ -11,7 +11,6 @@ description: ""
 |---|---|
 | **Name of Vendor:** | Asencio Pte Ltd |
 | **Operating Hours:** | Mondays to Fridays, 7am - 3.30pm<br>* School Days only |
-| **Contact Person:** | Cherlyn |
 | **Office Hotline (Week days 9am - 6pm only) :** |67643102  |
 | **Text Message Only:** | 80310502 |
 | **Email Address:** | bookshop@asencio.com.sg |
