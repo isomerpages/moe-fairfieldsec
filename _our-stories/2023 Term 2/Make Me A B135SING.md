@@ -16,7 +16,11 @@ In the early Saturday morning on 29 April 2023, footsteps and various commands e
 
 Occurring once every five years, the Oh!It’sFairfield! Carnival served as a bridge between past and present students and staff. It also brought everyone together to Flourish as One Fairfield and take a trip down memory lane. With game stalls providing an array of entertainment and food stalls serving delectable morsels and drinks, the Carnival guaranteed excitement and fun!
 
-<img src="/images/Our Stories/2023/Carnival-ezgif-3.gif" style="width:60%">
+<img src="/images/Our Stories/2023/carnival-ezgif-3.gif" style="width:60%">
+
+<img src="/images/Our Stories/2023/carnival-ezgif-3.gif" style="width:80%">
+
+![](/images/Our%20Stories/2023/carnival-ezgif-3.gif)
 
 For this momentous occasion, Fairfield also invited and blessed various beneficiaries. The student leaders hosted and conversed with families from the South West Community Development Council (CDC). They also brought them to the hall to grab a bite and do some shopping at the supermarket and flea market. From Korean street food to pastries, the aroma of these mouth-watering dishes filled the hall in perfect harmony, each scent providing a refreshing sensory experience. As the guests walked into the hall to escape the blazing heat of the outdoors, the fragrance of the foods permeated their nostrils, making their stomachs rumble and beg to be satisfied. It was indeed heartwarming to see the guests' joy and appreciation as they savoured the food and shopped for goods.
 
@@ -25,6 +29,3 @@ Ms Low Yen Ling, the Mayor of the South West CDC, shared that the Carnival was a
 Guests also enjoyed playing a wide variety of games and savouring fantastic food. One of these activities included the ‘Dunk &amp; Splash’, a carnival-exclusive event where the highest bidders got to dunk their favourite teachers, friends and even Mr Wee, our beloved Principal! Students cheered, as they watched their seniors and staff plummet into the water. Many also made a beeline for Secondary 4F’s Horror House, where guests were kept on their toes with jumpscares at every corner! Finally, to commemorate this fun-filled day, guests captured the day's memories at the photo booth set up by Secondary 3D.
 
 Indeed, the Oh!It’sFairfield! Carnival was a resounding success, as Fairfield managed to bless the community, establish meaningful connections and put a smile on everyone’s face.
-
-
-
