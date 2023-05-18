@@ -18,9 +18,6 @@ Occurring once every five years, the Oh!It’sFairfield! Carnival served as a br
 
 <img src="/images/Our Stories/2023/carnival-ezgif-3.gif" style="width:60%">
 
-<img src="/images/Our Stories/2023/carnival-ezgif-3.gif" style="width:80%">
-
-![](/images/Our%20Stories/2023/carnival-ezgif-3.gif)
 
 For this momentous occasion, Fairfield also invited and blessed various beneficiaries. The student leaders hosted and conversed with families from the South West Community Development Council (CDC). They also brought them to the hall to grab a bite and do some shopping at the supermarket and flea market. From Korean street food to pastries, the aroma of these mouth-watering dishes filled the hall in perfect harmony, each scent providing a refreshing sensory experience. As the guests walked into the hall to escape the blazing heat of the outdoors, the fragrance of the foods permeated their nostrils, making their stomachs rumble and beg to be satisfied. It was indeed heartwarming to see the guests' joy and appreciation as they savoured the food and shopped for goods.
 
