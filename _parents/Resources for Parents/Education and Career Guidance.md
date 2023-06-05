@@ -44,7 +44,7 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 
 <b>ECG Services</b> <br><br>
 
-	<b>1. Individual Consultations for Students and/or Parents</b> <br><br>
+	<b>Individual Consultations for Students and/or Parents</b> <br><br>
 
 • Identifying Career Interests, Personality Strengths, Skill Strengths, Values<br>
 • Selecting Upper Secondary Subject Combinations<br>
@@ -58,8 +58,6 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 • Personality Profile Interpretations  <br>
  <br> 
 
-
-<b>2. Online &amp; Print Resources</b>
 </p>
 
 </div>
