@@ -39,7 +39,7 @@ Email: Lai_Yi_Ming@moe.edu.sg<br>
 
 To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR code
 	
-<img src="/images/ecgc_book_now.png" style="width:40%">	
+<img src="/images/ecgc_book_now.png" style="width:30%">	
   
 
 <b>ECG Services</b> <br><br>
