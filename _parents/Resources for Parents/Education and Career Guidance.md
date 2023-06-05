@@ -137,24 +137,20 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 
 <p>FUTURE OF WORK <br><br>
 
-Davos 2023: What you need to know about jobs and skills
-https://www.weforum.org/agenda/2023/01/future-of-work-jobs-skills/
+
+<b>Davos 2023: What you need to know about jobs and skills</b><br><a href="https://www.weforum.org/agenda/2023/01/future-of-work-jobs-skills/">https://www.weforum.org/agenda/2023/01/future-of-work-jobs-skills/</a>	
+	
+	
+<b>There are the 4 skills you’ll need in the workplace of the future</b><br><a href="https://www.weforum.org/agenda/2023/01/skills-jobs-future-workplace/">https://www.weforum.org/agenda/2023/01/skills-jobs-future-workplace/</a>	
+	
+<b>The next era of work will be about skills–not pedigree. Here’s how employers are changing the way they judge potential, according to LinkedIn and Jobs for the Future</b><br><a href="https://fortune.com/2023/01/05/next-era-of-work-skills-degree-jobs-raman-ward/">https://fortune.com/2023/01/05/next-era-of-work-skills-degree-jobs-raman-ward/</a>	
+	
+<b>Firms prioritise skills over academic qualifications, say top leaders from Google and LinkedIn</b><br><a href="https://www.straitstimes.com/singapore/firms-prioritise-skills-over-academic-qualifications-say-top-leaders-from-google-and-linkedin">https://www.straitstimes.com/singapore/firms-prioritise-skills-over-academic-qualifications-say-top-leaders-from-google-and-linkedin</a>	
 
 
-There are the 4 skills you’ll need in the workplace of the future
-https://www.weforum.org/agenda/2023/01/skills-jobs-future-workplace/
+<b>Need a university degree to get a good job? Not for much longer</b><br><a href="https://www.straitstimes.com/opinion/need-a-university-degree-to-get-a-good-job-not-for-much-longer">https://www.straitstimes.com/opinion/need-a-university-degree-to-get-a-good-job-not-for-much-longer</a>	
 
 
-The next era of work will be about skills–not pedigree. Here’s how employers are changing the way they judge potential, according to LinkedIn and Jobs for the Future
-https://fortune.com/2023/01/05/next-era-of-work-skills-degree-jobs-raman-ward/
-
-Firms prioritise skills over academic qualifications, say top leaders from Google and LinkedIn
-https://www.straitstimes.com/singapore/firms-prioritise-skills-over-academic-qualifications-say-top-leaders-from-google-and-linkedin
-
-
-Need a university degree to get a good job? Not for much longer
-https://www.straitstimes.com/opinion/need-a-university-degree-to-get-a-good-job-not-for-much-longer
-  
 
 </p><p>EDUCATION/EMPLOYMENT<br><br>
 How many uni places are there for Singaporeans? Is there a quota for poly grads?
