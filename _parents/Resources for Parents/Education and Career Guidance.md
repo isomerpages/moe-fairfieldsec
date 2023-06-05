@@ -33,9 +33,9 @@ Education and Career Guidance (ECG) facilitates the acquisition of necessary kno
 <p>
 ECG Counselling provides dedicated support for graduating students who have yet to identify their career interests, select post-secondary educational institutions/subject combinations and/or require assistance with JAE application: <br><br>
 
-Ms Lai Yi Ming, Education &amp; Career Guidance Counsellor
+Ms Lai Yi Ming, Education &amp; Career Guidance Counsellor <br>
 
-Email: Lai_Yi_Ming@moe.edu.sg
+Email: Lai_Yi_Ming@moe.edu.sg<br>
 
 To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR code
 	
