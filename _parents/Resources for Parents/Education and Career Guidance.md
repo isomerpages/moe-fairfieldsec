@@ -138,14 +138,14 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 <p>FUTURE OF WORK <br><br>
 
 
-<b>Davos 2023: What you need to know about jobs and skills</b><br><a href="https://www.weforum.org/agenda/2023/01/future-of-work-jobs-skills/">https://www.weforum.org/agenda/2023/01/future-of-work-jobs-skills/</a>	
+<b>Davos 2023: What you need to know about jobs and skills</b><br><a href="https://www.weforum.org/agenda/2023/01/future-of-work-jobs-skills/">https://www.weforum.org/agenda/2023/01/future-of-work-jobs-skills/</a><br>	
 	
 	
-<b>There are the 4 skills you’ll need in the workplace of the future</b><br><a href="https://www.weforum.org/agenda/2023/01/skills-jobs-future-workplace/">https://www.weforum.org/agenda/2023/01/skills-jobs-future-workplace/</a>	
+<b>There are the 4 skills you’ll need in the workplace of the future</b><br><a href="https://www.weforum.org/agenda/2023/01/skills-jobs-future-workplace/">https://www.weforum.org/agenda/2023/01/skills-jobs-future-workplace/</a><br>	
 	
-<b>The next era of work will be about skills–not pedigree. Here’s how employers are changing the way they judge potential, according to LinkedIn and Jobs for the Future</b><br><a href="https://fortune.com/2023/01/05/next-era-of-work-skills-degree-jobs-raman-ward/">https://fortune.com/2023/01/05/next-era-of-work-skills-degree-jobs-raman-ward/</a>	
+<b>The next era of work will be about skills–not pedigree. Here’s how employers are changing the way they judge potential, according to LinkedIn and Jobs for the Future</b><br><a href="https://fortune.com/2023/01/05/next-era-of-work-skills-degree-jobs-raman-ward/">https://fortune.com/2023/01/05/next-era-of-work-skills-degree-jobs-raman-ward/</a><br>	
 	
-<b>Firms prioritise skills over academic qualifications, say top leaders from Google and LinkedIn</b><br><a href="https://www.straitstimes.com/singapore/firms-prioritise-skills-over-academic-qualifications-say-top-leaders-from-google-and-linkedin">https://www.straitstimes.com/singapore/firms-prioritise-skills-over-academic-qualifications-say-top-leaders-from-google-and-linkedin</a>	
+<b>Firms prioritise skills over academic qualifications, say top leaders from Google and LinkedIn</b><br><a href="https://www.straitstimes.com/singapore/firms-prioritise-skills-over-academic-qualifications-say-top-leaders-from-google-and-linkedin">https://www.straitstimes.com/singapore/firms-prioritise-skills-over-academic-qualifications-say-top-leaders-from-google-and-linkedin</a><br>	
 
 
 <b>Need a university degree to get a good job? Not for much longer</b><br><a href="https://www.straitstimes.com/opinion/need-a-university-degree-to-get-a-good-job-not-for-much-longer">https://www.straitstimes.com/opinion/need-a-university-degree-to-get-a-good-job-not-for-much-longer</a>	
@@ -154,14 +154,14 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 
 </p><p>EDUCATION/EMPLOYMENT<br><br>
 
-<b>How many uni places are there for Singaporeans? Is there a quota for poly grads?</b><br><a href="https://www.straitstimes.com/singapore/how-many-uni-places-for-locals-any-quota-for-poly-grads">https://www.straitstimes.com/singapore/how-many-uni-places-for-locals-any-quota-for-poly-grads</a>	
+<b>How many uni places are there for Singaporeans? Is there a quota for poly grads?</b><br><a href="https://www.straitstimes.com/singapore/how-many-uni-places-for-locals-any-quota-for-poly-grads">https://www.straitstimes.com/singapore/how-many-uni-places-for-locals-any-quota-for-poly-grads</a><br>	
 	
-<b>Is the IB easier than the A levels?</b><br><a href="https://www.straitstimes.com/singapore/parenting-education/askst-is-the-ib-easier-than-the-a-levels">https://www.straitstimes.com/singapore/parenting-education/askst-is-the-ib-easier-than-the-a-levels</a>	
+<b>Is the IB easier than the A levels?</b><br><a href="https://www.straitstimes.com/singapore/parenting-education/askst-is-the-ib-easier-than-the-a-levels">https://www.straitstimes.com/singapore/parenting-education/askst-is-the-ib-easier-than-the-a-levels</a><br>	
 	
-<b>Commentary: I gave up JC to go to poly and never looked back</b><br><a href="https://www.channelnewsasia.com/commentary/polytechnic-education-journey-decisions-o-levels-jc-3412696">https://www.channelnewsasia.com/commentary/polytechnic-education-journey-decisions-o-levels-jc-3412696</a>	
+<b>Commentary: I gave up JC to go to poly and never looked back</b><br><a href="https://www.channelnewsasia.com/commentary/polytechnic-education-journey-decisions-o-levels-jc-3412696">https://www.channelnewsasia.com/commentary/polytechnic-education-journey-decisions-o-levels-jc-3412696</a><br>	
 	
 <b>9 in 10 poly students found jobs within 6 months of graduating or finishing NS in 2022</b><br><a href="https://www.channelnewsasia.com/singapore/9-10-polytechnic-graduates-employment-survey-singapore-jobs-2022-3204061">https://www.channelnewsasia.com/singapore/9-10-polytechnic-graduates-employment-survey-singapore-jobs-2022-3204061
-</a>	
+</a><br>	
 	
 <b>More aptitude-based varsity admissions to shift emphasis away from academic grades</b><br><a href="https://www.straitstimes.com/singapore/education/more-aptitude-based-varsity-admissions-to-shift-emphasis-away-from-academic">https://www.straitstimes.com/singapore/education/more-aptitude-based-varsity-admissions-to-shift-emphasis-away-from-academic
 </a>	
