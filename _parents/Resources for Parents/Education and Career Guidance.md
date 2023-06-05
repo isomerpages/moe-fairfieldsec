@@ -153,20 +153,19 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 
 
 </p><p>EDUCATION/EMPLOYMENT<br><br>
-How many uni places are there for Singaporeans? Is there a quota for poly grads?
-https://www.straitstimes.com/singapore/how-many-uni-places-for-locals-any-quota-for-poly-grads
 
-Is the IB easier than the A levels?
-https://www.straitstimes.com/singapore/parenting-education/askst-is-the-ib-easier-than-the-a-levels
-
-Commentary: I gave up JC to go to poly and never looked back
-https://www.channelnewsasia.com/commentary/polytechnic-education-journey-decisions-o-levels-jc-3412696
-
-9 in 10 poly students found jobs within 6 months of graduating or finishing NS in 2022
-https://www.channelnewsasia.com/singapore/9-10-polytechnic-graduates-employment-survey-singapore-jobs-2022-3204061
-
-More aptitude-based varsity admissions to shift emphasis away from academic grades
-https://www.straitstimes.com/singapore/education/more-aptitude-based-varsity-admissions-to-shift-emphasis-away-from-academic
+<b>How many uni places are there for Singaporeans? Is there a quota for poly grads?</b><br><a href="https://www.straitstimes.com/singapore/how-many-uni-places-for-locals-any-quota-for-poly-grads">https://www.straitstimes.com/singapore/how-many-uni-places-for-locals-any-quota-for-poly-grads</a>	
+	
+<b>Is the IB easier than the A levels?</b><br><a href="https://www.straitstimes.com/singapore/parenting-education/askst-is-the-ib-easier-than-the-a-levels">https://www.straitstimes.com/singapore/parenting-education/askst-is-the-ib-easier-than-the-a-levels</a>	
+	
+<b>Commentary: I gave up JC to go to poly and never looked back</b><br><a href="https://www.channelnewsasia.com/commentary/polytechnic-education-journey-decisions-o-levels-jc-3412696">https://www.channelnewsasia.com/commentary/polytechnic-education-journey-decisions-o-levels-jc-3412696</a>	
+	
+<b>9 in 10 poly students found jobs within 6 months of graduating or finishing NS in 2022</b><br><a href="https://www.channelnewsasia.com/singapore/9-10-polytechnic-graduates-employment-survey-singapore-jobs-2022-3204061">https://www.channelnewsasia.com/singapore/9-10-polytechnic-graduates-employment-survey-singapore-jobs-2022-3204061
+</a>	
+	
+<b>More aptitude-based varsity admissions to shift emphasis away from academic grades</b><br><a href="https://www.straitstimes.com/singapore/education/more-aptitude-based-varsity-admissions-to-shift-emphasis-away-from-academic">https://www.straitstimes.com/singapore/education/more-aptitude-based-varsity-admissions-to-shift-emphasis-away-from-academic
+</a>	
+	
 
 
 
