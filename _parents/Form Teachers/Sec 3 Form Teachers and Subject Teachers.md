@@ -25,10 +25,10 @@ third_nav_title: Form Teachers
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Mr Tan Puok Yuee</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -43,9 +43,9 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Kwok-Chang Jiapei</b><b><br></b>
+<td style="text-align: left;"><b>Mrs Kwok-Chang Jiapei</b><b><br></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 English
 </td>
 </tr>
@@ -56,16 +56,16 @@ English
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Loke Liang En Joel</b>
+<td style="text-align: left;"><b>Mr Loke Liang En Joel</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / History
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(0, 0, 0);">Mrs Oh-Ong Lei Wan Jasmin</b><b></b>
+<td style="text-align: left;"><b style="color: rgb(0, 0, 0);">Mrs Oh-Ong Lei Wan Jasmin</b><b></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / Geography
 </td>
 </tr>
@@ -76,9 +76,9 @@ Combined Humanities / Geography
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Wong Jiaxian</b>
+<td style="text-align: left;"><b>Ms Wong Jiaxian</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Chinese
 </td>
 </tr>
@@ -89,16 +89,16 @@ Chinese
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Tan Chang Ci</b>
+<td style="text-align: left;"><b>Mr Tan Chang Ci</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Chemistry
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Lim Yuen Tuck</b>
+<td style="text-align: left;"><b>Mr Lim Yuen Tuck</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Biology
 </td>
 </tr>
@@ -109,23 +109,23 @@ Biology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Chak-Goh Chiow Yean Jessica</b>
+<td style="text-align: left;"><b>Mrs Chak-Goh Chiow Yean Jessica</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 E Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Thio Lay Hong</b>
+<td style="text-align: left;"><b>Ms Thio Lay Hong</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 A Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Lum Tuck Choi Jason</b>
+<td style="text-align: left;"><b>Mr Lum Tuck Choi Jason</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Physical Education
 </td>
 </tr>
@@ -152,19 +152,14 @@ Physical Education
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
-Mr Ezal Bin Sani</b>
+<td style="text-align: left;"><b>
+Mr Liew Koon Ern William Isaac</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
-<tr>
-<td><b>Mr Lim Yuen Tuck</b>
-</td>
-<td><span style="background-color: rgb(255, 255, 255);"><span style="color: rgb(46, 46, 46);">Form Teacher</span>&nbsp;</span>
-</td>
-</tr>
+
 <tr>
 <td colspan="2" style="border: 0px none;"><br>
 </td>  
@@ -176,16 +171,16 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Rena Yeo</b><b></b>
+<td style="text-align: left;"><b>Mrs Rena Yeo</b><b></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 English
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Liew Koon Ern William Isaac</b>
+<td style="text-align: left;"><b>Mr Liew Koon Ern William Isaac</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / History
 </td>
 </tr>
@@ -196,23 +191,23 @@ Combined Humanities / History
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Zhang Lu</b>
+<td style="text-align: left;"><b>Ms Zhang Lu</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Chinese&nbsp;
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Lim Yuen Tuck&nbsp;</b>
+<td style="text-align: left;"><b>Mr Lim Yuen Tuck&nbsp;</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Biology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Lim Hwee Ling</b>
+<td style="text-align: left;"><b>Mrs Lim Hwee Ling</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Chemistry
 </td>
 </tr>
@@ -235,15 +230,15 @@ Chemistry
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b style="color: rgb(46, 46, 46);">Mr Li Weihan Joel</b>
+<td style="text-align: left;"><b style="color: rgb(46, 46, 46);">Mr Li Weihan Joel</b>
 </td>
-<td style="text-align: left; ">A Mathematics
+<td style="text-align: left;">A Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Lum Tuck Choi Jason</b>
+<td style="text-align: left;"><b>Mr Lum Tuck Choi Jason</b>
 </td>
-<td style="text-align: left; ">Physical Education&nbsp;
+<td style="text-align: left;">Physical Education&nbsp;
 </td>
 </tr>
 </tbody>
@@ -271,9 +266,9 @@ Chemistry
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mdm Wong Bei Shi</b>
+<td style="text-align: left;"><b>Mdm Wong Bei Shi</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -294,9 +289,9 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Guo Enliang Joseph</b>
+<td style="text-align: left;"><b>Mr Guo Enliang Joseph</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 English
 </td>
 </tr>
@@ -307,16 +302,16 @@ English
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Liew Koon Ern William Isaac</b><b></b>
+<td style="text-align: left;"><b>Mr Liew Koon Ern William Isaac</b><b></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / History
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Wong Jiayi</b>
+<td style="text-align: left;"><b>Ms Wong Jiayi</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / Geography
 </td>
 </tr>
@@ -327,9 +322,9 @@ Combined Humanities / Geography
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Oh-Ong Lei Wan Jasmin</b>
+<td style="text-align: left;"><b>Mrs Oh-Ong Lei Wan Jasmin</b>
 </td>
-<td style="text-align: left; ">Geography
+<td style="text-align: left;">Geography
 </td>
 </tr>
 <tr>
@@ -339,15 +334,15 @@ Combined Humanities / Geography
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mdm Lim Chee Chin&nbsp;</b>
+<td style="text-align: left;"><b>Mdm Lim Chee Chin&nbsp;</b>
 </td>
-<td style="text-align: left; ">Science (Chemistry)
+<td style="text-align: left;">Science (Chemistry)
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mdm Wong Bei Shi</b>
+<td style="text-align: left;"><b>Mdm Wong Bei Shi</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Science (Physics)
 </td>
 </tr>
@@ -358,23 +353,23 @@ Science (Physics)
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Li Weihan Joel</b>
+<td style="text-align: left;"><b>Mr Li Weihan Joel</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 A Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Yap Hock Heng</b>
+<td style="text-align: left;"><b>Mr Yap Hock Heng</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Design and Technology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Lum Tuck Choi Jason</b><b></b>
+<td style="text-align: left;"><b>Mr Lum Tuck Choi Jason</b><b></b>
 </td>
-<td style="text-align: left; ">Physical Education&nbsp;
+<td style="text-align: left;">Physical Education&nbsp;
 </td>
 </tr>
 </tbody>
@@ -402,10 +397,10 @@ Design and Technology
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Ms Lai Xin Yi Felicia</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -420,16 +415,16 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Rena Yeo</b><b><br></b><font face="Arial, sans-serif"><span style="font-size: 12.6667px;"></span></font>
+<td style="text-align: left;"><b>Mrs Rena Yeo</b><b><br></b><font face="Arial, sans-serif"><span style="font-size: 12.6667px;"></span></font>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 English
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Tan Sor Tin</b>
+<td style="text-align: left;"><b>Mrs Tan Sor Tin</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Literature
 </td>
 </tr>
@@ -440,9 +435,9 @@ Literature
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Lai Xin Yi Felicia</b>
+<td style="text-align: left;"><b>Ms Lai Xin Yi Felicia</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / History
 </td>
 </tr>
@@ -471,23 +466,23 @@ Combined Humanities / History
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Tan Chang Ci</b>
+<td style="text-align: left;"><b>Mr Tan Chang Ci</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Science (Chemistry)
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Ho-Tan Siew Ching Jean</b>
+<td style="text-align: left;"><b>Mrs Ho-Tan Siew Ching Jean</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Science&nbsp; (Physics)
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Tan Aik Hwee Alester</b>
+<td style="text-align: left;"><b>Mr Tan Aik Hwee Alester</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 E Mathematics
 </td>
 </tr>
@@ -498,22 +493,22 @@ E Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Lee Chiew Yi</b>
+<td style="text-align: left;"><b>Ms Lee Chiew Yi</b>
 </td>
-<td style="text-align: left; ">Nutrition and Food Studies
+<td style="text-align: left;">Nutrition and Food Studies
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Tham Xue Ping Desiree</b>
+<td style="text-align: left;"><b>Ms Tham Xue Ping Desiree</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Art
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Ng Hun Boon Francis</b>
+<td style="text-align: left;"><b>Mr Ng Hun Boon Francis</b>
 </td>
-<td style="text-align: left; ">Physical Education&nbsp;
+<td style="text-align: left;">Physical Education&nbsp;
 </td>
 </tr>
 </tbody>
@@ -541,10 +536,10 @@ Art
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Ms Wee Lay Kit Jasmine</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -559,78 +554,78 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Chua Chong Yuan Alvin</b>
+<td style="text-align: left;"><b>Mr Chua Chong Yuan Alvin</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 English
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><font color="#2e2e2e"><b>Mr Liew Koon Ern William Isaac</b></font>
+<td style="text-align: left;"><font color="#2e2e2e"><b>Mr Liew Koon Ern William Isaac</b></font>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / History
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Wee Guoyuan</b>
+<td style="text-align: left;"><b>Mr Wee Guoyuan</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / Geography
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Yen Dingyi</b>
+<td style="text-align: left;"><b>Ms Yen Dingyi</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Chinese
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms</b><b>&nbsp;</b><b>Chen Minhua</b><b><br></b>
+<td style="text-align: left;"><b>Ms</b><b>&nbsp;</b><b>Chen Minhua</b><b><br></b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Higher Chinese
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Wee Lay Kit Jasmine&nbsp;</b>
+<td style="text-align: left;"><b>Ms Wee Lay Kit Jasmine&nbsp;</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Biology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Lim Chee Shan</b>
+<td style="text-align: left;"><b>Ms Lim Chee Shan</b>
 </td>
-<td style="text-align: left; ">Chemistry
+<td style="text-align: left;">Chemistry
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mdm Wong Bei Shi</b>
+<td style="text-align: left;"><b>Mdm Wong Bei Shi</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Physics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Tan Aik Hwee Alester</b>
+<td style="text-align: left;"><b>Mr Tan Aik Hwee Alester</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 E Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Thio Lay Hong</b>
+<td style="text-align: left;"><b>Ms Thio Lay Hong</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 A Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Ng Hun Boon Francis</b>
+<td style="text-align: left;"><b>Mr Ng Hun Boon Francis</b>
 </td>
-<td style="text-align: left; ">Physical Education
+<td style="text-align: left;">Physical Education
 </td>
 </tr>
 </tbody>
@@ -658,9 +653,9 @@ A Mathematics
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Elijah-Lily Cleaopatra</b>
+<td style="text-align: left;"><b>Mr Ezal Bin Sani</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -675,9 +670,9 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Guo Enliang Joseph</b>
+<td style="text-align: left;"><b>Mr Guo Enliang Joseph</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 English
 </td>
 </tr>
@@ -688,9 +683,9 @@ English
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Ezal Bin Sani</b>
+<td style="text-align: left;"><b>Mr Ezal Bin Sani</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / History
 </td>
 </tr>
@@ -701,9 +696,9 @@ Combined Humanities / History
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Oh-Ong Lei Wan Jasmin</b>
+<td style="text-align: left;"><b>Mrs Oh-Ong Lei Wan Jasmin</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Combined Humanities / Geography
 </td>
 </tr>
@@ -714,9 +709,9 @@ Combined Humanities / Geography
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Lee Sok Fun</b>
+<td style="text-align: left;"><b>Ms Lee Sok Fun</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Chinese
 </td>
 </tr>
@@ -739,9 +734,9 @@ Chinese
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Thio Lay Hong</b>
+<td style="text-align: left;"><b>Ms Thio Lay Hong</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Science / Chemistry
 </td>
 </tr>
@@ -764,9 +759,9 @@ Science / Chemistry
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Ho Wee Yew Wilson</b>
+<td style="text-align: left;"><b>Mr Ho Wee Yew Wilson</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 E Mathematics
 </td>
 </tr>
@@ -777,15 +772,15 @@ E Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Elijah-Lily Cleaopatra</b>
+<td style="text-align: left;"><b>Mrs Elijah-Lily Cleaopatra</b>
 </td>
-<td style="text-align: left; ">Nutrition and Food Studies
+<td style="text-align: left;">Nutrition and Food Studies
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Dannish Kurniago</b>
+<td style="text-align: left;"><b>Mr Dannish Kurniago</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Design and Technology
 </td>
 </tr>
@@ -796,9 +791,9 @@ Design and Technology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Ng Hun Boon Francis</b>
+<td style="text-align: left;"><b>Mr Ng Hun Boon Francis</b>
 </td>
-<td style="text-align: left; ">Physical Education
+<td style="text-align: left;">Physical Education
 </td>
 </tr>
 </tbody>
@@ -828,18 +823,18 @@ Design and Technology
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Mr Woo Chee Keong Alex</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Ms&nbsp;Wong Jia Xian</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Form Teacher
 </td>
 </tr>
@@ -854,9 +849,9 @@ Form Teacher
 </th>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Kwok-Chang Jiapei</b>
+<td style="text-align: left;"><b>Mrs Kwok-Chang Jiapei</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 English
 </td>
 </tr>
@@ -867,16 +862,16 @@ English
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Wee Guoyuan</b>
+<td style="text-align: left;"><b>Mr Wee Guoyuan</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Social Studies
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Lai Xin Yi Felicia</b>
+<td style="text-align: left;"><b>Ms Lai Xin Yi Felicia</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Social Studies
 </td>
 </tr>
@@ -887,9 +882,9 @@ Social Studies
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Lee Sok Fun</b>
+<td style="text-align: left;"><b>Ms Lee Sok Fun</b>
 </td>
-<td style="text-align: left; ">Chinese
+<td style="text-align: left;">Chinese
 </td>
 </tr>
 <tr>
@@ -899,9 +894,9 @@ Social Studies
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Ms Siti Ainah Bte Maduri</b>
+<td style="text-align: left;"><b>Ms Siti Ainah Bte Maduri</b>
 </td>
-<td style="text-align: left; ">Basic Malay
+<td style="text-align: left;">Basic Malay
 </td>
 </tr>
 <tr>
@@ -917,36 +912,36 @@ Social Studies
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Ho-Leong Yuet Lim&nbsp; Rosalind</b>
+<td style="text-align: left;"><b>Mrs Ho-Leong Yuet Lim&nbsp; Rosalind</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Science
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Liew Hoe Meng Keith</b>
+<td style="text-align: left;"><b>Mr Liew Hoe Meng Keith</b>
 </td>
-<td style="text-align: left; ">Science
+<td style="text-align: left;">Science
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Tan Li Ming Glen</b>
+<td style="text-align: left;"><b>Mr Tan Li Ming Glen</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 E Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mrs Chak-Goh Chiow Yean Jessica</b>
+<td style="text-align: left;"><b>Mrs Chak-Goh Chiow Yean Jessica</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 E Mathematics
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Chia Wey Ling Vincent</b>
+<td style="text-align: left;"><b>Mr Chia Wey Ling Vincent</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Computer Applications
 </td>
 </tr>
@@ -957,9 +952,9 @@ Computer Applications
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mdm Juliana Bte Jamil</b>
+<td style="text-align: left;"><b>Mdm Juliana Bte Jamil</b>
 </td>
-<td style="text-align: left; ">Nutrition and Food Studies
+<td style="text-align: left;">Nutrition and Food Studies
 </td>
 </tr>
 <tr>
@@ -969,10 +964,10 @@ Computer Applications
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>
+<td style="text-align: left;"><b>
 Mr Woo Chee Keong Alex</b>
 </td>
-<td style="text-align: left; ">
+<td style="text-align: left;">
 Design and Technology
 </td>
 </tr>
@@ -983,9 +978,9 @@ Design and Technology
 </td>
 </tr>
 <tr>
-<td style="text-align: left; "><b>Mr Ravi Shankar&nbsp;</b>
+<td style="text-align: left;"><b>Mr Ravi Shankar&nbsp;</b>
 </td>
-<td style="text-align: left; ">Physical Education
+<td style="text-align: left;">Physical Education
 </td>
 </tr>
 </tbody>
@@ -1004,7 +999,7 @@ Design and Technology
 
 <div>
 
-<p>Click <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/">here</a> to view all teachers email addresses. </p>
+<p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/">here</a>&nbsp;to view all teachers email addresses. </p>
 
 	
 </div>
