@@ -653,6 +653,13 @@ A Mathematics
 </th>
 </tr>
 <tr>
+<td style="text-align: left;"><b>Mrs Elijah-Lily Cleaopatra</b>
+</td>
+<td style="text-align: left;">
+Form Teacher
+</td>
+</tr>
+<tr>
 <td style="text-align: left;"><b>Mr Ezal Bin Sani</b>
 </td>
 <td style="text-align: left;">
