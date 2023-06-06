@@ -196,8 +196,6 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 	
 <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/Parents/Resources%20for%20Parents/2023_dsa_jc_exercise.pdf">Information Note on 2023 DSA JC Exercise.pdf</a> <br>	
 
-[Information Note on 2023 DSA JC Exercise.pdf](/files/Parents/Resources%20for%20Parents/2023_dsa_jc_exercise.pdf)<br>
-	
   
 <b>Interview Preparation Resource</b><br>
 <a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/ecg8.pdf">Ace your interview.pdf</a>
