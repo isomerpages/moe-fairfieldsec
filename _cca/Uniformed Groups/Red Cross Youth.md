@@ -88,7 +88,7 @@ At the beginning of the year, our Secondary 3 Cadets will all undergo a Leadersh
 		
 <input id="accordion3" type="checkbox">
 
-<label for="accordion3">Achievements</label>
+<label for="accordion3"><b>Achievements</b></label><b>
 <div>	
 
 <p>
@@ -115,6 +115,6 @@ At the beginning of the year, our Secondary 3 Cadets will all undergo a Leadersh
 	
 </div>
 
-</li>
+</b></li><b>
 	
-</ul></ul></ul>
+</b></ul></ul></ul>
