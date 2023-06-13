@@ -7,7 +7,8 @@ description: ""
 
 
 *   Contact No: 6778-8702&nbsp; &nbsp; &nbsp;
-*   Fax No.: 6779-7482&nbsp; &nbsp; &nbsp;
+*   Fax No.: 6779-7482&nbsp; &nbsp; &nbsp; <br>
+
 **Have a question?**  
 Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/fmss)
 <br>
