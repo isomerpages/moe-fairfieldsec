@@ -34,7 +34,7 @@ Ms Brenda Nio
 		
 <input id="accordion2" type="checkbox">
 
-<label for="accordion2">Overview</label>
+<label for="accordion2">Overview</label><br>
 <div>
 
 <p>
@@ -64,7 +64,7 @@ Four badge work domains:
 3) Global Awareness<br>
 4) Leadership<br><br>
 
-Key emphasis of 33rd Singapore Coy:<br>
+<b>Key emphasis of 33rd Singapore Coy</b><br>
 5) Christian Education<br>
 6) Mentoring
 	
