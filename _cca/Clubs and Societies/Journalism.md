@@ -18,7 +18,7 @@ third_nav_title: Clubs and Societies
 
 <p> 
 <b>Training Days &amp; Time:</b><br>
-Thursday: 3.00 pm - 5.30 pm  <br>
+Thursday: 3.00 pm - 5.30 pm <br><br>
 
 <b>Teacher In Charge:</b><br>
 Mr Joseph Guo
