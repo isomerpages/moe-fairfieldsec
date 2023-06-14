@@ -34,7 +34,7 @@ Ms Brenda Nio
 		
 <input id="accordion2" type="checkbox">
 
-<label for="accordion2">Overview</label><br>
+<label for="accordion2">Overview</label>
 <div>
 
 <p>
