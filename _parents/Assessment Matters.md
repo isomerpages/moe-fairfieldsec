@@ -15,7 +15,7 @@ description: ""
 
 [2023 Prelim NT Timetable](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20nt%20timetable.pdf)
 
-#### Sec 4 Prelim SAA Exam Timetable
+#### Sec 4 Prelim Exam Timetable for SAA
 
 [2023 Prelim O Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable_saa.pdf)
 
