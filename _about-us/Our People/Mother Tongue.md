@@ -29,4 +29,3 @@ third_nav_title: Our People
 | **Ms Tan Yi Qian** | Sec 1F Form Teacher | [tan\_yi\_qian@moe.edu.sg](mailto:tan_yi_qian@moe.edu.sg) |
 | **Ms Zhang Lu** | Sec 1H Form Teacher  | [zhang\_lu\_a@moe.edu.sg](http://zhang_lu_a@moe.edu.sg%20/)  |
 | **Ms Tan Zhen Yi Jenny** | Sec 1A Form Teacher  | [tan\_zhen\_yi\_jenny@moe.edu.sg](http://tan_zhen_yi_jenny@moe.edu.sg/)  |
-| **Ms Chong Ning Shuang** | Teacher  | [chong_ning_shuang@moe.edu.sg](chong_ning_shuang@moe.edu.sg/)  |
