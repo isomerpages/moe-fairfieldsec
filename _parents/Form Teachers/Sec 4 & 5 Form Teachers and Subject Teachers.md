@@ -1618,20 +1618,7 @@ Form Teacher
 </td>
 </tr>
  
-<tr class="">
-  
-<td width="154" class="">
-  <p class=""><span lang="EN-SG" class=""><b>Ms Chong Ning Shuang</b></span></p>
-  
-</td>
-  
-<td width="179" class="">
-  <p class="" align="left"><span lang="EN-SG" class="">Chinese Language B</span></p>
-  
-</td>
-  
- 
-</tr>
+
  
  
  
