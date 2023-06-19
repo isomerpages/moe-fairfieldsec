@@ -26,5 +26,7 @@ third_nav_title: Our People
 | **Ms Juliana Bte Jamil** | Sec 1B Form Teacher | [juliana\_jamil@moe.edu.sg](mailto:juliana_jamil@moe.edu.sg) |
 | **Ms Lee Chiew Yi** | Sec 4H Form Teacher | [lee_chiew_yi@moe.edu.sg](mailto:lee_chiew_yi@moe.edu.sg) |
 | **Mrs Tan Geok Kooi Katherine** | Teacher | [ong\_geok\_kooi\_katherine@moe.edu.sg](mailto:ong_geok_kooi_katherine@moe.edu.sg) |
+| **Ms Lee Choong Yuan Lorraine** | Teacher | [lee\_choong\_yuan\_lorraine@moe.edu.sg](mailto:lee_choong_yuan_lorraine@moe.edu.sg) |
+| **Ms &nbsp;Lim Siew Ein** | Teacher | [lim\_siew\_ein\_@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
 | **Mr Mohamad Sidek Bin Omar** | Technical Support Officer |  [mohammed\_sidek\_omar@moe.edu.sg](mailto:mohammed_sidek_omar@moe.edu.sg) |
 | **Mr Siew Yiu Wah** | Technical Support Officer |  [siew\_yiu\_wah@moe.edu.sg](mailto:siew_yiu_wah@moe.edu.sg) |

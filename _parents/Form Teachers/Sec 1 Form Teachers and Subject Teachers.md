@@ -431,12 +431,6 @@ PE
 </td>
 </tr>
 <tr>
-<td><b>Ms Yee Minyi Maegan</b>
-</td>
-<td>English<br>
-</td>
-</tr>
-<tr>
 <td><b>Ms Olivia Tan</b>
 </td>
 <td>English&nbsp;
@@ -450,12 +444,6 @@ PE
 </tr>
 <tr>
 <td><b>Mrs Rena Yeo</b>
-</td>
-<td>Literature
-</td>
-</tr>
-<tr>
-<td><b>Ms Yee Minyi Maegan&nbsp;</b>
 </td>
 <td>Literature
 </td>
@@ -1018,12 +1006,6 @@ PE
 </td>
 </tr>
 <tr>
-<td><b>Ms Yee Minyi Maegan</b>
-</td>
-<td>English
-</td>
-</tr>
-<tr>
 <td><b>Ms Olivia Tan</b>
 </td>
 <td>English&nbsp;
@@ -1037,12 +1019,6 @@ PE
 </tr>
 <tr>
 <td><b>Mrs Rena Yeo</b>
-</td>
-<td>Literature
-</td>
-</tr>
-<tr>
-<td><b>Ms Yee Minyi Maegan&nbsp;</b>
 </td>
 <td>Literature
 </td>
