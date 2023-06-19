@@ -365,15 +365,7 @@ Design and Technology
 <td>&nbsp;Music
 </td>
 </tr>
-<tr>
-<td style="text-align: left;"><b>Mr Soon Mah Kit</b>
-</td>
-<td style="text-align: left;">
-Art
-</td>
-</tr>
-<tr>
-<td style="text-align: left;"><b>Mr Tan Zhiwei</b><b></b>
+<tr><td style="text-align: left;"><b>Mr Tan Zhiwei</b><b></b>
 </td>
 <td style="text-align: left;">
 PE
@@ -495,13 +487,7 @@ Food &amp; Consumer Education
 Music
 </td>
 </tr>
-<tr>
-<td style="text-align: left;"><b>Mr Soon Mah Kit</b>
-</td>
-<td style="text-align: left;">
-Art
-</td>
-</tr>
+
 <tr>
 <td style="text-align: left;"><b>Mr Ng Hun Boon Francis</b><b></b>
 </td>
@@ -809,12 +795,6 @@ Art
 </td>
 </tr>
 <tr>
-<td><b>Mr Soon Mah Kit</b>
-</td>
-<td>Art
-</td>
-</tr>
-<tr>
 <td style="text-align: left;"><b style="color: rgb(0, 0, 0);">Mr Tan Zhiwei</b><b></b>
 </td>
 <td style="text-align: left;">
@@ -988,12 +968,7 @@ Music
 Art
 </td>
 </tr>
-<tr>
-<td><b>Mr Soon Mah Kit</b>
-</td>
-<td>Art
-</td>
-</tr>
+
 <tr>
 <td style="text-align: left;"><b>Mr Tan Zhiwei</b>
 </td>
