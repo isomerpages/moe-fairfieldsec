@@ -111,12 +111,7 @@ Design and Technology
 Music
 </td>
 </tr>
-<tr>
-<td><b>Mr Soon Mah Kit</b>
-</td>
-<td>Art
-</td>
-</tr>
+
 <tr>
 <td style="text-align: left;"><b>Mr Tan Zhiwei</b>
 </td>
