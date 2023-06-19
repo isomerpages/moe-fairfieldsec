@@ -4,7 +4,7 @@ permalink: /about-us/our-people/character-and-citizenship-education/
 description: ""
 third_nav_title: Our People
 ---
-### Character & Citizenship Education
+### Character &amp; Citizenship Education
 
 <img src="/images/Dept Photos/character and citizenship education department 2.jpg" style="width:100%">
 
@@ -12,15 +12,15 @@ third_nav_title: Our People
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Joel Li Weihan** | HOD Character & Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg)
-| **Ms Shamsiah Bte Zainalabidin** | SH Character & Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
+| **Mr Joel Li Weihan** | HOD Character &amp; Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg)
+| **Ms Shamsiah Bte Zainalabidin** | SH Character &amp; Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
 | **Mr Tan Aik Hwee Alester** | SH Co-Curricular Activities | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
 
 #### Our Teachers
 
 | Name | Designation | Email |
 |---|---|---|
-|  **Mr Ng Hun Boon Francis** | HOD Physical Education & Co-  Curricular Activities |  [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
+|  **Mr Ng Hun Boon Francis** | HOD Physical Education &amp; Co-  Curricular Activities |  [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
 |  **Mr Wee Guoyuan** | SH Social Studies |  [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 |  **Mr Lum Tuck Choi Jason** | Lead Teacher |  [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
 |  **Mr Chua Chong Yuan Alvin** | Sec 4G Form Teacher |  [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
@@ -33,4 +33,3 @@ third_nav_title: Our People
 |  **Mr Tan Zhiwei** | Sec 2H Form Teacher  | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
 |  **Mrs Elijah-Lily Cleaopatra** | Sec 3G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
 |  **Ms Wee Lay Kit Jasmine** | Sec 3E Form Teacher | [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
-|  **Ms Yee Minyi Maegan**  | Teacher | [yee\_minyi@moe.edu.sg](mailto:yee_minyi@moe.edu.sg) |
