@@ -70,6 +70,8 @@ third_nav_title: Form Teachers
 | Lim Hwee Ling (Mrs) | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
 | Lim Nina (Mdm) | [lim\_nina@moe.edu.sg](mailto:lim_nina@moe.edu.sg) |
 | Loke Liang En Joel (Mr) | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) |
+| Lee Choong Kum, Irene (Ms) | [lee\_choong\_en\_irene@moe.edu.sg](mailto:lee_choong_kum_irene@moe.edu.sg) |
+|  Lim Siew Ein (Ms) | [lim\_siew\_ein\@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
 | Oh-Ong Lei Wan Jasmin (Mrs) | [ong\_lei\_wan@moe.edu.sg](mailto:ong_lei_wan@moe.edu.sg) |
 | Olivia Tan (Ms) | [olivia\_tan\_li\_ling@moe.edu.sg](mailto:olivia_tan_li_ling@moe.edu.sg) |
 | Paul Tarwasokono (Mr) | [paul\_tarwasokono@moe.edu.sg](mailto:paul_tarwasokono@moe.edu.sg) |
