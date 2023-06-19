@@ -5,6 +5,24 @@ description: ""
 ---
 ### Assessment Matters
 
+#### Sec 4 Prelim Exam Timetable
+
+[2023 Prelim O Timetable.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable.pdf)
+
+[2023 Prelim O Science Practical Timetable.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20science%20practical%20timetable.pdf)
+
+[2023 Prelim NA Timetable.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20na%20timetable.pdf)
+
+[2023 Prelim NT Timetable](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20nt%20timetable.pdf)
+
+#### Sec 4 Prelim SAA Exam Timetable
+
+[2023 Prelim O Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable_saa.pdf)
+
+[2023 Prelim NA Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20na%20timetable_saa.pdf)
+
+[2023 Prelim NT Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20nt%20timetable_saa.pdf)
+
 #### Term 2  Weighted Assessment Schedule
 
 [2023 Term 2 WA Schedule Sec 1.pdf](/files/Parents/Assessment%20Matters/2023/2023%20term%202%20wa_v5_sec%201.pdf)
