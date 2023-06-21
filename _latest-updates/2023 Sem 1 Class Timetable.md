@@ -15,6 +15,3 @@ description: ""
 [Sem 2 2023\_Sec 3\_Timetable\_19Jun.pdf](/files/Latest%20Updates/sem%202%202023_sec%203_timetable_19jun.pdf)
 
 [Sem 2 2023\_Sec 45\_Timetable\_19Jun.pdf](/files/Latest%20Updates/sem%202%202023_sec%2045_timetable_19jun.pdf)
-
-
-
