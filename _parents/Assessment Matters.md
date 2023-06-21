@@ -7,7 +7,7 @@ description: ""
 
 #### Sec 4 Prelim Exam Timetable
 
-[2023 Prelim O Timetable.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable.pdf)
+[2023 Prelim O Timetable (Version 2).pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable_v2.pdf)
 
 [2023 Prelim O Science Practical Timetable.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20science%20practical%20timetable.pdf)
 
@@ -17,7 +17,7 @@ description: ""
 
 #### Sec 4 Prelim Exam Timetable for SAA
 
-[2023 Prelim O Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable_saa.pdf)
+[2023 Prelim O Timetable SAA (Version 2).pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable_saa_v2.pdf)
 
 [2023 Prelim NA Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20na%20timetable_saa.pdf)
 
