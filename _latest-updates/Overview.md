@@ -8,7 +8,8 @@ description: ""
 
 #### 2023 Sem 2 Class Timetable
 
-[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2023-sem1-class-timetable/)
+[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2023-sem2-class-timetable/)
+
 
 * * *
 
