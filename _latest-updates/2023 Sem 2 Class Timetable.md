@@ -7,7 +7,7 @@ description: ""
 
 
 
-[Sem 2 2023 Sec 1 Timetable.pdf](/files/2023s2s1.pdf)
+[Sem 2 2023 Sec 1 Timetable.pdf](/files/Latest%20Updates/2023s2s1.pdf)
 
 [Sem 2 2023 Sec 2 Timetable.pdf](/files/2023s2s2.pdf)
 
@@ -15,4 +15,3 @@ description: ""
 
 [Sem 2 2023 Sec 45 Timetable.pdf](/files/2023s2s45.pdf)
 
-[Sec 1 ](/files/Latest%20Updates/2023s2s1.pdf)
