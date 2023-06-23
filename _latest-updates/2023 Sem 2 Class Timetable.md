@@ -16,19 +16,3 @@ description: ""
 [Sem 2 2023 Sec 45 Timetable.pdf](/files/2023s2s45.pdf)
 
 
-[Sem 2 2023 Sec 1 Timetable 23Jun.pdf](/files/Latest%20Updates/2023S2S1.pdf) 
-
-
-[Sem 2 2023 Sec 2 Timetable 23 Jun](/files/Latest%20Updates/2023s2s2.pdf)
-
-
-[Sem 2 2023\_Sec 3\_Timetable\_23Jun.pdf](/files/Latest%20Updates/2023S2S3.pdf)
-
-[Sem 2 2023\_Sec 45\_Timetable\_23Jun.pdf](/files/Latest%20Updates/2023S2S45.pdf)
-
-
-[2023s2s1.pdf](/files/Latest%20Updates/2023s2s1.pdf)
-
-[2023s2s1_23jun.pdf](/files/Latest%20Updates/2023s2s1_23jun.pdf)
-
-<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/files/Latest%20Updates/2023S2S1.pdf">Sem 2 2023 Sec 1 Timetable 23Jun</a>
