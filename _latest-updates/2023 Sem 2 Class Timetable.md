@@ -7,10 +7,10 @@ description: ""
 
 
 
-[2023 S2 S2](/files/2023s2s2.pdf)
+[Sem 2 2023 S2 S2](/files/2023s2s2.pdf)
 
 
-[Sem 2 2023\_Sec 1\_Timetable\_23Jun.pdf](/files/Latest%20Updates/2023S2S1.pdf) 
+[Sem 2 2023 Sec 1 Timetable 23Jun.pdf](/files/Latest%20Updates/2023S2S1.pdf) 
 
 
 [Sem 2 2023 Sec 2 Timetable 23 Jun](/files/Latest%20Updates/2023s2s2.pdf)
