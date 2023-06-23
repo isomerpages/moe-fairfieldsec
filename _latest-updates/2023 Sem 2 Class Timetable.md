@@ -6,12 +6,12 @@ description: ""
 ### 2023  Sem 2 Class Timetable
 
 
-[Sem 2 2023\_Sec 1\_Timetable\_19Jun.pdf](/files/Latest%20Updates/sem%202%202023_sec%201_timetable_19jun.pdf) 
 
+[Sem 2 2023 Sec 1 Timetable.pdf](/files/Latest%20Updates/2023s2s1.pdf)
 
-[Sem 2 2023\_Sec 2\_Timetable\_19Jun.pdf](/files/Latest%20Updates/sem%202%202023_sec%202_timetable_19jun.pdf)
+[Sem 2 2023 Sec 2 Timetable.pdf](/files/2023s2s2.pdf)
 
+[Sem 2 2023 Sec 3 Timetable.pdf](/files/Latest%20Updates/2023s2s3.pdf)
 
-[Sem 2 2023\_Sec 3\_Timetable\_19Jun.pdf](/files/Latest%20Updates/sem%202%202023_sec%203_timetable_19jun.pdf)
+[Sem 2 2023 Sec 45 Timetable.pdf](/files/Latest%20Updates/2023s2s45.pdf)
 
-[Sem 2 2023\_Sec 45\_Timetable\_19Jun.pdf](/files/Latest%20Updates/sem%202%202023_sec%2045_timetable_19jun.pdf)
