@@ -7,7 +7,7 @@ description: ""
 
 
 
-[Sem 2 2023 Sec 1 Timetable 23Jun.pdf](/files/2023s2s2.pdf)
+[Sem 2 2023 Sec 1 Timetable.pdf](/files/2023s2s2.pdf)
 
 
 [Sem 2 2023 Sec 1 Timetable 23Jun.pdf](/files/Latest%20Updates/2023S2S1.pdf) 
