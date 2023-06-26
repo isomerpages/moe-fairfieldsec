@@ -17,13 +17,13 @@ third_nav_title: Our People
 | **Mr Jeromy Ngian** | Vice-Principal  | [Jeromy_NGIAN@schools.gov.sg](mailto:Jeromy_NGIAN@schools.gov.sg) |
 | **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | **Mr Chua Chang Fong** | HOD Aesthetics | [chua\_chang\_fong@moe.edu.sg](mailto:chua_chang_fong@moe.edu.sg) |
-| **Mr Joel Li Weihan** | HOD Character & Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
+| **Mr Joel Li Weihan** | HOD Character &amp; Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
 | **Mr Chia Wey Ling Vincent** | HOD Discipline | [vincent\_chia\_wey\_ling@moe.edu.sg](mailto:vincent_chia_wey_ling@moe.edu.sg) |
-| **Mrs Kwok-Chang Jiapei** | HOD English Language & Literature  | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
-| **Mrs Choe Wai Ling** | HOD Humanities | [choe\_wai\_leng\_evelyn@moe.edu.sg](mailto:choe_wai_leng_evelyn@moe.edu.sg) |
+| **Mrs Kwok-Chang Jiapei** | HOD English Language &amp; Literature  | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
+| **Mrs Choe Wai Leng** | HOD Humanities | [choe\_wai\_leng\_evelyn@moe.edu.sg](mailto:choe_wai_leng_evelyn@moe.edu.sg) |
 | **Mr Liew Hoe Meng Keith** | HOD ICT | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
-| **Ms Lee Chee Peng** | HOD Mathematics & CPA | [lee\_chee\_peng@moe.edu.sg](mailto:lee_chee_peng@moe.edu.sg) |
-| **Mr Francis Ng Hun Boon** | HOD PE & CCA | [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
+| **Ms Lee Chee Peng** | HOD Mathematics &amp; CPA | [lee\_chee\_peng@moe.edu.sg](mailto:lee_chee_peng@moe.edu.sg) |
+| **Mr Francis Ng Hun Boon** | HOD PE &amp; CCA | [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
 | **Mr Ang Yuan Peng** | HOD Science | [ang\_yuan\_peng@moe.edu.sg](mailto:ang_yuan_peng@moe.edu.sg) |
 | **Mr Glen Tan Li Ming** | HOD Special Educational Needs | [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
 | **Ms Lee Sok Fun** | HOD Mother Tongue Languages |  [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
@@ -35,7 +35,7 @@ third_nav_title: Our People
 | **Mr James Quek Chin Wee** | LH Mathematics | [james\_quek\_chin\_wee@moe.edu.sg](mailto:james_quek_chin_wee@moe.edu.sg) |
 | **Mr Wilson Ho Wee Yew** | LH Mathematics | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
 | **Mr Tan Aik Hwee, Alester** | SH Co-Curricular Activities | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
-| **Ms Shamsiah Bte Zainalabidin** | SH Character & Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
+| **Ms Shamsiah Bte Zainalabidin** | SH Character &amp; Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
 | **Mdm Tan Sor Tin** |  SH Literature | [tan\_sor-tin@moe.edu.sg](mailto:tan_sor-tin@moe.edu.sg) |
 | **Mr Wee Guoyuan** | SH Social Studies | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 | **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
