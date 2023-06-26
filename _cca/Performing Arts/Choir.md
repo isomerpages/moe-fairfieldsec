@@ -19,7 +19,7 @@ third_nav_title: Performing Arts
 <p> 
 <b>Training Days &amp; Time:</b><br><br>
 
-Monday: 3.30 pm – 6.00 pm<br>
+Monday: 3.00 pm – 5.30 pm<br>
 
 Wednesday:&nbsp;3.30 pm - 5.30 pm (Peak Period Only)&nbsp;<br>
 
