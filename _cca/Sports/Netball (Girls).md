@@ -19,8 +19,8 @@ third_nav_title: Sports
 <p> 
 <b>Training Days &amp; Time:  </b><br>
 
-Wednesday: 3.30 pm - 6.00 pm (Sec 2-5)<br>
-Friday: 2.30 pm - 5.30 pm (Everyone)&nbsp;<br>
+Wednesday: 3.00 pm - 5.30 pm (Sec 2-5)<br>
+Friday: 2.00 pm - 4.30 pm (Everyone)&nbsp;<br>
 Selected Saturdays (Netball Carnivals): 8.00 am - 5.00 pm<br>
 
  
