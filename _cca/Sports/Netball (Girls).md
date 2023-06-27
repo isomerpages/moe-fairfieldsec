@@ -21,9 +21,7 @@ third_nav_title: Sports
 
 Wednesday: 3.00 pm - 5.30 pm (Sec 2-5)<br>
 Friday: 2.00 pm - 4.30 pm (Everyone)&nbsp;<br>
-Selected Saturdays (Netball Carnivals): 8.00 am - 5.00 pm<br>
-
- 
+Selected Saturdays (Netball Carnivals): 8.00 am - 5.00 pm<br><br>
 
 <b>Teachers In Charge:</b><br>
 Ms Lee Shu Pei (I/C)<br>
@@ -41,7 +39,7 @@ Ms Tan Sor Tin<br>
 
 <p>
 <b>Vision:</b><br> 
-To be a choice CCA in Fairfield for girls who wish to learn and grow through Netball as a sport.<br>
+To be a choice CCA in Fairfield for girls who wish to learn and grow through Netball as a sport.<br><br>
 
 <b>Mission:</b><br> 
 
@@ -53,7 +51,7 @@ To promote and develop the values of:<br>
 • leadership<br>
 • a winning spirit<br>
 	
-through our regular training sessions, competitions, friendly matches and camps.<br>
+through our regular training sessions, competitions, friendly matches and camps.<br><br>
 
 <b>History</b><br> 
 
