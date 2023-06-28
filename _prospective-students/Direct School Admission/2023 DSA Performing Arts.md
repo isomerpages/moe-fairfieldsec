@@ -38,10 +38,10 @@ Our selection panel seeks to identify students with high levels of ability and a
 
 |  |  |
 |---|---|
-| **Date** | TBC |
-| **Time** | TBC |
+| **Date** | 5 &amp; 12 Jul 2023 |
+| **Time** | 1500 - 1800 |
 | **Reporting Venue** | FMS(S) |
-| **Attire** | School Uniform |
+| **Attire** | School PE T-shirt &amp; Tights and Dance shoes |
 
 #### Concert Band (Mixed)
 
