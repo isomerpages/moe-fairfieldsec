@@ -19,8 +19,8 @@ third_nav_title: Sports
 <p> 
 <b>Training Days &amp; Time:  </b> <br>
 
-Monday &amp; Wednesday: 3.30 pm - 6.00 pm   <br>
-Friday: 2.00 pm - 4.30 pm  <br>
+Monday &amp; Wednesday: 3.30 pm - 6.00 pm<br>
+Friday: 2.00 pm - 4.30 pm<br><br>
 
 <b>Teachers In Charge:</b><br>
 Mdm Haliza (I/C)<br>
@@ -38,7 +38,7 @@ Mr Wilson Ho<br>
 
 <p>
 <b>Vision</b><br> 
-Our vision is develop our boys to love Squash and to attain high standard in their skills and knowledge of the sport.<br>
+Our vision is develop our boys to love Squash and to attain high standard in their skills and knowledge of the sport.<br><br>
 
 <b>Mission</b><br> 
 Our mission is to work as a team to achieve at least the 2nd position for both “B” &amp; “C” Divisions Squash Championship.<br><br>
@@ -50,7 +50,7 @@ Although the Squash team has a short history of 8 years, it has grown to a team 
   
 The Squash team takes part in a number of competitions every year. We participated in the Inter-School Squash Nationals, held in Term 2 and 3. We took part in various open tournaments such as the R-League, SAFRA Open, Marigold Junior Squash Invitational and ACSI Age Group Championships in Term 3 to raise our standards. We also played friendly matches with other schools (e.g. Anglo-Chinese School Independent, Singapore Chinese Girls’ School, St. Joseph’s Institute and Singapore Polytechnic) which allowed us to gain more experience and improve our skills. There also went for overseas competitions such as the Selangor Inter-Team and the Milo All Star Competition which took place during the June and December holidays respectively. These competitions provided us a golden opportunity to play against players from all over the world and the exposure allowed us to improve our skills in this sport tremendously.<br>
 
-The team will continue to train hard and consistently to achieve better results at competitions.<br>
+The team will continue to train hard and consistently to achieve better results at competitions.<br><br>
 
 <b>Highlights</b><br> 
 Our training sessions outside school are on every Monday, Wednesday and Friday. The weekly training sessions also include physical training to build up our fitness level. There are also occasions where the team members play some games after the training sessions to build a stronger bond between team members, the coach and our teachers. For eCCA, we conduct physical exercises for the team members on every Monday and Friday only. This is to help our team members to stay fit and to continue to build team spirits.	
