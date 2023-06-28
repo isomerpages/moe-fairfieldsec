@@ -41,7 +41,7 @@ Ms Lee Chiew Yi<br>
 
 <p>
 <b>Mission</b><br> 
-To nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities  <br>
+To nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities<br><br>
 
   
 
@@ -55,7 +55,7 @@ Extraordinary Youth Leaders<br><br>
 Fairfield National Cadet Corps (Sea) unit started in 2006 as a Mixed Unit.<br>
  
 
-NCC (Sea) aims to develop all cadets holistically through a variety of military-related and water-based activities. The NCC curriculum provides cadets with enriching learning experiences, which build upon the pillars of the NCC Cadet Strong framework:&nbsp;<b><i>Fit Body, Resilient Mind and Committed Heart</i></b>.<br>
+NCC (Sea) aims to develop all cadets holistically through a variety of military-related and water-based activities. The NCC curriculum provides cadets with enriching learning experiences, which build upon the pillars of the NCC Cadet Strong framework:&nbsp;<b><i>Fit Body, Resilient Mind and Committed Heart</i></b>.<br><br>
 
   
 
