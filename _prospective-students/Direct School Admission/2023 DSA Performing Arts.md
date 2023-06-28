@@ -28,8 +28,8 @@ Our selection panel seeks to identify students with high levels of ability and a
 
 |  |  |
 |---|---|
-| **Date** | TBC |
-| **Time** | TBC |
+| **Date** | 7 Jul 2023 |
+| **Time** | 1300 - 1700 |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School Uniform |
 
