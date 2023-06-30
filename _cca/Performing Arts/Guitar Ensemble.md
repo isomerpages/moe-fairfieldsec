@@ -100,7 +100,8 @@ Yearly Guitar Camp
 		
 <input id="accordion3" type="checkbox">
 
-<label for="accordion3">Achievements</label><br>
+<label for="accordion3">Achievements</label>
+
 <div>
 
 <p>
