@@ -25,8 +25,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | TBC |
-| **Time** | TBC |
+| **Date** | 5 Jul 2023 |
+| **Time** | 1500 - 1730 |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -34,8 +34,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | TBC |
-| **Time** | TBC |
+| **Date** | 7 Jul 2023 |
+| **Time** | 1430 - 1800 |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -43,8 +43,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | TBC |
-| **Time** | TBC |
+| **Date** | 7 Jul 2023 |
+| **Time** | 1400 - 1700 |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -52,7 +52,7 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | TBC |
-| **Time** | TBC |
+| **Date** | 7 Jul 2023 |
+| **Time** | 1330 - 1800 |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
