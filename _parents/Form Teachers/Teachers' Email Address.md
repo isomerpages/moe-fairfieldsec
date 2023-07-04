@@ -12,6 +12,7 @@ third_nav_title: Form Teachers
 | Chia Wey Ling Vincent (Mr) | [vincent\_chia\_wey\_ling@moe.edu.sg](mailto:vincent_chia_wey_ling@moe.edu.sg) |
 | Choe Wai Leng, Evelyn (Mrs) | [choe\_wai\_leng\_evelyn@moe.edu.sg](mailto:choe_wai_leng_evelyn@moe.edu.sg) |
 | Chua Chang Fong (Mr) | [chua\_chang\_fong@moe.edu.sg](mailto:chua_chang_fong@moe.edu.sg) |
+| Daniel Lee jia xin (Mr) | [daniel\_lee\_jia\_xin@moe.edu.sg](mailto:daniel_lee_jia_xin@moe.edu.sg) |
 | Guo Enliang Joseph (Mr) | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
 | Ho Wee Yew Wilson (Mr) | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
 | Koh Wei Shan Clarissa (Mdm) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
@@ -93,6 +94,7 @@ third_nav_title: Form Teachers
 | Wong Jia Xian (Ms) | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
 | Wong Jiayi (Ms) | [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
 | Woo Chee Keong Alex (Mr) | [alex\_woo\_chee\_keong@moe.edu.sg](mailto:alex_woo_chee_keong@moe.edu.sg) |
+| Xu Hui (Mdm) | [xu\_hui@moe.edu.sg](mailto:xu_hui@moe.edu.sg) |
 | Yee Suet Fong Dawn (Mdm) |[yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
 | Yen Ding Yi (Ms) | [yen\_ding\_yi@moe.edu.sg](mailto:yen_ding_yi@moe.edu.sg)|
 | Yeo Rena (Mrs) | [gomes\_rena\_jeanette@moe.edu.sg](mailto:gomes_rena_jeanette@moe.edu.sg) |
