@@ -34,4 +34,3 @@ third_nav_title: Our People
 |  **Ms Lee Xiao-En, Tabitha** | Sec 1C Form Teacher  |  [lee_xiao-en_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg) |
 |  **Mr Nicholas Lim Ming Hee** | Teacher  |  [lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |
 |  **Mr Mr Daniel Lee Jia Xin** | Teacher  |  [daniel\_lee\_jia\_xin@moe.edu.sg](mailto:daniel_lee_jia_xin@moe.edu.sg) |
- 
