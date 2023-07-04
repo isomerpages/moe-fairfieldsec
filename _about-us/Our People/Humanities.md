@@ -27,5 +27,8 @@ third_nav_title: Our People
 | **Mr Loke Liang En Joel** | Sec 4A Form Teacher | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) |
 | **Ms Wong Jiayi** | Sec 3C Form Teacher | [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
 | **Mdm Yee Suet Fong Dawn** | Sec 2C Form Teacher | [yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
+| **Ms Uma Devi D/O Muthamilan** | Sec 1F Form Teacher | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
+| **Ms  Chan Xin Hui Charmaine** | Sec 2A Form Teacher | [charmaine\_chan\_xin\_hui@moe.edu.sg](mailto:charmaine_chan_xin_hui@moe.edu.sg) |
+| **Ms Lai Xin Yi Felicia** | Sec 3D Form Teacher | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
 | **Ms Wee Xuemei** | Teacher | [wee_xuemei@moe.edu.sg](mailto:wee_xuemei@moe.edu.sg) |
 | **Ms&nbsp;Lee Choong Kum, Irene** | Teacher | [lim_siew_ein@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
