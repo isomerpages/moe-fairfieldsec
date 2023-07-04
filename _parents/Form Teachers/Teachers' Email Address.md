@@ -93,6 +93,7 @@ third_nav_title: Form Teachers
 | Wong Jia Xian (Ms) | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
 | Wong Jiayi (Ms) | [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
 | Woo Chee Keong Alex (Mr) | [alex\_woo\_chee\_keong@moe.edu.sg](mailto:alex_woo_chee_keong@moe.edu.sg) |
+| Xu Hui (Mdm) | [xu\_hui@moe.edu.sg](mailto:xu_hui@moe.edu.sg) |
 | Yee Suet Fong Dawn (Mdm) |[yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
 | Yen Ding Yi (Ms) | [yen\_ding\_yi@moe.edu.sg](mailto:yen_ding_yi@moe.edu.sg)|
 | Yeo Rena (Mrs) | [gomes\_rena\_jeanette@moe.edu.sg](mailto:gomes_rena_jeanette@moe.edu.sg) |
