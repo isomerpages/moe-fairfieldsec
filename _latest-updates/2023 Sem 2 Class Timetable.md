@@ -14,4 +14,3 @@ description: ""
 [Sem 2 2023 Sec 3 Timetable 7Jul.pdf](/files/Latest%20Updates/2023_s2s3_7jul.pdf)
 
 [Sem 2 2023 Sec 45 Timetable 7Jul.pdf](/files/Latest%20Updates/2023_s2s45_7jul.pdf)
-
