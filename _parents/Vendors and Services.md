@@ -43,7 +43,7 @@ description: ""
 
 Urgent dental treatment, (When FMSP clinic is closed) please contact the following buddy clinics. Please call to make appointment, strictly NO WALK-IN.
 
-<br>
+
 
 | Clinic | Telephone | Address | Staff i/c |
 |---|---|---|---|
