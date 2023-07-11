@@ -38,7 +38,7 @@ description: ""
 | **Operating Hours:** | Mondays to Thursdays: 8am – 5.30pm<br>Friday: 8am – 5pm<br>Lunch Break: 1pm – 2pm<br> |
 | **Venue:** | Fairfield Methodist School (Primary) |
 | **Contact Number:** | 8764 7361 (WhatsApp only) |
-| **Other Remarks:** | Students who require emergency dental treatment can contact School Dental Centre (SDC). Please be informed that a fee may be charged at SDC.<br><br><br><br>School Dental Centre (SDC)<br>Health Promotion Board<br>3 Second Hospital Ave Singapore 168937<br><br>For Dental Emergency, please contact Health Promotion Board at [Contact\_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg)
+| **Other Remarks:** | Students who require emergency dental treatment can contact School Dental Centre (SDC). Please be informed that a fee may be charged at SDC.<br><br>School Dental Centre (SDC)<br>Health Promotion Board<br>3 Second Hospital Ave Singapore 168937<br><br>For Dental Emergency, please contact Health Promotion Board at [Contact\_YPS@hpb.gov.sg](mailto:Contact_YPS@hpb.gov.sg)
 |  |  |
 
 Urgent dental treatment, (When FMSP clinic is closed) please contact the following buddy clinics. Please call to make appointment, strictly NO WALK-IN.
