@@ -38,10 +38,6 @@ Boys:<br>
 Mrs Jean Ho (I/C)	
 </p>
 </div>
-	
-	
-<img style="width:30%" src="/images/CCA/Sports/badminton%20coach%20photo.JPG"><br>
-	
 		
 <ul class="jekyllcodex_accordion">
 <li>
