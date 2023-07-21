@@ -35,7 +35,7 @@ Ms Chen Minhua&nbsp;(2 I/C)  <br>
 Mdm Yee Suet Fong Dawn<br><br>
 	
 Boys:<br>
-Mrs Jean Ho (I/C)	
+Mrs Jean Ho (I/C)<br>	
 
 <img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/CCA/Sports/badminton%20coach%20photo.JPG"><br><br><br><br><br><br><br><b>Mr Liao Junwei (Coach)<br>
 	
