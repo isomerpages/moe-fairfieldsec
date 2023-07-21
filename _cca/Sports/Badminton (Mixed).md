@@ -36,13 +36,9 @@ Mdm Yee Suet Fong Dawn<br><br>
 Boys:<br>
 Mrs Jean Ho (I/C)<br>	
 
-<img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/CCA/Sports/badminton%20coach%20photo.JPG"><br><br><br><br><br><br><br><b>Mr Liao Junwei (Coach)<br>
-	
-[Personal Achievements](/files/CCA/Coach%20%20%20Personal%20Achievements/badminton%20coach%20-%20personal%20achievements.pdf)
-
 	
 	
-</b></p><b>
+</p><b>
 </b></div><b>
 		
 <ul class="jekyllcodex_accordion">
