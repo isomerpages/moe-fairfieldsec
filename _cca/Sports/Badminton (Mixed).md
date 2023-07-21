@@ -17,8 +17,7 @@ third_nav_title: Sports
 <div>
 
 <p>
-<b>Training Days &amp; Time:</b><br>
-
+<b>Training Days &amp; Time:</b><br><br>
 Girls:<br>
 Monday :3.30 pm - 6.00 pm (B Div)&nbsp;<br>
 Wednesday: 3.30 pm - 6.00 pm (C Div)<br>
