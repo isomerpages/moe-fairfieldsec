@@ -17,28 +17,30 @@ third_nav_title: Sports
 <div>
 
 <p>
-<b>Training Days &amp; Time:</b><br>
-
+<b>Training Days &amp; Time:</b><br><br>
 Girls:<br>
 Monday :3.30 pm - 6.00 pm (B Div)&nbsp;<br>
 Wednesday: 3.30 pm - 6.00 pm (C Div)<br>
-Friday: 2.00 pm - 5.30 pm (All)<br>
+Friday: 2.00 pm - 5.30 pm (All)<br><br>
 
 Boys:<br>
 Wednesday: 3.00 pm - 5.30 pm<br>
-Friday: 2.30 pm - 5.00 pm<br>
+Friday: 2.30 pm - 5.00 pm<br><br>
 
-<b>Teachers In Charge:</b><br>
+<b>Teachers In Charge:</b><br><br>
 Girls:<br>
 Ms Thio Lay Hong (I/C)  <br>
 Ms Chen Minhua&nbsp;(2 I/C)  <br>
-Mdm Yee Suet Fong Dawn<br>
+Mdm Yee Suet Fong Dawn<br><br>
 	
 Boys:<br>
-Mrs Jean Ho (I/C)	
-</p>
-</div>
+Mrs Jean Ho (I/C)<br>	
 
+	
+	
+</p><b>
+</b></div><b>
+		
 <ul class="jekyllcodex_accordion">
 <li>
 		
@@ -104,4 +106,4 @@ To develop pupils to become sports leaders who are intrinsically motivated and f
 
 </li>
 	
-</ul></li></ul></li></ul>
+</ul></li></ul></b></li></ul>
