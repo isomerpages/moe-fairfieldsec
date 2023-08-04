@@ -116,7 +116,7 @@ Our dancers choreograph and put together their very own recital during non-SYF y
 		
 <input id="accordion3" type="checkbox">
 
-<label for="accordion3">Achievements</label><br>
+<label for="accordion3">Achievements</label>
 <div>
 
 <p>
