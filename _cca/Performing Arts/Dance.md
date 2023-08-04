@@ -13,7 +13,7 @@ third_nav_title: Performing Arts
 		
 <input id="accordion1" type="checkbox">
 
-<label for="accordion1">Details</label><br>
+<label for="accordion1">Details</label>
 <div>
 
 <p> 
