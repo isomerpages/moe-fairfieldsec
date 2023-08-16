@@ -13,7 +13,7 @@ third_nav_title: Performing Arts
 		
 <input id="accordion1" type="checkbox">
 
-<label for="accordion1">Details</label><br>
+<label for="accordion1">Details</label>
 <div>
 
 <p> 
@@ -116,7 +116,7 @@ Our dancers choreograph and put together their very own recital during non-SYF y
 		
 <input id="accordion3" type="checkbox">
 
-<label for="accordion3">Achievements</label><br>
+<label for="accordion3">Achievements</label>
 <div>
 
 <p>
