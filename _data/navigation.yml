@@ -23,6 +23,10 @@ links:
         url: /about-us/financial-and-non-financial-information/
       - title: School Canteen Advertisement
         url: /permalink
+      - title: School Canteen Advertisement
+        url: /about-us/school-canteen-advertisement/
+      - title: Submenu Title
+        url: /permalink
   - title: Curriculum
     url: /curriculum/active-learning-culture/
     sublinks:
