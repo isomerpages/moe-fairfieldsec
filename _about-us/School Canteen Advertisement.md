@@ -7,7 +7,7 @@ description: ""
 
 #### Application Procedure
 
-1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office \[[Application Form](https://staging.d2rf20mnuqi9qi.amplifyapp.com/files/appexistingsch.pdf)\]
+1\. Download and complete the [Application Form](/files/application%20for%20canteen.pdf). You may also request for a hardcopy from the School’s General Office 
 
 2\. Attached the following documents together with the application form
 * Photocopy of the NRIC (front and back)&nbsp;&nbsp;&nbsp;
