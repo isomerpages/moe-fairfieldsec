@@ -3,6 +3,8 @@ title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
 ---
+### School Canteen Advertisement
+
 ##### Application Procedure
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office \[[Application Form](https://staging.d2rf20mnuqi9qi.amplifyapp.com/files/appexistingsch.pdf)\]
