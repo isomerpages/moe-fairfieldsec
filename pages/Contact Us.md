@@ -44,4 +44,6 @@ Buona Vista MRT
 
 #### Feedback
 
-Please click&nbsp;[**here**](https://form.gov.sg/63d36db30d26690011f57a8d)&nbsp;to send us your feedback.</em></span>
+Please click&nbsp;[**here**](https://form.gov.sg/63d36db30d26690011f57a8d)&nbsp;to send us your feedback.
+	
+	</em></span>
