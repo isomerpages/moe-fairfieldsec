@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Canteen Advertisement
 
-##### Application Procedure
+#### Application Procedure
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office \[[Application Form](https://staging.d2rf20mnuqi9qi.amplifyapp.com/files/appexistingsch.pdf)\]
 
@@ -23,7 +23,7 @@ description: ""
 * Email: admin@moe.edu.sg
 * Contact Person:
 
-##### Criteria
+#### Criteria
 
 **Interest Applicants Must meet the following criteria:**
 
