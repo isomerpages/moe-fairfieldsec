@@ -17,6 +17,11 @@ description: ""
 
 3\. Submit the completed application form and documents by closing date via email OR to the&nbsp;[School General Office](https://www.fairfieldmethodistsec.moe.edu.sg/contact-us/)
 
+**School General Office**
+* Address: 102 Dover Road , Singapore 139649
+* Contact No: +65 6778 8702
+* Email: admin@moe.edu.sg
+* Contact Person:
 
 ##### Criteria
 
