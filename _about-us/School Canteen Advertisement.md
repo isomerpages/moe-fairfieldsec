@@ -24,13 +24,13 @@ description: ""
 *  Photocopy of relevant certificates such as Basic Food Hygiene Course, etc&nbsp;
 <br>
 
-3\. Submit the completed application form and documents by closing date via email OR to the&nbsp;[School General Office](https://www.fairfieldmethodistsec.moe.edu.sg/contact-us/)
+3\. Submit the completed application form and documents by closing date via email OR to the School General Office
 
 **School General Office**
 * Address: 102 Dover Road , Singapore 139649
 * Contact No: +65 6778 8702
-* Email: admin@moe.edu.sg
-* Contact Person:
+* Email: fmss@moe.edu.sg
+* Contact Person: Mdm Veronica Chua
 
 #### Criteria
 
