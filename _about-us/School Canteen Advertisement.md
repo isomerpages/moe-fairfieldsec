@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
 ---
-### School Canteen Advertisement
+### Advertisement for the following stall(s)
 
 
 
