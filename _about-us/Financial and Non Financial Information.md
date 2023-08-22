@@ -34,5 +34,8 @@ description: ""
 | Name of Auditor: Audit Alliance LLP |
 
 #### 2\. Financial Information
+Please refer to this&nbsp;[link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;&nbsp;for financial information.
+
+Please refer to this&nbsp;[link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;&nbsp;for financial information. 
 
 Please refer to this&nbsp;[link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;&nbsp;for financial information.
