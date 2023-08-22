@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Indian Food Stall    | 30 Sep 2023     | For vendor to propose.    |
+| Indian Food Stall    | 30 Sep 2023  | For vendor to propose.  |
 
 
 
