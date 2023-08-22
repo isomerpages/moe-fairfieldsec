@@ -36,10 +36,12 @@ Mdm Yee Suet Fong Dawn<br><br>
 Boys:<br>
 Mrs Jean Ho (I/C)<br>	
 
+<b>Our Coach
+<img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:40%">
+
 	
-	
-</p><b>
-</b></div><b>
+</b></p><b><b>
+</b></b></div><b><b>
 		
 <ul class="jekyllcodex_accordion">
 <li>
@@ -106,4 +108,4 @@ To develop pupils to become sports leaders who are intrinsically motivated and f
 
 </li>
 	
-</ul></li></ul></b></li></ul>
+</ul></li></ul></b></b></li></ul>
