@@ -5,6 +5,15 @@ description: ""
 ---
 ### School Canteen Advertisement
 
+
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Indian Food Stall    | 30 Sep 2023     | For vendor to propose.    |
+
+
+
+
 #### Application Procedure
 
 1\. Download and complete the [Application Form](/files/application%20for%20canteen.pdf). You may also request for a hardcopy from the School’s General Office 
