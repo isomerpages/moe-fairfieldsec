@@ -36,15 +36,13 @@ description: ""
 #### How to get there?
 ##### <u>By Bus</u>
     
-33, 74, 166, 196
+* 33, 74, 166, 196
 
 ##### <u>By Train</u>
     
-One-North MRT
-    <br>Exit A, walk 6 minutes from station  
+* One-North MRT (Exit A, walk 6 minutes from station)  
       
-Buona Vista MRT  
-    Exit D, walk 15 minutes from station
+* Buona Vista MRT (Exit D, walk 15 minutes from station)
     
     
 
