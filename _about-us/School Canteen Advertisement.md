@@ -34,7 +34,7 @@ description: ""
 
 
 #### How to get there?
-##### By Train
+##### <u>By Train</u>
     
 One-North MRT
     <br>Exit A, walk 6 minutes from station  
@@ -42,9 +42,8 @@ One-North MRT
 Buona Vista MRT  
     Exit D, walk 15 minutes from station
     
-      
     
-##### By Bus
+##### <u>By Bus</u>
     
 33, 74, 166, 196
 
