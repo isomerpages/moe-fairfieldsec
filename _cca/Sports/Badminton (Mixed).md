@@ -38,7 +38,7 @@ Mrs Jean Ho (I/C)<br>
 
 <b>Our Coach
 <img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:40%">
-
+<a href="file.pdf">badminton coach - personal achievements</a>
 	
 </b></p><b><b>
 </b></b></div><b><b>
