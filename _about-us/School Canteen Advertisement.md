@@ -32,6 +32,11 @@ description: ""
 * Email: fmss@moe.edu.sg
 * Contact Person: Mdm Veronica Chua
 
+
+#### How to get there?
+
+
+
 #### Criteria
 
 **Interest Applicants Must meet the following criteria:**
