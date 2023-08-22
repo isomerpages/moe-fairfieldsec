@@ -5,7 +5,7 @@ description: ""
 ---
 ### School History
 
-<img src="/images/hist1.png" style="width:183px;height:290px;margin-right:20px;" align = "left"> Fairfield was started by the faith of one lady - Miss Sophia Blackmore, a woman missionary from Australia, with a class of eight Nonya girls in a little room at Cross Street in 1888. Subsequently, the Telok Ayer Girls’ School was founded in August that year.
+<img src="/images/hist1.png" style="width:183px;height:290px;margin-right:20px;" align="left"> Fairfield was started by the faith of one lady - Miss Sophia Blackmore, a woman missionary from Australia, with a class of eight Nonya girls in a little room at Cross Street in 1888. Subsequently, the Telok Ayer Girls’ School was founded in August that year.
 
 
 In 1912, when Miss Mary Olson was the Principal, the school expanded, moving to Neil Road and was named Fairfield Girls’ School, in honour of a generous donor, Mr Fairfield. After Miss Olson, Mrs Lim Bock Kee became the first Asian Principal to lead Fairfield Girls’ School in 1946. In 1958, the name of Fairfield Girls’ School was changed to Fairfield Methodist Girls’ School. When Mrs Lim retired in 1959, Miss Lim Geok Kheng, a teacher and old girl of the school, succeeded her as Principal until 1982.
@@ -24,7 +24,7 @@ In December 2007, Mr Victor Owyong assumed school leadership, making history as 
 
 In 2009, to highlight the shared heritage of the two schools, their names were changed to Fairfield Methodist School (Primary) and Fairfield Methodist School (Secondary).
 
-At the end of 2011, both schools wrote and adopted a common mission statement so as to achieve greater alignment with the educational mission of the Methodist Church in Singapore, and to achieve the concept of 'One Fairfield' with Fairfield Methodist School (Primary), which was further reinforced with a common badge. 
+At the end of 2011, both schools wrote and adopted a common mission statement so as to achieve greater alignment with the educational mission of the Methodist Church in Singapore, and to achieve the concept of 'One Fairfield' with Fairfield Methodist School (Primary), which was further reinforced with a common badge.&nbsp;
 
   
 
@@ -37,3 +37,4 @@ Today, we continue to stand as a school that is special, because of the staff an
   
 
 **To God Be The Glory!**
+
