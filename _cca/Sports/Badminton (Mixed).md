@@ -38,7 +38,8 @@ Mrs Jean Ho (I/C)<br>
 
 <b>Our Coach
 <img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:40%">
-<a href="file.pdf">badminton coach - personal achievements</a>
+
+[Personal Achievements](https://cms.isomer.gov.sg/sites/moe-fairfieldsec/media/files/mediaDirectory/files%2FCCA%2FCoach%20%20%20Personal%20Achievements)	
 	
 </b></p><b><b>
 </b></b></div><b><b>
