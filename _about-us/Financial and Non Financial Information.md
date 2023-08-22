@@ -3,8 +3,6 @@ title: Financial and Non Financial Information
 permalink: /about-us/financial-and-non-financial-information/
 description: ""
 ---
-
-
 ### Financial and Non-Financial Information
 
 #### 1. Non-Financial Information
@@ -23,7 +21,7 @@ description: ""
 
 | Vision and Mission | Programs/Activities |
 |---|---|
-| Vision: <br>A Vibrant Community of Active Lifelong Learners and Influential Leaders<br><br><br>Mission: <br>To prove a holistic education in a Christian environment to nurture leaders of good character who are equipped to serve God, nation, community and school. | For current year<br><br>• Sec 1 – 4 Flex Programmes<br>• Learning Journey<br>• Blackmore Leadership Training Programme<br>• Enrichment Programmes for N(T) Students<br>• Youth Day Programmes for Sec 1 – 4 Students<br>• Gear Up Programmes<br>• Local Exchange Programme |
+| Vision: <br>A Flourishing Community of Self-Directed Learners, Influential Leaders and Caring Citizens<br><br><br>Mission: <br>To prove a holistic education in a Christian environment to nurture leaders of good character who are equipped to serve God, nation, community and school. | For current year<br><br>• Sec 1 – 4 Flex Programmes<br>• Learning Journey<br>• Geography/History Investigation<br>•ITE Elective Modules<br>• Blackmore Leadership Training Programme<br>• Enrichment Programmes for N(T) Students<br>• Gear Up Programmes |
 |  |  |
 
 
@@ -37,4 +35,4 @@ description: ""
 
 #### 2\. Financial Information
 
-Please refer to this [link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)  for financial information.
+Please refer to this&nbsp;[link](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;&nbsp;for financial information.
