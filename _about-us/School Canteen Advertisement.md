@@ -34,6 +34,10 @@ description: ""
 
 
 #### How to get there?
+##### <u>By Bus</u>
+    
+33, 74, 166, 196
+
 ##### <u>By Train</u>
     
 One-North MRT
@@ -43,11 +47,6 @@ Buona Vista MRT
     Exit D, walk 15 minutes from station
     
     
-##### <u>By Bus</u>
-    
-33, 74, 166, 196
-
-
 
 #### Criteria
 
@@ -57,7 +56,7 @@ Buona Vista MRT
 
 * Able to provide good service and quality food with prices determined in consultation with the school.
 
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link: (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see [link] (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
 * Able to maintain high standard of food safety and personal hygiene.
 
