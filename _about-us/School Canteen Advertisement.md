@@ -3,13 +3,13 @@ title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
 ---
-### School Canteen Advertisement
+### Advertisement for the following stall(s)
 
 
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Indian Food Stall    | 30 Sep 2023     | For vendor to propose.    |
+| Indian Food Stall    | 30 Sep 2023  | For vendor to propose.  |
 
 
 
@@ -36,15 +36,13 @@ description: ""
 #### How to get there?
 ##### <u>By Bus</u>
     
-33, 74, 166, 196
+* 33, 74, 166, 196
 
 ##### <u>By Train</u>
     
-One-North MRT
-    <br>Exit A, walk 6 minutes from station  
+* One-North MRT (Exit A, walk 6 minutes from station)  
       
-Buona Vista MRT  
-    Exit D, walk 15 minutes from station
+* Buona Vista MRT (Exit D, walk 15 minutes from station)
     
     
 
