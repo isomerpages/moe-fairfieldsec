@@ -42,9 +42,6 @@ Mrs Jean Ho (I/C)<br>
 	
 [Personal Achievements](/files/liao_junwei.pdf)
 
-
-	
-
 	
 </b></p><b><b><b>
 </b></b></b></div><b><b><b>
