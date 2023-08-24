@@ -40,7 +40,9 @@ Mrs Jean Ho (I/C)<br>
 <img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:35%"><br>
 
 	
-[Personal Achievements](/files/liao_junwei.pdf)
+[Personal Achievements.pdf](/files/liao_junwei.pdf)
+	
+[2023 Prelim O Timetable Final (Updated 23082023).pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20o%20timetable_final_updated_23082023.pdf)
 
 	
 </b></p><b><b><b>
