@@ -37,7 +37,7 @@ Boys:<br>
 Mrs Jean Ho (I/C)<br>	
 
 <b>Our Coach
-<img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:40%"><br>
+<img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:35%"><br>
 [Personal Achievements](/files/CCA/Coach%20%20%20Personal%20Achievements/Personal%20Achievements/fmss%20badminton%20coach_liao%20junwei_personal%20achievements.pdf)	
 	
 </b></p><b><b><b>
