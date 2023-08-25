@@ -8,6 +8,11 @@ third_nav_title: Sports
 
 <img style="width:80%" src="/images/cca15.gif"><br>
 
+<b>Our Coach
+<img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:35%">
+	
+[Personal Achievements](/files/CCA/Coach%20%20%20Personal%20Achievements/Personal%20Achievements/fmss%20badminton%20coach_liao%20junwei_personal%20achievements.pdf)	
+
 <ul class="jekyllcodex_accordion">
 <li>
 		
@@ -105,4 +110,4 @@ To develop pupils to become sports leaders who are intrinsically motivated and f
 
 </li>
 	
-</ul></li></ul></b></b></b></li></ul>
+</ul></li></ul></b></b></b></li></ul></b>
