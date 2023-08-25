@@ -5,7 +5,7 @@ description: ""
 ---
 ### Assessment Matters
 
-#### EOY Exam Timetable
+#### Sec 1 to 3 EOY Exam Timetable
 [2023 EOY Exam Timetable  Sec 1Exp_NA_NT.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%201exp_na_nt.pdf)
 
 [2023 EOY Exam Timetable  Sec 2Exp_NA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%202exp_na.pdf)
@@ -19,7 +19,7 @@ description: ""
 [2023 EOY Exam Timetable  Sec 3NT.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%203nt.pdf)
 
 
-#### EOY Exam SAA Timetable
+#### Sec 1 to 3  EOY Exam SAA Timetable
 
 [2023 EOY Exam Timetable  Sec 1Exp_NA_NT_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%201exp_na_nt_saa.pdf)
 
