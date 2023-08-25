@@ -8,27 +8,36 @@ third_nav_title: English Language & Literature
 
 #### Achievements in Writing Competitions
 
-The English Language department also actively hones our students’ writing skills and establishes strategic partnerships with relevant organisations to find competition platforms to help them excel in various prestigious writing competitions like ‘The Queen’s Commonwealth Essay Competition’ as well as the ‘Safety Starts with Me Creative Story Writing Competition’. 
+The English Language department also actively hones our students’ writing skills and establishes strategic partnerships with relevant organisations to find competition platforms to help them excel in various prestigious writing competitions like ‘The Queen’s Commonwealth Essay Competition’ as well as the ‘Safety Starts with Me Creative Story Writing Competition’.&nbsp;
 
   
 
-Through the close guidance of our English Language teachers, students gain the intellectual experience to not only broaden their writing experience, but also pit their writing skills and creativity against the very best local and international writers. 
+Through the close guidance of our English Language teachers, students gain the intellectual experience to not only broaden their writing experience, but also pit their writing skills and creativity against the very best local and international writers.&nbsp;
 
   
 
 Fairfield is proud of the achievements of the following talented and creative young writers who delivered prize-winning masterpieces after seizing the unique opportunity to make their voice heard on both the local and global platforms.
 
+#### 2023 Live On Writing Competition
+Goh Yu Qian (1H) - High Distinction Award<br>
+Claire Goh Yu Jing (1G)<br>
+Renee Kwan Zi Min (1H)<br>
+Chia Poh Heng (1B)<br>
+Wai Song Yun Fayth (1D)<br>
+Natalie Su Yu En (1E)<br>
+Mikaela Faith Tay (1C)
+
 #### 2022 Queen’s Commonwealth Essay Competition
 
-Lee Ray En (Sec 3B) – Silver Award<Br>
-Lauren Soh (Sec 2E) - Silver Award<Br>
-Delaine Tan (Sec 2E) – Bronze Award<Br>
+Lee Ray En (Sec 3B) – Silver Award<br>
+Lauren Soh (Sec 2E) - Silver Award<br>
+Delaine Tan (Sec 2E) – Bronze Award<br>
 Wynstelle Olga (Sec 2E) - Bronze Award
 
 #### 2021 Queen’s Commonwealth Essay Competition
 
-Delaine Tan(Sec 1E) - Silver Award<Br>
-Lauren Soh (Sec 1E) - Silver Award  <br>
+Delaine Tan(Sec 1E) - Silver Award<br>
+Lauren Soh&nbsp;(Sec 1E) - Silver Award  <br>
 Kylee Tan (Sec 3E) - Silver Award<br>
 Ng Xin Yee Kayla (Sec 2D) - Silver Award  
 
@@ -37,11 +46,11 @@ Ng Xin Yee Kayla (Sec 2D) - Silver Award
 #### 2021 Safety Starts With Me Creative Story Writing Competition*
 
 
-Clara Ng Xin Yue (4F) -  Bronze <br>
+Clara Ng Xin Yue (4F) -&nbsp; Bronze <br>
 Nicole Lim Hwee See (4F) - Bronze <br>
 Megan Kirsty Dawe (4F) - Bronze<br>
 Kimberly Niam (4E) - Consolation<br>
-Leong Ren Kai Caleb (4A) - Consolation 
+Leong Ren Kai Caleb (4A) - Consolation&nbsp;
 
   
 
@@ -85,7 +94,7 @@ Chan Zhi Yang (Sec 4F) --- Bronze Award
 
   
 
-#### Achievements in Public Speaking Competitions 
+#### Achievements in Public Speaking Competitions&nbsp;
 
 
 In recognition of the budding talents in public speaking among Fairsians, the English Language Department identifies and registers students to participate in national and inter-school public speaking competitions such as the YMCA Plain English Speaking Awards (PESA) and National Public Speaking Competition (NPSC) every year.
