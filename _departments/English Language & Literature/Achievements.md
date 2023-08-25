@@ -20,33 +20,6 @@ Fairfield is proud of the achievements of the following talented and creative yo
 
 #### 2023 Live On Writing Competition
 Goh Yu Qian (1H) - High Distinction Award<br>
-Claire Goh Yu Jing (1G)<br>
-Renee Kwan Zi Min (1H)<br>
-Chia Poh Heng (1B)<br>
-Wai Song Yun Fayth (1D)<br>
-Natalie Su Yu En (1E)<br>
-Mikaela Faith Tay (1C)
-
-
-#### 2023 Queens Commonwealth Essay Competition
-Wai Song Yun Fayth (1D)<br>
-Goh Yu Qian (1H)<br>
-Reuven Tay (3E)<br>
-Renee Kwan Zi Min (1H)<br>
-Mikaela Faith Tay (1C)<br>
-Natalie Su Yu En (1E)
-
-
-#### 2023 Future Forecast Essay Competition
-Wai Song Yun Fayth (1D)<br>
-Goh Yu Qian (1H)<br>
-Reuven Tay (3E)<br>
-Renee Kwan Zi Min (1H)<br>
-Mikaela Faith Tay (1C)<br>
-Shaan Naresh Anand (3E) <br>
-Claire Goh Yu Jing (1G)<br>
-Kerin Chua (3D)<br>
-Alicia Ng (1C)
 
 
 #### 2022 Queen’s Commonwealth Essay Competition
