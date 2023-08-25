@@ -27,6 +27,7 @@ Wai Song Yun Fayth (1D)<br>
 Natalie Su Yu En (1E)<br>
 Mikaela Faith Tay (1C)
 
+
 #### 2023 Queens Commonwealth Essay Competition
 Wai Song Yun Fayth (1D)<br>
 Goh Yu Qian (1H)<br>
@@ -34,6 +35,7 @@ Reuven Tay (3E)<br>
 Renee Kwan Zi Min (1H)<br>
 Mikaela Faith Tay (1C)<br>
 Natalie Su Yu En (1E)
+
 
 #### 2023 Future Forecast Essay Competition
 Wai Song Yun Fayth (1D)<br>
@@ -46,12 +48,14 @@ Claire Goh Yu Jing (1G)<br>
 Kerin Chua (3D)<br>
 Alicia Ng (1C)
 
+
 #### 2022 Queen’s Commonwealth Essay Competition
 
 Lee Ray En (Sec 3B) – Silver Award<br>
 Lauren Soh (Sec 2E) - Silver Award<br>
 Delaine Tan (Sec 2E) – Bronze Award<br>
 Wynstelle Olga (Sec 2E) - Bronze Award
+
 
 #### 2021 Queen’s Commonwealth Essay Competition
 
