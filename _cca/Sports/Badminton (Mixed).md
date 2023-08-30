@@ -108,6 +108,4 @@ To develop pupils to become sports leaders who are intrinsically motivated and f
 	
 </div>
 
-</li>
-	
-</ul></li></ul></b></b></b></li></ul></b>
+</li></ul></li></ul></b></b></b></li></ul></b>
