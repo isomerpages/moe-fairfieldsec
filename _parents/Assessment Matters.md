@@ -50,7 +50,7 @@ description: ""
 [2023 Prelim NA Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20na%20timetable_saa.pdf)
 
 [2023 Prelim NT Timetable_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20prelim%20nt%20timetable_saa.pdf)
-<br><br>
+
 
 #### Term 2  Weighted Assessment Schedule
 
@@ -62,7 +62,7 @@ description: ""
 
 [2023 Term 2 WA Schedule  Sec 45.pdf](/files/Parents/Assessment%20Matters/2023/2023%20term%202%20wa_v5_sec%2045.pdf)
 
-<br>
+
 
 
 
