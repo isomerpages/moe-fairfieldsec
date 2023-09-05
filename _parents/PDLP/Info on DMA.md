@@ -75,11 +75,11 @@ Parents/Guardians may wish to consider the following questions before deciding o
 
 Please download the guides according to the options you have selected below:  
   
-1)&nbsp;**Default Option**&nbsp;\--[DMA Parent Guide v2.0 - Default iPadOS.pdf](/files/dma1.pdf)
+1)&nbsp;**Default Option**&nbsp;\--[DMA Parent Guide Version 3.0 - Default Option](/files/Parents/PDLP/2023/dma%20parent%20guide%20v3%20default%20option.pdf)
   
-2)&nbsp;**Option A**&nbsp;\--[DMA Parent Guide v2.0 - Option A iPadOS.pdf](/files/dma2.pdf)
+2)&nbsp;**Option A**&nbsp;\--[DMA Parent Guide Version 3.0 - Option A](/files/Parents/PDLP/2023/dma%20parent%20guide%20v3%20option%20a.pdf)
   
-3)&nbsp;**Option B**&nbsp;\--[DMA Parent Guide v2.0 - Option B iPadOS.pdf](/files/dma3.pdf)
+3)&nbsp;**Option B**&nbsp;\--[DMA Parent Guide Version 3.0 - Option B](/files/Parents/PDLP/2023/dma%20parent%20guide%20v3%20option%20b.pdf)
 
 
 ### DMA Hours
