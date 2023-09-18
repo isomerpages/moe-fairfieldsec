@@ -10,7 +10,8 @@ description: ""
 
 [2023 EOY Exam Timetable  Sec 2Exp_NA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%202exp_na.pdf)
 
-[2023 EOY Exam Timetable  Sec 2NT.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%202nt.pdf)
+[2023 EOY Exam Timetable  Sec 2NT_updated_18_Sep.pdf ](/files/2023%20eoy%20exam%20timetable%20%20sec%202nt_saa_updated_18_sep.pdf)
+
 
 [2023 EOY Exam Timetable  Sec 3Exp.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%203exp.pdf)
 
@@ -25,7 +26,9 @@ description: ""
 
 [2023 EOY Exam Timetable  Sec 2Exp_NA_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%202exp_na_saa.pdf)
 
-[2023 EOY Exam Timetable  Sec 2NT_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%202nt_saa.pdf)
+[2023 EOY Exam Timetable  Sec 2NT_SAA_updated_18_Sep.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%202nt_saa.pdf)
+
+[](/files/2023%20eoy%20exam%20timetable%20%20sec%202nt_saa_updated_18_sep.pdf)
 
 [2023 EOY Exam Timetable  Sec 3Exp_SAA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%203exp_saa.pdf)
 
