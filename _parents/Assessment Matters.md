@@ -10,7 +10,7 @@ description: ""
 
 [2023 EOY Exam Timetable  Sec 2Exp_NA.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%202exp_na.pdf)
 
-[2023 EOY Exam Timetable  Sec 2NT_updated_18_Sep.pdf ](/files//files/2023%20eoy%20exam%20timetable%20%20sec%202nt_updated_18_sep.pdf)
+[2023 EOY Exam Timetable  Sec 2NT_updated_18_Sep.pdf](/files/2023%20eoy%20exam%20timetable%20%20sec%202nt_updated_18_sep.pdf)
 
 [2023 EOY Exam Timetable  Sec 3Exp.pdf](/files/Parents/Assessment%20Matters/2023/2023%20eoy%20exam%20timetable%20%20sec%203exp.pdf)
 
