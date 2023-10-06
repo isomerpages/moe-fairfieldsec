@@ -5,6 +5,15 @@ description: ""
 ---
 ### Our Stories
 
+<img src="/images/Our Stories/2023/mf_carnival_photo.jpeg" style="width:100px;height:100px;margin-right:15px;" align="left"> Celebrating Fairfield's 135 Years of Legacy 
+ [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-term-3/135-founders-day/) <br><br>
+
+
+* * *
+<img src="/images/Our Stories/2023/mf_carnival_photo.jpeg" style="width:100px;height:100px;margin-right:15px;" align="left"> Blessed To Be A Blessing [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-term-3/blessed-tobeablessing/) <br><br>
+
+
+* * *
 <img src="/images/Our Stories/2023/mf_carnival_photo.jpeg" style="width:100px;height:100px;margin-right:15px;" align="left"> Make Me A B135SING [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-term-2/make-me-a-b13sing/) <br><br>
 
 
