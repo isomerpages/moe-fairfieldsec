@@ -10,7 +10,7 @@ description: ""
 *   Fax No.: 6779-7482&nbsp; &nbsp; &nbsp; <br>
 
 **Have a question?**  
-Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/fmss)
+Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/fmss)
 <br>
 <span style="color:#999999"><em>Powered by:
 <br><img src="/images/logo-askgov.png" style="width:10%;float:left">
