@@ -13,7 +13,7 @@ On the morning of 4th August 2023, Fairfield joyously commemorated a significant
 
 Minister Chan's early arrival was a testament to his enthusiasm for the occasion. He took the time to immerse himself in Fairfield's rich heritage, embarking on an inspiring journey through our school. As he explored Fairfield’s Archives Room, student leaders from both schools served as knowledgeable guides, unveiling the profound significance of various artefacts and the selfless individuals who have played pivotal roles in shaping Fairfield's identity over the years. This enlightening experience left Minister Chan with a newfound appreciation for Fairfield's illustrious history.
 
-<img src="/images/Our Stories/2023/carnival-ezgif-3.gif" style="width:60%">
+<img src="/images/Our%20Stories/2023/2023-fd-ezgif-3-b6e6b1f74f.gif" style="width:60%">
 
 His next stop was the idyllic Sunshine@Fairfield, where our talented student baristas proudly prepared and served their meticulously crafted beverages to the Minister. The rich aroma of freshly brewed coffee and the warm hospitality of our students created an atmosphere of joyous interaction.
 
