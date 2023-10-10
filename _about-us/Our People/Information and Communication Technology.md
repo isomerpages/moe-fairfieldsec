@@ -19,4 +19,3 @@ third_nav_title: Our People
 | Name | Designation | Email |
 |---|---|---|
 | **Ms Chan Hoon Teng**  | Desktop Engineer | [hoon.teng.chan@ncs.com.sg](mailto:hoon.teng.chan@ncs.com.sg) |
-| **Mr Abdul Hafiz Bin Jasmani** | Desktop Engineer   |  [abdul.hafiz.bin.jasmani@ncs.co](mailto:Abdul.hafiz.bin.jasmani@ncs.co) |
