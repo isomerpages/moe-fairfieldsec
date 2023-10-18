@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - 2023 Open House/Why Fairfield.md
       - 2023 Open House/.keep
       - 2022 Open House/Why Fairfield.md
       - 2022 Open House/Students' Testimonials.md
