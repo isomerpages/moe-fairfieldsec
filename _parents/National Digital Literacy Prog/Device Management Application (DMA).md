@@ -4,7 +4,7 @@ permalink: /parents/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy Prog
 ---
-# Device Management Application (DMA)
+## Device Management Application (DMA)
 
 All students’ devices are installed with the MOE Device Management Application (DMA) as part of the measures to enable a safe and conducive learning environment for students. The purpose of the MOE DMA is to:
 
@@ -37,7 +37,7 @@ Default option After-School hours on weekdays will be as follows: 6PM - 10PM
 Default option Sleep hours on weekdays will be as follows: 10PM - 6AM  
 **Note: When activated,&nbsp;Sleep hours will disable access to the device completely, forcing them to charge the iPad and sleep**
 	
-Click [here](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) to download the Parents guide for Default Option.
+Click [here](/files/Parents/PDLP/2023/dma%20parent%20guide%20-%20default%20option.pdf) to download the Parents guide for Default Option.
 
 
 ##### OPTION A
