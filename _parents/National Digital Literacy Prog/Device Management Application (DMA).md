@@ -50,8 +50,7 @@ Parents will control the&nbsp; Internet connectivity or blocking device hours on
 Weekdays - 6PM - 6AM  
 Weekends - 24 Hours
 	
-Click [here](/files/dma2.pdf) to download the Parents guide for Default Option.
-
+Click [here](https://file.for.edu.sg/dma-option-a.pdf) to download the Parents guide for Option A.
 	
 ##### OPTION&nbsp;B
 
@@ -63,7 +62,7 @@ The DMA will be disabled allowing anyone holding on to the child's iPad to take 
 Weekdays - 6PM - 6AM  
 Weekends - 24 Hours
 
-Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.	
+Click [here](https://file.for.edu.sg/dma-option-b.pdf) to download the Parents guide for Option B.	
 
 	
 ### FMS(S) DMA Hours
