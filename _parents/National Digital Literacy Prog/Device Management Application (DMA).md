@@ -4,7 +4,7 @@ permalink: /parents/ndlp/dma/
 description: ""
 third_nav_title: National Digital Literacy Prog
 ---
-## Device Management Application (DMA)
+# Device Management Application (DMA)
 
 All students’ devices are installed with the MOE Device Management Application (DMA) as part of the measures to enable a safe and conducive learning environment for students. The purpose of the MOE DMA is to:
 
