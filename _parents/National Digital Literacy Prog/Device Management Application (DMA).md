@@ -102,10 +102,10 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 
 | Option | DMA Guides | 
 | -------- | -------- |
-| Default Option     | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) Here     
-| Option A | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-a-ipados.pdf)Here
+| Default Option     | Click [](/files/Parents/PDLP/2023/dma%20parent%20guide%20-%20default%20option.pdf) Here     
+| Option A | Click [](https://file.for.edu.sg/dma-option-a.pdf)Here
 | Additional Guide for Option A to create and setup rules and reports | Click [](/files/Parents/PDLP/2023/creating_and_setting_up_rules_and_reports.pdf)Here
-| Option B | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-b-ipados.pdf)Here
+| Option B | Click [](https://file.for.edu.sg/dma-option-b.pdf)Here
 
 
 
