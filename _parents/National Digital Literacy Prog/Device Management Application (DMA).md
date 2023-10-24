@@ -65,10 +65,10 @@ Weekends - 24 Hours
 Click [here](https://file.for.edu.sg/dma-option-b.pdf) to download the Parents guide for Option B.	
 
 
-##### Video Guides
+#### DMA Video Guides 
 [Overriding School Sleep Hours.mp4](https://drive.google.com/file/d/1ZxiwMC5a53oig3xCRtdQAAr8nSI3f1C6/view?usp=sharing)
 
-[Parent Account Password Reset.mp4](https://drive.google.com/file/d/1QnVJd0GYDre-EbFjPKts-8VhZYdKrO76/view?usp=sharing)
+[Parent Account Password Reset](https://drive.google.com/file/d/1QnVJd0GYDre-EbFjPKts-8VhZYdKrO76/view?usp=sharing)
 
 [Setting Rules to Restrict Usage.mp4](https://drive.google.com/file/d/1o4z1rnfYM4-GRV4xHqTSiVnOLoRrR1OI/view?usp=sharing)
 
