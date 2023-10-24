@@ -64,6 +64,10 @@ Weekends - 24 Hours
 
 Click [here](https://file.for.edu.sg/dma-option-b.pdf) to download the Parents guide for Option B.	
 
+
+##### Video Guides
+[Overriding School Sleep Hours.mp4](https://drive.google.com/file/d/1ZxiwMC5a53oig3xCRtdQAAr8nSI3f1C6/view?usp=sharing)
+
 	
 ### FMS(S) DMA Hours
 
