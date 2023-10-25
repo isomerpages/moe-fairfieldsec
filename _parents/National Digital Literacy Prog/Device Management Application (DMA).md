@@ -37,7 +37,7 @@ Default option After-School hours on weekdays will be as follows: 6PM - 10PM
 Default option Sleep hours on weekdays will be as follows: 10PM - 6AM  
 **Note: When activated,&nbsp;Sleep hours will disable access to the device completely, forcing them to charge the iPad and sleep**
 	
-Click [here](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) to download the Parents guide for Default Option.
+Click [here](/files/Parents/PDLP/2023/dma%20parent%20guide%20-%20default%20option.pdf) to download the Parents guide for Default Option.
 
 
 ##### OPTION A
@@ -50,8 +50,7 @@ Parents will control the&nbsp; Internet connectivity or blocking device hours on
 Weekdays - 6PM - 6AM  
 Weekends - 24 Hours
 	
-Click [here](/files/dma2.pdf) to download the Parents guide for Default Option.
-
+Click [here](https://file.for.edu.sg/dma-option-a.pdf) to download the Parents guide for Option A.
 	
 ##### OPTION&nbsp;B
 
@@ -63,7 +62,15 @@ The DMA will be disabled allowing anyone holding on to the child's iPad to take 
 Weekdays - 6PM - 6AM  
 Weekends - 24 Hours
 
-Click [here](/files/dma3.pdf) to download the Parents guide for Default Option.	
+Click [here](https://file.for.edu.sg/dma-option-b.pdf) to download the Parents guide for Option B.	
+
+
+#### DMA Video Guides 
+[Overriding School Sleep Hours.mp4](https://drive.google.com/file/d/1ZxiwMC5a53oig3xCRtdQAAr8nSI3f1C6/view?usp=sharing)
+
+[Parent Account Password Reset.mp4](https://drive.google.com/file/d/1QnVJd0GYDre-EbFjPKts-8VhZYdKrO76/view?usp=sharing)
+
+[Setting Rules to Restrict Usage.mp4](https://drive.google.com/file/d/1o4z1rnfYM4-GRV4xHqTSiVnOLoRrR1OI/view?usp=sharing)
 
 	
 ### FMS(S) DMA Hours
@@ -95,10 +102,10 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 
 | Option | DMA Guides | 
 | -------- | -------- |
-| Default Option     | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-default-ipados.pdf) Here     
-| Option A | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-a-ipados.pdf)Here
+| Default Option     | Click [](/files/Parents/PDLP/2023/dma%20parent%20guide%20-%20default%20option.pdf) Here     
+| Option A | Click [](https://file.for.edu.sg/dma-option-a.pdf)Here
 | Additional Guide for Option A to create and setup rules and reports | Click [](/files/Parents/PDLP/2023/creating_and_setting_up_rules_and_reports.pdf)Here
-| Option B | Click [](/files/Parents/PDLP/2023/dma-parent-guide-v2-option-b-ipados.pdf)Here
+| Option B | Click [](https://file.for.edu.sg/dma-option-b.pdf)Here
 
 
 
