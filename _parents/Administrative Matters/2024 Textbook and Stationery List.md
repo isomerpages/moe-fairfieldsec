@@ -43,5 +43,3 @@ Coming Soon!
 #### Secondary 5
 
 [FMS(S) S5 Booklist and Stationery List 2024](/files/Parents/Admin%20Matters/2023/2024%20sec%205%20book%20list%20.pdf)
-
-
