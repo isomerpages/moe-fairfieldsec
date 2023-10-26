@@ -4,22 +4,22 @@ permalink: /parents/administrative-matters/2024-textbook-and-stationery-list/
 description: ""
 third_nav_title: Administrative Matters
 ---
-### Purchase of School Textbooks, Stationery and School Attire
+## Purchase of School Textbooks, Stationery and School Attire
 
 
 Dear Parent/Guardian,
 
-Guidelines for Year-End Purchase of 2024 School Textbooks, Stationery and School Attire
+<u>Guidelines for Year-End Purchase of 2024 School Textbooks, Stationery and School Attire</u>
 
-Revisions to the End-Year Sales Approach
+**Revisions to the End-Year Sales Approach**
 Starting from this year, the bookshop (Asencio Pte Ltd) will no longer handle the sale of school attire on behalf of Shanghai Uniforms Pte Ltd. 
 The vendor for the school attire, Shanghai Uniforms Pte Ltd will only be physically present at the school on selected specific dates. You can find additional details in the provided schedule. If you are unable to make an in-person purchase, you have the option of buying the school attire through their online website.  
 
-Mode of Purchase
+**Mode of Purchase**
 You have two options for making your purchases: you can either buy the items in person on the designated dates within the school, or you can opt for online purchases through the respective vendors’ website using the provided links. Please note that both vendors may apply delivery charges. You can only opt for self-collection when buying books and stationery.
 If you have any additional questions or concerns, please do not hesitate to get in touch with the General Office during our office hours, which are from 8am to 5pm.
 
-(Insert “Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire”)
+### Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire
 
 2024 Textbook and Stationery List
 
@@ -69,15 +69,15 @@ Dear Parent/Guardian,
 
   
 
-Parents/Guardians can start purchasing the items online from 11 Nov 2022, 5pm. 
+Parents/Guardians can start purchasing the items online from 11 Nov 2022, 5pm.&nbsp;
 
   
 
-For those who have opted for self-collection, do adhere to stipulated collection dates (see attached). To facilitate crowd control in the premises, please note also that only one parent/guardian and one student are allowed to enter the school premises for self-collection.  
+For those who have opted for self-collection, do adhere to stipulated collection dates (see attached). To facilitate crowd control in the premises, please note also that only one parent/guardian and one student are allowed to enter the school premises for self-collection.&nbsp;&nbsp;
 
   
 
-Please refer to the [Schedule of Sale for 2023 Sec 2-5 Students](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/2022/2023%20Booklist/Schedule%20of%20Sale%20for%202023%20Sec%202-5%20Students.pdf) for more information.
+Please refer to the&nbsp;[Schedule of Sale for 2023 Sec 2-5 Students](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/2022/2023%20Booklist/Schedule%20of%20Sale%20for%202023%20Sec%202-5%20Students.pdf)&nbsp;for more information.
 
 ### 2023 Textbook and Stationery List
 
