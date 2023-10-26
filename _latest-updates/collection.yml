@@ -2,6 +2,5 @@ collections:
   latest-updates:
     output: true
     order:
-      - 2024 Textbook and Stationery List.md
       - Overview.md
       - 2023 Sem 2 Class Timetable.md
