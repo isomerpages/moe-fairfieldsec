@@ -4,7 +4,7 @@ permalink: /parents/administrative-matters/2024-textbook-and-stationery-list/
 description: ""
 third_nav_title: Administrative Matters
 ---
-### Purchase of Uniform and School Attire for Year 2023
+### Purchase of School Textbooks, Stationery and School Attire
 
 Dear Parent/Guardian,
 
