@@ -19,7 +19,7 @@ The vendor for the school attire, Shanghai Uniforms Pte Ltd will only be physica
 You have two options for making your purchases: you can either buy the items in person on the designated dates within the school, or you can opt for online purchases through the respective vendors’ website using the provided links. Please note that both vendors may apply delivery charges. You can only opt for self-collection when buying books and stationery.
 If you have any additional questions or concerns, please do not hesitate to get in touch with the General Office during our office hours, which are from 8am to 5pm.
 
-[Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire](/files/Parents/Admin%20Matters/2023/schedule.pdf)
+Please refer to the&nbsp;[Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire](/files/Parents/Admin%20Matters/2023/schedule.pdf)&nbsp;for more information.
 
 
 
