@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Principal's Message (1st item under About Us).md
       - Information for Sec 1 2022/Overview.md
       - Information for Sec 1 2022/.keep
       - Information for Sec 1 2022/Secondary 1 Registration.md
