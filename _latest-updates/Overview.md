@@ -10,9 +10,6 @@ description: ""
 [Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/administrative-matters/2024-textbook-and-stationery-list/)
 
 
-#### Timetable for Sec 1 to 3 Return of Scripts
-[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/return-of-scripts/)
-
 
 #### 2023 Sem 2 Class Timetable
 
