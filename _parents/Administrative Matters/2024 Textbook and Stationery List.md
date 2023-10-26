@@ -21,7 +21,7 @@ If you have any additional questions or concerns, please do not hesitate to get 
 
 ### Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire
 
-2024 Textbook and Stationery List
+<u>2024 Textbook and Stationery List</u>
 
 Secondary 1 – Coming Soon!
 
