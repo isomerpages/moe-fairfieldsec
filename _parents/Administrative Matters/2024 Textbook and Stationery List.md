@@ -11,11 +11,11 @@ Dear Parent/Guardian,
 
 <u>Guidelines for Year-End Purchase of 2024 School Textbooks, Stationery and School Attire</u>
 
-**Revisions to the End-Year Sales Approach**
+**Revisions to the End-Year Sales Approach**<br>
 Starting from this year, the bookshop (Asencio Pte Ltd) will no longer handle the sale of school attire on behalf of Shanghai Uniforms Pte Ltd. 
 The vendor for the school attire, Shanghai Uniforms Pte Ltd will only be physically present at the school on selected specific dates. You can find additional details in the provided schedule. If you are unable to make an in-person purchase, you have the option of buying the school attire through their online website.  
 
-**Mode of Purchase**
+**Mode of Purchase**<br>
 You have two options for making your purchases: you can either buy the items in person on the designated dates within the school, or you can opt for online purchases through the respective vendors’ website using the provided links. Please note that both vendors may apply delivery charges. You can only opt for self-collection when buying books and stationery.
 If you have any additional questions or concerns, please do not hesitate to get in touch with the General Office during our office hours, which are from 8am to 5pm.
 
