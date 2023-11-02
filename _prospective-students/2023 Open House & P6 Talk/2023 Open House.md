@@ -11,6 +11,5 @@ third_nav_title: 2023 Open House & P6 Talk
 
 ### Open House Brochure
 
-[Publicity flyer.pdf](/files/Prospective%20Students/publicity%20flyer.pdf)
 
 ![](/images/Prospective%20Students/2023/2023-open-house-ezgif.gif)
