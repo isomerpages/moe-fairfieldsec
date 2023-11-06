@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023_open_house_banner.jpg
+      background: /images/Home Page/banner 16-9.jpg
       key_highlights:
         - title: Our Stories
           description: ""
