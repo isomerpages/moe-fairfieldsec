@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/banner 16-9.jpg
+      background: /images/Home Page/safe zone tryout.jpg
       key_highlights:
         - title: Our Stories
           description: ""
