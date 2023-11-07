@@ -1,10 +1,10 @@
 ---
-title: Why Fairfield
-permalink: /prospective-students/2023-open-house/why-fairfield/
+title: 2023 Founder's Day Video
+permalink: /prospective-students/2023-open-house/founders-day/
 description: ""
 third_nav_title: 2023 Open House & P6 Talk
 ---
-### Founder's Day video 2023:
+### 2023 Founder's Day video:
 
 Our school celebrated her 135th Founder’s Day this year, and this video that was screened during our school’s Founder’s Day Service showcases the key programmes and activities that make up the Fairfield experience, along with significant highlights of the year, like the Oh It’s Fairfield! Carnival and the Fairfield Musical. This provides a glimpse of how we endeavour to achieve our school’s vision: A flourishing community of self-directed learners, influential leaders and caring citizens!
 
