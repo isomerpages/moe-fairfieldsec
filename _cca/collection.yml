@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Awards & Bursaries/.keep
-      - Overview.md
       - Clubs and Societies/Journalism.md
       - Clubs and Societies/Media at Fairfield.md
       - Clubs and Societies/Robotics Club.md
