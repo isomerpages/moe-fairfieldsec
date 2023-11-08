@@ -2,28 +2,28 @@ collections:
   cca:
     output: true
     order:
-      - Awards & Bursaries/Overview.md
-      - Awards & Bursaries/.keep
+      - Clubs and Societies/.keep
       - Clubs and Societies/Journalism.md
       - Clubs and Societies/Media at Fairfield.md
       - Clubs and Societies/Robotics Club.md
-      - Clubs and Societies/.keep
+      - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Dance.md
       - Performing Arts/English Drama.md
       - Performing Arts/Guitar Ensemble.md
       - Performing Arts/Symphonic Band.md
-      - Performing Arts/.keep
+      - Sports/.keep
       - Sports/Badminton (Mixed).md
       - Sports/Basketball (Boys).md
       - Sports/Football (Boys).md
       - Sports/Netball (Girls).md
       - Sports/Squash (Boys).md
       - Sports/Volleyball.md
-      - Sports/.keep
+      - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/National Cadet Corps (Land).md
       - Uniformed Groups/National Cadet Corps (Sea).md
       - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/.keep
+      - Awards & Bursaries/.keep
+      - Awards & Bursaries/Overview.md
