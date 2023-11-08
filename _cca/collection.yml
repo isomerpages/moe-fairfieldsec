@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Awards & Bursaries/.keep
       - Overview.md
       - Clubs and Societies/Journalism.md
       - Clubs and Societies/Media at Fairfield.md
