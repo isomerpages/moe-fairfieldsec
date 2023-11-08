@@ -3,6 +3,7 @@ title: Information and Communication Technology
 permalink: /about-us/our-people/information-and-communication-technology/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Information &amp; Communication Technology
 
@@ -18,4 +19,6 @@ third_nav_title: Our People
 
 | Name | Designation | Email |
 |---|---|---|
+| **Mr Hadisyafiq Bin Mohd Salleh**  | AV Executive | [hadisyafiq_mohd_salleh@moe.edu.sg](mailto:hadisyafiq_mohd_salleh@moe.edu.sg) |
 | **Ms Chan Hoon Teng**  | Desktop Engineer | [hoon.teng.chan@ncs.com.sg](mailto:hoon.teng.chan@ncs.com.sg) |
+| **Mr Muhammad Amirul Bin Adam**  | Desktop Engineer | [muhammad.adam@ncs.com.sg](mailto:muhammad.adam@ncs.com.sg) |
