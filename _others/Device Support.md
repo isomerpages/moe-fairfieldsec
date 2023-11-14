@@ -2,7 +2,6 @@
 title: Device Support
 permalink: /parents/ndlp/device-support/
 description: ""
-third_nav_title: National Digital Literacy Prog
 ---
 # Device Support
 
@@ -30,4 +29,3 @@ Students are required to knock on the door of the IT Center before entering the 
   </tr>
   
 </tbody></table>
-
