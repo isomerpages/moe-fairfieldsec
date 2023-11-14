@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Device Support.md
+      - National Digital Literacy Prog/Resources for Parents.md
       - National Digital Literacy Prog/Device Management Application (DMA).md
       - National Digital Literacy Prog/On Boarding Process.md
       - National Digital Literacy Prog/NDLP@FMS(S).md
