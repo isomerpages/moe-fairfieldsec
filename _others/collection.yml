@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - National Digital Literacy Prog/On Boarding Process.md
       - National Digital Literacy Prog/NDLP@FMS(S).md
       - National Digital Literacy Prog/.keep
       - Information for Sec 1 2022/Overview.md
