@@ -3,6 +3,7 @@ title: Badminton (Mixed)
 permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Badminton
 
@@ -24,7 +25,7 @@ third_nav_title: Sports
 <p>
 <b>Training Days &amp; Time:</b><br><br>
 Girls:<br>
-Monday :3.30 pm - 6.00 pm (B Div)&nbsp;<br>
+Monday : 3.30 pm - 6.00 pm (B Div)&nbsp;<br>
 Wednesday: 3.30 pm - 6.00 pm (C Div)<br>
 Friday: 2.00 pm - 5.30 pm (All)<br><br>
 
