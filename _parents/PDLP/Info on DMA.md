@@ -3,6 +3,7 @@ title: Info on DMA
 permalink: /parents/pdlp/info-on-dma/
 description: ""
 third_nav_title: PDLP
+variant: markdown
 ---
 ### Quick guide on which DMA option to choose
 
@@ -75,12 +76,18 @@ Parents/Guardians may wish to consider the following questions before deciding o
 
 Please download the guides according to the options you have selected below:  
   
-1)&nbsp;**Default Option**&nbsp;\--[DMA Parent Guide Version 3.0 - Default Option](/files/Parents/PDLP/2023/dma%20parent%20guide%20v3%20default%20option.pdf)
+1)&nbsp;**Default Option**&nbsp;\--[DMA Parent Guide  - Default Option](/files/Parents/PDLP/2023/dma%20parent%20guide%20-%20default%20option.pdf)
   
-2)&nbsp;**Option A**&nbsp;\--[DMA Parent Guide Version 3.0 - Option A](/files/Parents/PDLP/2023/dma%20parent%20guide%20v3%20option%20a.pdf)
+2)&nbsp;**Option A**&nbsp;\--[DMA Parent Guide - Option A](https://file.for.edu.sg/dma-option-a.pdf)
   
-3)&nbsp;**Option B**&nbsp;\--[DMA Parent Guide Version 3.0 - Option B](/files/Parents/PDLP/2023/dma%20parent%20guide%20v3%20option%20b.pdf)
+3)&nbsp;**Option B**&nbsp;\--[DMA Parent Guide - Option B](https://file.for.edu.sg/dma-option-b.pdf)
 
+#### DMA Video Guides 
+[Overriding School Sleep Hours.mp4](https://drive.google.com/file/d/1ZxiwMC5a53oig3xCRtdQAAr8nSI3f1C6/view?usp=sharing)
+
+[Parent Account Password Reset.mp4](https://drive.google.com/file/d/1QnVJd0GYDre-EbFjPKts-8VhZYdKrO76/view?usp=sharing)
+
+[Setting Rules to Restrict Usage.mp4](https://drive.google.com/file/d/1o4z1rnfYM4-GRV4xHqTSiVnOLoRrR1OI/view?usp=sharing)
 
 ### DMA Hours
 
