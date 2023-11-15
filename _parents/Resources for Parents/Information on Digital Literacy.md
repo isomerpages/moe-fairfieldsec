@@ -3,6 +3,7 @@ title: Information on Digital Literacy
 permalink: /parents/resources-for-parents/information-on-digital-literacy/
 description: ""
 third_nav_title: Resources for Parents
+variant: markdown
 ---
 ### Information on Digital Literacy
 
@@ -12,13 +13,13 @@ third_nav_title: Resources for Parents
 
 MOE’s Cyber Wellness webpage explains the focus of Cyber Wellness (CW) in Character and Citizenship Education (CCE), and has useful tips and resources on various cyber issues. You can access the page using the following link:
 
-[https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
+[https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
   
 
 #### Digital Literacy through Peer Support
 
-MOE has announced the roll-out of Personal Learning Devices in secondary schools, and also the plans for Blended Learning to be a key feature of a student’s schooling experience. 
+MOE has announced the roll-out of Personal Learning Devices in secondary schools, and also the plans for Blended Learning to be a key feature of a student’s schooling experience.&nbsp;
 
   
 
@@ -60,7 +61,7 @@ As IT-related issues and risks are constantly evolving, it is important to ensur
 
 •Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
 
-•National Library’s Learning & Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/) )
+•National Library’s Learning &amp; Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)&nbsp;)
 
 •TOUCH Community Services ([https://help123.sg](https://help123.sg/))
 
