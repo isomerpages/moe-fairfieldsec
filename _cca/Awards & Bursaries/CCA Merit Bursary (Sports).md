@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Awards & Bursaries
 ---
-##### **Fairfield CCA Merit Bursary (Sports)**<br><br>
+##### **Fairfield CCA Merit Bursary (Sports)**<br>
 
 <table style="border-collapse:
  collapse;width:496pt;font-variant-ligatures: normal;font-variant-caps: normal;
