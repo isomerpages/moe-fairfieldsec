@@ -3,6 +3,7 @@ title: Teachers' Email Address
 permalink: /parents/teachers-email-address/
 description: ""
 third_nav_title: Form Teachers
+variant: markdown
 ---
 ### Teachers' Email Address
 
@@ -10,9 +11,7 @@ third_nav_title: Form Teachers
 |---|---|
 | Ang Yuan Peng (Mr) | [ang\_yuan\_peng@moe.edu.sg](mailto:ang_yuan_peng@moe.edu.sg) |
 | Chia Wey Ling Vincent (Mr) | [vincent\_chia\_wey\_ling@moe.edu.sg](mailto:vincent_chia_wey_ling@moe.edu.sg) |
-| Choe Wai Leng, Evelyn (Mrs) | [choe\_wai\_leng\_evelyn@moe.edu.sg](mailto:choe_wai_leng_evelyn@moe.edu.sg) |
 | Chua Chang Fong (Mr) | [chua\_chang\_fong@moe.edu.sg](mailto:chua_chang_fong@moe.edu.sg) |
-| Daniel Lee jia xin (Mr) | [daniel\_lee\_jia\_xin@moe.edu.sg](mailto:daniel_lee_jia_xin@moe.edu.sg) |
 | Guo Enliang Joseph (Mr) | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
 | Ho Wee Yew Wilson (Mr) | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
 | Koh Wei Shan Clarissa (Mdm) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
@@ -86,7 +85,8 @@ third_nav_title: Form Teachers
 | Tan Zhiwei @ Tham Chee Wai (Mr) | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
 | Teo-Tan Li Ling Terri (Mrs) | [terri\_tan\_li\_ling@moe.edu.sg](mailto:terri_tan_li_ling@moe.edu.sg) |
 | Tham Xue Ping Desiree (Ms) | [desiree\_tham\_xue\_ping@moe.edu.sg](mailto:desiree_tham_xue_ping@moe.edu.sg) |
-| Thio Lay Hong (Ms) | [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
+| Thio Lay Hong (Ms) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg) |
+| Trixie Chan Thing Lee (Ms) | [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | Uma Devi (Ms) | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
 | Wee Lay Kit Jasmine (Ms) | [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
 | Wee Sim Eng Irene (Ms) | [wee\_sim\_eng@moe.edu.sg](mailto:wee_sim_eng@moe.edu.sg) |
@@ -98,5 +98,3 @@ third_nav_title: Form Teachers
 | Yee Suet Fong Dawn (Mdm) |[yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
 | Yen Ding Yi (Ms) | [yen\_ding\_yi@moe.edu.sg](mailto:yen_ding_yi@moe.edu.sg)|
 | Yeo Rena (Mrs) | [gomes\_rena\_jeanette@moe.edu.sg](mailto:gomes_rena_jeanette@moe.edu.sg) |
-| Zhang Lu (Ms) | [zhang\_lu\_a@moe.edu.sg](mailto:zhang_lu_a@moe.edu.sg) |
-| Shang Xiaomeng (Ms) | [shang\_xiaomeng@moe.edu.sg](mailto:shang_xiaomeng@moe.edu.sg) |

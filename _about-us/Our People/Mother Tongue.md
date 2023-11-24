@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /about-us/our-people/mother-tongue/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Mother Tongue
 
@@ -25,8 +26,5 @@ third_nav_title: Our People
 | **Ms Yen Ding Yi** | Sec 2C Form Teacher | [yen\_ding\_yi@moe.edu.sg](mailto:yen_ding_yi@moe.edu.sg) |
 | **Ms Wong Jia Xian** | Sec 3H  Form Teacher  | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
 | **Ms Liong Hui Min** | Sec 1B Form Teacher  | [liong\_hui\_min@moe.edu.sg](mailto:liong_hui_min@moe.edu.sg) |
-| **Ms Shang Xiaomeng** | Sec 1G Form Teacher | [shang\_xiaomeng@moe.edu.sg](mailto:shang_xiaomeng@moe.edu.sg) |
 | **Ms Tan Yi Qian** | Sec 1F Form Teacher | [tan\_yi\_qian@moe.edu.sg](mailto:tan_yi_qian@moe.edu.sg) |
-| **Ms Zhang Lu** | Sec 1H Form Teacher  | [zhang\_lu\_a@moe.edu.sg](http://zhang_lu_a@moe.edu.sg%20/)  |
-| **Ms Tan Zhen Yi Jenny** | Sec 1A Form Teacher  | [tan\_zhen\_yi\_jenny@moe.edu.sg](http://tan_zhen_yi_jenny@moe.edu.sg/)  |
 | **Mdm Xu Hui** | Sec 2A Form Teacher  | [xu\_hui@moe.edu.sg](http://xu_hui@moe.edu.sg/)  |
