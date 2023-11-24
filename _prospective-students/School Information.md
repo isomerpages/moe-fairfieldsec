@@ -2,6 +2,7 @@
 title: School Information
 permalink: /prospective-students/school-information/
 description: ""
+variant: markdown
 ---
 ### School Information
 
@@ -38,11 +39,11 @@ Fairfield Methodist School (Primary), Anglo-Chinese Junior College
 
 #### FMS(S) Non-Affiliation Achievement Levels for Academic Year 2023
 
-|  |  |
-|---|---|
-| Express | 10 |
-| Normal (Academic) | 21  |
-| Normal ( Technical) | 26 |
+|  |  | |
+|---|---|---|
+| Express | 10 | 63 |
+| Normal (Academic) | 21  | 62 |
+| Normal ( Technical) | 26 | 61 |
 
 #### CCAs  Offered
 
