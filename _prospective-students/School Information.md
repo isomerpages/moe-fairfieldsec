@@ -41,9 +41,9 @@ Fairfield Methodist School (Primary), Anglo-Chinese Junior College
 
 |  |  | |
 |---|---|---|
-| Express | 10 | 63 |
-| Normal (Academic) | 21  | 62 |
-| Normal ( Technical) | 26 | 61 |
+| Express | 10 | G3 |
+| Normal (Academic) | 21  | G2 |
+| Normal ( Technical) | 26 | G1 |
 
 #### CCAs  Offered
 
