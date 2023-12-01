@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 ### Advertisement for the following stall(s)
 
@@ -9,7 +10,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Indian Food Stall    | 30 Sep 2023  | For vendor to propose.  |
+| Halal    | 31 March 2024  | For vendor to propose.  |
 
 
 
