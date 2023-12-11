@@ -86,13 +86,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
 #### (E) Sale of Secondary 1 2024 Textbooks, Stationery, School Attire 
 
-In line with Safe Management Measurements (SMM), we strongly encourage all parents / guardians to adhere to your allocated time slot for the purchase of the items.&nbsp;**Details of allocated date and time slots will be sent to all parents via email**&nbsp;on&nbsp;**22 December 2021**&nbsp;&nbsp;**from 3 pm onwards**&nbsp;( updated as of 22 December 2021, 2.57pm as PG will be having a downtime from 3 to 5 pm).&nbsp;&nbsp;Please note that the school may have to turn away parents who turn up outside the allocated slots if safe management measures are being compromised.&nbsp;
-
-  
-
-If you are&nbsp;**not able to purchase the items at your allocated day / time**&nbsp;in the school, you will need to&nbsp;**purchase the items online**&nbsp;(refer to&nbsp;**Option 2**).&nbsp;
-
-  
+ 
 
 **Modes of Purchase**
 
