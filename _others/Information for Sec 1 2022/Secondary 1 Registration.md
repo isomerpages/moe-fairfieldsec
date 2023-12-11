@@ -88,22 +88,18 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
  
 
-**Modes of Purchase**
+**MODES OF PURCHASE**
 
   
 
 **OPTION 1:**&nbsp;**Purchase directly from the school**
 
- ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Details of allocated date and time slots will be sent to all parents**&nbsp;**via email**&nbsp;on&nbsp;**22 December 2021&nbsp;from 3 pm onwards**&nbsp;( updated as of 22 December 2021, 2.57pm as PG will be having a downtime&nbsp;from 3 to 5 pm).
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Strictly no parking in the school. 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Kindly park at the nearest public car park (Blk 2A Dover Road).
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Only 1 parent / guardian and 1 student are allowed to enter the school premises.**  
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strictly&nbsp;**no parking**&nbsp;in the school.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kindly park at the nearest public car park (Blk 2A Dover Road).  
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please&nbsp;**enter the school compound from the front gate**&nbsp;and&nbsp;**exit the school compound from the back gate**.
-
+ 
 **Venues and Date/Time for Sale**
 
 | Information | 23/27 December 2021 |
