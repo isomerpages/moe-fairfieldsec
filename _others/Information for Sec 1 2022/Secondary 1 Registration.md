@@ -16,7 +16,8 @@ Secondary 1 Registration will open at **9am** on&nbsp;**Thursday, 21 December 20
 
 #### (A)&nbsp;&nbsp; Subject-Based Banding (SBB)
 
-If you are posted to the&nbsp;**Normal (Academic)**&nbsp;or&nbsp;**Normal (Technical)**&nbsp;stream, besides doing the online registration indicated above, you will receive an email from&nbsp;**Mdm Veronica Chua**, our school’s&nbsp;**Administration Manager**, on 22 December 2021&nbsp;from 3 pm onwards ( updated as of 22 December 2021, 2.57pm as PG will be having a downtime from 3 to 5 pm),&nbsp;if your child / ward is eligible for Subject-Based Banding.  
+Students who are eligible to take the subject (English Language / Mother Tongue / Mathematics / Science) at a more demanding level (at G2 / G3 level) will receive a Parents Gateway notification on **21 December 2023.** The parent will need to indicate via the notification the student’s interest in taking on subjects at a more demanding level.
+
   
 
 #### (B)&nbsp;&nbsp; Mother Tongue Language &amp; Other Languages
