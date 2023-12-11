@@ -22,9 +22,9 @@ Students who are eligible to take the subject (English Language / Mother Tongue 
 
 #### (B)&nbsp;&nbsp; Mother Tongue Language &amp; Other Languages
 
-Higher Mother Tongue Languages (HMTL)&nbsp;
+**Higher Mother Tongue Languages (HMTL)&nbsp;**
 
-**An e-copy of the HMTL Option Form will be sent to you via email on 22 December 2021**,&nbsp;if your child / ward is eligible.
+**An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on 21 December 2023**,&nbsp;if the student is eligible.
 
   
 
