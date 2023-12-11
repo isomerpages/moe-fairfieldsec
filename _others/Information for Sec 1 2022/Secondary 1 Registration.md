@@ -107,7 +107,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 | **Textbooks and Stationery**<br>Vendor: Asencio Pte Ltd <br>[2024_Secondary_1_Book_List_and_Stationery_List.pdf](/files/parents/2024_Secondary_1_Book_List_and_Stationery_List.pdf) | <br>Venue: Level 1 Classroom - C102, C103<br>Time: 9am to 3pm |
 | **Uniform, PE Attire and Polo Tee**<br>Vendor: Shanghai School Uniforms Pte Ltd<br><br>**Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.**<br><br>[FMSS_2023__2024_Price__U_.pdf](/files/parents/FMSS_2023__2024_Price__U_.pdf) <br> [Parents/FMSS_2023__2024_Price__PE_.pdf](/files/Parents/FMSS_2023__2024_Price__PE_.pdf)<br><br><br>Please note that there will be no trying on of attire.<br> <br>Refer to [link](https://shop.shanghai-uniforms.com/product-category/fairfield-methodist-school-secondary/) for size reference. | <br><br><br><br><br>Venue: Level 1 Classroom - C111<br>Time: 9am to 3pm<br>|
 
-**OPTION 2: Online ordering &amp; delivery **
+**OPTION 2: Online ordering &amp; delivery**
 
 | Information | Website for Online Ordering |
 |:---:|---|
