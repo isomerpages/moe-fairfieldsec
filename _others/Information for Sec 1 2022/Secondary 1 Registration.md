@@ -113,6 +113,10 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 |:---:|---|
 | **Textbooks and Stationery**<br>Vendor: Asencio Pte Ltd<br><br> Delivery Charges: $10.80<br><br>**School Uniform, PE Attire and Polo Tee**<br>Vendor: Shanghai School Uniforms Pte Ltd<br><br>Delivery Charges: $10 | [https://asenciobookshop.sg/](https://asenciobookshop.sg/)<br><br><br><br><br>[https://shanghai-uniforms.com/](https://shanghai-uniforms.com/)|
 
+**OPTION 3: Online ordering &amp; self-collection at FMS(S)**
+
+INSERT TABLE
+
 #### (E) School / Miscellaneous Fees for 2022
 
 | Nationality | School Fees($) | Standard Miscellaneous($) | 2nd Tier Miscellaneous($) | Autonomous Fees($) | Total($) |
