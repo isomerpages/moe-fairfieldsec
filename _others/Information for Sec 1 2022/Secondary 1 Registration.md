@@ -28,37 +28,35 @@ Students who are eligible to take the subject (English Language / Mother Tongue 
 
   
 
-Higher Chinese Language (HCL)
+<u>Higher Chinese Language (HCL)</u>
 
-Students taking HCL will attend lessons in Fairfield Methodist School (Secondary) during curriculum time. The school has the flexibility to allow students who do not meet the criteria to take up HCL to do so, if such students are assessed to have exceptional ability in Chinese Language and are able to do HCL without affecting their performance in other subjects. A HCL Entry Test will be conducted on 30 December 2021. Students who are eligible to take the HCL Entry Test will be informed after Secondary 1 Registration.&nbsp;The result of the entry test will be released on the first day of school.
+Students taking HCL will attend lessons in Fairfield Methodist School (Secondary) during curriculum time. The school has the flexibility to allow students who do not meet the criteria to take up HCL at the end of Secondary 1. Students will be assessed based on their end-of-year overall Mother Tongue Language result, performance for other subjects as well as the recommendation by the Mother Tongue Language teacher. 
 
-&nbsp; &nbsp; &nbsp;  
 
-Higher Malay Language (HML) / Higher Tamil Language (HTL)
 
-Students taking HML or HTL will attend lessons at a designated centre outside of curriculum time.&nbsp; Students can submit their HML or HTL Option Form to the General Office when they report to Fairfield Methodist School (Secondary).  
+<u>Higher Malay Language (HML) / Higher Tamil Language (HTL)</u>
+
+Students taking HML or HTL will attend lessons at a designated centre outside of curriculum time.  Students can submit their HML or HTL Option Form to the General Office when they report to Fairfield Methodist School (Secondary).
+
+<u>Tamil Language (TL) / Basic Tamil Language (BTL)</u>
+
+Students taking TL and BTL will attend lessons at Queenstown Secondary School, outside of curriculum time. Students taking HTL will attend lessons at Umar Pulavar Tamil Language Center, outside of curriculum time. Registration will be open during the first week of January 2024. More information will be provided at a later date.  
   
 
-Tamil Language (TL) / Basic Tamil Language (BTL)
-
-Students taking TL and BTL will attend lessons at Queenstown Secondary School, outside of curriculum time. Registration will be open during the first week of January 2022. More information will be provided at a later date.  
-  
-
-Non-Mother Tongue Language (Non-MTL) / Non-Tamil Indian Language (NTIL) / Mother Tongue Language in-lieu (MTL in-lieu)
+<u>Non-Mother Tongue Language (Non-MTL) / Non-Tamil Indian Language (NTIL) / Mother Tongue Language in-lieu (MTL in-lieu)</u>
 
   
 
 Students taking Non-MTL / NTIL / MTL in-lieu will attend lessons at a designated centre outside of curriculum time. Students will need to register for their own private study or respective language centre.
 
+For MTL in-lieu, applications to study in MOELC (Bishan / Newton) will need to be via FMS(S) during the first week of January 2024. Students will be informed through the school to sit for a readiness test. Admission to MOELC is subject to students passing the test. Students who have not been notified to sit for the readiness test or did not pass the test are required to continue with their private study arrangements.
+ 
+
   
 
-For MTL in-lieu, applications to study in MOELC (Bishan / Newton) will need to be via FMS(S) during the first week of January 2022. Students will be informed through the school to sit for a readiness test. Admission to MOELC is subject to students passing the test. Students who have not been notified to sit for the readiness test or did not pass the test are required to continue with their private study arrangements.
+<u>3rd Language</u>
 
-  
-
-3rd Language
-
-Parents / Guardians will receive an email from the 3rd Language Coordinator, Miss Siti Ainah, regarding registration at allocated centres. Information will be disseminated via email to parents.
+Parents / Guardians will receive a Parent Gateway notification from the 3rd Language Coordinator, Miss Siti Ainah, regarding registration at allocated centres. Information will be disseminated via Parent Gateway to parents.
 
   
 
