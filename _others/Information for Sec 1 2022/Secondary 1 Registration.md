@@ -3,41 +3,39 @@ title: Secondary 1 Registration
 permalink: /others/Information-for-Sec-1-2022/registration/
 description: ""
 third_nav_title: Information for Sec 1 2022
+variant: markdown
 ---
 ### Secondary 1 Registration
 
   
 
-Secondary 1 Registration will be on **Thursday, 23 December 2021** and we are pleased to inform you that you can complete the registration **online**. 
+Secondary 1 Registration will open at **9am** on&nbsp;**Thursday, 21 December 2023.**&nbsp; You can complete the registration&nbsp;**online**&nbsp; by clicking on this [link](https://for.edu.sg/fmsssec1registration). The online registration will close at **5pm the same day.** You will receive an email confirmation upon completing the form.
 
   
-
-Please complete the online registration by clicking on this **[link](https://for.edu.sg/fmsssec1reg2022)**. The online registration form will be open on **Thursday, 23 December 2021**, from **8am until 5pm**. You will receive an email confirmation upon completing the form.
-
   
 
-#### (A)   Subject-Based Banding (SBB)
+#### (A)&nbsp;&nbsp; Subject-Based Banding (SBB)
 
-If you are posted to the **Normal (Academic)** or **Normal (Technical)** stream, besides doing the online registration indicated above, you will receive an email from **Mdm Veronica Chua**, our school’s **Administration Manager**, on 22 December 2021 from 3 pm onwards ( updated as of 22 December 2021, 2.57pm as PG will be having a downtime from 3 to 5 pm), if your child / ward is eligible for Subject-Based Banding.  
+If you are posted to the&nbsp;**Normal (Academic)**&nbsp;or&nbsp;**Normal (Technical)**&nbsp;stream, besides doing the online registration indicated above, you will receive an email from&nbsp;**Mdm Veronica Chua**, our school’s&nbsp;**Administration Manager**, on 22 December 2021&nbsp;from 3 pm onwards ( updated as of 22 December 2021, 2.57pm as PG will be having a downtime from 3 to 5 pm),&nbsp;if your child / ward is eligible for Subject-Based Banding.  
   
 
-#### (B)   Mother Tongue Language & Other Languages
+#### (B)&nbsp;&nbsp; Mother Tongue Language &amp; Other Languages
 
-Higher Mother Tongue Languages (HMTL) 
+Higher Mother Tongue Languages (HMTL)&nbsp;
 
-**An e-copy of the HMTL Option Form will be sent to you via email on 22 December 2021**, if your child / ward is eligible.
+**An e-copy of the HMTL Option Form will be sent to you via email on 22 December 2021**,&nbsp;if your child / ward is eligible.
 
   
 
 Higher Chinese Language (HCL)
 
-Students taking HCL will attend lessons in Fairfield Methodist School (Secondary) during curriculum time. The school has the flexibility to allow students who do not meet the criteria to take up HCL to do so, if such students are assessed to have exceptional ability in Chinese Language and are able to do HCL without affecting their performance in other subjects. A HCL Entry Test will be conducted on 30 December 2021. Students who are eligible to take the HCL Entry Test will be informed after Secondary 1 Registration. The result of the entry test will be released on the first day of school.
+Students taking HCL will attend lessons in Fairfield Methodist School (Secondary) during curriculum time. The school has the flexibility to allow students who do not meet the criteria to take up HCL to do so, if such students are assessed to have exceptional ability in Chinese Language and are able to do HCL without affecting their performance in other subjects. A HCL Entry Test will be conducted on 30 December 2021. Students who are eligible to take the HCL Entry Test will be informed after Secondary 1 Registration.&nbsp;The result of the entry test will be released on the first day of school.
 
-       
+&nbsp; &nbsp; &nbsp;  
 
 Higher Malay Language (HML) / Higher Tamil Language (HTL)
 
-Students taking HML or HTL will attend lessons at a designated centre outside of curriculum time.  Students can submit their HML or HTL Option Form to the General Office when they report to Fairfield Methodist School (Secondary).  
+Students taking HML or HTL will attend lessons at a designated centre outside of curriculum time.&nbsp; Students can submit their HML or HTL Option Form to the General Office when they report to Fairfield Methodist School (Secondary).  
   
 
 Tamil Language (TL) / Basic Tamil Language (BTL)
@@ -65,31 +63,31 @@ Parents / Guardians will receive an email from the 3rd Language Coordinator, Mis
 
 #### (C) Appeal for Transfer after S1 Posting
 
-Students who wish to appeal for transfer must still register at the posted secondary school on 23 December 2021, the next working day after the release of school posting results.
+Students who wish to appeal for transfer must still register at the posted secondary school on&nbsp;23 December 2021, the next working day after the release of school posting results.
 
   
 
 Non-Medical Reasons
 
-For students who request for school transfer into Fairfield Methodist School (Secondary) due to non-medical reasons, students will need to submit their appeal through this **[link](https://go.gov.sg/sec1appealfortransfer)** . The transfer request form will be available from **Thursday, 23 December 2021, 8am**. You will receive an email confirmation upon completing the form.
+For students who request for school transfer into Fairfield Methodist School (Secondary) due to non-medical reasons, students will need to submit their appeal through this&nbsp;**[link](https://go.gov.sg/sec1appealfortransfer)**&nbsp;. The transfer request form will be available from&nbsp;**Thursday, 23 December 2021, 8am**. You will receive an email confirmation upon completing the form.
 
 The guidelines are as follows:
 
-●        Student’s PSLE AL score should meet the school’s cut-off point of the posting year.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student’s PSLE AL score should meet the school’s cut-off point of the posting year.
 
-●        The school must have available vacancies.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The school must have available vacancies.
 
 **Medical Reasons**
 
-For students who request for **school transfer out** **due to medical reasons**, students will need to submit their appeal via email to [CHUA\_Jiayin@schools.gov.sg](mailto:CHUA_Jiayin@schools.gov.sg) by **23 December 2021**, **12pm**. All appeals must be **accompanied by relevant supporting documents**, such as medical reports and / or letters from doctors. Please refer to [https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer) for more information. The appeal results will only be made known to applicants in **earl****y January 2022** through FMS(S). Applicants should continue to attend lessons at FMS(S) while waiting for the appeal results.
+For students who request for&nbsp;**school transfer out**&nbsp;**due to medical reasons**, students will need to submit their appeal via email to&nbsp;[CHUA\_Jiayin@schools.gov.sg](mailto:CHUA_Jiayin@schools.gov.sg)&nbsp;by&nbsp;**23 December 2021**,&nbsp;**12pm**. All appeals must be&nbsp;**accompanied by relevant supporting documents**, such as medical reports and / or letters from doctors. Please refer to&nbsp;[https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer)&nbsp;for more information. The appeal results will only be made known to applicants in&nbsp;**earl****y January 2022**&nbsp;through FMS(S). Applicants should continue to attend lessons at FMS(S) while waiting for the appeal results.
 
 #### (D) Sale of Secondary 1 2022 Textbooks, Stationery, Uniform, PE Attire and Polo Tee at School
 
-In line with Safe Management Measurements (SMM), we strongly encourage all parents / guardians to adhere to your allocated time slot for the purchase of the items. **Details of allocated date and time slots will be sent to all parents via email** on **22 December 2021**  **from 3 pm onwards** ( updated as of 22 December 2021, 2.57pm as PG will be having a downtime from 3 to 5 pm).  Please note that the school may have to turn away parents who turn up outside the allocated slots if safe management measures are being compromised. 
+In line with Safe Management Measurements (SMM), we strongly encourage all parents / guardians to adhere to your allocated time slot for the purchase of the items.&nbsp;**Details of allocated date and time slots will be sent to all parents via email**&nbsp;on&nbsp;**22 December 2021**&nbsp;&nbsp;**from 3 pm onwards**&nbsp;( updated as of 22 December 2021, 2.57pm as PG will be having a downtime from 3 to 5 pm).&nbsp;&nbsp;Please note that the school may have to turn away parents who turn up outside the allocated slots if safe management measures are being compromised.&nbsp;
 
   
 
-If you are **not able to purchase the items at your allocated day / time** in the school, you will need to **purchase the items online** (refer to **Option 2**). 
+If you are&nbsp;**not able to purchase the items at your allocated day / time**&nbsp;in the school, you will need to&nbsp;**purchase the items online**&nbsp;(refer to&nbsp;**Option 2**).&nbsp;
 
   
 
@@ -97,30 +95,30 @@ If you are **not able to purchase the items at your allocated day / time** in 
 
   
 
-**OPTION 1:** **Purchase directly from the school**
+**OPTION 1:**&nbsp;**Purchase directly from the school**
 
- ●        **Details of allocated date and time slots will be sent to all parents** **via email** on **22 December 2021 from 3 pm onwards** ( updated as of 22 December 2021, 2.57pm as PG will be having a downtime from 3 to 5 pm).
+ ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Details of allocated date and time slots will be sent to all parents**&nbsp;**via email**&nbsp;on&nbsp;**22 December 2021&nbsp;from 3 pm onwards**&nbsp;( updated as of 22 December 2021, 2.57pm as PG will be having a downtime&nbsp;from 3 to 5 pm).
 
-●        **Only 1 parent / guardian and 1 student are allowed to enter the school premises.**  
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Only 1 parent / guardian and 1 student are allowed to enter the school premises.**  
 
-●        Strictly **no parking** in the school.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Strictly&nbsp;**no parking**&nbsp;in the school.
 
-●        Kindly park at the nearest public car park (Blk 2A Dover Road).  
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kindly park at the nearest public car park (Blk 2A Dover Road).  
 
-●        Please **enter the school compound from the front gate** and **exit the school compound from the back gate**.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please&nbsp;**enter the school compound from the front gate**&nbsp;and&nbsp;**exit the school compound from the back gate**.
 
 **Venues and Date/Time for Sale**
 
 | Information | 23/27 December 2021 |
 |:---:|---|
-| Textbooks and Stationery<br>Vendor: E-Z Stationery & Book Centre Pte Ltd<br>[FMSS - Sec 1 Express Booklist 2022.pdf](/files/bl1.pdf)<br><br>[FMSS - Sec 1 NA Booklist 2022.pdf](/files/bl2.pdf)<br><br>[FMSS - Sec 1 NT Booklist 2022.pdf](/files/bl3.pdf)<br><br>[FMSS Sec 1 Express Stationery List 2022.pdf](/files/sl1.pdf)<br><br>[FMSS Sec 1 NA Stationery List 2022.pdf](/files/sl2.pdf)<br><br>[FMSS Sec 1 NT Stationery List 2022.pdf](/files/sl3.pdf)<br> | <br>Venue: Level 1 Classroom - C102, C103<br>Time: 9am to 4pm |
+| Textbooks and Stationery<br>Vendor: E-Z Stationery &amp; Book Centre Pte Ltd<br>[FMSS - Sec 1 Express Booklist 2022.pdf](/files/bl1.pdf)<br><br>[FMSS - Sec 1 NA Booklist 2022.pdf](/files/bl2.pdf)<br><br>[FMSS - Sec 1 NT Booklist 2022.pdf](/files/bl3.pdf)<br><br>[FMSS Sec 1 Express Stationery List 2022.pdf](/files/sl1.pdf)<br><br>[FMSS Sec 1 NA Stationery List 2022.pdf](/files/sl2.pdf)<br><br>[FMSS Sec 1 NT Stationery List 2022.pdf](/files/sl3.pdf)<br> | <br>Venue: Level 1 Classroom - C102, C103<br>Time: 9am to 4pm |
 | Uniform, PE Attire and Polo Tee<br>Vendor: Shanghai School Uniforms Pte Ltd<br><br>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.<br><br>[Sec 1 Reg - Part D - Price List for School Uniform 2021.pdf](/files/uniforms1.pdf) <br><br><br><br>Please note that there will be no trying on of attire.<br> Refer to link for size reference. | <br><br><br><br><br>Venue: Level 2 Chen Su Lan Hall<br>Time: 9am to 4pm |
 
 **OPTION 2: Online ordering + delivery (subject to delivery charges)**
 
 | Information | Website for Online Ordering |
 |:---:|---|
-| Textbooks and Stationery<br>Vendor: E-Z Stationery & Book Centre Pte Ltd<br> <br>School Uniform, PE Attire and Polo Tee<br>Vendor: Shanghai School Uniforms Pte Ltd | [http://www.ezstationery.com.sg](http://www.ezstationery.com.sg)<br><br>* E-Z Stationery & Book Centre Pte Ltd will be selling the School Uniform, PE Attire and Polo Tee on their website, on behalf of Shanghai Uniforms to reduce delivery charges.<br> <br>* Self-collection option is not available. |
+| Textbooks and Stationery<br>Vendor: E-Z Stationery &amp; Book Centre Pte Ltd<br> <br>School Uniform, PE Attire and Polo Tee<br>Vendor: Shanghai School Uniforms Pte Ltd | [http://www.ezstationery.com.sg](http://www.ezstationery.com.sg)<br><br>* E-Z Stationery &amp; Book Centre Pte Ltd will be selling the School Uniform, PE Attire and Polo Tee on their website, on behalf of Shanghai Uniforms to reduce delivery charges.<br> <br>* Self-collection option is not available. |
 
 #### (E) School / Miscellaneous Fees for 2022
 
@@ -132,31 +130,31 @@ If you are **not able to purchase the items at your allocated day / time** in 
 | IS (ASEAN) | 840 | 10 | 10 | 3 | 863 |
 | IS (Non-ASEAN) | 1600 | 10 | 10 | 3 | 1623 |
 
-●        The fees will be deducted around the 26th of every month except for the months of January, February, November and December.  Deduction of January and February fees will be done together in February while the fees for November and December will be deducted in November.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fees will be deducted around the 26th&nbsp;of every month except for the months of January, February, November and December.&nbsp; Deduction of January and February fees will be done together in February while the fees for November and December will be deducted in November.
 
-●        Please ensure you maintain sufficient funds in your bank account if you are paying via GIRO.
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please ensure you maintain sufficient funds in your bank account if you are paying via GIRO.
 
-●        We encourage all Singaporean students to sign up to use their Edusave accounts to pay for the 2nd tier miscellaneous and autonomous fees. If your child / ward does not have a standing order from primary school, you can email your request to [fmss@moe.edu.sg](mailto:fmss@moe.edu.sg).
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We encourage all Singaporean students to sign up to use their Edusave accounts to pay for the 2nd&nbsp;tier miscellaneous and autonomous fees. If your child / ward does not have a standing order from primary school, you can email your request to&nbsp;[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg).
 
 (F) Financial Assistance Scheme (FAS) 2022
 ------------------------------------------
 
-Eligible applicants may **download the application forms for** [FAS](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/2022%20MOE%20FAS%20Application%20Form%20wef%2021.9.2021.pdf) and email the completed form(s) with the necessary supporting documents to [fmss@moe.edu.sg](mailto:fmss@moe.edu.sg) by **28 December 2021.**  
+Eligible applicants may&nbsp;**download the application forms for**&nbsp;[FAS](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/2022%20MOE%20FAS%20Application%20Form%20wef%2021.9.2021.pdf)&nbsp;and email the completed form(s) with the necessary supporting documents to&nbsp;[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg)&nbsp;by&nbsp;**28 December 2021.**  
 
-For more information, you can click below for the [MOE FAS pamphlet](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/MOE%20FAS%20Pamphlet%202022.pdf).  
+For more information, you can click below for the&nbsp;[MOE FAS pamphlet](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/MOE%20FAS%20Pamphlet%202022.pdf).  
   
 Please note that incomplete submissions will result in a delay of your application.
 
   
 
-(G) Online Consent for Dental Services, , HPV Vaccination for Secondary 1 Girls and Annual Health Check
+(G) Online Consent for Dental Services,&nbsp;, HPV Vaccination for Secondary 1 Girls and Annual Health Check
 -------------------------------------------------------------------------------------------------------
 
-The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunization and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. 
+The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunization and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues.&nbsp;
 
   
 
-Please refer to the attached [letter](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/Letter%20to%20S1%20Parents.pdf) for more information. 
+Please refer to the attached&nbsp;[letter](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/Letter%20to%20S1%20Parents.pdf)&nbsp;for more information.&nbsp;
 
   
 
@@ -166,7 +164,7 @@ Your consent is needed to ensure your child receives these important health and 
 
 To give consent:
 
-1\. Log on to [https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)
+1\. Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)
 
 2\. Login using your SingPass with 2-factor authentication (2FA).
 
@@ -180,25 +178,25 @@ To give consent:
 
 You may access the Child Consent Portal via the QR code below too.
 
- <img src="/images/qr100.png" style="width:30%">
+&nbsp;<img src="/images/qr100.png" style="width:30%">
  
  Dental Services
 
-To promote good oral health for your child / ward, the Health Promotion Board (HPB) continues to provide free dental checks and basic treatments (if required) at specific times during school hours. The dental service for our students is provided at Fairfield Methodist School (Primary).   
+To promote good oral health for your child / ward, the Health Promotion Board (HPB) continues to provide free dental checks and basic treatments (if required) at specific times during school hours. The dental service for our students is provided at Fairfield Methodist School (Primary).&nbsp;  
 
   
 
-Please refer to this [link](https://www.healthhub.sg/programmes/15/school_dental_programme)  for more information.
+Please refer to this&nbsp;[link](https://www.healthhub.sg/programmes/15/school_dental_programme)&nbsp; for more information.
 
   
 
-HPV Vaccination for Secondary 1 Girls 
+HPV Vaccination for Secondary 1 Girls&nbsp;
 
   
 
-The Health Promotion Board will be offering fully subsidized Human Papillomavirus (HPV) vaccination to **all eligible Secondary 1 and 2 female students.** 
+The Health Promotion Board will be offering fully subsidized Human Papillomavirus (HPV) vaccination to&nbsp;**all eligible Secondary 1 and 2 female students.**&nbsp;
 
-The vaccination date is tentatively set on **29 June 2022**. Parents / Guardians must give their consent by **14 January 2022**, before the child / ward can receive the vaccination.
+The vaccination date is tentatively set on&nbsp;**29 June 2022**. Parents / Guardians must give their consent by&nbsp;**14 January 2022**, before the child / ward can receive the vaccination.
 
 • Students who are 14 years and below in Secondary 1 will require 2 doses. The first dose will be given in Secondary 1 and the second dose will be given in the next year.
 
@@ -206,7 +204,7 @@ The vaccination date is tentatively set on **29 June 2022**. Parents / Guardian
 
   
 
-Please refer to this [link](https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Secondary_School)  for more information.
+Please refer to this&nbsp;[link](https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Secondary_School)&nbsp; for more information.
 
   
 
@@ -214,7 +212,7 @@ Annual Health Check
 
   
 
-The school health team visits secondary schools annually to conduct health screening for students. The date is tentatively set on 15 July, 18 – 22 July. More information will be provided at the later date. 
+The school health team visits secondary schools annually to conduct health screening for students. The date is tentatively set on 15 July, 18 – 22 July. More information will be provided at the later date.&nbsp;
 
   
 
@@ -226,13 +224,13 @@ Secondary 1 students will be going through the following screening.
 
   
 
-Please refer to this [link](https://www.healthhub.sg/live-healthy/366/health_screening_for_secondary_school)  for more information.
+Please refer to this&nbsp;[link](https://www.healthhub.sg/live-healthy/366/health_screening_for_secondary_school)&nbsp; for more information.
 
   
 
 #### (H) Access to School Car Park
 
-Designated red parking lots are intended for season parking and are strictly reserved for staff of the school who have paid for season parking. 
+Designated red parking lots are intended for season parking and are strictly reserved for staff of the school who have paid for season parking.&nbsp;
 
   
 
@@ -242,7 +240,7 @@ Parents / guardians are not allowed to park in red parking lots.
 
 Use of the School Car Park during School Dismissal
 
-Parents / guardians are not allowed to drive into the school to pick up their child / ward. 
+Parents / guardians are not allowed to drive into the school to pick up their child / ward.&nbsp;
 
   
 
@@ -262,4 +260,4 @@ If you have two or more children and they are in different schools, you will be 
 
   
 
-For more information on Parents Gateway, please visit [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/).
+For more information on Parents Gateway, please&nbsp;visit&nbsp;[https://pg.moe.edu.sg/](https://pg.moe.edu.sg/).
