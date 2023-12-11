@@ -62,19 +62,20 @@ Parents / Guardians will receive a Parent Gateway notification from the 3rd Lang
 
 #### (C) Appeal for Transfer after S1 Posting
 
-Students who wish to appeal for transfer must still register at the posted secondary school on&nbsp;23 December 2021, the next working day after the release of school posting results.
+Students who wish to appeal for transfer must still register at the posted secondary school on&nbsp;21 December 2023, the next working day after the release of school posting results.
 
   
 
-Non-Medical Reasons
+<u>Non-Medical Reasons</u>
 
-For students who request for school transfer into Fairfield Methodist School (Secondary) due to non-medical reasons, students will need to submit their appeal through this&nbsp;**[link](https://go.gov.sg/sec1appealfortransfer)**&nbsp;. The transfer request form will be available from&nbsp;**Thursday, 23 December 2021, 8am**. You will receive an email confirmation upon completing the form.
+Students who are appealing  for school transfer into Fairfield Methodist School (Secondary) due to non-medical reasons, will need to submit their appeal through this&nbsp;**[link](https://go.gov.sg/sec1appealfortransfer )**&nbsp;. The transfer request form will be available from&nbsp;**Wednesday, 20 December 2023, 12pm**. You will receive an email confirmation upon completing the form.All appeal forms must reach the school by **5pm** on **Tuesday, 26 December 2023.**
 
-The guidelines are as follows:
+Consideration for any transfer is based on the following:
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student’s PSLE AL score should meet the school’s cut-off point of the posting year.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Student’s PSLE aggregate score must meet the school’s cut-off point of the posting year.
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The school must have available vacancies.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	The school has available vacancies.
+
 
 **Medical Reasons**
 
