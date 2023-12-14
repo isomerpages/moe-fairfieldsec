@@ -24,6 +24,3 @@ Should you have any queries, please email **Mr Francis Ng** **(HOD PE/CCA)** 
 
   
 
-#### 2022  Fairfield CCA Virtual Open House
-
-[Video](https://www.youtube.com/playlist?list=PLzmw-gmNv0ZK5YP9VUD4F3SWbcs6hoTck)
