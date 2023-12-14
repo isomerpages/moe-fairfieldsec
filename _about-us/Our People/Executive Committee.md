@@ -40,7 +40,7 @@ variant: markdown
 | **Ms Shamsiah Bte Zainalabidin** | SH Character &amp; Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
 | **Mdm Tan Sor Tin** |  SH Literature | [tan\_sor-tin@moe.edu.sg](mailto:tan_sor-tin@moe.edu.sg) |
 | **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
-| **Ms Chen Minhua** | SH Mother Tongue Languages (covering) | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg)
+| **Ms Chen Minhua** | SH Mother Tongue Languages | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg)
 | **Mr Dannish Kurniago** | SH Student Leadership (covering) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) | 
 | **Mr Loke Liang En Joel** | SH Social Studies (covering) | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
 | **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
