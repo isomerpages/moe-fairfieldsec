@@ -58,6 +58,8 @@ links:
   - title: Parents
     url: /parents/sec-1-2024/overview/
     sublinks:
+      - title: Information for Sec 1 2024
+        url: /parents/sec-1-2024/overview/
       - title: Partners-in-Education
         url: /parents/partners-in-education/
       - title: School Leaders' Updates
@@ -78,8 +80,6 @@ links:
         url: /parents/pdlp/overview/
       - title: Vendors and Services
         url: /parents/vendors-and-services/
-      - title: Information for Sec 1 2024
-        url: /parents/sec-1-2024/overview/
   - title: Prospective Students
     collection: prospective-students
   - title: Highlights
