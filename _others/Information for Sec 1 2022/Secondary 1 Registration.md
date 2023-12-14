@@ -123,15 +123,151 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
 
 
-#### (E) School / Miscellaneous Fees for 2022
+#### (F) School / Miscellaneous Fees for 2024
 
-| Nationality | School Fees($) | Standard Miscellaneous($) | 2nd Tier Miscellaneous($) | Autonomous Fees($) | Total($) |
-|---|---|---|---|---|---|
-| SC (Malay) | 0 | 10 | 10 | 3 | 23 |
-| SC (Others) | 5 | 10 | 10 | 3 | 28 |
-| PR | 440 | 10 | 10 | 3 | 463 |
-| IS (ASEAN) | 840 | 10 | 10 | 3 | 863 |
-| IS (Non-ASEAN) | 1600 | 10 | 10 | 3 | 1623 |
+<table style="width: 644px;">
+<tbody>
+<tr>
+<td style="text-align: center; width: 106px;">
+<p style="text-align: left;"><strong>Nationality</strong></p>
+</td>
+<td style="text-align: center; width: 106px;">
+<p><strong>School Fees</strong></p>
+</td>
+<td style="text-align: center; width: 120px;">
+<p><strong>Standard Miscellaneous</strong></p>
+</td>
+<td style="text-align: center; width: 100px;">
+<p><strong>2nd Tier Miscellaneous</strong></p>
+</td>
+<td style="text-align: center; width: 98.75px;">
+<p><strong>Autonomous Fees</strong></p>
+</td>
+<td style="text-align: center; width: 95.25px;">
+<p><strong>Total</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 106px; text-align: center;">
+<p>$</p>
+</td>
+<td style="width: 120px; text-align: center;">
+<p>$</p>
+</td>
+<td style="width: 100px; text-align: center;">
+<p>$</p>
+</td>
+<td style="width: 98.75px; text-align: center;">
+<p>$</p>
+</td>
+<td style="width: 95.25px; text-align: center;">
+<p>$</p>
+</td>
+</tr>
+<tr>
+<td style="width: 118px;">
+<p>SC (Malay)</p>
+</td>
+<td style="width: 106px; text-align: center;">
+<p>0</p>
+</td>
+<td style="width: 120px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 100px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 98.75px; text-align: center;">
+<p>3</p>
+</td>
+<td style="width: 95.25px; text-align: center;">
+<p>23</p>
+</td>
+</tr>
+<tr>
+<td style="width: 118px;">
+<p>SC (Others)</p>
+</td>
+<td style="width: 106px; text-align: center;">
+<p>5</p>
+</td>
+<td style="width: 120px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 100px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 98.75px; text-align: center;">
+<p>3</p>
+</td>
+<td style="width: 95.25px; text-align: center;">
+<p>28</p>
+</td>
+</tr>
+<tr>
+<td style="width: 118px;">
+<p>PR</p>
+</td>
+<td style="width: 106px; text-align: center;">
+<p>560</p>
+</td>
+<td style="width: 120px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 100px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 98.75px; text-align: center;">
+<p>3</p>
+</td>
+<td style="width: 95.25px; text-align: center;">
+<p>523</p>
+</td>
+</tr>
+<tr>
+<td style="width: 118px;">
+<p>IS (ASEAN)</p>
+</td>
+<td style="width: 106px; text-align: center;">
+<p>970</p>
+</td>
+<td style="width: 120px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 100px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 98.75px; text-align: center;">
+<p>3</p>
+</td>
+<td style="width: 95.25px; text-align: center;">
+<p>933</p>
+</td>
+</tr>
+<tr>
+<td style="width: 118px;">
+<p>IS (Non-ASEAN)</p>
+</td>
+<td style="width: 106px; text-align: center;">
+<p>1910</p>
+</td>
+<td style="width: 120px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 100px; text-align: center;">
+<p>10</p>
+</td>
+<td style="width: 98.75px; text-align: center;">
+<p>3</p>
+</td>
+<td style="width: 95.25px; text-align: center;">
+<p>1793</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fees will be deducted around the 26th&nbsp;of every month except for the months of January, February, November and December.&nbsp; Deduction of January and February fees will be done together in February while the fees for November and December will be deducted in November.
 
@@ -139,99 +275,64 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We encourage all Singaporean students to sign up to use their Edusave accounts to pay for the 2nd&nbsp;tier miscellaneous and autonomous fees. If your child / ward does not have a standing order from primary school, you can email your request to&nbsp;[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg).
 
-(F) Financial Assistance Scheme (FAS) 2022
-------------------------------------------
+#### (G) Financial Assistance Scheme (FAS) 2024
 
-Eligible applicants may&nbsp;**download the application forms for**&nbsp;[FAS](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/2022%20MOE%20FAS%20Application%20Form%20wef%2021.9.2021.pdf)&nbsp;and email the completed form(s) with the necessary supporting documents to&nbsp;[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg)&nbsp;by&nbsp;**28 December 2021.**  
 
-For more information, you can click below for the&nbsp;[MOE FAS pamphlet](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/MOE%20FAS%20Pamphlet%202022.pdf).  
-  
-Please note that incomplete submissions will result in a delay of your application.
+From Sep 2022, eligible applicants will be able to apply for FAS via hardcopy or through eFAS [link.](https://go.gov.sg/moe-efas) Online submission is strongly encouraged.
 
-  
+We will require you to submit hardcopy application form for the following scenarios and you may **download the application forms for** [FAS](/files/Parents/2024_MOE_FAS_Application_Form.pdf) and submit the completed form(s) with the necessary supporting documents to Fairfield General Office, during office hours.
 
-(G) Online Consent for Dental Services,&nbsp;, HPV Vaccination for Secondary 1 Girls and Annual Health Check
--------------------------------------------------------------------------------------------------------
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Family with other dependents (Great grandparents, Aunties/Uncles, Cousins and Others)
 
-The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunization and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Family with more than 5 children in govt school
 
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Family with more than 4 unmarried children not in govt school
 
-Please refer to the attached&nbsp;[letter](https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/qql/slot/u618/Parents/Secondary%201%20Registration/Letter%20to%20S1%20Parents.pdf)&nbsp;for more information.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Family with more than 3 grandparents in the household
 
-  
+Students who are ComCare beneficiaries may be auto-granted FAS for 2024. There is no requirement for this group of students to apply for FAS.
 
-Your consent is needed to ensure your child receives these important health and dental services provided.
+For more information, you can visit this [link.](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
+Please submit the completed form(s) via eFAS or directly to Fairfield General Office, with the necessary supporting documents by **27 December 2023.** Do note that incomplete submissions will result in a delay in your application.
+
+
+
+
+#### (H) Online Consent for Dental Services (Secondary School Dental Programme)
+
+
+To promote good oral health for your child / ward, the Health Promotion Board (HPB) continues to provide free dental checks and basic treatments (if required) at specific times during school hours. The dental service for our students is provided at Fairfield Methodist School (Primary).
+ 
+ 
+ #### (I) Online Consent for Dental Services (Secondary School Dental Programme)
+
+The Health Promotion Board will be offering school-based human papillomavirus (HPV) vaccination to **all female students** in secondary schools, under the national school-based HPV vaccination programme. 
+
+We will inform all parents once we have confirmed the vaccination date for Year 2024. Parents / Guardians will need to give their consent before the child / ward can receive the vaccination. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Students who are 14 years and below in Secondary 1 will require 2 doses. The first dose will be given in Secondary 1 and the second dose will be given in the next year.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Students who are 15 years old and above in Secondary 1 will require 3 doses. The first and second doses will be given in Secondary 1 and the third dose will be given in the next year. 
+ 
   
 
 To give consent:
 
-1\. Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1\. Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)
 
-2\. Login using your SingPass with 2-factor authentication (2FA).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2\. Login using your SingPass with 2-factor authentication (2FA).
 
-3\. Type in your child’s/ward’s UIN/BC/FIN number.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3\. Type in your child’s/ward’s UIN/BC/FIN number.
 
-4\. Fill up and submit the consent form.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4\. Fill up and submit the consent form.
 
-5\. Update your child’s medication condition(s).
 
-  
 
-You may access the Child Consent Portal via the QR code below too.
-
-&nbsp;<img src="/images/qr100.png" style="width:30%">
- 
- Dental Services
-
-To promote good oral health for your child / ward, the Health Promotion Board (HPB) continues to provide free dental checks and basic treatments (if required) at specific times during school hours. The dental service for our students is provided at Fairfield Methodist School (Primary).&nbsp;  
 
   
 
-Please refer to this&nbsp;[link](https://www.healthhub.sg/programmes/15/school_dental_programme)&nbsp; for more information.
-
-  
-
-HPV Vaccination for Secondary 1 Girls&nbsp;
-
-  
-
-The Health Promotion Board will be offering fully subsidized Human Papillomavirus (HPV) vaccination to&nbsp;**all eligible Secondary 1 and 2 female students.**&nbsp;
-
-The vaccination date is tentatively set on&nbsp;**29 June 2022**. Parents / Guardians must give their consent by&nbsp;**14 January 2022**, before the child / ward can receive the vaccination.
-
-• Students who are 14 years and below in Secondary 1 will require 2 doses. The first dose will be given in Secondary 1 and the second dose will be given in the next year.
-
-• Students who are 15 years old and above in Secondary 1 will require 3 doses. The first and second doses will be given in Secondary 1 and the third dose will be given in the next year.
-
-  
-
-Please refer to this&nbsp;[link](https://www.healthhub.sg/programmes/16/growing_up_strong_healthy/#Immunisations_Secondary_School)&nbsp; for more information.
-
-  
-
-Annual Health Check
-
-  
-
-The school health team visits secondary schools annually to conduct health screening for students. The date is tentatively set on 15 July, 18 – 22 July. More information will be provided at the later date.&nbsp;
-
-  
-
-Secondary 1 students will be going through the following screening.
-
-• Spinal screening
-
-• Review of health conditions where applicable
-
-  
-
-Please refer to this&nbsp;[link](https://www.healthhub.sg/live-healthy/366/health_screening_for_secondary_school)&nbsp; for more information.
-
-  
-
-#### (H) Access to School Car Park
+#### (J) Access to School Car Park
 
 Designated red parking lots are intended for season parking and are strictly reserved for staff of the school who have paid for season parking.&nbsp;
 
@@ -241,19 +342,19 @@ Parents / guardians are not allowed to park in red parking lots.
 
   
 
-Use of the School Car Park during School Dismissal
+<u>Use of the School Car Park during School Dismissal</u>
 
 Parents / guardians are not allowed to drive into the school to pick up their child / ward.&nbsp;
 
   
 
-Visitor Parking
+<u>Visitor Parking</u>
 
 White parking lots are for visitors to the school on official business. This can include parents who are here to meet up with teachers on official matters. As there are limited white lots, once the lots are all taken up, any visitor will have to find parking outside of the school.
 
   
 
-#### (I) Parents Gateway
+#### (K) Parents Gateway
 
 The Parent Gateway (PG) Mobile App is an initiative by MOE to enable parents to interact with schools more conveniently regarding administrative and financial matters. Parents will also be able to use this app to stay updated on the school’s programme and activities.
 
