@@ -3,6 +3,7 @@ title: Humanities
 permalink: /about-us/our-people/humanities/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Humanities
 
@@ -12,8 +13,7 @@ third_nav_title: Our People
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mrs Choe Wai Leng** | HOD Humanities | [choe\_wai\_leng\_evelyn@moe.edu.sg](mailto:choe_wai_leng_evelyn@moe.edu.sg) |
-| **Mr Wee Guoyuan** | SH Social Studies | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
+| **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 | **Mr Ezal Bin Sani** | Lead Teacher<br>Sec 3G Form Teacher |  [ezal\_sani@moe.edu.sg](mailto:ezal_sani@moe.edu.sg) |
 
 #### Our Teachers
@@ -30,5 +30,4 @@ third_nav_title: Our People
 | **Ms Uma Devi D/O Muthamilan** | Sec 1F Form Teacher | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
 | **Ms  Chan Xin Hui Charmaine** | Sec 2A Form Teacher | [charmaine\_chan\_xin\_hui@moe.edu.sg](mailto:charmaine_chan_xin_hui@moe.edu.sg) |
 | **Ms Lai Xin Yi Felicia** | Sec 3D Form Teacher | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
-| **Ms Wee Xuemei** | Teacher | [wee_xuemei@moe.edu.sg](mailto:wee_xuemei@moe.edu.sg) |
-| **Ms&nbsp;Lee Choong Kum, Irene** | Teacher | [lim_siew_ein@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
+| **Ms&nbsp;Lee Choong Kum, Irene** | Teacher | [lee\_choong\_kum\_irene@moe.edu.sg](mailto:lee_choong_kum_irene@moe.edu.sg) |
