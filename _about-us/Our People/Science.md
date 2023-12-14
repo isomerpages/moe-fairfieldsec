@@ -3,6 +3,7 @@ title: Science
 permalink: /about-us/our-people/science/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Science
 
@@ -12,10 +13,10 @@ third_nav_title: Our People
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Ang Yuan Peng** | HOD Science | [ang\_yuan\_peng@moe.edu.sg](mailto:ang_yuan_peng@moe.edu.sg) |
+| **Mr Liew Hoe Meng Keith** | HOD Science | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
 | **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
 | **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
-| **Mr Liew Hoe Meng Keith** | HOD ICT | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
+| **Ms Koh Wei Shan Clarissa** | Year Head (Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 | **Ms Koh Wei Shan Clarissa** | Year Head (Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 
 #### Our Teachers
@@ -24,7 +25,7 @@ third_nav_title: Our People
 |---|---|---|
 | **Ms Aminah Beevi**  | Sec 5A Form Teacher | [aminah\_beevi\_rahim@moe.edu.sg](mailto:aminah_beevi_rahim@moe.edu.sg) |
 | **Mrs Jean Ho - Tan Siew Ching** | Sec 4E Form Teacher | [jean\_tan\_siew\_ching@moe.edu.sg](mailto:jean_tan_siew_ching@moe.edu.sg) |
-| **Mr Kho Eng Kiong Patrick** | AED ( T & L )| [kho\_eng\_kiong@moe.edu.sg](mailto:kho_eng_kiong@moe.edu.sg) |
+| **Mr Kho Eng Kiong Patrick** | AED ( T &amp; L )| [kho\_eng\_kiong@moe.edu.sg](mailto:kho_eng_kiong@moe.edu.sg) |
 | **Ms Lim Chee Chin** | Sec 2G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
 | **Ms Lim Chee Shan** | Sec 4D Form Teacher | [chee\_shan\_lim@moe.edu.sg](mailto:chee_shan_lim@moe.edu.sg) |
 | **Mrs Lim Hwee Ling** | Sec 4F Form Teacher | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
