@@ -62,7 +62,7 @@ Parents / Guardians will receive a Parent Gateway notification from the 3rd Lang
 
 #### (C) Appeal for Transfer after S1 Posting
 
-Students who wish to appeal for transfer must still register at the posted secondary school on&nbsp;21 December 2023, the next working day after the release of school posting results.
+Students who wish to appeal for transfer must still register at the posted secondary school on&nbsp;**21 December 2023**, the next working day after the release of school posting results.
 
   
 
