@@ -94,7 +94,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
 **OPTION 1:**&nbsp;**Purchase directly from the school**
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Strictly no parking in the school. 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Strictly **no parking** in the school. 
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Kindly park at the nearest public car park (Blk 2A Dover Road).
 
