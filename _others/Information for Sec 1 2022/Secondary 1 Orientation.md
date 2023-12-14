@@ -7,11 +7,11 @@ variant: markdown
 ---
 ### Secondary 1 Orientation
 
-To welcome our new Secondary 1 students, the Secondary 1 Orientation programme will be held on **2 ,3 and 4 January 2024**.
+To welcome our new Secondary 1 students, the Secondary 1 Orientation programme will be held on&nbsp;**2 ,3 and 4 January 2024**.
 
   
 
-Please note the following **dismissal times** for the Orientation Programme.
+Please note the following&nbsp;**dismissal times**&nbsp;for the Orientation Programme.
 
 | Date | Day | Dismissal Time | Attire |
 |---|---|---|---|
@@ -22,11 +22,11 @@ Please note the following **dismissal times** for the Orientation Programme.
 
 *Some classes will end later due to IT familiarisation sessions. 
 
-OG A & B - 2 Jan (3.00pm - 4.00pm)
+OG A &amp; B - 2 Jan (3.00pm - 4.00pm)
 
-OG C & D - 3 Jan (3.00pm - 4.00pm)
+OG C &amp; D - 3 Jan (3.00pm - 4.00pm)
 
-OG E & F - 4 Jan (4.15pm - 5.15pm)
+OG E &amp; F - 4 Jan (4.15pm - 5.15pm)
 
 OG G’s session will take place at a later date. 
 
@@ -34,7 +34,7 @@ OG G’s session will take place at a later date.
 
 ● A lock for their lockers (for students to keep their personal belongings during the Orientation programme)
 
-● Extra mask (if required)
+● Extra mask&nbsp;(if required)
 
 ● A ziplock bag to store the mask during strenuous activities (if required)
 
@@ -50,7 +50,7 @@ OG G’s session will take place at a later date.
 
   
 
-Please also note that the school will be providing the Secondary 1 students with an **Orientation T-shirt** specially designed for their cohort. The measurements of the T-shirt are as follows. Please indicate your child’s size in the e-Registration Form.
+Please also note that the school will be providing the Secondary 1 students with an&nbsp;**Orientation T-shirt**&nbsp;specially designed for their cohort. The measurements of the T-shirt are as follows. Please indicate your child’s size in the e-Registration Form.
 
 | Size | Shoulder | Chest | Sleeve | Length |
 |---|---|---|---|---|
@@ -62,3 +62,75 @@ Please also note that the school will be providing the Secondary 1 students with
 | XL | 20” | 44” | 9.5” | 30.0” |
 | 2XL | 21” | 46” | 10.0” | 31.0” |
 | 3XL | 22” | 48” | 10.5” | 32.0” |
+
+#### CCA Fair, Principal’s Dialogue and Installation Night Programme
+
+As part of our Orientation Programme, parents are invited to attend the CCA Fair, Principal’s Dialogue and Installation Night Programme on 5 January 2024. The Installation Night is a ceremony during which the Secondary 1 students are officially welcomed into the Fairfield Family. The programme is as follows:
+
+
+<table width="861">
+<tbody>
+<tr style="height: 31.5px;">
+<td width="128" style="height: 31.5px; text-align: center;">
+<p><strong>Time</strong></p>
+</td>
+<td width="445" style="height: 31.5px; text-align: center;">
+<p><strong>Programme</strong></p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td width="128" style="text-align: center; height: 31px;">
+<p>1645-1745</p>
+</td>
+<td width="445" style="text-align: center; height: 31px;">
+<p>CCA Walkabout (Refreshments will be provided for parents)</p>
+</td>
+</tr>
+<tr style="height: 61px;">
+<td width="128" style="text-align: center; height: 61px;">
+<p>1745-1800</p>
+</td>
+<td width="445" style="text-align: center; height: 61px;">
+<p>Movement to the Classroom (Students)</p>
+<p>Movement to the Hall (Parents)</p>
+</td>
+</tr>
+<tr style="height: 91px;">
+<td width="128" style="text-align: center; height: 91px;">
+<p>1800-1910</p>
+<p>1800-1900</p>
+<p>1900-1910</p>
+</td>
+<td width="445" style="text-align: center; height: 91px;">
+<p>Principal’s Dialogue (Parents)</p>
+<p>Dinner (Students)</p>
+<p>Movement of Students from Classroom to Hall</p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td width="128" style="text-align: center; height: 31px;">
+<p>1910-1915</p>
+</td>
+<td width="445" style="text-align: center; height: 31px;">
+<p>Settling down of students with their parents</p>
+</td>
+</tr>
+<tr style="height: 91px;">
+<td width="128" style="text-align: center; height: 91px;">
+<p>1915 - 1950</p>
+</td>
+<td width="445" style="text-align: center; height: 91px;">
+<p>Installation Night Programme<br>Prize Presentation<br>Badge Presentation</p>
+</td>
+</tr>
+<tr style="height: 31px;">
+<td width="128" style="text-align: center; height: 31px;">
+<p>1950</p>
+</td>
+<td width="445" style="text-align: center; height: 31px;">
+<p>Sec 1 Dismissal</p>
+</td>
+</tr>
+</tbody>
+</table>
+
