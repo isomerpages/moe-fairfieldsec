@@ -317,7 +317,6 @@ We will inform all parents once we have confirmed the vaccination date for Year 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Students who are 14 years and below in Secondary 1 will require 2 doses. The first dose will be given in Secondary 1 and the second dose will be given in the next year.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●	Students who are 15 years old and above in Secondary 1 will require 3 doses. The first and second doses will be given in Secondary 1 and the third dose will be given in the next year. 
- 
   
 
 To give consent:
