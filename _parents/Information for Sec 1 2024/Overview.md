@@ -18,10 +18,3 @@ Welcome, Secondary 1 Students of 2024!
 Congratulations on your posting to Fairfield Methodist School (Secondary). It will be a new phase of your development and we are happy to welcome you to be part of the family!
 
   
-Click on the following links to find out more
-
-Secondary 1 Registration
-
-Secondary 1 Orientation
-
-Secondary 1 CCA Registration
