@@ -51,7 +51,7 @@ All students are issued a locker and students are required to use their own lock
 
  
 
-#### (D)&nbsp;Secondary 1 3-Day Non Residential Camp (15 - 17 May 2024)
+#### (D)&nbsp;Secondary 1 3D2N Residential Camp (15 - 17 May 2024)
 
 The school will be organising a camp for Secondary 1 students as part of the school’s FLEX programme. It will be held at an external campsite. Parents / Guardians will receive more information with regards to the camp via Parents Gateway (PG) at a later date.
 
