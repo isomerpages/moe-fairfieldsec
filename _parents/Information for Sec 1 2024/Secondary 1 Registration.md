@@ -82,7 +82,7 @@ Consideration for any transfer is based on the following:
 For students who request for&nbsp;**school transfer out**&nbsp;**due to medical reasons**, students will need to submit their appeal via email to&nbsp;[CHUA\_Jiayin@schools.gov.sg](mailto:CHUA_Jiayin@schools.gov.sg)&nbsp;by&nbsp;**21 December 2023**,&nbsp;**12pm**. All appeals must be&nbsp;**accompanied by relevant supporting documents**, such as medical reports and / or letters from doctors. Please refer to&nbsp;[https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer)&nbsp;for more information. The appeal results will only be made known to applicants in&nbsp;**early January 2024**&nbsp;through FMS(S). Applicants should continue to attend lessons at FMS(S) while waiting for the appeal results.
 
 #### (D) Student SEN Form
-Parents are kindly requested to complete the [online form](https://form.gov.sg/6554350f17ff2600123b3575) by 21 December 2024. The information gathered from this form will help the school in planning for the necessary support structures for the students if necessary. A NIL reply is required.
+Parents are kindly requested to complete the [online form](https://form.gov.sg/6554350f17ff2600123b3575) by **21 December 2024.** The information gathered from this form will help the school in planning for the necessary support structures for the students if necessary. A NIL reply is required.
 
 #### (E) Sale of Secondary 1 2024 Textbooks, Stationery, School Attire 
 
