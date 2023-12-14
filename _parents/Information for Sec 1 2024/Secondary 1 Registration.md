@@ -305,9 +305,10 @@ Please submit the completed form(s) via eFAS or directly to Fairfield General Of
 
 
 To promote good oral health for your child / ward, the Health Promotion Board (HPB) continues to provide free dental checks and basic treatments (if required) at specific times during school hours. The dental service for our students is provided at Fairfield Methodist School (Primary).
+
+
+#### (I) Online Consent for HPV Vaccination for Secondary 1 Girls
  
- 
- #### (I) Online Consent for HPV Vaccination for Secondary 1 Girls
 
 The Health Promotion Board will be offering school-based human papillomavirus (HPV) vaccination to **all female students** in secondary schools, under the national school-based HPV vaccination programme. 
 
