@@ -9,7 +9,7 @@ variant: markdown
 
   
 
-CCA selection trials / auditions will be conducted over 3 afternoons from **8,10 to 11 January 2024** for all Secondary 1 students, regardless of their interest. DSA students are exempted. In addition, two **Friday afternoons (19 and 26 January 2024)** will also be set aside for Uniformed Groups tryouts.
+CCA selection trials / auditions will be conducted over 3 afternoons from **8, 10 to 11 January 2024** for all Secondary 1 students, regardless of their interest. DSA students are exempted. In addition, two **Friday afternoons (19 and 26 January 2024)** will also be set aside for Uniformed Groups tryouts.
   
 
 The schedule for CCA trials / auditions / interviews and the dismissal times will be sent via Parents Gateway (PG) when the school term starts.
