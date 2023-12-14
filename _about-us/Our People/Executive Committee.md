@@ -27,12 +27,12 @@ variant: markdown
 | **Mr Joel Li Weihan** | HOD Character &amp; Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
 | **Mr Glen Tan Li Ming** | HOD Special Educational Needs | [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
 | **Mr Chia Wey Ling Vincent** | HOD Discipline | [vincent\_chia\_wey\_ling@moe.edu.sg](mailto:vincent_chia_wey_ling@moe.edu.sg) |
+| **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 | **Ms Nio Qing Hui Brenda** | HOD ICT (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
 | **Ms Koh Wei Shan Clarissa** | Year Head ( Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 | **Mr Eric Loh Youn Leong** | Year Head ( Lower Sec ) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
 | **Mr Yap Hock Heng** | Assistant Year Head | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
 | **Ms Trixie Chan Thing Lee** | Assistant Year Head | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg  ) |
-| **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 | **Mr Joseph Guo Enliang** | LH English Language | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
 | **Mr James Quek Chin Wee** | LH Mathematics | [james\_quek\_chin\_wee@moe.edu.sg](mailto:james_quek_chin_wee@moe.edu.sg) |
 | **Mr Wilson Ho Wee Yew** | LH Mathematics | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
