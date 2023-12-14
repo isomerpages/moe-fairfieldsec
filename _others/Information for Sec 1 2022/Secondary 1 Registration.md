@@ -115,7 +115,13 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
 **OPTION 3: Online ordering &amp; self-collection at FMS(S)**
 
-INSERT TABLE
+
+| **Information** | **Details for Self-Collection** | 
+| :--------: | --------| 
+| **Textbooks and Stationery**<br>Vendor: Asencio Pte Ltd        | You can select a date to self-collect after checking out the items in the vendor’s website  | 
+| School Uniform, PE Attire and Polo Tee <br>Vendor: Shanghai School Uniforms Pte Ltd     | Not avaialble  | 
+
+
 
 #### (E) School / Miscellaneous Fees for 2022
 
