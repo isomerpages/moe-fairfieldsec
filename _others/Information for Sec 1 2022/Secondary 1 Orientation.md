@@ -3,10 +3,11 @@ title: Secondary 1 Orientation
 permalink: /others/Information-for-Sec-1-2022/orientation/
 description: ""
 third_nav_title: Information for Sec 1 2022
+variant: markdown
 ---
 ### Secondary 1 Orientation
 
-To welcome our new Secondary 1 students, the Secondary 1 Orientation programme will be held on **4 ,5 and 6 January 2022**.
+To welcome our new Secondary 1 students, the Secondary 1 Orientation programme will be held on **2 ,3 and 4 January 2024**.
 
   
 
@@ -14,23 +15,32 @@ Please note the following **dismissal times** for the Orientation Programme.
 
 | Date | Day | Dismissal Time | Attire |
 |---|---|---|---|
-| 4 January 2022 | Tuesday | 4.00pm | PE Attire |
-| 5 January 2022 | Wednesday | 4.30pm | PE Attire |
-| 6 January 2022 | Thursday | 4.00pm | Orientation T-Shirt with PE bottoms. Bring along 1 set of School Uniform (including school tie). |
+| 2 January 2022 | Tuesday | 3.00pm* | Polo T Shirt and Uniform Shorts [Boys] / Skirts [Girls] |
+| 3 January 2022 | Wednesday | 3.00pm* | PE Attire |
+| 4 January 2022 | Thursday | 4.15pm* | Dark Colored T-Shirt with PE bottoms. Bring along Orientation T-Shirt (T-Shirt will be provided on Day 1 or 2)|
+| 5 January 2022 | Friday | 7.50pm* | School Uniform (Lessons as per usual. Orientation programme carries on after lessons) |
+
+*Some classes will end later due to IT familiarisation sessions. 
+
+OG A & B - 2 Jan (3.00pm - 4.00pm)
+
+OG C & D - 3 Jan (3.00pm - 4.00pm)
+
+OG E & F - 4 Jan (4.15pm - 5.15pm)
+
+OG G’s session will take place at a later date. 
 
 **Things to bring:**
 
 ● A lock for their lockers (for students to keep their personal belongings during the Orientation programme)
 
-● Extra mask 
+● Extra mask (if required)
 
-● A ziplock bag to store the mask during strenuous activities
+● A ziplock bag to store the mask during strenuous activities (if required)
 
 ● Writing materials
 
 ● Thermometer
-
-● Trace-Together Token
 
 ● Water bottle
 
