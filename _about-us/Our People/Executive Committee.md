@@ -15,8 +15,8 @@ variant: markdown
 |---|---|---|
 | **Mr Wee Tat Chuen** | Principal | [WEE\_Tat\_Chuen@schools.gov.sg](mailto:WEE_Tat_Chuen@schools.gov.sg) |
 | **Mr Jeromy Ngian** | Vice-Principal  | [Jeromy_NGIAN@schools.gov.sg](mailto:Jeromy_NGIAN@schools.gov.sg) |
-| **Mdm Veronica Chua** | Vice-Principal | [chua\_jiayin@schools.gov.sg](mailto:chua_jiayin@schools.gov.sg) |
-| **Ms Stella Koh Li Hui** | Vice-Principal  | [stella\_koh\_li\_hui@schools.gov.sg](mailto:stella_koh_li_hui@schools.gov.sg) |
+| **Ms Stella Koh** | Vice-Principal  | [stella\_koh\_li\_hui@schools.gov.sg](mailto:stella_koh_li_hui@schools.gov.sg) |
+| **Mdm Veronica Chua** | Vice-Pricipal (Administration)| [chua\_jiayin@schools.gov.sg](mailto:chua_jiayin@schools.gov.sg) |
 | **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | **Mr Chua Chang Fong** | HOD Aesthetics | [chua\_chang\_fong@moe.edu.sg](mailto:chua_chang_fong@moe.edu.sg) |
 | **Mr Joel Li Weihan** | HOD Character &amp; Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
