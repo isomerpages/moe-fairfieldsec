@@ -17,7 +17,8 @@ variant: markdown
 | **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
 | **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | **Ms Koh Wei Shan Clarissa** | Year Head (Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
-| **Ms Koh Wei Shan Clarissa** | Year Head (Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
+| **Ms Trixie Chan Thing Lee** | Assistant Year Head | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg  ) |
+
 
 #### Our Teachers
 
