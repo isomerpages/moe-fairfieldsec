@@ -21,7 +21,9 @@ Congratulations on your posting to Fairfield Methodist School (Secondary). It wi
 Click on the following links to find out more
 
 Secondary 1 Registration
+
 Secondary 1 Orientation
+
 Secondary 1 CCA Registration
 
 
