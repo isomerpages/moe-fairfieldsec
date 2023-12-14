@@ -272,11 +272,11 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
 
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fees will be deducted around the 26th&nbsp;of every month except for the months of January, February, November and December.&nbsp; Deduction of January and February fees will be done together in February while the fees for November and December will be deducted in November.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fees will be deducted around the 26th&nbsp;of every month except for the months of January, February, November and December.&nbsp; Deduction of January and February fees will be done together in February while the fees for November and December will be deducted in November.
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please ensure you maintain sufficient funds in your bank account if you are paying via GIRO.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please ensure you maintain sufficient funds in your bank account if you are paying via GIRO.
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We encourage all Singaporean students to sign up to use their Edusave accounts to pay for the 2nd&nbsp;tier miscellaneous and autonomous fees. If your child / ward does not have a standing order from primary school, you can email your request to&nbsp;[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg).
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We encourage all Singaporean students to sign up to use their Edusave accounts to pay for the 2nd&nbsp;tier miscellaneous and autonomous fees. If your child / ward does not have a standing order from primary school, you can email your request to&nbsp;[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg).
 
 #### (G) Financial Assistance Scheme (FAS) 2024
 
