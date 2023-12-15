@@ -21,3 +21,4 @@ You are invited to a **CCA Fair from 4:45pm to 5:45pm** at the school canteen on
 
 
 Should you have any queries, please email **Mr Francis Ng (HOD PE/CCA)** at [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg).
+
