@@ -20,4 +20,4 @@ The **Instructional Guide for Online CCA Registration** will be provided in *
 You are invited to a **CCA Fair from 4:45pm to 5:45pm** at the school canteen on **5 January 2024** to better understand the requirements of the CCAs offered by the school. This will be followed by the Principal’s Dialogue at the School Hall. 
 
 
-Should you have any queries, please email **Mr Francis Ng** **(HOD PE/CCA)** at [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg).
+Should you have any queries, please email **Mr Francis Ng (HOD PE/CCA)** at [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg).
