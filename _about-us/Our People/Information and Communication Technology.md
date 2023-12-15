@@ -13,7 +13,7 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Liew Hoe Meng Keith** | HOD ICT | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
+| **Ms Nio Qing Hui Brenda** | HOD ICT (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
 | **Mr Lee Yew Ming** | ICT Manager | [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg) |
 | **Mdm Sangeetha** | ICT Manager | [ramachandran\_sangeetha@moe.edu.sg](mailto:ramachandran_sangeetha@moe.edu.sg) |
 
