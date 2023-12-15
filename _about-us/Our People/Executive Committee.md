@@ -16,7 +16,7 @@ variant: markdown
 | **Mr Wee Tat Chuen** | Principal | [WEE\_Tat\_Chuen@schools.gov.sg](mailto:WEE_Tat_Chuen@schools.gov.sg) |
 | **Mr Jeromy Ngian** | Vice-Principal  | [Jeromy_NGIAN@schools.gov.sg](mailto:Jeromy_NGIAN@schools.gov.sg) |
 | **Ms Stella Koh** | Vice-Principal  | [stella\_koh\_li\_hui@schools.gov.sg](mailto:stella_koh_li_hui@schools.gov.sg) |
-| **Mdm Veronica Chua** | Vice-Pricipal (Administration)| [chua\_jiayin@schools.gov.sg](mailto:chua_jiayin@schools.gov.sg) |
+| **Mdm Veronica Chua** | Vice-Principal (Administration)| [chua\_jiayin@schools.gov.sg](mailto:chua_jiayin@schools.gov.sg) |
 | **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | **Mrs Kwok-Chang Jiapei** | HOD English Language &amp; Literature  | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
 | **Ms Lee Sok Fun** | HOD Mother Tongue Languages |  [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
