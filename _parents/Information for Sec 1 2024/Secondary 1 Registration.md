@@ -124,7 +124,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 | **Information** | **Details for Self-Collection** | 
 | :--------: | --------| 
 | **Textbooks and Stationery**<br>Vendor: Asencio Pte Ltd        | You can select a date to self-collect after checking out the items in the vendor’s website  | 
-| School Uniform, PE Attire and Polo Tee <br>Vendor: Shanghai School Uniforms Pte Ltd     | Not avaialble  | 
+| School Uniform, PE Attire and Polo Tee <br>Vendor: Shanghai School Uniforms Pte Ltd     | Not available  | 
 
 
 
