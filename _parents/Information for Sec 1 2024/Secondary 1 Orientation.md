@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Secondary 1 Orientation
 
-To welcome our new Secondary 1 students, the Secondary 1 Orientation programme will be held on&nbsp;**2 ,3 and 4 January 2024**.
+To welcome our new Secondary 1 students, the Secondary 1 Orientation programme will be held on&nbsp;**2, 3 and 4 January 2024**.
 
   
 
