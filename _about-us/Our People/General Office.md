@@ -3,6 +3,7 @@ title: General Office
 permalink: /about-us/our-people/general-office/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### General Office
 
@@ -12,7 +13,6 @@ third_nav_title: Our People
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mdm Veronica Chua** | Administration Manager | [chua\_jiayin@schools.gov.sg](mailto:chua_jiayin@schools.gov.sg) |
 | **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
 
 | Name | Designation | Email |
