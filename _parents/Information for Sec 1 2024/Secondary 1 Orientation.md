@@ -65,7 +65,7 @@ Please also note that the school will be providing the Secondary 1 students with
 
 #### CCA Fair, Principal’s Dialogue and Installation Night Programme
 
-As part of our Orientation Programme, parents are invited to attend the CCA Fair, Principal’s Dialogue and Installation Night Programme on 5 January 2024. The Installation Night is a ceremony during which the Secondary 1 students are officially welcomed into the Fairfield Family. The programme is as follows:
+As part of our Orientation Programme, parents are invited to attend the CCA Fair, Principal’s Dialogue and Installation Night Programme on **5 January 2024**. The Installation Night is a ceremony during which the Secondary 1 students are officially welcomed into the Fairfield Family. The programme is as follows:
 
 
 <table width="861">
