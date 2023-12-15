@@ -68,7 +68,7 @@ Students who wish to appeal for transfer must still register at the posted secon
 
 <u>Non-Medical Reasons</u>
 
-Students who are appealing  for school transfer into Fairfield Methodist School (Secondary) due to non-medical reasons, will need to submit their appeal through this&nbsp;**[link](https://go.gov.sg/sec1appealfortransfer )**&nbsp;. The transfer request form will be available from&nbsp;**Wednesday, 20 December 2023, 12pm**. You will receive an email confirmation upon completing the form.All appeal forms must reach the school by **5pm** on **Tuesday, 26 December 2023.**
+Students who are appealing  for school transfer into Fairfield Methodist School (Secondary) due to non-medical reasons, will need to submit their appeal through this&nbsp;**[link](https://go.gov.sg/sec1appealfortransfer )**&nbsp;. The transfer request form will be available from&nbsp;**Wednesday, 20 December 2023, 12pm**. You will receive an email confirmation upon completing the form. All appeal forms must reach the school by **5pm** on **Tuesday, 26 December 2023.**
 
 Consideration for any transfer is based on the following:
 
