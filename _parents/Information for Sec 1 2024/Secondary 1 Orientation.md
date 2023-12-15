@@ -15,10 +15,10 @@ Please note the following&nbsp;**dismissal times**&nbsp;for the Orientation Prog
 
 | Date | Day | Dismissal Time | Attire |
 |---|---|---|---|
-| 2 January 2022 | Tuesday | 3.00pm* | Polo T Shirt and Uniform Shorts [Boys] / Skirts [Girls] |
-| 3 January 2022 | Wednesday | 3.00pm* | PE Attire |
-| 4 January 2022 | Thursday | 4.15pm* | Dark Colored T-Shirt with PE bottoms. Bring along Orientation T-Shirt (T-Shirt will be provided on Day 1 or 2)|
-| 5 January 2022 | Friday | 7.50pm* | School Uniform (Lessons as per usual. Orientation programme carries on after lessons) |
+| 2 January 2024 | Tuesday | 3.00pm* | Polo T Shirt and Uniform Shorts [Boys] / Skirts [Girls] |
+| 3 January 2024 | Wednesday | 3.00pm* | PE Attire |
+| 4 January 2024 | Thursday | 4.15pm* | Dark Colored T-Shirt with PE bottoms. Bring along Orientation T-Shirt (T-Shirt will be provided on Day 1 or 2)|
+| 5 January 2024 | Friday | 7.50pm* | School Uniform (Lessons as per usual. Orientation programme carries on after lessons) |
 
 *Some classes will end later due to IT familiarisation sessions. 
 
