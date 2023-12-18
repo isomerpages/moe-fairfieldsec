@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
-      - Release of 2023 GCE N Level Examination Results.md
       - Information for Sec 1 2024/.keep
       - Information for Sec 1 2024/Overview.md
       - Information for Sec 1 2024/Secondary 1 Registration.md
       - Information for Sec 1 2024/Secondary 1 Orientation.md
       - Information for Sec 1 2024/Secondary 1 CCA Registration.md
+      - Release of 2023 GCE N Level Examination Results.md
       - Parents in Education/.keep
       - Parents in Education/Overview.md
       - Parents in Education/The Team.md
@@ -22,8 +22,8 @@ collections:
       - Form Teachers/Sec 4 & 5 Form Teachers and Subject Teachers.md
       - Form Teachers/Teachers' Email Address.md
       - Assessment Matters.md
-      - Administrative Matters/2024 Textbook and Stationery List.md
       - Administrative Matters/.keep
+      - Administrative Matters/2024 Textbook and Stationery List.md
       - Administrative Matters/Leave of Absence.md
       - Administrative Matters/Group Personal Accident Insurance for Students.md
       - Administrative Matters/MOE Financial Assistance Scheme.md
