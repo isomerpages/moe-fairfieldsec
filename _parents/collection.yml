@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Information for parents.md
       - Information for Sec 1 2024/.keep
       - Information for Sec 1 2024/Overview.md
       - Information for Sec 1 2024/Secondary 1 Registration.md
