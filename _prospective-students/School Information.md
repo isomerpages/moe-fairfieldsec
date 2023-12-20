@@ -37,13 +37,13 @@ Affiliated School
 
 Fairfield Methodist School (Primary), Anglo-Chinese Junior College
 
-#### FMS(S) Non-Affiliation Achievement Levels for Academic Year 2023
+#### FMS(S) Non-Affiliation Achievement Levels for Academic Year 2024
 
 |  |  | |
 |---|---|---|
-| Express | 10 | G3 |
-| Normal (Academic) | 21  | G2 |
-| Normal ( Technical) | 26 | G1 |
+| Express | 10 | PG3 |
+| Normal (Academic) | 21  | PG2 |
+| Normal ( Technical) | 27 | PG1 |
 
 #### CCAs  Offered
 

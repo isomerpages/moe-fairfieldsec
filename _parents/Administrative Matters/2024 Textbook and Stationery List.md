@@ -3,6 +3,7 @@ title: 2024 Textbook and Stationery List
 permalink: /parents/administrative-matters/2024-textbook-and-stationery-list/
 description: ""
 third_nav_title: Administrative Matters
+variant: markdown
 ---
 ### Purchase of School Textbooks, Stationery and School Attire
 
@@ -26,20 +27,23 @@ Please refer to the&nbsp;[Schedule for Year-End Purchase of School Textbooks, St
 ### 2024 Textbook and Stationery List
 
 #### Secondary 1
-Coming Soon!
+[FMS(S) S1 Booklist and Stationery List 2024](/files/Parents/2024_Secondary_1_Book_List_and_Stationery_List_Final_v2.pdf)
 
 
 #### Secondary 2
 
-[FMS(S) S2 Booklist and Stationery List 2024](/files/Parents/Admin%20Matters/2023/2024%20sec%202%20book%20list%20.pdf)
+[FMS(S) S2 Booklist and Stationery List 2024](/files/Parents/Admin%20Matters/2023/2024_Secondary_2_Book_List_and_Stationery_List_v2.pdf)
+
 
 #### Secondary 3
 
-[FMS(S) S3 Booklist and Stationery List 2024](/files/Parents/Admin%20Matters/2023/2024%20sec%203%20book%20list.pdf)
+[FMS(S) S3 Booklist and Stationery List 2024](/files/Parents/Admin%20Matters/2023/2024_Secondary_3_Book_List_and_Stationery_List_v2.pdf)
+
 
 #### Secondary 4
 
 [FMS(S) S4 Booklist and Stationery List 2024](/files/Parents/Admin%20Matters/2023/2024%20sec%204%20book%20list%20.pdf)
+
 #### Secondary 5
 
 [FMS(S) S5 Booklist and Stationery List 2024](/files/Parents/Admin%20Matters/2023/2024%20sec%205%20book%20list%20.pdf)
