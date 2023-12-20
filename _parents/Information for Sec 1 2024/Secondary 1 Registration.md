@@ -105,7 +105,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 | Information | 21, 22, 26, 27, 28, 29 December 2023 |
 |:---:|---|
 | **Textbooks and Stationery**<br>Vendor: Asencio Pte Ltd <br>[2024_Secondary_1_Book_List_and_Stationery_List.pdf](/files/Parents/2024_Secondary_1_Book_List_and_Stationery_List.pdf)|Venue: Level 1 Classroom - C102, C103<br>Time: 9am to 3pm |
-| **Uniform, PE Attire and Polo Tee**<br>Vendor: Shanghai School Uniforms Pte Ltd<br><br>**Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.**<br>[FMSS_2023__2024_Price__U_.pdf](/files/Parents/FMSS_2023__2024_Price__U_.pdf)<br> [Parents/FMSS_2023__2024_Price__PE_.pdf](/files/Parents/FMSS_2023__2024_Price__PE_.pdf)<br><br>Please note that there will be no trying on of attire.<br> <br>Refer to [link](https://shop.shanghai-uniforms.com/product-category/fairfield-methodist-school-secondary/) for size reference. | <br><br><br><br><br>Venue: Level 1 Classroom - C111<br>Time: 9am to 3pm<br>|
+| **Uniform, PE Attire and Polo Tee**<br>Vendor: Shanghai School Uniforms Pte Ltd<br><br>**Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.**<br>[FMSS_2023__2024_Price__U_.pdf](/files/Parents/FMSS_2023__2024_Price__U_.pdf)<br> [Parents/FMSS_2023__2024_Price__PE_.pdf](/files/Parents/FMSS_2023__2024_Price__PE_.pdf)<br><br>Please note that there will be no trying on of attire.<br> <br>Refer to [link](https://shop.shanghai-uniforms.com/product-category/fairfield-methodist-school-secondary/) for size reference. | <br><br><br><br><br>Venue: Level 1 Classroom - C111<br>Time: 9am to 3pm<br>* 29 Dec 2023-9am to 12pm only|
 
 
 
@@ -130,6 +130,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 
 #### (F) School / Miscellaneous Fees for 2024
 
+
 <table style="width: 644px;">
 <tbody>
 <tr>
@@ -140,10 +141,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 <p><strong>School Fees</strong></p>
 </td>
 <td style="text-align: center; width: 120px;">
-<p><strong>Standard Miscellaneous</strong></p>
-</td>
-<td style="text-align: center; width: 100px;">
-<p><strong>2nd Tier Miscellaneous</strong></p>
+<p><strong>New Single-Tier Miscellaneous&nbsp;</strong><strong>Fees</strong></p>
 </td>
 <td style="text-align: center; width: 98.75px;">
 <p><strong>Autonomous Fees</strong></p>
@@ -162,9 +160,6 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 <td style="width: 100px; text-align: center;">
 <p>$</p>
 </td>
-<td style="width: 98.75px; text-align: center;">
-<p>$</p>
-</td>
 <td style="width: 95.25px; text-align: center;">
 <p>$</p>
 </td>
@@ -177,10 +172,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 <p>0</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>10</p>
-</td>
-<td style="width: 100px; text-align: center;">
-<p>10</p>
+<p>20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
 <p>3</p>
@@ -197,10 +189,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 <p>5</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>10</p>
-</td>
-<td style="width: 100px; text-align: center;">
-<p>10</p>
+<p>20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
 <p>3</p>
@@ -217,10 +206,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 <p>560</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>10</p>
-</td>
-<td style="width: 100px; text-align: center;">
-<p>10</p>
+<p>20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
 <p>3</p>
@@ -237,10 +223,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 <p>970</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>10</p>
-</td>
-<td style="width: 100px; text-align: center;">
-<p>10</p>
+<p>20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
 <p>3</p>
@@ -257,10 +240,7 @@ Parents are kindly requested to complete the [online form](https://form.gov.sg/6
 <p>1910</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>10</p>
-</td>
-<td style="width: 100px; text-align: center;">
-<p>10</p>
+<p>20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
 <p>3</p>
