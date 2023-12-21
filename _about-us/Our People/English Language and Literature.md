@@ -22,15 +22,14 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Chew Kwai Hoong Gary** | Sec 2E Form Teacher | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) |
-| **Mr Chua Chong Yuan Alvin** | Sec 4G Form Teacher | [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
-| **Mdm Khoo Khai Shee Yvonne** | Sec 4B Form Teacher | [yvonne\_khoo\_khai\_shee@moe.edu.sg](mailto:yvonne_khoo_khai_shee@moe.edu.sg) |
-| **Mr Kua Khuan Tiong** | Sec 2G Form Teacher | [kua\_khuan\_tiong@moe.edu.sg](mailto:kua_khuan_tiong@moe.edu.sg) |
-| **Mdm Lim Nina** | Sec 1A Form Teacher | [lim\_nina@moe.edu.sg](mailto:lim_nina@moe.edu.sg) |
-| **Mdm Yee Suet Fong Dawn** | Sec 2C Form Teacher | [yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
+| **Mr Chew Kwai Hoong Gary** | Sec 1C Form Teacher | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) |
+| **Mr Chua Chong Yuan Alvin** | Sec 4E Form Teacher | [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
+| **Mdm Khoo Khai Shee Yvonne** | Sec 1E Form Teacher | [yvonne\_khoo\_khai\_shee@moe.edu.sg](mailto:yvonne_khoo_khai_shee@moe.edu.sg) |
+| **Mr Kua Khuan Tiong** | Sec 3G Form Teacher | [kua\_khuan\_tiong@moe.edu.sg](mailto:kua_khuan_tiong@moe.edu.sg) |
+| **Mdm Lim Nina** | Sec 2A Form Teacher | [lim\_nina@moe.edu.sg](mailto:lim_nina@moe.edu.sg) |
+| **Mdm Yee Suet Fong Dawn** | Sec 1D Form Teacher | [yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
 | **Mrs Rena Yeo** | Teacher |  [gomes\_rena\_jeanette@moe.edu.sg](mailto:gomes_rena_jeanette@moe.edu.sg) |
-| **Ms Wee Lay Kit Jasmine** |  Sec 3E Form Teacher |  [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
-| **Mdm Foo Choon Huay Serena** | Sec 1H Form Teacher |  [foo\_choon\_huay\_serena@moe.edu.sg](mailto:foo_choon_huay_serena@moe.edu.sg) |
-|  **Ms Lee Xiao-En, Tabitha** | Sec 1C Form Teacher  |  [lee_xiao-en_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg) |
+| **Ms Wee Lay Kit Jasmine** |  Teacher |  [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
+| **Mdm Foo Choon Huay Serena** | Teacher |  [foo\_choon\_huay\_serena@moe.edu.sg](mailto:foo_choon_huay_serena@moe.edu.sg) |
+|  **Ms Lee Xiao-En, Tabitha** | Sec 2C Form Teacher  |  [lee_xiao-en_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg) |
 |  **Mr Nicholas Lim Ming Hee** | Teacher  |  [lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |
-|  **Mr Mr Daniel Lee Jia Xin** | Teacher  |  [daniel\_lee\_jia\_xin@moe.edu.sg](mailto:daniel_lee_jia_xin@moe.edu.sg) |
