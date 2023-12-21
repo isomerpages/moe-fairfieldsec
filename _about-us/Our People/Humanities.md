@@ -30,4 +30,3 @@ variant: markdown
 | **Ms Uma Devi D/O Muthamilan** | Sec 1F Form Teacher | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
 | **Ms  Chan Xin Hui Charmaine** | Sec 2A Form Teacher | [charmaine\_chan\_xin\_hui@moe.edu.sg](mailto:charmaine_chan_xin_hui@moe.edu.sg) |
 | **Ms Lai Xin Yi Felicia** | Sec 3D Form Teacher | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
-| **Ms&nbsp;Lee Choong Kum, Irene** | Teacher | [lee\_choong\_kum\_irene@moe.edu.sg](mailto:lee_choong_kum_irene@moe.edu.sg) |
