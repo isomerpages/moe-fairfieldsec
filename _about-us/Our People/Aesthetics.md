@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /about-us/our-people/aesthetics/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Aesthetics
 
@@ -14,13 +15,13 @@ third_nav_title: Our People
 |---|---|---|
 | **Mr Chua Chang Fong** | HOD Aesthetics | chua_chang_fong@moe.edu.sg |
 | **Mr Yap Hock Heng** | Assistant Year Head | yap_hock_heng@moe.edu.sg |
+| **Mr Dannish Kurniago** | SH Student Leadership (covering) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) |
 
 #### Our Teachers
 
 | Name | Designation | Email |
 |---|---|---|
 | **Mr Alex Woo Chee Keong** | Sec 3H Form Teacher | [alex\_woo\_chee\_keong@moe.edu.sg](mailto:alex_woo_chee_keong@moe.edu.sg) |
-| **Mr Dannish Kurniago** | Sec 1E Form Teacher | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) |
 | **Ms Desiree Tham** | Sec 1D Form Teacher | [desiree\_tham\_xue\_ping@moe.edu.sg](mailto:desiree_tham_xue_ping@moe.edu.sg) |
 | **Mrs Elijah-Lily Cleopatra** | Senior Teacher<br>Sec 3G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
 | **Ms Juliana Bte Jamil** | Sec 1B Form Teacher | [juliana\_jamil@moe.edu.sg](mailto:juliana_jamil@moe.edu.sg) |
