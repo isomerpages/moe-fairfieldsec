@@ -14,7 +14,7 @@ variant: markdown
 | Name | Designation | Email |
 |---|---|---|
 | **Ms Lee Sok Fun** | HOD Mother Tongue Languages| [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
-| **Ms Chen Minhua** | SH Mother Tongue Languages (covering) | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg) |
+| **Ms Chen Minhua** | SH Mother Tongue Languages | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg) |
 
 #### Our Teachers
 

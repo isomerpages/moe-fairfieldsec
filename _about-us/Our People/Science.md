@@ -28,7 +28,6 @@ variant: markdown
 | **Mrs Jean Ho - Tan Siew Ching** | Sec 4E Form Teacher | [jean\_tan\_siew\_ching@moe.edu.sg](mailto:jean_tan_siew_ching@moe.edu.sg) |
 | **Mr Kho Eng Kiong Patrick** | AED ( T &amp; L )| [kho\_eng\_kiong@moe.edu.sg](mailto:kho_eng_kiong@moe.edu.sg) |
 | **Ms Lim Chee Chin** | Sec 2G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
-| **Ms Lim Chee Shan** | Sec 4D Form Teacher | [chee\_shan\_lim@moe.edu.sg](mailto:chee_shan_lim@moe.edu.sg) |
 | **Mrs Lim Hwee Ling** | Sec 4F Form Teacher | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
 | **Mrs Rosalind Ho-Leong Yuet Lim** | Senior Teacher<br>Sec 1G Form Teacher | [leong\_yuet\_lim@moe.edu.sg](mailto:leong_yuet_lim@moe.edu.sg) |
 | **Mr Tan Puok Yuee** | Sec 3A Form Teacher | [tan\_puok\_yuee@moe.edu.sg](mailto:tan_puok_yuee@moe.edu.sg) |
