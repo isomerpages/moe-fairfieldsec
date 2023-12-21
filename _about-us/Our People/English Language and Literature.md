@@ -3,6 +3,7 @@ title: English Language and Literature
 permalink: /about-us/our-people/english-language-and-literature/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### English Language &amp; Literature
 
@@ -13,9 +14,8 @@ third_nav_title: Our People
 | Name | Designation | Email |
 | --- | --- | --- |
 | **Mrs Kwok-Chang Jiapei** | HOD English Language &amp; Literature | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
+| **Ms Nio Qing Hui Brenda** | HOD ICT (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
 | **Mr Joseph Guo Enliang** | LH English Language | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
-| **Ms Nio Qing Hui Brenda** | Assistant Year Head | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
-| **Ms Koh Wei Shan Clarissa** | Year Head ( Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 | **Ms Tan Sor Tin**  | SH Literature | [tan\_sor\_tin@moe.edu.sg](mailto:tan_sor_tin@moe.edu.sg) |
  
 ####  Our Teachers
