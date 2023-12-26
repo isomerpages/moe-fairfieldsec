@@ -7,8 +7,7 @@ variant: markdown
 ---
 ### Aesthetics
 
-<img src="/images/Dept Photos/aesthetics department 2.jpg" style="width:100%">
-
+<img src="/images/About%20Us/Our%20People/aesthetics_department_2.jpg" style="width:100%">
 
 
 #### Key Personnel
