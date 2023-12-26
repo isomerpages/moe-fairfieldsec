@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### Science
 
-<img src="/images/Dept Photos/science department 2.jpg" style="width:100%">
+<img src="/images/About%20Us/Our%20People/science_department_2.jpg" style="width:100%">
+
 
 #### Key Personnel
 
