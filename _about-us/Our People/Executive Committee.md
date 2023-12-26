@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### Executive Committee
 
-<img src="/images/Dept Photos/executive committee 2.jpg" style="width:100%">
+<img src="/images/About%20Us/Our%20People/executive_committee_2.jpg" style="width:100%">
+
 
 <br>
 
