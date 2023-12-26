@@ -3,10 +3,12 @@ title: Character and Citizenship Education
 permalink: /about-us/our-people/character-and-citizenship-education/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Character &amp; Citizenship Education
 
-<img src="/images/Dept Photos/character and citizenship education department 2.jpg" style="width:100%">
+<img src="/images/About%20Us/Our%20People/character_and_citizenship_education_department_2.jpg" style="width:100%">
+
 
 #### Key Personnel
 
