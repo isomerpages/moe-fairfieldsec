@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### English Language &amp; Literature
 
-<img src="/images/Dept Photos/english language department 2.jpg" style="width:100%">
+<img src="/images/About%20Us/Our%20People/english_language_department_2.jpg" style="width:100%">
+
 
 #### Key Personnel
 
