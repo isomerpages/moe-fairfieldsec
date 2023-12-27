@@ -16,6 +16,8 @@ variant: markdown
 |---|---|---|
 | **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
 
+<br>
+
 | Name | Designation | Email |
 |---|---|---|
 | **Mr Sam Seah Saw Phing** | Administrative Executive | [seah\_saw\_phing@moe.edu.sg](mailto:seah_saw_phing@moe.edu.sg) |
