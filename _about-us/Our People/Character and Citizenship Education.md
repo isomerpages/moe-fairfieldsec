@@ -23,7 +23,7 @@ variant: markdown
 | Name | Designation | Email |
 |---|---|---|
 |  **Mr Ng Hun Boon Francis** | HOD Physical Education &amp; Co-  Curricular Activities |  [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
-|  **Mr Wee Guoyuan** | SH Social Studies |  [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
+| **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 |  **Mr Lum Tuck Choi Jason** | Lead Teacher |  [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
 |  **Mr Chua Chong Yuan Alvin** | Sec 4G Form Teacher |  [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
 |  **Ms Wong Jiayi** | Sec 3C Form Teacher |  [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
