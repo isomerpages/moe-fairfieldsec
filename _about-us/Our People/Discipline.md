@@ -3,10 +3,12 @@ title: Discipline
 permalink: /about-us/our-people/discipline/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Discipline
 
-<img src="/images/Dept Photos/discipline committee 2.jpg" style="width:100%">
+<img src="/images/About%20Us/Our%20People/discipline_committee_2.jpg" style="width:100%">
+
 
 #### Key Personnel
 
