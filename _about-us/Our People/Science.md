@@ -37,6 +37,6 @@ variant: markdown
 | **Ms Tan Siok Hoon** | Sec 1B Form Teacher |  [tan\_siok\_hoon@moe.edu.sg](mailto:tan_siok_hoon@moe.edu.sg) |
 | **Ms Thio Lay Hong** | Teacher |  [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | **Mrs Lim Hwee Ling** | Teacher | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
-| **Mrs Chin Siew Moy** | Technical Support Officer | [chin\_siew\_moy@moe.edu.sg](mailto:chin_siew_moy@moe.edu.sg)  |
 | **Mr  Ngoei Jin Thai Leonard** | Teacher |  |
 | **Ms Ho Ngai Kuen Magdalene** | Teacher |  |
+| **Mrs Chin Siew Moy** | Technical Support Officer | [chin\_siew\_moy@moe.edu.sg](mailto:chin_siew_moy@moe.edu.sg)  |
