@@ -14,8 +14,8 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Chua Chang Fong** | HOD Aesthetics | chua_chang_fong@moe.edu.sg |
-| **Mr Yap Hock Heng** | Assistant Year Head | yap_hock_heng@moe.edu.sg |
+| **Mr Chua Chang Fong** | HOD Aesthetics | [chua\_chang\_fong@moe.edu.sg](mailto:chua_chang_fong@moe.edu.sg) |
+| **Mr Yap Hock Heng** | Assistant Year Head | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
 | **Mr Dannish Kurniago** | SH Student Leadership (covering) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) |
 
 #### Our Teachers
