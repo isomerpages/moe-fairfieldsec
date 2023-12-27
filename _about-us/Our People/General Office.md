@@ -15,7 +15,7 @@ variant: markdown
 | Name | Designation | Email |
 |---|---|---|
 | **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
-<br>
+
 
 | Name | Designation | Email |
 |---|---|---|
