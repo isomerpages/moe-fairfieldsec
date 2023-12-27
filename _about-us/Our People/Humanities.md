@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### Humanities
 
-<img src="/images/Dept Photos/humanities department 2.jpg" style="width:100%">
+<img src="/images/About%20Us/Our%20People/humanities_department_2.jpg" style="width:100%">
+
 
 #### Key Personnel
 
