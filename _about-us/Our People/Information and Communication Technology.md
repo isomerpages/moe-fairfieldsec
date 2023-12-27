@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### Information &amp; Communication Technology
 
-<img src="/images/Dept Photos/information technology department 2.jpg" style="width:90%">
+<img src="/images/About%20Us/Our%20People/information_and_communication_technology_department_1.jpg" style="width:90%">
+
 
 #### Key Personnel
 
