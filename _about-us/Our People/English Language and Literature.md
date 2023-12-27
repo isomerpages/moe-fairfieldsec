@@ -34,4 +34,4 @@ variant: markdown
 | **Ms Wee Lay Kit Jasmine** | Sec 4E Form Teacher |  [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
 | **Mdm Foo Choon Huay Serena** | Teacher |  [foo\_choon\_huay\_serena@moe.edu.sg](mailto:foo_choon_huay_serena@moe.edu.sg) |
 |  **Mr Nicholas Lim Ming Hee** | Teacher  |  [lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |
-|  **Mr  Goh Wei Ting Sandy** | Teacher  |  [tay\_shu-min\_samantha@moe.edu.sg](mailto:tay_shu-min_samantha@moe.edu.sg) |
+|  **Mdm  Goh Wei Ting Sandy** | Teacher  |  [tay\_shu-min\_samantha@moe.edu.sg](mailto:tay_shu-min_samantha@moe.edu.sg) |
