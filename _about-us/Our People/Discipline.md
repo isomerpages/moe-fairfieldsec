@@ -20,7 +20,7 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Arif Bin Bakar** | Sec 1 Level Discipline Master<br>Sec 1C Form Teacher | [arif\_bakar@schools.gov.sg](mailto:arif_bakar@moe.edu.sg) |
-| **Ms Yen Ding Yi** | Sec 2 Level Discipline Mistress  <br>Sec 2C Form Teacher | [yen\_ding\_yi@schools.gov.sg](mailto:yen_ding_yi@schools.gov.sg) |
+| **Mr Arif Bin Bakar** | Sec 1 Level Discipline Master<br>Sec 1F Form Teacher | [arif\_bakar@schools.gov.sg](mailto:arif_bakar@moe.edu.sg) |
+| **Ms Yen Ding Yi** | Sec 2 Level Discipline Mistress  <br>Sec 3A Form Teacher | [yen\_ding\_yi@schools.gov.sg](mailto:yen_ding_yi@schools.gov.sg) |
 | **Mr Vincent Chia** | Sec 3 Level Discipline Master | [vincent_chia_wey_ling@schools.gov.sg](mailto:vincent_chia_wey_ling@schools.gov.sg) |
-| **Ms Aminah Beevi**  | Sec 4 Level Discipline Mistress<br>Sec 5A Form Teacher | [aminah\_beevi\_rahim@schools.gov.sg](mailto:aminah_beevi_rahim@schools.gov.sg) |
+| **Ms Aminah Beevi**  | Sec 4 Level Discipline Mistress<br>Sec 3B Form Teacher | [aminah\_beevi\_rahim@schools.gov.sg](mailto:aminah_beevi_rahim@schools.gov.sg) |
