@@ -15,12 +15,12 @@ variant: markdown
 | Name | Designation | Email |
 |---|---|---|
 | **Ms Lee Chee Peng** | HOD Mathematics &amp; CPA | [lee\_chee\_peng@moe.edu.sg](mailto:lee_chee_peng@moe.edu.sg) |
-| **Mr Wilson Ho Wee Yew** | LH Mathematics | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
-| **Mr James Quek Chin Wee** | LH Mathematics | [james\_quek\_chin\_wee@moe.edu.sg](mailto:james_quek_chin_wee@moe.edu.sg) |
+| **Mr Ho Wee Yew Wilson** | LH Mathematics | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
+| **Mr Quek Chin Wee James** | LH Mathematics | [james\_quek\_chin\_wee@moe.edu.sg](mailto:james_quek_chin_wee@moe.edu.sg) |
 | **Mr Chia Wey Ling Vincent** | HOD Discipline | [vincent\_chia\_wey\_ling@moe.edu.sg](mailto:vincent_chia_wey_ling@moe.edu.sg) |
 | **Mr Tan Aik Hwee Alester** | SH Co-Curricular Activities | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
-| **Mr Joel Li Weihan** | HOD Character &amp; Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
-| **Mr Glen Tan Li Ming** | HOD Special Educational Needs  |  [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
+| **Mr Li Weihan Joel** | HOD Character &amp; Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
+| **Mr Tan Li Ming Glen* | HOD Special Educational Needs  |  [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
 | **Ms Shamsiah Bte Zainalabidin** | SH Character &amp; Citizenship Education (Lifeskills) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
 
 #### Our Teachers
