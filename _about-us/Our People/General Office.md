@@ -28,7 +28,7 @@ variant: markdown
 
 <img src="/images/About%20Us/Our%20People/operations_support_officers_2.jpg" style="width:100%">
 
-| Name | Designation | Email |
+| Name | Designation ||
 |---|---|---|
 | **Mr Ahmad Zain Bin Suri** | Operations Support Officer |   |
 | **Mdm Nahfizah Kalarani D/O SNK** | Operations Support Officer |   |
