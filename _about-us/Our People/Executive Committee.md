@@ -32,8 +32,8 @@ variant: markdown
 | **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
 | **Ms Koh Wei Shan Clarissa** | Year Head ( Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 | **Mr Loh Youn Leong Eric** | Year Head ( Lower Sec ) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
-| **Mr Yap Hock Heng** | Assistant Year Head | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
-| **Ms Trixie Chan Thing Lee** | Assistant Year Head | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg  ) |
+| **Mr Yap Hock Heng** | Assistant Year Head (Upper Sec) | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
+| **Ms Trixie Chan Thing Lee** | Assistant Year Head (Lower Sec) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg  ) |
 | **Mr Guo Enliang  Joseph** | LH English Language | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
 | **Mr Quek Chin Wee James** | LH Mathematics | [james\_quek\_chin\_wee@moe.edu.sg](mailto:james_quek_chin_wee@moe.edu.sg) |
 | **Mr Ho Wee Yew Wilson** | LH Mathematics | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
