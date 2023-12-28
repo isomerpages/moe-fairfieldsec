@@ -37,6 +37,6 @@ variant: markdown
 | **Mr Kho Eng Kiong Patrick** | AED ( T &amp; L )| [kho\_eng\_kiong@moe.edu.sg](mailto:kho_eng_kiong@moe.edu.sg) |
 | **Ms Thio Lay Hong** | Teacher |  [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | **Mrs Lim Hwee Ling** | Teacher | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
-| **Mr  Ngoei Jin Thai Leonard** | Teacher |  |
+| **Mr  Ngoei Jin Thai Leonard** | Teacher | [ngoei\_jin\_thai\_leonard@moe.edu.sg ](mailto:ngoei_jin_thai_leonard@moe.edu.sg)  |
 | **Ms Ho Ngai Kuen Magdalene** | Teacher | [ho\_ngai\_kuen\_magdalene@moe.edu.sg](mailto:ho_ngai_kuen_magdalene@moe.edu.sg) |
 | **Mrs Chin Siew Moy** | Technical Support Officer | [chin\_siew\_moy@moe.edu.sg](mailto:chin_siew_moy@moe.edu.sg)  |
