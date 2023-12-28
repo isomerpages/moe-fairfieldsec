@@ -18,15 +18,15 @@ variant: markdown
 | **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
 | **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | **Ms Koh Wei Shan Clarissa** | Year Head (Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
-| **Ms Trixie Chan Thing Lee** | Assistant Year Head | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg  ) |
+| **Ms Trixie Chan Thing Lee** | Assistant Year Head (Lower Sec)| [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg  ) |
 
 
 #### Our Teachers
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mrs Rosalind Ho-Leong Yuet Lim** | Senior Teacher<br>Sec 2G Form Teacher | [leong\_yuet\_lim@moe.edu.sg](mailto:leong_yuet_lim@moe.edu.sg) |
 | **Mrs Jean Ho - Tan Siew Ching** | Senior Teacher<br>Sec 3A Form Teacher | [jean\_tan\_siew\_ching@moe.edu.sg](mailto:jean_tan_siew_ching@moe.edu.sg) |
+| **Mrs Rosalind Ho-Leong Yuet Lim** | Sec 2G Form Teacher | [leong\_yuet\_lim@moe.edu.sg](mailto:leong_yuet_lim@moe.edu.sg) |
 | **Ms Aminah Beevi**  | Sec 3B Form Teacher | [aminah\_beevi\_rahim@moe.edu.sg](mailto:aminah_beevi_rahim@moe.edu.sg) |
 | **Ms Lim Chee Chin** | Sec 3G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
 | **Mr Tan Puok Yuee** | Sec 4A Form Teacher | [tan\_puok\_yuee@moe.edu.sg](mailto:tan_puok_yuee@moe.edu.sg) |
