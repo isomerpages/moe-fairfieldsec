@@ -14,7 +14,7 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Vincent Chia**  | HOD Discipline | [vincent\_chia\_wey\_ling@schools.gov.sg](mailto:vincent_chia_wey_ling@schools.gov.sg) |
+| **Mr Chia Wey Ling Vincent**  | HOD Discipline | [vincent\_chia\_wey\_ling@schools.gov.sg](mailto:vincent_chia_wey_ling@schools.gov.sg) |
 
 #### Discipline Team
 
