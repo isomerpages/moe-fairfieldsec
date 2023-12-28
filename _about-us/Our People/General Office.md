@@ -24,10 +24,15 @@ variant: markdown
 | **Mdm Norsuhaila Binte Mostapa** | Administrative Executive | [norsuhaila\_mostapa@moe.edu.sg](mailto:norsuhaila_mostapa@moe.edu.sg) |
 | **Mdm Juliah Binte Sandib** | Corporate Support Officer | [juliah\_sandib@moe.edu.sg](mailto:juliah\_sandib@moe.edu.sg) |
 | **Mdm Sri Dewi D/O Pushpangathan** | Corporate Support Officer | [sri_dewi_pushpangathan@moe.edu.sg](mailto:sri_dewi_pushpangathan@moe.edu.sg) |
+| **Mdm Annie Ho Yoke Thong** | Printing Assistant |   |
+
+<img src="/images/About%20Us/Our%20People/operations_support_officers_2.jpg" style="width:100%">
+
+| Name | Designation | Email |
+|---|---|---|
 | **Mr Ahmad Zain Bin Suri** | Operations Support Officer |   |
-| **Mdm Nahfizah Kalarani** | Operations Support Officer |   |
+| **Mdm Nahfizah Kalarani D/O SNK** | Operations Support Officer |   |
 | **Mdm Nancy Kee** | Operations Support Officer |   |
 | **Mr Sanip Bin Ahmad** | Operations Support Officer |   |
-| **Mdm Jeyalalitha Marimuthu** | Operations Support Officer |   |
+| **Mdm Jeyalalitha** | Operations Support Officer |   |
 | **Mdm Norizan Bte Hassan** | Operations Support Officer |   |
-| **Mdm Annie Ho Yoke Thong** | Printing Assistant |   |
