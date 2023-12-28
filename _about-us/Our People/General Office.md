@@ -19,7 +19,7 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Sam Seah Saw Phing** | Administrative Executive | [seah\_saw\_phing@moe.edu.sg](mailto:seah_saw_phing@moe.edu.sg) |
+| **Mr Seah Saw Phing Sam** | Administrative Executive | [seah\_saw\_phing@moe.edu.sg](mailto:seah_saw_phing@moe.edu.sg) |
 | **Mr Shahrin Bin Mohamed Ariffin** | Administrative Executive | [shahrin\_mohamed\_ariffin@moe.edu.sg](mailto:shahrin_mohamed_ariffin@moe.edu.sg) |
 | **Mdm Norsuhaila Binte Mostapa** | Administrative Executive | [norsuhaila\_mostapa@moe.edu.sg](mailto:norsuhaila_mostapa@moe.edu.sg) |
 | **Mdm Juliah Binte Sandib** | Corporate Support Officer | [juliah\_sandib@moe.edu.sg](mailto:juliah\_sandib@moe.edu.sg) |
