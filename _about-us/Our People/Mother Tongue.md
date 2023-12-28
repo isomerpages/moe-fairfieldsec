@@ -29,5 +29,3 @@ variant: markdown
 | **Ms Tan Yi Qian** | Sec 2F Form Teacher | [tan\_yi\_qian@moe.edu.sg](mailto:tan_yi_qian@moe.edu.sg) |
 | **Mdm Xu Hui** | Teacher  | [xu\_hui@moe.edu.sg](mailto:xu_hui@moe.edu.sg)  |
 | **Mdm Wan Ching Fang** | Teacher  | [wan\_ching\_fang@moe.edu.sg](mailto:wan_ching_fang@moe.edu.sg)  |
-
-
