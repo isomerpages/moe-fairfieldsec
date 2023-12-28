@@ -28,7 +28,7 @@ variant: markdown
 | **Mrs Jean Ho** | Senior Teacher<br>Sec 3A Form Teacher | [jean\_tan\_siew\_ching@moe.edu.sg](mailto:jean_tan_siew_ching@moe.edu.sg) |
 | **Mdm Leong Yuet Lim Rosalind** | Sec 2G Form Teacher | [leong\_yuet\_lim@moe.edu.sg](mailto:leong_yuet_lim@moe.edu.sg) |
 | **Ms Aminah Beevi D/O Rahim**  | Sec 3B Form Teacher | [aminah\_beevi\_rahim@moe.edu.sg](mailto:aminah_beevi_rahim@moe.edu.sg) |
-| **Ms Lim Chee Chin** | Sec 3G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
+| **Mdm Lim Chee Chin** | Sec 3G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
 | **Mr Tan Puok Yuee** | Sec 4A Form Teacher | [tan\_puok\_yuee@moe.edu.sg](mailto:tan_puok_yuee@moe.edu.sg) |
 | **Ms Wee Lay Kit Jasmine** | Sec 4E Form Teacher | [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
 | **Mdm Wong Bei Shi** | Sec 4C Form Teacher | [wong\_bei\_shi@moe.edu.sg](mailto:wong_bei_shi@moe.edu.sg) |
