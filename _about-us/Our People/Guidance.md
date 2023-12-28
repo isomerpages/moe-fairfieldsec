@@ -19,8 +19,8 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Alex Woo Chee Keong**  | Sec 3H Form Teacher | [alex\_woo\_chee\_keong@moe.edu.sg](mailto:alex_woo_chee_keong@moe.edu.sg) |
-| **Mdm Samsiah Bte Mohd Diah** | Teacher Mentor (Senior Teacher) | [samsiah\_mohamed\_diah@schools.gov.sg](mailto:samsiah_mohamed_diah@schools.gov.sg) |
+| **Mr Alex Woo Chee Keong**  | Senior Teacher<br>Sec 4H Form Teacher | [alex\_woo\_chee\_keong@moe.edu.sg](mailto:alex_woo_chee_keong@moe.edu.sg) |
+| **Mdm Samsiah Bte Mohd Diah** | Teacher Mentor (Senior Teacher)<br>Sec 5A Form Teacher | [samsiah\_mohamed\_diah@schools.gov.sg](mailto:samsiah_mohamed_diah@schools.gov.sg) |
 | **Ms Tan Xin Ru** | Senior School Counsellor | [tan\_xin\_ru@schools.gov.sg](mailto:tan_xin_ru@schools.gov.sg) |
 | **Mr Larry Loh** | Senior School Counsellor | [loh\_zhiliang\_larry@schools.gov.sg](mailto:loh_zhiliang_larry@schools.gov.sg) |
 | **Ms Khan Zhu An Eirena** | Special Educational Needs Officer<br>Sec 2, 4 &amp; 5 | [khan\_zhu\_an\_eirena@schools.gov.sg](mailto:khan_zhu_an_eirena@schools.gov.sg)  |
