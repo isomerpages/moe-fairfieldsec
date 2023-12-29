@@ -2,15 +2,17 @@
 title: 2023 Sem 2 Class Timetable
 permalink: /latest-updates/2023-sem2-class-timetable/
 description: ""
+variant: markdown
 ---
-### 2023  Sem 2 Class Timetable 
+### 2024  Sem 1 Class Timetable 
 
 
 
-[Sem 2 2023 Sec 1 Timetable 7Jul.pdf](/files/Latest%20Updates/2023_s2s1_7jul.pdf)
+[Sem 1 2024 Sec 1 Timetable 29 Dec.pdf](/files/Latest%20Updates/2024S1S1.pdf)
 
-[Sem 2 2023 Sec 2 Timetable 7Jul.pdf](/files/Latest%20Updates/2023_s2s2_7jul.pdf)
+[Sem 2 2024 Sec 2 Timetable 29Jul.pdf](/files/Latest%20Updates/2024S1S2.pdf)
 
-[Sem 2 2023 Sec 3 Timetable 7Jul.pdf](/files/Latest%20Updates/2023_s2s3_7jul.pdf)
+[Sem 2 2024 Sec 3 Timetable 29Jul.pdf](/files/Latest%20Updates/2024S1S3.pdf)
 
-[Sem 2 2023 Sec 45 Timetable 7Jul.pdf](/files/Latest%20Updates/2023_s2s45_7jul.pdf)
+[Sem 2 2024 Sec 45 Timetable 29Jul.pdf](files/Latest%20Updates/2024S1S45.pdf)
+
