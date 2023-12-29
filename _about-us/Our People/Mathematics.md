@@ -29,7 +29,7 @@ variant: markdown
 |---|---|---|
 | **Mdm Haliza Bte Abdul Hamid** | Senior Teacher<br>Sec 1D Form Teacher | [haliza\_abdul\_hamid\_khan@moe.edu.sg](mailto:haliza_abdul_hamid_khan@moe.edu.sg) |
 | **Mr Kua Khuan Tiong** | Sec 3G Form Teacher | [kua\_khuan\_tiong@moe.edu.sg](mailto:kua_khuan_tiong@moe.edu.sg) |
-| **Ms Lim Chee Chin** | Sec 3G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
+| **Mdm Lim Chee Chin** | Sec 3G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
 | **Mdm Lim Nina** | Sec 2A Form Teacher | [lim\_nina@moe.edu.sg](mailto:lim_nina@moe.edu.sg) |
 | **Mr Choy Andrew** | Sec 4C Form Teacher | [choy\_andrew@moe.edu.sg@moe.edu.sg](mailto:choy_andrew@moe.edu.sg) |
 | **Mr Paul Tarwasokono** | Teacher | [paul\_tarwasokono@moe.edu.sg](mailto:paul_tarwasokono@moe.edu.sg) |
