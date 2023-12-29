@@ -14,4 +14,4 @@ variant: markdown
 
 [Sem 2 2024 Sec 3 Timetable 29Dec.pdf](/files/Latest%20Updates/2024S1S3.pdf)
 
-[Sem 2 2024 Sec 45 Timetable 29Dec.pdf](files/Latest%20Updates/2024S1S45.pdf)
+[Sem 2 2024 Sec 45 Timetable 29Dec.pdf](/files/Latest%20Updates/2024S1S45.pdf)
