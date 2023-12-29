@@ -7,18 +7,20 @@ variant: markdown
 ---
 ### Information &amp; Communication Technology
 
-<img src="/images/Dept Photos/information technology department 2.jpg" style="width:90%">
+<img src="/images/About%20Us/Our%20People/information_and_communication_technology_department_1.jpg" style="width:90%">
+
 
 #### Key Personnel
 
 | Name | Designation | Email |
 |---|---|---|
-| **Ms Nio Qing Hui Brenda** | HOD ICT (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
-| **Mr Lee Yew Ming** | ICT Manager | [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg) |
-| **Mdm Sangeetha** | ICT Manager | [ramachandran\_sangeetha@moe.edu.sg](mailto:ramachandran_sangeetha@moe.edu.sg) |
+| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
+
 
 | Name | Designation | Email |
 |---|---|---|
+| **Mr Lee Yew Ming** | ICT Manager | [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg) |
+| **Mdm Ramachandran Sangeetha** | ICT Manager | [ramachandran\_sangeetha@moe.edu.sg](mailto:ramachandran_sangeetha@moe.edu.sg) |
 | **Mr Hadisyafiq Bin Mohd Salleh**  | AV Executive | [hadisyafiq_mohd_salleh@moe.edu.sg](mailto:hadisyafiq_mohd_salleh@moe.edu.sg) |
-| **Ms Chan Hoon Teng**  | Desktop Engineer | [hoon.teng.chan@ncs.com.sg](mailto:hoon.teng.chan@ncs.com.sg) |
+| **Ms Chan Hoon Teng Joi**  | Desktop Engineer | [hoon.teng.chan@ncs.com.sg](mailto:hoon.teng.chan@ncs.com.sg) |
 | **Mr Muhammad Amirul Bin Adam**  | Desktop Engineer | [muhammad.adam@ncs.com.sg](mailto:muhammad.adam@ncs.com.sg) |
