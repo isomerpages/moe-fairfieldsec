@@ -3,10 +3,9 @@ title: Commonly Asked Questions
 permalink: /parents/pdlp/commonly-asked-questions/
 description: ""
 third_nav_title: PDLP
+variant: markdown
 ---
-
-
-### Commonly asked questions
+### Frequently asked questions
 
 **Q1. What is the device that FMS(S) students will be purchasing and what is included in the package?**
 
