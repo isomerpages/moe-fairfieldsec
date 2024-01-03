@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### Quick guide on which DMA option to choose
 
-<img src="/images/dma1.png" style="width:80%">
+<img src="/images/Parents/DMA_Options_2024.JPG" style="width:80%">
+
 
 The after-school hours are as follows:
 
