@@ -3,12 +3,13 @@ title: Parents Engagement Session
 permalink: /parents/pdlp/parents-engagement-session/
 description: ""
 third_nav_title: PDLP
+variant: markdown
 ---
-
-
 ### Parents Engagement Deck
 
 #### Resources
 
 
-[Parent Engagement Deck_FMSS_2023.pdf](/files/Parents/PDLP/2023/Parent%20Engagement%20Deck_FMSS_2023.pdf)
+[Parent Engagement Deck_FMSS_2024.pdf](/files/Parents/PDLP/Parent_Engagement_Deck_FMSS_2024.pdf)
+
+
