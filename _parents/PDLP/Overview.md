@@ -75,7 +75,7 @@ b) Mobile Device Management Service: This facilitates the updating and managing 
 
   
 
-#### Cyber wellness.
+#### Cyber Wellness
 
 In rolling out the PLD, MOE is aware of concerns regarding students’ cyber wellness. The DMA allows the school to manage this by:&nbsp;
 
@@ -87,4 +87,4 @@ In rolling out the PLD, MOE is aware of concerns regarding students’ cyber wel
 
 #### Further Queries
 
-Do take a look at our&nbsp;[**Commonly Asked Questions section**](https://ask.gov.sg/fmss)&nbsp;or drop us your question via the School Email (**[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg)**) if there should be further queries.
+Do take a look at our&nbsp;[**Frequently Asked Questions section**](https://ask.gov.sg/fmss)&nbsp;or drop us your questions via the School Email (**[fmss@moe.edu.sg](mailto:fmss@moe.edu.sg)**) if there should be further queries.
