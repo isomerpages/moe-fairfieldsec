@@ -17,11 +17,11 @@ The after-school hours are as follows:
 | School events (e.g. Cross Country Runs, Speech Day) | Default settings between 6 a.m. to 1 p.m. | Parents’/Guardians’ after-school option between 1 p.m. to 6 a.m. |
 | Weekends, School and Public Holidays | Parents’ / Guardians’ After-School DMA Option for the whole day |  |
 
-#### Summary of DMA Settings After School Hours&nbsp;
+#### Summary of DMA Settings after School Hours&nbsp;
 
 _During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours._
 
-<img src="/images/Parents/2023/Summary_of_DMA_setings.jpg" style="width:100%">
+<img src="/images/Parents/DMA_Options_2024.JPG" style="width:80%">
 
 
 
