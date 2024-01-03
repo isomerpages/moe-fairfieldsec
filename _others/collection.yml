@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Student Device Briefing.md
       - Teachers' Email Address.md
       - Sec 4 & 5 Form Teachers and Subject Teachers.md
       - Sec 3 Form Teachers and Subject Teachers.md
