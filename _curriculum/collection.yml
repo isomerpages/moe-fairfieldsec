@@ -1,0 +1,8 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Full SBB.md
+      - Active Learning Culture.md
+      - Voice of a Fairsian Programme.md
+      - Subjects Offered.md

@@ -1,0 +1,16 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Overview.md
+      - Sophia Blackmore Leadership.md
+      - Character Education/.keep
+      - Character Education/Vision and Mission.md
+      - Character Education/Key Programmes.md
+      - Discipline.md
+      - Guidance.md
+      - Student Well Being/.keep
+      - Student Well Being/Overview.md
+      - Student Well Being/Directory Listings.md
+      - Student Well Being/Understanding Mental Health.md
+      - Student Well Being/How to.md

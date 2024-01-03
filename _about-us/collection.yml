@@ -1,0 +1,29 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Mission, Vision and Values.md
+      - Crest and Motto.md
+      - School History.md
+      - School Song and Hymn.md
+      - Principal’s Message.md
+      - Our People/.keep
+      - Our People/Board of Management.md
+      - Our People/Executive Committee.md
+      - Our People/General Office.md
+      - Our People/English Language and Literature.md
+      - Our People/Mother Tongue.md
+      - Our People/Mathematics.md
+      - Our People/Science.md
+      - Our People/Aesthetics.md
+      - Our People/Character and Citizenship Education.md
+      - Our People/Discipline.md
+      - Our People/Guidance.md
+      - Our People/Humanities.md
+      - Our People/Information and Communication Technology.md
+      - Our People/Physical Education.md
+      - Our People/Alumni.md
+      - Useful Links for Teachers.md
+      - PDPA Policy for FMS(S).md
+      - Financial and Non Financial Information.md
+      - School Canteen Advertisement.md

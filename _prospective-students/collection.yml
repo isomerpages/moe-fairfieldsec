@@ -1,0 +1,22 @@
+collections:
+  prospective-students:
+    output: true
+    order:
+      - 2023 Open House & P6 Talk/2023 Open House.md
+      - 2023 Open House & P6 Talk/2023 Founder's Day Video.md
+      - 2023 Open House & P6 Talk/.keep
+      - 2022 Open House/Why Fairfield.md
+      - 2022 Open House/Students' Testimonials.md
+      - 2022 Open House/Fairfield Tour.md
+      - 2022 Open House/.keep
+      - 2021 Virtual Open House/Why Fairfield.md
+      - 2021 Virtual Open House/Students' Testimonials.md
+      - 2021 Virtual Open House/Fairfield Virtual Tour.md
+      - 2021 Virtual Open House/.keep
+      - School Information.md
+      - Direct School Admission/Overview.md
+      - Direct School Admission/2023 DSA Sports.md
+      - Direct School Admission/2023 DSA Performing Arts.md
+      - Direct School Admission/2023 DSA Frequently Asked Questions (FAQs).md
+      - Direct School Admission/.keep
+      - School Transfer.md
