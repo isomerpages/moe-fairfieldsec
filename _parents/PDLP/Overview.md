@@ -69,9 +69,9 @@ The school will need to use students’ full name, Student iCON ID and class to 
 
 A Device Management Application (**“DMA”**) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
 
-(a) Classroom Management Service.&nbsp;This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning. <br>
-b) Mobile Device Management Service.&nbsp;This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.<br>
-(c) Usage Management Service.&nbsp;This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
+(a) Classroom Management Service: This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning. <br>
+b) Mobile Device Management Service: This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.<br>
+(c) Usage Management Service: This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
 
   
 
