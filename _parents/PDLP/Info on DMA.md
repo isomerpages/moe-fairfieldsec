@@ -7,8 +7,7 @@ variant: markdown
 ---
 ### Quick guide on which DMA option to choose
 
-<img src="/images/Parents/DMA_Options_2024.JPG" style="width:80%">
-
+<img src="/images/dma1.png" style="width:80%">
 
 The after-school hours are as follows:
 
@@ -22,7 +21,7 @@ The after-school hours are as follows:
 
 _During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours._
 
-<img src="/images/Parents/2023/Summary_of_DMA_setings.jpg" style="width:100%">
+<img src="/images/Parents/DMA_Options_2024.JPG" style="width:80%">
 
 
 
