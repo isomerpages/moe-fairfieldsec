@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PDLP
 variant: markdown
 ---
-### Frequently asked questions
+### Frequently Asked Questions
 
 **Q1. What is the device that FMS(S) students will be purchasing and what is included in the package?**
 
@@ -19,7 +19,7 @@ iPad 9th Gen 10.2” 64 GB with Apple pencil and casing with attached keyboard. 
 
   
 
-The school will purchase the device on behalf of your child via an MOE bulk tender. This is done so as to obtain the best value for money. To ensure the affordability of devices, MOE has provided an Edusave top-up  of $200 in 2020 and will provide another Edusave top-up of $200 in May 2021 (as part of the Household Support Package announced in Budget 2021), to all eligible Singaporean students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students.
+The school will purchase the device on behalf of your child via an MOE bulk tender. This is done so as to obtain the best value for money. To ensure the affordability of devices, MOE has provided an Edusave top-up  of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students.
 
   
 
@@ -31,15 +31,15 @@ For students on MOE-FAS, subsidies are available even if there is insufficient E
 
   
 
-You can call 6260 0777 to check on your child’s edusave balance.
+You can call 6260 0777 to check on your child’s Edusave balance.
 
   
 
-**Q3. When will my child, who is in Sec 1 2023, be receiving the device?** 
+**Q3. When will my child, who is in Sec 1 2024, be receiving the device?** 
 
   
 
-Your child should receive his/her device in end Mar 2023. More details will be shared once the school has more detailed information from the vendor.
+Your child should receive his/her device in end Mar 2024. More details will be shared once the school has more detailed information from the vendor.
 
   
 
@@ -47,7 +47,7 @@ Your child should receive his/her device in end Mar 2023. More details will be s
 
   
 
-The device comes with 3- year insurance and 3-year warranty, which allows for two repairs or one replacement. The insurance coverage is only applicable to situations of damage and loss, even if the student has taken the necessary precautions to safeguard the device. Do note that loss through negligence is not covered by insurance. If the replacement of device is no longer covered by the insurance, the cost of replacement will have to be borne by the parents/student. FMS(S) can facilitate the purchase of a replacement device and your child’s Edusave funds can be used, if available, in the event that this happens.
+The device comes with 3-year insurance and 3-year warranty, which allows for two repairs or one replacement. The insurance coverage is only applicable to situations of damage and loss, even if the student has taken the necessary precautions to safeguard the device. Do note that loss through negligence is not covered by insurance. If the replacement of device is no longer covered by the insurance, the cost of replacement will have to be borne by the parents/student. FMS(S) can facilitate the purchase of a replacement device and your child’s Edusave funds can be used, if available, in the event that this happens.
 
   
 
@@ -73,7 +73,7 @@ The device will be used to complement classroom teaching by promoting active lea
 
 FMS(S) teachers will design our learning programmes to ensure that the students’ use of PLDs is balanced in relation to other activities and modes of learning. There is no recommended limit to screen time in class, though teachers will take note of the amount of time spent on the device during lessons and balance the time spent on the devices with other activities such as discussions and physical demonstrations.
 
-Teachers will also continue to ensure that the amount of assignments set (both online and offline) is guided by the school’s homework policy.
+Teachers will also continue to ensure that the number of assignments set (both online and offline) is guided by the school’s homework policy.
 
   
 
@@ -95,11 +95,11 @@ Students will be taught how to embrace the convenience of technology while maint
 
   
 
-Lockers have already been provided for our students before PDLP for them to safe keep their belongings. Students are expected to secure their devices in their own lockers when they go for lunch breaks or PE lessons.
+Lockers have already been provided for our students for them to safe keep their belongings. Students are expected to secure their devices in their own lockers when they go for lunch breaks or lessons at other venues in the school.
 
   
 
-To inculcate responsible device usage habits, students should fully charge their devices at home so that there will not be any unnecessary disruption to their learning in school. However, in the event of an urgent need, students can use the small number of wall sockets in the classroom for charging.
+To inculcate responsible device usage habits, students should fully charge their devices at home so that there will not be any unnecessary disruption to their learning in school. 
 
   
 
