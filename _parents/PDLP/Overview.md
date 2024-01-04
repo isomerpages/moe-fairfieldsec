@@ -25,7 +25,7 @@ The PLD bundle which includes warranty and insurance for purchase for Secondary 
 
   
 
-_iPad 9th Gen&nbsp; 64 GB 10.2-inch with Apple Pencil and casing with attached keyboard, includes 3-year warranty and insurance
+iPad 9th Gen&nbsp; 64 GB 10.2-inch with Apple Pencil and casing with attached keyboard, includes 3-year warranty and insurance
 
   
 
