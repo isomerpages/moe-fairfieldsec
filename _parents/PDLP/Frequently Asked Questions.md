@@ -19,7 +19,7 @@ iPad 9th Gen 10.2” 64 GB with Apple pencil and casing with attached keyboard. 
 
   
 
-The school will purchase the device on behalf of your child via an MOE bulk tender. This is done so as to obtain the best value for money. To ensure the affordability of devices, MOE has provided an Edusave top-up  of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students.
+The school will purchase the device on behalf of your child via an MOE bulk tender. This is done so as to obtain the best value for money. To ensure the affordability of devices, MOE has provided **Edusave top-ups** of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual $290 credited into the Edusave account for Secondary School students.
 
   
 
