@@ -15,7 +15,7 @@ To ensure that Secondary 1 students are well prepared for the start of their sec
 
 #### (A)&nbsp;Reporting &amp; Dismissal Time and Venue
 
-Daily reporting time:&nbsp; Students should be at the school’s assembly venue&nbsp;**by 7:35 am every day.** They will be considered late if they arrive in school from 7:28am onwards. 
+Daily reporting time:&nbsp; Students should be at the school’s assembly venue&nbsp;**by 7:35 am every day.** They will be considered **late** if they arrive in school from **7:28am onwards**.
 
 Reporting venue on Day 1: Parade Square*
 
