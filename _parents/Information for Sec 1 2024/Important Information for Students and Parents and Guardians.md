@@ -39,7 +39,7 @@ On Fridays, which are Dress Down Days, students can be in half-uniform with any 
 
 All tops, except for the blouse, must be tucked in at all times whether in full uniform, half-uniform or PE attire.
 
-*Note that the school badge will be presented to the Secondary 1 students during the Installation Ceremony on 5 January 2024, and students will receive their name tags by the middle of Term 1 if they make payment when they purchase their books/stationery from the school bookshop.
+*Note that the school badge will be presented to the Secondary 1 students during the Installation Ceremony on **5 January 2024**, and students will receive their name tags by the middle of Term 1 if they make payment when they purchase their books/stationery from the school bookshop.
 
   
 
