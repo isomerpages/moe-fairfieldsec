@@ -1,8 +1,9 @@
 ---
 title: Important Information for Students and Parents and Guardians
-permalink: /others/Information-for-Sec-1-2022/important-information/
+permalink: /others/information-for-sec-1-2024/important-information/
 description: ""
 variant: markdown
+third_nav_title: Information for Sec 1 2024
 ---
 ### Start of School 2024 - Important Information for Students and Parents/Guardians
 
