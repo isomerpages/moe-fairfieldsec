@@ -39,4 +39,5 @@ variant: markdown
 | **Mrs Lim Hwee Ling** | Teacher | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
 | **Mr  Ngoei Jin Thai Leonard** | Teacher | [ngoei\_jin\_thai\_leonard@moe.edu.sg ](mailto:ngoei_jin_thai_leonard@moe.edu.sg)  |
 | **Ms Ho Ngai Kuen Magdalene** | Teacher | [ho\_ngai\_kuen\_magdalene@moe.edu.sg](mailto:ho_ngai_kuen_magdalene@moe.edu.sg) |
+| **Ms Lin Yizhen, Eunice** | Teacher | [lin\_yizhen\_eunice@moe.edu.sg](mailto:lin_yizhen_eunice@moe.edu.sg) |
 | **Mdm Chin Siew Moy** | Technical Support Officer | [chin\_siew\_moy@moe.edu.sg](mailto:chin_siew_moy@moe.edu.sg)  |
