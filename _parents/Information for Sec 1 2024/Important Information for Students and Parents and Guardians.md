@@ -15,7 +15,7 @@ To ensure that Secondary 1 students are well prepared for the start of their sec
 
 #### (A)&nbsp;Reporting &amp; Dismissal Time and Venue
 
-Daily reporting time:&nbsp; Students should be at the school’s assembly venue&nbsp;**by 7:35 am every day.** They will be considered late if they arrive in school from 7:28am onwards. 
+Daily reporting time:&nbsp; Students should be at the school’s assembly venue&nbsp;**by 7:35 am every day.** They will be considered **late** if they arrive in school from **7:28am onwards**.
 
 Reporting venue on Day 1: Parade Square*
 
@@ -29,7 +29,7 @@ Reporting venue on Day 1: Parade Square*
 
 Students are required to adhere to the following attire expectations.Students with highlighted hair and boys with long hair will be sent home to rectify the issue before they are allowed to return.
 
-&nbsp;<img src="/images/attire100.png" style="width:60%">
+&nbsp;<img src="/images/attire100.png" style="width:100%">
  
 On normal school days, students must wear the full school uniform, as above, or the school polo T-shirt with school bottoms (i.e. school shorts, pants or skirt). However, on days when students have PE lessons, except for Chapel days, students can be in half-uniform, i.e. school PE T-shirt and school uniform bottoms.
 
@@ -39,7 +39,7 @@ On Fridays, which are Dress Down Days, students can be in half-uniform with any 
 
 All tops, except for the blouse, must be tucked in at all times whether in full uniform, half-uniform or PE attire.
 
-*Note that the school badge will be presented to the Secondary 1 students during the Installation Ceremony on 5 January 2024, and students will receive their name tags by the middle of Term 1 if they make payment when they purchase their books/stationery from the school bookshop.
+*Note that the school badge will be presented to the Secondary 1 students during the Installation Ceremony on **5 January 2024**, and students will receive their name tags by the middle of Term 1 if they make payment when they purchase their books/stationery from the school bookshop.
 
   
 
