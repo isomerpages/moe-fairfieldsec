@@ -6,6 +6,13 @@ variant: markdown
 ---
 ### Latest Updates
 
+#### Release of O Level Results
+[Read More...](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/latest-updates/o-level-result/)
+
+* * *
+
+
+
 #### 2024 Sem 1 Class Timetable
 [Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2024-sem1-class-timetable/)
 
