@@ -29,7 +29,7 @@ Reporting venue on Day 1: Parade Square*
 
 Students are required to adhere to the following attire expectations.Students with highlighted hair and boys with long hair will be sent home to rectify the issue before they are allowed to return.
 
-&nbsp;<img src="/images/attire100.png" style="width:60%">
+&nbsp;<img src="/images/attire100.png" style="width:100%">
  
 On normal school days, students must wear the full school uniform, as above, or the school polo T-shirt with school bottoms (i.e. school shorts, pants or skirt). However, on days when students have PE lessons, except for Chapel days, students can be in half-uniform, i.e. school PE T-shirt and school uniform bottoms.
 
