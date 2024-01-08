@@ -25,6 +25,8 @@ variant: markdown
 | **Mdm Juliah Binte Sandib** | Corporate Support Officer | [juliah\_sandib@moe.edu.sg](mailto:juliah\_sandib@moe.edu.sg) |
 | **Mdm Sri Dewi D/O Pushpangathan** | Corporate Support Officer | [sri_dewi_pushpangathan@moe.edu.sg](mailto:sri_dewi_pushpangathan@moe.edu.sg) |
 | **Mdm Annie Ho Yoke Thong** | Printing Assistant |   |
+| **Mdm Noorzidah Binte Abdul Jalil** | Librarian | [noorzidah\_abdul\_jalil@moe.edu.sg](mailto:noorzidah_abdul_jalil@moe.edu.sg) |
+
 
 <img src="/images/About%20Us/Our%20People/operations_support_officers_2.jpg" style="width:100%">
 

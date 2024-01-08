@@ -9,7 +9,9 @@ variant: markdown
 
 <img style="width:80%" src="/images/cca15.gif"><br>
 
-<b>Our Coach</b>
+<b>Our Coaches:</b><br>
+Badminton (Boys) - Mr Gan Chin Kai<br>
+Badminton (Girls) - Mr Liao Junwei 
 <img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:30%">
 	
 [Personal Achievements](/files/CCA/Coach%20%20%20Personal%20Achievements/Personal%20Achievements/fmss%20badminton%20coach_liao%20junwei_personal%20achievements.pdf)<br><br>
