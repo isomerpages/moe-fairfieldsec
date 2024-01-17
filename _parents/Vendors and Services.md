@@ -2,6 +2,7 @@
 title: Vendors and Services
 permalink: /parents/vendors-and-services/
 description: ""
+variant: markdown
 ---
 ### Vendors &amp; Services
 
@@ -28,6 +29,16 @@ description: ""
 | **Contact Number:** | 6747 8037 |
 | **Fax Number:** | 6842 2741 |
 |  |  |
+
+
+
+|  |  | 
+| -------- | -------- |
+| ![](/images/Parents/2024/SSU_CNY_Closure_Notice.jpeg)    | ![](/images/Parents/2024/SSU_Stock_take_Closure_Notice.jpeg)     | 
+
+
+
+
 
 #### School Dental Clinic (By appointment only)
 
