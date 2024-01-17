@@ -23,6 +23,7 @@ third_nav_title: Form Teachers
 | Liew Hoe Meng Keith (Mr) | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
 | Lim Yuen Tuck (Mr) | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | Li Weihan Joel (Mr) | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
+| Mdm Li Yandong (Mdm) | [li\_Yandong@moe.edu.sg](mailto:li_Yandong@moe.edu.sg) |
 | Loh Youn Leong Eric (Mr) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
 | Ng Hun Boon Francis (Mr) | [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
 | Nio Qing Hui Brenda (Ms) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
@@ -87,7 +88,6 @@ third_nav_title: Form Teachers
 | Thio Lay Hong (Ms) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg) |
 | Trixie Chan Thing Lee (Ms) | [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | Uma Devi (Ms) | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
-| Wan Ching Fang (Mdm) | [wan\_ching\_fang@moe.edu.sg](mailto:wan_ching_fang@moe.edu.sg)  |
 | Wee Lay Kit Jasmine (Ms) | [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
 | Wong Bei Shi (Mdm) | [wong\_bei\_shi@moe.edu.sg](mailto:wong_bei_shi@moe.edu.sg) |
 | Wong Jia Xian (Ms) | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
