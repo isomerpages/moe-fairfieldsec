@@ -55,11 +55,9 @@ third_nav_title: Form Teachers
 | Wee Guoyuan (Mr) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 | Yap Hock Heng (Mr) | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
 | Samsiah Bte Mohamed Diah (Ms) | [samsiah\_mohamed\_diah@moe.edu.sg](mailto:samsiah_mohamed_diah@moe.edu.sg) |
-
 | Loh Zhiliang Larry (Mr) | [loh\_zhiliang\_larry@moe.edu.sg](mailto:loh_zhiliang_larry@moe.edu.sg) |
 | Noreffaliza Bte Amer (Mdm) | [noreffaliza\_amer@moe.edu.sg](mailto:noreffaliza_amer@moe.edu.sg) |
 | Tan Xin Ru (Ms) | [tan\_xin\_ru@moe.edu.sg](mailto:tan_xin_ru@moe.edu.sg) |
-|
 | Khoo Khai Shee Yvonne (Mdm) | [yvonne\_khoo\_khai\_shee@moe.edu.sg](mailto:yvonne_khoo_khai_shee@moe.edu.sg) |
 | Kua Khuan Tiong (Mr) | [kua\_khuan\_tiong@moe.edu.sg](mailto:kua_khuan_tiong@moe.edu.sg) |
 | Lai Xin Yi Felicia (Ms) | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
