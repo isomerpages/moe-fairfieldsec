@@ -11,8 +11,8 @@ variant: markdown
 [Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2024-sem1-class-timetable/)
 
 * * *
-#### Release of N Level Results
-[Read More...](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/parents/release-of-n-level-results-2023/)
+#### Release of 2023 GCE N Level Examination Results
+[Read More...](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/latest-updates/release-of-n-level-results-2023/)
 
 * * *
 #### Release of O Level Results
