@@ -35,7 +35,7 @@ variant: markdown
 |  |  | 
 | -------- | -------- |
 | ![](/images/Parents/2024/SSU_CNY_Closure_Notice.jpeg)    | ![](/images/Parents/2024/SSU_Stock_take_Closure_Notice.jpeg)     | 
-
+| | |
 
 
 
