@@ -2,10 +2,11 @@
 title: Guidance
 permalink: /co-curriculum/guidance/
 description: ""
+variant: markdown
 ---
 ### Guidance
 
-<img src="/images/Dept Photos/guidance committee 2.jpg" style="width:90%">
+
 
 #### Counselling
 

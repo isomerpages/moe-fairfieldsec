@@ -2,7 +2,7 @@
 title: 2023 PiE Activities and Programmes
 permalink: /parents/Parents-in-Education/2023-pie-activities-and-programmes/
 description: ""
-third_nav_title: Parents in Education
+third_nav_title: Partners In Education
 ---
 ### 2023 PiE&nbsp;Activities/Programmes Term 3 &amp; 4
 

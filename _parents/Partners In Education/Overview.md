@@ -2,7 +2,7 @@
 title: Overview
 permalink: /parents/partners-in-education/
 description: ""
-third_nav_title: Parents in Education
+third_nav_title: Partners In Education
 ---
 ### Partners-in-Education
 

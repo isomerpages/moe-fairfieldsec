@@ -15,9 +15,9 @@ variant: markdown
 
 ![](/images/Prospective%20Students/2023/2023-open-house-ezgif.gif)
 
-#### [Register for Principal's Talk](https://form.gov.sg/653b27df9c349a0012999655)
+
 
 #### [One Fairfield Facebook Link](https://www.facebook.com/100078293567829/posts/333129219306861/?mibextid=rS40aB7S9Ucbxw6v)
 
 
-#### [Instagram link for open house post](https://www.instagram.com/p/CzN94fErcFz/?igshid=MzRlODBiNWFlZA==)
+#### [Instagram link for open house post](https://www.instagram.com/p/CzN94fErcFz/igshid=MzRlODBiNWFlZA==)
