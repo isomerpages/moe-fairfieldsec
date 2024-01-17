@@ -3,10 +3,11 @@ title: Vision and Mission
 permalink: /co-curriculum/character-education/
 description: ""
 third_nav_title: Character Education
+variant: markdown
 ---
-### Character & Citizenship Education
+### Character &amp; Citizenship Education
 
-<img src="/images/Dept Photos/character and citizenship education department 2.jpg" style="width:100%">
+
 
 #### Vision and Mission
 
