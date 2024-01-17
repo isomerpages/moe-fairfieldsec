@@ -87,7 +87,6 @@ third_nav_title: Form Teachers
 | Thio Lay Hong (Ms) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg) |
 | Trixie Chan Thing Lee (Ms) | [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | Uma Devi (Ms) | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
-| Wan Ching Fang (Mdm) | [wan\_ching\_fang@moe.edu.sg](mailto:wan_ching_fang@moe.edu.sg)  |
 | Wee Lay Kit Jasmine (Ms) | [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
 | Wong Bei Shi (Mdm) | [wong\_bei\_shi@moe.edu.sg](mailto:wong_bei_shi@moe.edu.sg) |
 | Wong Jia Xian (Ms) | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
