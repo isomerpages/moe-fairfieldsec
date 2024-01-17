@@ -33,7 +33,7 @@ The price of the device bundle (inclusive of GST) is:&nbsp;**S$865.40**
 
   
 
-#### Use of Edusave.
+#### Use of Edusave
 
 MOE has provided an Edusave top-up of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.&nbsp;
 
