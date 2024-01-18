@@ -87,8 +87,8 @@ _The school aims to provide a safe and conducive environment for all the student
 *   Students must keep learning venues neat and tidy at all times. All fans and lights are to be switched off before students leave for their next venue.&nbsp;
 *   For security reasons, all classrooms should be locked by the Class Chairperson when no one is in the classroom.  All valuables should be kept in the lockers.
 
-<img src="/images/attire1.png" style="width:60%">
-<img src="/images/attire2.png" style="width:60%">
+<img src="/images/attire1.png" style="width:100%">
+<img src="/images/attire2.png" style="width:100%">
 
 ### PERSONAL GROOMING
 
@@ -179,16 +179,19 @@ _An individual shows his/her commitment to the community by presenting himself/h
 
 
 <img src="/images/Parents/2024/Full_Uniform_Girl_Ver_1.JPG" style="width:100%">
+<br>
+<img src="/images/Parents/2024/Full_Uniform_Boy_Ver_1.jpg" style="width:100%">
 
-![](/images/Parents/2024/Full_Uniform_Girl_Ver_1.JPG)
+<br>
+<img src="/images/Parents/2024/Half_U_Polo_Ver_1.jpg" style="width:100%">
 
-![](/images/Parents/2024/Full_Uniform_Girl_ver_2.jpg)
+<br>
 
-<img src="/images/Parents/2024/Full_Uniform_Boy.JPG" style="width:60%">
+<img src="/images/Parents/2024/PE_Attire_Ver_1.jpg" style="width:100%">
 
-<img src="/images/Parents/2024/Half_U_Polo.JPG" style="width:60%">
 
-<img src="/images/Parents/2024/PE_Attire.JPG" style="width:60%">
+
+
 
 
 ##### VALUABLES&nbsp;
