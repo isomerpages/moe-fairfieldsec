@@ -177,9 +177,10 @@ _An individual shows his/her commitment to the community by presenting himself/h
     
 *   Girls may only wear plain gold or silver round stud earrings or transparent ear sticks on their earlobes. Multiple earrings or ear sticks and other accessories are not allowed. Other forms of piercing are not allowed.
 
-  
-	
-	
+
+<img src="/images/Parents/2024/Full_Uniform_Girl.JPG" style="width:60%">
+
+
 	### 4 pic
 
 ##### VALUABLES&nbsp;
