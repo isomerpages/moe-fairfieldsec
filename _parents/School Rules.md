@@ -87,8 +87,7 @@ _The school aims to provide a safe and conducive environment for all the student
 *   Students must keep learning venues neat and tidy at all times. All fans and lights are to be switched off before students leave for their next venue.&nbsp;
 *   For security reasons, all classrooms should be locked by the Class Chairperson when no one is in the classroom.  All valuables should be kept in the lockers.
 
-<img src="/images/attire1.png" style="width:100%">
-<img src="/images/attire2.png" style="width:100%">
+
 
 ### PERSONAL GROOMING
 
