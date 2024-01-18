@@ -180,6 +180,10 @@ _An individual shows his/her commitment to the community by presenting himself/h
 
 <img src="/images/Parents/2024/Full_Uniform_Girl.JPG" style="width:60%">
 
+![](/images/Parents/2024/Full_Uniform_Girl_Ver_1.JPG)
+
+![](/images/Parents/2024/Full_Uniform_Girl_ver_2.jpg)
+
 <img src="/images/Parents/2024/Full_Uniform_Boy.JPG" style="width:60%">
 
 <img src="/images/Parents/2024/Half_U_Polo.JPG" style="width:60%">
