@@ -95,13 +95,13 @@ _An individual shows his/her commitment to the community by presenting himself/h
 
 ##### I. SCHOOL UNIFORM
 
-*   Students are to wear the prescribed school uniform for all school activities. No modification to the uniform is allowed. Boys are only allowed to alter the length of the pants so that it covers the ankles.
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed. Boys are only allowed to alter the length of the pants so that it covers the ankles. 
 *   The uniform must be worn with the school badge, name tag and CCA collar badge at all times.
 *   When the school tie is worn, it must be pulled up to the collar.
 *   When track shoes are worn, 70% of it must be white in colour, while 30% can consist of any
 *   composition of blue, grey and black colours. No other colours are allowed. Shoelaces must be visible and white in colour.
-*   No other track shoes (e,g. slip-ons, high cut basketball shoes etc.) are allowed during the school term or school holidays.
-*   Students are allowed to bring special shoes to change into for CCA training.
+*   No other track shoes (e.g. slip-ons, high cut basketball shoes etc.) are allowed during the school term. Students are allowed to bring special shoes to change into for CCA training. 
+*   During the school holidays, students can come to school in shoes that are appropriate for their CCAs.
 *   If a student cannot wear shoes for any special reason, supporting medical documents must be given to the form teacher to explain the situation.
 *   Only white-based socks are allowed and they should cover the ankles.
 
@@ -109,12 +109,10 @@ _An individual shows his/her commitment to the community by presenting himself/h
 
 ##### _**F**or Boys_&nbsp;
 
-*   Shirts and t-shirts should be tucked in at all times, regardless of whether students are in or out of school.&nbsp;  
+*   Shirts and t-shirts should be tucked in at all times, regardless of whether students are in or out of school.
     
-*   Pants and shorts must be fitting and be worn at the waist. It should not be hanging on the hips.&nbsp;  
+*   Long pants must not be tapered till they become tight or slim fit. They must be long enough to cover the ankles.  
     
-*   Long pants must not taper towards one end. They must be long enough to cover the ankles.
-
   
 
 ##### _For Girls_&nbsp;
@@ -159,7 +157,7 @@ _An individual shows his/her commitment to the community by presenting himself/h
 
 ##### _For Boys_
 
-*   Hair must not touch the collar and must be sloped at the sides and at the rear. Fancy styling, sideburns, ducktails, undercut and high-shaven sides are not allowed.
+*   Hair must not touch the collar and must be sloped at the sides and at the rear. Fancy styling of hair is not allowed.
 *   Fringes must not touch the eyebrows.
 *   Hair must not be permed.
 *   Boys must be clean shaven at all times.
