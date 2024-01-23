@@ -25,7 +25,7 @@ Friday (Sec 2 - 4): 2.00 pm - 4.00 pm <br><br>
 <b>Teachers In Charge:</b><br>
 Ms Desiree Tham (I/C)<br>
 Ms Samsiah (2 I/C)<br>
-Mr Alester Tan<br><br>
+Mr Hadi<br><br>
 
 <b>Social Media:</b><br>
 <b>Instagram:&nbsp;<a href="https://www.instagram.com/media_at_fairfield/?hl=en">Media at Fairfield</a></b>
