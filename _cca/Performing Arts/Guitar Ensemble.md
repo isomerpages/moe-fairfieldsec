@@ -3,6 +3,7 @@ title: Guitar Ensemble
 permalink: /cca/Performing-Arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Guitar Ensemble
 
@@ -19,8 +20,8 @@ third_nav_title: Performing Arts
 <p> 
 <b>Training Days &amp; Time:</b><br>
 
-Monday: 3.20 pm - 6.00 pm  <br>
-Friday: 1.50 pm - 5.00 pm  <br><br>
+Monday: 3.00 pm - 5.300 pm  <br>
+Friday: 2.00 pm - 4.30 pm  <br><br>
   
 
 <b>Teachers In Charge:</b><br>
