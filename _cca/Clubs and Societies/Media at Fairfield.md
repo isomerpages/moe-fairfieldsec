@@ -3,6 +3,7 @@ title: Media at Fairfield
 permalink: /cca/Clubs-and-Societies/media-at-fairfield/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Media at Fairfield
 
@@ -18,8 +19,8 @@ third_nav_title: Clubs and Societies
 
 <p> 
 <b>Training Days &amp; Time:</b><br>
-Wednesday (Sec 1): 3.30 pm - 5.00 pm <br>
-Friday (Sec 2 - 5): 2.00 pm - 4.30 pm <br><br>
+Wednesday (Sec 1): 3.30 pm - 5.30 pm <br>
+Friday (Sec 2 - 4): 2.00 pm - 4.00 pm <br><br>
 
 <b>Teachers In Charge:</b><br>
 Ms Desiree Tham (I/C)<br>
