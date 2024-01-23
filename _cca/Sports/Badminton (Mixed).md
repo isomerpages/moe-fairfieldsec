@@ -38,11 +38,12 @@ Friday: 2.30 pm - 5.00 pm<br><br>
 <b>Teachers In Charge:</b><br><br>
 Girls:<br>
 Ms Thio Lay Hong (I/C)  <br>
-Ms Chen Minhua&nbsp;(2 I/C)  <br>
 Mdm Yee Suet Fong Dawn<br><br>
 	
 Boys:<br>
-Mrs Jean Ho (I/C)<br>	
+Mrs Jean Ho (I/C)<br>
+Mdm Haliza<br>
+Ms Tay Shu-Min, Samantha<br>
 
 	
 </p><b><b><b>
