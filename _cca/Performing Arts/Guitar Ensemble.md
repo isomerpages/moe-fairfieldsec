@@ -20,7 +20,7 @@ variant: markdown
 <p> 
 <b>Training Days &amp; Time:</b><br>
 
-Monday: 3.00 pm - 5.300 pm  <br>
+Monday: 3.00 pm - 5.30 pm  <br>
 Friday: 2.00 pm - 4.30 pm  <br><br>
   
 
@@ -28,7 +28,7 @@ Friday: 2.00 pm - 4.30 pm  <br><br>
 
 Mr Joel Loke (I/C)&nbsp;<br>
 
-Ms Zhang Lu<br><br>
+Ms Lim Siew En Josephine<br><br>
 
   
 
