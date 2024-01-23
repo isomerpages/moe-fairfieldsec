@@ -27,9 +27,9 @@ Badminton (Girls) - Mr Liao Junwei
 <p>
 <b>Training Days &amp; Time:</b><br><br>
 Girls:<br>
-Monday : 3.30 pm - 6.00 pm (B Div)&nbsp;<br>
-Wednesday: 3.30 pm - 6.00 pm (C Div)<br>
-Friday: 2.00 pm - 5.30 pm (All)<br><br>
+Monday : 3.00 pm - 5.30 pm (Sec 1 &amp; 2)&nbsp;<br>
+Wednesday: 3.00 pm - 5.30 pm (Sec 3 &amp; 4)<br>
+Friday: 2.00 pm - 4.00 pm (Sec 1 &amp; 2) &amp; 3.30 pm - 5.30 pm (Sec 3 &amp; 4)<br><br>	
 
 Boys:<br>
 Wednesday: 3.00 pm - 5.30 pm<br>
