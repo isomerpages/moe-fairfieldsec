@@ -42,7 +42,7 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Person to Contact:** | Ms Irene Ang<br>Manager (Dental Therapy)  |
+| **Person to Contact:** | Ms Sheryl Gwee<br>Higher Dental Therapist  |
 |  | Ms Chang Wan Yi<br>Senior Dental Therapist  |
 | **Operating Hours:** | Mondays to Thursdays: 8am – 5.30pm<br>Friday: 8am – 5pm<br>Lunch Break: 1pm – 2pm<br> |
 | **Venue:** | Fairfield Methodist School (Primary) |
@@ -56,6 +56,5 @@ Urgent dental treatment, (When FMSP clinic is closed) please contact the followi
 
 | Clinic | Telephone | Address | Staff i/c |
 |---|---|---|---|
-| Pei Tong Primary<br>(opens on odd week) | 89091679 | 15 Clementi Ave 5, S129857 | Ms Gwee &amp; Ms Tan |
+| Pei Tong Primary<br>(opens on odd week) | 89091679 | 15 Clementi Ave 5, S129857 | Ms Gwee  |
 | Queenstown Primary (opens on even week) | 89092160 | 310 Margaret Dr, S149303 | Mdm Chui |
-| Henry Park Primary<br>(opens on odd week) | 91148656 | 1 Holland Grove Road, S278790 | Ms Ahshikha Beggum |
