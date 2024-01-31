@@ -7,7 +7,8 @@ variant: markdown
 ---
 ### General Office
 
-<img src="/images/About%20Us/Our%20People/general_office_staff_2.jpg" style="width:100%">
+<img src="/images/About%20Us/Our%20People/general_office_staff_2__1_.jpg" style="width:100%">
+
 
 
 #### Key Personnel
