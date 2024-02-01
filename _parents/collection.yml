@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Information for Sec 1 2024/.keep
       - Partners In Education/.keep
       - Partners In Education/Overview.md
       - Partners In Education/The Team.md
