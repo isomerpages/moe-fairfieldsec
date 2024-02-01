@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Leaps 2/Overview.md
       - Leaps 2/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/Journalism.md
