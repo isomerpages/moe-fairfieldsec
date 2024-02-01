@@ -161,23 +161,23 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 2</b></figure>
 
-<table width="1021">
+<table style="width: 1021px;">
 <thead>
 <tr>
-<td width="142">
+<td style="width: 139px;">
 <p><strong>Unit</strong></p>
 </td>
-<td width="174">
+<td style="width: 151px;">
 <p><strong>Lesson Title/ Duration</strong></p>
 </td>
-<td width="270">
+<td style="width: 306.438px;">
 <p><strong>Lesson Overview</strong></p>
 </td>
-<td width="274">
+<td style="width: 281.562px;">
 <p><strong>Lesson Objectives</strong></p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
-<td width="161">
+<td style="width: 104px;">
 <p><strong>Time Period</strong></p>
 <p><strong>(e.g.Term 1 Week 2)</strong></p>
 </td>
@@ -185,15 +185,15 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
 <tr>
-<td width="142" rowspan="3">
+<td rowspan="3" style="width: 139px;">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td width="174">
+<td style="width: 151px;">
 <p>A Role for Everyone</p>
 <p>Lesson 1</p>
 <p>(60 mins)</p>
 </td>
-<td width="270">
+<td style="width: 306.438px;">
 <p>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. &nbsp;Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</p>
 <p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.</p>
@@ -201,49 +201,49 @@ b. Character and Citizenship Education (CCE)
 <p>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
-<td width="274">
+<td style="width: 281.562px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that one’s understanding of gender roles should not be limited by gender stereotypes</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop an appreciation of one’s own unique qualities and characteristics as a male or female</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what sexual orientation entails</p>
 </td>
-<td width="161">
+<td style="width: 104px;">
 <p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
-<td width="174">
+<td style="width: 151px;">
 <p>Online Safety Challenge</p>
 <p>Lesson 2A</p>
 <p>(60 mins)</p>
 </td>
-<td width="270">
+<td style="width: 306.438px;">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
 <p>&nbsp;</p>
 </td>
-<td width="274">
+<td style="width: 281.562px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</p>
 </td>
-<td width="161">
+<td style="width: 104px;">
 <p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
-<td width="174">
+<td style="width: 151px;">
 <p>Do I or Don’t I</p>
 <p>Lesson 2B</p>
 <p>(60 mins)</p>
 </td>
-<td width="270">
+<td style="width: 306.438px;">
 <p>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-<td width="274">
+<td style="width: 281.562px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect and respect for others in relating to members of the opposite sex</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</p>
 </td>
-<td width="161">
+<td style="width: 104px;">
 <p>Term 2 Week 7</p>
 </td>
 </tr>
@@ -255,23 +255,23 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 3</b></figure>
 
-<table width="1001">
+<table style="width: 1001px;">
 <thead>
 <tr>
-<td width="151"><strong><br> </strong>
+<td style="width: 123px;"><strong><br> </strong>
 <p><strong>Unit</strong></p>
 </td>
-<td width="170">
+<td style="width: 145px;">
 <p><strong>Lesson Title/ Duration</strong></p>
 </td>
-<td width="255">
+<td style="width: 284.891px;">
 <p><strong>Lesson Overview</strong></p>
 </td>
-<td width="265">
+<td style="width: 284.109px;">
 <p><strong>Lesson Objectives</strong></p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
-<td width="161">
+<td style="width: 122px;">
 <p><strong>Time Period</strong></p>
 <p><strong>(e.g.Term 1 Week 2)</strong></p>
 </td>
@@ -279,61 +279,61 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
 <tr>
-<td width="151" rowspan="3">
+<td rowspan="3" style="width: 123px;">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td width="170">
+<td style="width: 145px;">
 <p>Love Yourself, Love Others</p>
 <p>Lesson 1A</p>
 <p>(60 mins)</p>
 </td>
-<td width="255">
+<td style="width: 284.891px;">
 <p>This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-<td width="265">
+<td style="width: 284.109px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
-<td width="161">
+<td style="width: 122px;">
 <p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td style="width: 145px;">
 <p>Mending a Broken Heart Lesson 1B</p>
 <p>(60 mins)</p>
 </td>
-<td width="255">
+<td style="width: 284.891px;">
 <p>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
-<td width="265">
+<td style="width: 284.109px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that a decision to end a relationship will have consequences on oneself and others</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</p>
 </td>
-<td width="161">
+<td style="width: 122px;">
 <p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td style="width: 145px;">
 <p>When Respect Takes Centre Stage</p>
 <p>Lesson 2</p>
 <p>(60 mins)</p>
 </td>
-<td width="255">
+<td style="width: 284.891px;">
 <p>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</p>
 </td>
-<td width="265">
+<td style="width: 284.109px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
-<td width="161">
+<td style="width: 122px;">
 <p>Term 2 Week 5</p>
 </td>
 </tr>
@@ -345,20 +345,20 @@ b. Character and Citizenship Education (CCE)
 <table style="width: 1030px;">
 <thead>
 <tr>
-<td width="114">
+<td style="width: 112px;">
 <p><strong>Unit</strong></p>
 </td>
-<td width="169">
+<td style="width: 148px;">
 <p><strong>Lesson Title</strong></p>
 </td>
-<td width="312">
+<td style="width: 323px;">
 <p><strong>Lesson Overview</strong></p>
 </td>
-<td width="293">
+<td style="width: 285.062px;">
 <p><strong>Lesson Objectives</strong></p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
-<td width="161">
+<td style="width: 119.938px;">
 <p><strong>Time Period</strong></p>
 <p><strong>(e.g.Term 1 Week 2)</strong></p>
 </td>
@@ -366,83 +366,83 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
 <tr>
-<td rowspan="3" width="114">
+<td rowspan="3" style="width: 112px;">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td width="169">
+<td style="width: 148px;">
 <p>Levelling the Ground Lesson 1</p>
 <p>(60 mins)</p>
 </td>
-<td width="312">
+<td style="width: 323px;">
 <p>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</p>
 <p>&nbsp;</p>
 </td>
-<td width="293">
+<td style="width: 285.062px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided</p>
 <p><em>&nbsp;</em></p>
 </td>
-<td width="161">
+<td style="width: 119.938px;">
 <p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
-<td width="169">
+<td style="width: 148px;">
 <p>When Love Hurts</p>
 <p>Lesson 2</p>
 <p>(60 mins)</p>
 </td>
-<td width="312">
+<td style="width: 323px;">
 <p>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g., family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</p>
 <p>&nbsp;</p>
 </td>
-<td width="293">
+<td style="width: 285.062px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
-<td width="161">
+<td style="width: 119.938px;">
 <p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
-<td width="169">
+<td style="width: 148px;">
 <p>For Better or For Worse</p>
 <p>Lesson 3</p>
 <p>(60 mins)</p>
 </td>
-<td width="312">
+<td style="width: 323px;">
 <p>This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.&nbsp;</p>
 </td>
-<td width="293">
+<td style="width: 285.062px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
-<td width="161">
+<td style="width: 119.938px;">
 <p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
-<td width="114">
+<td style="width: 112px;">
 <p>&nbsp;</p>
 </td>
-<td width="169">
+<td style="width: 148px;">
 <p>There’s Always More to a Story</p>
 <p>Lesson 4</p>
 <p>(60 mins)</p>
 </td>
-<td width="312">
+<td style="width: 323px;">
 <p>In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</p>
 </td>
-<td width="293">
+<td style="width: 285.062px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
-<td width="161">
+<td style="width: 119.938px;">
 <p>Term 2 Week 1</p>
 </td>
 </tr>
@@ -451,23 +451,23 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 5</b></figure>
 
-<table width="1001">
+<table style="width: 1001px;">
 <thead>
 <tr>
-<td width="120">
+<td style="width: 109px;">
 <p><strong>UNIT</strong></p>
 </td>
-<td width="186">
+<td style="width: 153px;">
 <p><strong>Lesson Title</strong></p>
 </td>
-<td width="289">
+<td style="width: 308px;">
 <p><strong>Lesson Overview</strong></p>
 </td>
-<td width="246">
+<td style="width: 266.312px;">
 <p><strong>Lesson Objectives</strong></p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
-<td width="161">
+<td style="width: 125.688px;">
 <p><strong>Time Period</strong></p>
 <p><strong>(e.g.Term 1 Week 2)</strong></p>
 </td>
@@ -475,22 +475,22 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
 <tr>
-<td width="120">
+<td style="width: 109px;">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
-<td width="186">
+<td style="width: 153px;">
 <p>This is Where I Draw the Line</p>
 <p>(60 mins)</p>
 <p>&nbsp;</p>
 </td>
-<td width="289">
+<td style="width: 308px;">
 <p>In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</p>
 <p>&nbsp;</p>
 </td>
-<td width="246">
+<td style="width: 266.312px;">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
-<td width="161">
+<td style="width: 125.688px;">
 <p>Term 2 Week 2</p>
 </td>
 </tr>
