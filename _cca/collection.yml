@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Leaps 2/.keep
-      - Overview.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Journalism.md
       - Clubs and Societies/Media at Fairfield.md
