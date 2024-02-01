@@ -255,7 +255,7 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 3</b></figure>
 
-<table style="width: 1030px;">
+<table width="1001">
 <thead>
 <tr>
 <td width="151"><strong><br> </strong>
@@ -279,7 +279,7 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
 <tr>
-<td rowspan="3" width="151">
+<td width="151" rowspan="3">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td width="170">
@@ -298,7 +298,7 @@ b. Character and Citizenship Education (CCE)
 <p>&nbsp;</p>
 </td>
 <td width="161">
-<p>Term 1 Week 6</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +317,7 @@ b. Character and Citizenship Education (CCE)
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</p>
 </td>
 <td width="161">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -334,7 +334,7 @@ b. Character and Citizenship Education (CCE)
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td width="161">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -451,7 +451,7 @@ b. Character and Citizenship Education (CCE)
 
 <figure><b>SECONDARY 5</b></figure>
 
-<table style="width: 1030px;">
+<table width="1001">
 <thead>
 <tr>
 <td width="120">
@@ -491,7 +491,7 @@ b. Character and Citizenship Education (CCE)
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td width="161">
-<p>Term 1 Week 4</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
