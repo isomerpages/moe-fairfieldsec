@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Principal’s Dialogue with Parents</h3>
 <h5>02-02-2024 Upper Secondary Principal’s Dialogue</h5>
-<p> <a href="https://docs.google.com/document/d/1V8OVgq5JD9wUDxZBhDpBX_VK4yKx4bPQmMtTgP6wYh8/edit" rel="noopener noreferrer nofollow" target="_blank">Sec 3 information sheet</a>
+<p><a href="https://docs.google.com/document/d/1V8OVgq5JD9wUDxZBhDpBX_VK4yKx4bPQmMtTgP6wYh8/edit" rel="noopener noreferrer nofollow" target="_blank">Sec 3 information sheet</a>
 </p>
 <p><a href="https://docs.google.com/document/d/1ugv30dR05tH4Fe0xnDGr9E7qw_61CUA_QetyXV83fAQ/edit" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 information sheet</a>
 </p>

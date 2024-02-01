@@ -3,6 +3,7 @@ title: Secondary 1 CCA Registration
 permalink: /parents/sec-1-2024/cca-registration/
 description: ""
 variant: markdown
+third_nav_title: Information for Sec 1 2024
 ---
 ### Secondary 1 CCA Registration
 
