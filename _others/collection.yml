@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Secondary 1 CCA Registration.md
       - Back up.md
       - Student Device Briefing.md
       - Device Support.md
