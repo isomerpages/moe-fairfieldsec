@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Leaps 2/Overview.md
-      - Leaps 2/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/Journalism.md
       - Clubs and Societies/Media at Fairfield.md
@@ -26,5 +24,7 @@ collections:
       - Uniformed Groups/National Cadet Corps (Land).md
       - Uniformed Groups/National Cadet Corps (Sea).md
       - Uniformed Groups/Red Cross Youth.md
-      - Awards & Bursaries/CCA Merit Bursary (Sports).md
       - Awards & Bursaries/.keep
+      - Awards & Bursaries/CCA Merit Bursary (Sports).md
+      - Leaps 2/.keep
+      - Leaps 2/Overview.md
