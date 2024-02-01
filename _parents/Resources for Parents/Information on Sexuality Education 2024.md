@@ -63,27 +63,27 @@ b. Character and Citizenship Education (CCE)
 
   
 
-**At Fairfield Methodist School (Secondary),**&nbsp;**the following Sexuality Education lessons will be taught in**&nbsp;**2023:**
+**At Fairfield Methodist School (Secondary),**&nbsp;**the following Sexuality Education lessons will be taught in**&nbsp;**2024:**
 
 <figure><b>SECONDARY 1</b></figure>
 
-<table style="width: 1030px;">
+<table width="1030">
 <thead>
 <tr>
-<td style="width: 140.406px;">
+<td width="141">
 <p><strong>Unit</strong></p>
 </td>
-<td style="width: 168.594px;">
+<td width="170">
 <p><strong>Lesson Title / Duration</strong></p>
 </td>
-<td style="width: 268px;">
+<td width="269">
 <p><strong>Lesson Overview</strong></p>
 </td>
-<td style="width: 298px;">
+<td width="299">
 <p><strong>Lesson Objectives</strong></p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
-<td style="width: 150px;">
+<td width="151">
 <p><strong>Time Period</strong></p>
 <p><strong>(e.g.Term 1 Week 2)</strong></p>
 </td>
@@ -91,78 +91,77 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
 <tr>
-<td style="width: 140.406px;" rowspan="3">
+<td width="141" rowspan="3">
 <p>Respectful Relationships &amp; Safety</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-<td style="width: 168.594px;">
+<td width="170">
 <p>Steady or Not</p>
 <p>Lesson 1</p>
 <p>(60 mins)</p>
 </td>
-<td style="width: 268px;">
+<td width="269">
 <p>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-<td style="width: 298px;">
+<td width="299">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different forms of love (e.g., familial, platonic, romantic love)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different forms of love (e.g. familial, platonic, romantic love)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance and understand what builds healthy and supportive relationships, both online and offline</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating is, and recognise that the readiness and interest in dating vary among individuals</p>
 </td>
-<td style="width: 150px;">
+<td width="151">
 <p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
-<td style="width: 168.594px;">
+<td width="170">
 <p>Being Aware, Being Safe</p>
 <p>Lesson 2</p>
 <p>(60 mins)</p>
 </td>
-<td style="width: 268px;">
+<td width="269">
 <p>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;</p>
-
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
 <p>&nbsp;</p>
 </td>
-<td style="width: 298px;">
+<td width="299">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</p>
 </td>
-<td style="width: 150px;">
-<p>Term 2 Week 3</p>
+<td width="151">
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
-<td style="width: 168.594px;">
+<td width="170">
 <p>More than Meets the Eye</p>
 <p>Lesson 3</p>
 <p>(60 mins)</p>
 </td>
-<td style="width: 268px;">
+<td width="269">
 <p>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
 </td>
-<td style="width: 298px;">
+<td width="299">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p>
 </td>
-<td style="width: 150px;">
-<p>Term 2 Week 5</p>
+<td width="151">
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 
+
 <figure><b>SECONDARY 2</b></figure>
 
-
-
-<table style="width: 1030px;">
+<table width="1021">
 <thead>
 <tr>
 <td width="142">
@@ -186,7 +185,7 @@ b. Character and Citizenship Education (CCE)
 </thead>
 <tbody>
 <tr>
-<td rowspan="3" width="142">
+<td width="142" rowspan="3">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td width="174">
@@ -195,10 +194,10 @@ b. Character and Citizenship Education (CCE)
 <p>(60 mins)</p>
 </td>
 <td width="270">
-<p>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g., males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. &nbsp;Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</p>
-
+<p>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed. &nbsp;Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</p>
+<p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.</p>
-
+<p>&nbsp;</p>
 <p>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</p>
 <p>&nbsp;</p>
 </td>
@@ -208,7 +207,7 @@ b. Character and Citizenship Education (CCE)
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what sexual orientation entails</p>
 </td>
 <td width="161">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -219,15 +218,15 @@ b. Character and Citizenship Education (CCE)
 </td>
 <td width="270">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.</p>
-
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
 <p>&nbsp;</p>
 </td>
 <td width="274">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</p>
 </td>
 <td width="161">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -237,19 +236,21 @@ b. Character and Citizenship Education (CCE)
 <p>(60 mins)</p>
 </td>
 <td width="270">
-<p>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion, and the abandonment of babies.&nbsp;</p>
+<p>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td width="274">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect and respect for others in relating to members of the opposite gender</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect and respect for others in relating to members of the opposite sex</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</p>
 </td>
 <td width="161">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+
 
 
 <figure><b>SECONDARY 3</b></figure>
