@@ -507,7 +507,7 @@ b. Character and Citizenship Education (CCE)
 
 **At Fairfield Methodist School (Secondary), the eTeens programme will be implemented as follows in 2023:**
 
-<table style="width: 680px;">
+<table width="819">
 <thead>
 <tr>
 <td width="177">
@@ -528,14 +528,12 @@ b. Character and Citizenship Education (CCE)
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td width="482">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Awareness of the different STIs and HIV/AIDS</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of transmission</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modes of protection, specifically on how the condom is used</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences and impact of STIs/HIV</p>
-<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge on:</p>
+<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</p>
+<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td width="160">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -547,19 +545,18 @@ b. Character and Citizenship Education (CCE)
 <p>&nbsp;</p>
 </td>
 <td width="160">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-
 **INFORMATION FOR PARENTS**
 
 10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;
 
-11\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the start of Sexuality Education and is also downloadable&nbsp;[here](https://for.edu.sg/annex-a).&nbsp;
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents before the start of Sexuality Education and is also downloadable&nbsp;[here](https://for.edu.sg/annex-a).&nbsp;The completed form is to be submitted by 14/02/2024.
 
-12\. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents before the start of the eTeens programme and is also downloadable&nbsp;[here](https://for.edu.sg/annex-b)&nbsp;.&nbsp;&nbsp;
+12\. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents before the start of the eTeens programme and is also downloadable&nbsp;[here](https://for.edu.sg/annex-b)&nbsp;.&nbsp;&nbsp;The completed form is to be submitted by 14/02/2024.
 
 13\. Parents can contact the school at 67788702 or fmss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
