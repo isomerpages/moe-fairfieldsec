@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents/Ps Dialogue/2024/ECG_Talk_for_Sec_3_4Exp_and_5NA.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Talk for Sec 3_4Exp and 5NA.pdf</a>
 </p>
-<p><a href="/files/Parents/Ps Dialogue/2024/ECG_Talk_for_Sec_3_and_4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Talk for Sec 3 and 4NA.pdf</a>
+<p><a href="/files/Parents/Ps Dialogue/2024/ECG_Talk_for_Sec_3_and_4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Talk for Sec 3 and 4NA.pdf</a>
 </p>
 <p><a href="/files/Parents/Ps Dialogue/2024/ECG_Talk_for_Sec_3_and_4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Talk for Sec 3 and 4NT.pdf</a>
 </p>
