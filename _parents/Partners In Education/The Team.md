@@ -7,4 +7,5 @@ variant: markdown
 ---
 ### The Team 
 
-<img src="/images/PiE/2023/PIE_2023_Team.jpeg" style="width:100%">
+<img src="/images/Parents/2024/PiE_Team_2024.jpg" style="width:100%">
+
