@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Partners In Education
 variant: tiptap
 ---
-<h3>2024 PiE&nbsp;Activities/Programmes Term 3 &amp; 4</h3>
+<h3>2024 PiE&nbsp;Activities/Events </h3>
 <p></p>
 <table>
 <tbody>
