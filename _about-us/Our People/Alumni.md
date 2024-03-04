@@ -3,6 +3,7 @@ title: Alumni
 permalink: /about-us/our-people/alumni/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Alumni
 
@@ -18,24 +19,24 @@ third_nav_title: Our People
 <div>
 
 <p> 
-The Fairfield Methodist Schools Alumni Association was formed in 1951. The association was formed so that old girls who have left the school can interact with their teachers and friends through activities organised by the association. The founding members included Mrs Lim Bock Kee, several teachers and alumni. <br><br>
+The Fairfield Methodist Schools Alumni Association was formed in 1951. The association was formed so that old girls who have left the school can interact with their teachers and friends through activities organised by the association. The founding members included Mrs Lim Bock Kee, several teachers and alumni.&nbsp;<br><br>
 
   
 
-The early years saw the association: <br>
+The early years saw the association:&nbsp;<br>
 
-• Organising Christmas gatherings/dinners, which later evolved to the Founders Day Dinner in 1972 <Br>
-• Organising visits to retired teachers, which later became the teacher-alumni lunch in the 1980s <br>
-• Taking part in the Games Days – which later evolved to the Past vs Present games and Fairfield Homecoming <br>
-• Taking part or supporting the school fundraising carnivals <br><br>
-
-  
-
-Throughout the years, the association organised many fundraising events such as putting up plays in the 1960s, organising walkathon in 1984 and a charity golf event in 2004. The association used the funds raised to provide bursary awards to students and donations to the canteen stallholders. <br><br>
+• Organising Christmas gatherings/dinners, which later evolved to the Founders Day Dinner in 1972&nbsp;<br>
+• Organising visits to retired teachers, which later became the teacher-alumni lunch in the 1980s&nbsp;<br>
+• Taking part in the Games Days – which later evolved to the Past vs Present games and Fairfield Homecoming&nbsp;<br>
+• Taking part or supporting the school fundraising carnivals&nbsp;<br><br>
 
   
 
-In 2000, it revamped the Constitution to reflect the school’s change of name, its co-educational enrolment, and expansion into 2 separate schools. The year also saw the Association’s newsletter officially named “In Tandem“, a name chosen to underline the dynamics of the Association‘s role alongside the 2 schools. <br><br>
+Throughout the years, the association organised many fundraising events such as putting up plays in the 1960s, organising walkathon in 1984 and a charity golf event in 2004. The association used the funds raised to provide bursary awards to students and donations to the canteen stallholders.&nbsp;<br><br>
+
+  
+
+In 2000, it revamped the Constitution to reflect the school’s change of name, its co-educational enrolment, and expansion into 2 separate schools. The year also saw the Association’s newsletter officially named “In Tandem“, a name chosen to underline the dynamics of the Association‘s role alongside the 2 schools.&nbsp;<br><br>
 
   
 
@@ -52,9 +53,263 @@ Today the association has over 1,700 members and continues to organise events fo
 
 <label for="accordion2">2023/2024 Executive Committee Members </label>
 <div>
-
-<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#2E3792;border-color:inherit;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#2E3792">Designation</span></th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#2E3792">Name</span>	</th><th style="background-color:#2E3792;border-color:black;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#FFF;background-color:#2E3792"> Class</span></th></tr></thead><tbody><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Executive Committee President</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Kelvin Ong<span style="color:#2E2E2E;background-color:#FFF5D5"> </span><br></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 1989</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">1st Vice President</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Eunice Yao</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 1999</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">2nd Vice President</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Cho Pei Lin</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 1994</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Honorary Secretary</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Stephanie Ang</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 1999</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Assistant Honorary Secretary</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Felicia Foo</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 1976</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Honorary Treasurer</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gracie Eng</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 1999</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Assistant Honorary Treasurer</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Lo Wei Pin</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 1980</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">FMS(P) representative</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chua Wei Wei</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 1990</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">FMS(S) Representative</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Guo Enliang Joseph </td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 1997</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Committee Member</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Hannah Tan</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:
-	left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 2002</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Committee Member</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Natalie Chen</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 2000</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Committee Member</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ivy Goh-Soh</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 1998</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5">Committee Member</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Dr Low Guat Tin</td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 1962</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF">Committee Member</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sharon Liat</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 1977</span></td></tr><tr><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Committee Member</span></td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mervyn Quek </td><td style="background-color:#FFF5D5;border-color:black;border-style:solid;border-width:1px;color:#2E2E2E;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#2E2E2E;background-color:#FFF5D5"> Class of 1992</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Committee Member</span></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Teng Wei Jien </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#000;background-color:#FFF"> Class of 2013 </span></td></tr></tbody></table></p>
+<table style="width: 697.656px;">
+<tbody>
+<tr>
+<td style="width: 150px;">
+<p><strong>Names </strong></p>
+</td>
+<td style="width: 235px;">
+<p><strong>E Mail Address</strong></p>
+</td>
+<td style="width: 128px;">
+<p><strong>Contact Number</strong></p>
+</td>
+<td style="width: 179.656px;">
+<p><strong>Designation</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Kelvin Ong</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:kelvin_ong@myintandem.com">kelvin_ong@myintandem.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>96940413</p>
+</td>
+<td style="width: 179.656px;">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Eunice Yao</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:eunice_yao@msn.com">eunice_yao@msn.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>97517082</p>
+</td>
+<td style="width: 179.656px;">
+<p>1<sup>st</sup> Vice President</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Lo Wei Pin&nbsp;</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:lwpin@lohocklingco.com.sg">lwpin@lohocklingco.com.sg</a></p>
+</td>
+<td style="width: 128px;">
+<p>96573196</p>
+</td>
+<td style="width: 179.656px;">
+<p>2<sup>nd</sup> Vice President</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Stephanie Ang</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:alcSteph@yahoo.com">alcSteph@yahoo.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>93661955</p>
+</td>
+<td style="width: 179.656px;">
+<p>Secretary</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Felicia Foo</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:felfyl3foo@gmail.com">felfyl3foo@gmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>96697704</p>
+</td>
+<td style="width: 179.656px;">
+<p>Assistant Secretary</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Gracie Eng</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:engwl@u.nus.edu">engwl@u.nus.edu</a></p>
+</td>
+<td style="width: 128px;">
+<p>84682327</p>
+</td>
+<td style="width: 179.656px;">
+<p>Treasurer</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Zhan Yanxin</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:zyxbus@hotmail.com">zyxbus@hotmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>97541389</p>
+</td>
+<td style="width: 179.656px;">
+<p>Assistant Treasurer</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Dr Low Guat Tin</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:guattinlow@gmail.com">guattinlow@gmail.com</a>&nbsp;</p>
+</td>
+<td style="width: 128px;">
+<p>91444414</p>
+</td>
+<td style="width: 179.656px;">
+<p>Advisor</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Sharon Liat</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:sharon.liat@gmail.com">sharon.liat@gmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>96883080</p>
+</td>
+<td style="width: 179.656px;">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Cho Pei Lin</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:chopeilin@asiaprwerkz.com">chopeilin@asiaprwerkz.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>96842563</p>
+</td>
+<td style="width: 179.656px;">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Loh Jia Hui</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:jialoh@gmail.com">jialoh@gmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>96166578</p>
+</td>
+<td style="width: 179.656px;">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Mervyn Quek</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:mervynquek@gmail.com">mervynquek@gmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>96801951</p>
+</td>
+<td style="width: 179.656px;">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Teng Wei Jien</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:WJTeng20@gmail.com">WJTeng20@gmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>97228396</p>
+</td>
+<td style="width: 179.656px;">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Ivy Goh-Soh</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:Ivygoh_soh@hotmail.com">Ivygoh_soh@hotmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>82512647</p>
+</td>
+<td style="width: 179.656px;">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Natalie Chen</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:yigotnee@gmail.com">yigotnee@gmail.com</a></p>
+</td>
+<td style="width: 128px;">
+<p>90997499</p>
+</td>
+<td style="width: 179.656px;">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Joseph Guo</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:guo_enliang_joseph@moe.edu.sg">guo_enliang_joseph@moe.edu.sg</a>&nbsp;</p>
+</td>
+<td style="width: 128px;">
+<p>91153166</p>
+</td>
+<td style="width: 179.656px;">
+<p>FMS(S) representative</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">
+<p>Chua Wei Wei</p>
+</td>
+<td style="width: 235px;">
+<p><a href="mailto:chua_wei_wei@moe.edu.sg">chua_wei_wei@moe.edu.sg</a></p>
+</td>
+<td style="width: 128px;">
+<p>91077903</p>
+</td>
+<td style="width: 179.656px;">
+<p>FMS(P) Representative</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 
 </div>
 
@@ -68,17 +323,17 @@ Today the association has over 1,700 members and continues to organise events fo
 <div>
 <p>
 
-• <b>Website: <a href="https://fairfieldalumni.org.sg/">https://fairfieldalumni.org.sg/</a> </b><br><br>
+• <b>Website: <a href="https://fairfieldalumni.org.sg/">https://fairfieldalumni.org.sg/</a>&nbsp;</b><br><br>
 
-•  <b>Instagram:<a href="https://www.instagram.com/alwaysafairsian/?hl=en">@alwaysafairsian</a> </b><br><br>
+•  <b>Instagram:<a href="https://www.instagram.com/alwaysafairsian/?hl=en">@alwaysafairsian</a>&nbsp;</b><br><br>
 
-• <b>LinkedIn:<a href="https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b">https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b</a> </b><br><br> 
+• <b>LinkedIn:<a href="https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b">https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b</a>&nbsp;</b><br><br>&nbsp;
 
 • <b>Email address:<a href="mailto:info@fairfieldalumni.org.sg">info@fairfieldalumni.org.sg</a></b></p>
 
 </div>
 
-<li>
+</li><li>
 
 <input id="accordion4" type="checkbox">
 
@@ -91,4 +346,4 @@ Today the association has over 1,700 members and continues to organise events fo
 	
 </div>
 
-</li>
+</li></ul>
