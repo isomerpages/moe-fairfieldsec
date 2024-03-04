@@ -332,8 +332,6 @@ of alumni with teachers and other stakeholders.</p>
 </li>
 </ul>
 <h4>Contact Us</h4>
-<ul>
-<li>
 <p></p>
 <p>• <strong>Website: <a href="https://fairfieldalumni.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://fairfieldalumni.org.sg/</a>&nbsp;</strong> 
 <br>
@@ -348,6 +346,8 @@ of alumni with teachers and other stakeholders.</p>
 <br>&nbsp;</p>
 <p>• <strong>Email address:<a href="mailto:info@fairfieldalumni.org.sg" rel="noopener noreferrer nofollow" target="_blank">info@fairfieldalumni.org.sg</a></strong>
 </p>
+<ul>
+<li>
 <p></p>
 <h4>Gallery<br></h4>
 <div class="iframe-wrapper">
