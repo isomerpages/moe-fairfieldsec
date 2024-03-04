@@ -343,7 +343,8 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 <p>• <strong>LinkedIn:<a href="https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b</a>&nbsp;</strong> 
 <br>
-<br>&nbsp;</p>
+<br>
+</p>
 <p>• <strong>Email address:<a href="mailto:info@fairfieldalumni.org.sg" rel="noopener noreferrer nofollow" target="_blank">info@fairfieldalumni.org.sg</a></strong>
 </p>
 <ul>
@@ -353,6 +354,9 @@ of alumni with teachers and other stakeholders.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXWSdrWg244QsPHGjE2Iss0ZuLKdSxYkOLb1AO9DtxL3lLmoBUIH2cmo1zR03Q04gKUgYup0Q4sdvZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p></p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
