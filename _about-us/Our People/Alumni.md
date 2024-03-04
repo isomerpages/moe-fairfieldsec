@@ -9,9 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/op16.png">
 </div>
+<h4>History of the Alumni Association</h4>
 <ul>
 <li>
-<p>History of the Alumni Association</p>
 <p>The Fairfield Methodist Schools Alumni Association was formed in 1951.
 The association was formed so that old girls who have left the school can
 interact with their teachers and friends through activities organised by
@@ -52,9 +52,7 @@ the 2 schools.&nbsp;
 events for alumni, to support the school and to promote the networking
 of alumni with teachers and other stakeholders.</p>
 <p></p>
-</li>
-<li>
-<p>2024/2025 Executive Committee Members</p>
+<h4>2024/2025 Executive Committee Members<br></h4>
 <table>
 <tbody>
 <tr>
@@ -332,8 +330,8 @@ of alumni with teachers and other stakeholders.</p>
 </table>
 <p></p>
 </li>
-<li>
-<p>Contact Us</p>
+</ul>
+<h4>Contact Us</h4>
 <p></p>
 <p>• <strong>Website: <a href="https://fairfieldalumni.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://fairfieldalumni.org.sg/</a>&nbsp;</strong> 
 <br>
@@ -345,16 +343,20 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 <p>• <strong>LinkedIn:<a href="https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/in/fairfield-methodist-alumni-a9791518b</a>&nbsp;</strong> 
 <br>
-<br>&nbsp;</p>
+<br>
+</p>
 <p>• <strong>Email address:<a href="mailto:info@fairfieldalumni.org.sg" rel="noopener noreferrer nofollow" target="_blank">info@fairfieldalumni.org.sg</a></strong>
 </p>
-<p></p>
-</li>
+<ul>
 <li>
-<p>Gallery</p>
+<p></p>
+<h4>Gallery<br></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXWSdrWg244QsPHGjE2Iss0ZuLKdSxYkOLb1AO9DtxL3lLmoBUIH2cmo1zR03Q04gKUgYup0Q4sdvZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+<p></p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
