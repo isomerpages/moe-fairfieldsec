@@ -65,10 +65,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Contact Number</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </td>
@@ -80,9 +76,6 @@ of alumni with teachers and other stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kelvin_ong@myintandem.com" rel="noopener noreferrer nofollow" target="_blank">kelvin_ong@myintandem.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>96940413</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -97,9 +90,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>97517082</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1st Vice President</p>
 </td>
 </tr>
@@ -110,9 +100,6 @@ of alumni with teachers and other stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lwpin@lohocklingco.com.sg" rel="noopener noreferrer nofollow" target="_blank">lwpin@lohocklingco.com.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>96573196</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Vice President</p>
@@ -127,9 +114,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>93661955</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Secretary</p>
 </td>
 </tr>
@@ -140,9 +124,6 @@ of alumni with teachers and other stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:felfyl3foo@gmail.com" rel="noopener noreferrer nofollow" target="_blank">felfyl3foo@gmail.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>96697704</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Secretary</p>
@@ -157,9 +138,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>84682327</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Treasurer</p>
 </td>
 </tr>
@@ -172,9 +150,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>97541389</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Assistant Treasurer</p>
 </td>
 </tr>
@@ -184,9 +159,6 @@ of alumni with teachers and other stakeholders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:guattinlow@gmail.com" rel="noopener noreferrer nofollow" target="_blank">guattinlow@gmail.com</a>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91444414</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advisor</p>
@@ -201,9 +173,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>96883080</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Committee Member</p>
 </td>
 </tr>
@@ -214,9 +183,6 @@ of alumni with teachers and other stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chopeilin@asiaprwerkz.com" rel="noopener noreferrer nofollow" target="_blank">chopeilin@asiaprwerkz.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>96842563</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>
@@ -231,9 +197,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>96166578</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Committee Member</p>
 </td>
 </tr>
@@ -244,9 +207,6 @@ of alumni with teachers and other stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mervynquek@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mervynquek@gmail.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>96801951</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>
@@ -261,9 +221,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>97228396</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Committee Member</p>
 </td>
 </tr>
@@ -274,9 +231,6 @@ of alumni with teachers and other stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ivygoh_soh@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">Ivygoh_soh@hotmail.com</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>82512647</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Committee Member</p>
@@ -291,9 +245,6 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90997499</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Committee Member</p>
 </td>
 </tr>
@@ -303,9 +254,6 @@ of alumni with teachers and other stakeholders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:guo_enliang_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_enliang_joseph@moe.edu.sg</a>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91153166</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FMS(S) representative</p>
@@ -318,9 +266,6 @@ of alumni with teachers and other stakeholders.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_wei@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>91077903</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FMS(P) Representative</p>
