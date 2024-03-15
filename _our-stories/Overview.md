@@ -2,8 +2,15 @@
 title: Overview
 permalink: /our-stories/overview/
 description: ""
+variant: markdown
 ---
 ### Our Stories
+
+<img src="/images/Our%20Stories/2024/MEC_Main_Feature_Photo.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> Embracing Diversity at Fairfield's Multi-Ethnic Celebrations! [Read More](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/our-stories/2024-term-1/multi-ethnic-celebrations/) <br><br>
+
+
+* * *
+
 
 <img src="/images/Our Stories/2023/mf founders day.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> Celebrating Fairfield's 135 Years of Legacy 
  [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2023-term-3/135-founders-day/) <br><br>
@@ -55,4 +62,3 @@ description: ""
 <img src="/images/hl4.png" style="width:100px;height:100px;margin-right:15px;" align="left"> All(im) Time Star - Conquering Mountains [Read More](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/our-stories/2022-Term-1/conquering-mountains/) <br><br>
 
 * * *
-
