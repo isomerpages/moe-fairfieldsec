@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Term 1
 ---
-<p></p>
-<p></p>
+<h3><strong>Embracing Diversity at Fairfield's Multi-Ethnic Celebrations</strong></h3>
 <p></p>
 <p>by Erica Ng (2D), Fayth Wai (2D), Amelia Lee (4E) and Shaan Naresh Anand
 (4E)</p>
