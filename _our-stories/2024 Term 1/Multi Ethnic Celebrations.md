@@ -37,6 +37,10 @@ and were immersed in the joy of dancing to the rhythmic beat. Throughout
 the hall, a sense of jubilation and camaraderie prevailed as students and
 teachers came together to celebrate the commencement of Chinese New Year.</p>
 <p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/2024/ezgif_2_MEC.gif">
+</div>
 <p>As the Multi-Ethnic Celebrations concert drew to a close, echoes of joy
 and music lingered in the air. Through the promotion of racial sensitivity
 and inclusivity, Fairfield’s Mult-Ethnic Celebrations lay strong foundations
