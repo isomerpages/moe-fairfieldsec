@@ -557,8 +557,8 @@ b. Character and Citizenship Education (CCE)
 
 10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents before the start of Sexuality Education and is also downloadable&nbsp;[here](https://for.edu.sg/annex-a).&nbsp;The completed form is to be submitted by 14/02/2024.
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents before the start of Sexuality Education and is also downloadable&nbsp;[here](https://for.edu.sg/annex-a).&nbsp;The completed form is to be submitted by 20/03/2024.
 
-12\. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents before the start of the eTeens programme and is also downloadable&nbsp;[here](https://for.edu.sg/annex-b)&nbsp;.&nbsp;&nbsp;The completed form is to be submitted by 14/02/2024.
+12\. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents before the start of the eTeens programme and is also downloadable&nbsp;[here](https://for.edu.sg/annex-b)&nbsp;.&nbsp;&nbsp;The completed form is to be submitted by 120/03/2024.
 
 13\. Parents can contact the school at 67788702 or fmss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
