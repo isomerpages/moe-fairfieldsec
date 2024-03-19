@@ -11,3 +11,5 @@ variant: markdown
 
 
 [Parent Engagement Deck_FMSS_2024.pdf](/files/Parents/PDLP/Parent_Engagement_Deck_FMSS_2024.pdf)
+
+[PDLP_Student_Device_Information_Kit.pdf](/files/Parents/PDLP/PDLP_Student_Device_Information_Kit.pdf)
