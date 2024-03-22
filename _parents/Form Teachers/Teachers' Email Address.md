@@ -82,8 +82,8 @@ third_nav_title: Form Teachers
 | Tan Ai Ling Marjorie (Ms)|  [tan\_ai\_ling\_marjorie@moe.edu.sg](mailto:tan_ai_ling_marjorie@moe.edu.sg) |
 | Teo-Tan Li Ling Terri (Mrs) | [terri\_tan\_li\_ling@moe.edu.sg](mailto:terri_tan_li_ling@moe.edu.sg) |
 | Tham Xue Ping Desiree (Ms) | [desiree\_tham\_xue\_ping@moe.edu.sg](mailto:desiree_tham_xue_ping@moe.edu.sg) |
-| Thio Lay Hong (Ms) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg) |
-| Trixie Chan Thing Lee (Ms) | [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
+| Trixie Chan Thing Lee  (Ms) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg) |
+| Thio Lay Hong (Ms) | [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | Uma Devi (Ms) | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
 | Wee Guoyuan (Mr) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
 | Wee Lay Kit Jasmine (Ms) | [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
