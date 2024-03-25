@@ -13,13 +13,6 @@ Colourful decorations adorned with vibrant shades of red and gold filled every c
 
 The ceremony kicked off with the emergence of a majestic lion head from the stage corner. Its intricate scales shimmered in the bright light, symbolising power, strength, and good fortune. A skilled performer brought it to life, moving in perfect harmony with the others. The energetic beats of the drum echoed through the hall, eliciting thunderous applause at the wonderful performance.
 
-
-![](/images/Our%20Stories/2024/IMG_3584.jpg)
-
-![](/images/Our%20Stories/2024/IMG_9984.jpg)
-
-![](/images/Our%20Stories/2024/IMG_9905.jpg)
-
 <img src="/images/Our Stories/2024/ezgif_MEC_ver_1.gif" style="width:60%">
 
 
