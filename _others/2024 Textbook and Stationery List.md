@@ -2,7 +2,6 @@
 title: 2024 Textbook and Stationery List
 permalink: /parents/administrative-matters/2024-textbook-and-stationery-list/
 description: ""
-third_nav_title: Administrative Matters
 variant: markdown
 ---
 ### Purchase of School Textbooks, Stationery and School Attire
