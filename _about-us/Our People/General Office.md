@@ -15,6 +15,7 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
+| **Ms Ong Huey Ying** | Administration Manager | [ong\_huey\_ying@schools.gov.sg](mailto:ong_huey_ying@schools.gov.sg) |
 | **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
 
 
