@@ -32,4 +32,4 @@ variant: markdown
 | **Ms  Chan Xin Hui Charmaine** | Sec 1A Form Teacher | [charmaine\_chan\_xin\_hui@moe.edu.sg](mailto:charmaine_chan_xin_hui@moe.edu.sg) |
 | **Ms Lai Xin Yi Felicia** | Sec 4D Form Teacher | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
 | **Mdm Tay Shu-Min Samantha** | Sec 1A Form Teacher | [tay\_shu-min\_samantha@moe.edu.sg](mailto:tay_shu-min_samantha@moe.edu.sg) |
-| **Mrs Choe Wai Leng** | Teacher | [choe\_wai\_leng\_evelyn@moe.edu.sg](mailto:choe_wai_leng_evelyn@moe.edu.sg) |
+| **Mrs Choe Wai Leng** | Teacher | [choe\_wai\_leng\_evelyn_a@moe.edu.sg](mailto:choe_wai_leng_evelyn_a@moe.edu.sg) |
