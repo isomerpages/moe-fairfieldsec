@@ -17,6 +17,7 @@ third_nav_title: Form Teachers
 | Chak-Goh Chiow Yean Jessica (Mrs) | [goh\_chiow\_yean\_jessica@moe.edu.sg](mailto:goh_chiow_yean_jessica@moe.edu.sg) |
 | Chen Minhua (Ms) | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg) |
 | Chew Kwai Hoong Gary (Mr) | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) |
+| Choe Wai Leng Evelyn (Mrs) | [choe_wai_leng_evelyn_a@moe.edu.sg](mailto:choe_wai_leng_evelyn_a@moe.edu.sg) |
 | Chua Chong Yuan Alvin (Mr) | [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
 | Dannish Kurniago (Mr) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) |
 | Elijah-Lily Cleaopatra (Mrs) | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
