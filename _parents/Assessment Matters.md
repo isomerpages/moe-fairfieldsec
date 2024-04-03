@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<h4>Term 1 Weighted Assessment Schedule and Topics <br></h4>
+<h4>WA1 Schedule and Topics <br></h4>
 <p><a href="/files/Parents/Assessment%20Matters/2024/2024_sec_1_wa_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 WA1 Schedule Sec 1</a>
 </p>
 <p><a href="/files/Parents/Assessment%20Matters/2024/2024_sec_1_wa_1_topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 WA1 Topics Sec 1</a>
