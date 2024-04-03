@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Assessment Matters</h3>
 <p></p>
-<h4>WA2 Weighted Assessment Schedule and Topics</h4>
+<h4>WA2 Schedule and Topics</h4>
 <p><a href="/files/Parents/Assessment Matters/2024/Sec1_topic.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Topics</a>
 </p>
 <p><a href="/files/Parents/Assessment Matters/2024/Sec2_topic.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Topics</a>
