@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents/Assessment Matters/2024/Sec2_WA_2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA2 Schedule</a>
 </p>
-<p><a href="/files/Parents/Assessment Matters/2024/Sec3_WA_2_Topics__updated_5_Apr_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA2 Topics (updated 8 Apr)</a>
+<p><a href="/files/Parents/Assessment Matters/2024/Sec_3_WA_2_Topics__8_Apr_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA2 Topics (updated 8 Apr)</a>
 </p>
 <p><a href="/files/Parents/Assessment Matters/2024/Sec_3_WA_2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA2 Schedule</a>
 </p>
