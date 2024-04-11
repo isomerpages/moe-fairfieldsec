@@ -39,8 +39,8 @@ Our selection panel seeks to identify students with high levels of ability and a
 
 |  |  |
 |---|---|
-| **Date** | 4 Jul 23 - 28 Jul 23 |
-| **Time** | 1500 - 1800 |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE T-shirt &amp; Tights and Dance shoes |
 
@@ -48,7 +48,7 @@ Our selection panel seeks to identify students with high levels of ability and a
 
 |  |  |
 |---|---|
-| **Date** | 4 Jul 23 - 28 Jul 23 |
-| **Time** | 1400 - 1730 |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School Uniform |
