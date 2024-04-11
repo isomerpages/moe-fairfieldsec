@@ -3,6 +3,7 @@ title: 2023 DSA Sports
 permalink: /prospective-students/direct-school-admission/sports/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 ### 2023 DSA Sports
 
@@ -25,8 +26,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | 4 Jul 23 - 28 Jul 23 |
-| **Time** | 1500 - 1730 |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -34,8 +35,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | 4 Jul 23 - 28 Jul 23 |
-| **Time** | 1430 - 1800 |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -43,8 +44,8 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | 4 Jul 23 - 28 Jul 23 |
-| **Time** | 1400 - 1700 |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
 
@@ -52,7 +53,7 @@ Our selection panel seeks to identify students with high levels of sporting abil
 
 |  |  |
 |---|---|
-| **Date** | 4 Jul 23 - 28 Jul 23 |
-| **Time** | 1330 - 1800 |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School PE/Sports Attire |
