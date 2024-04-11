@@ -3,8 +3,9 @@ title: 2023 DSA Frequently Asked Questions (FAQs)
 permalink: /prospective-students/direct-school-admission/faq/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
-### 2023 DSA ─ Frequently Asked Questions (FAQs)
+### 2024 DSA ─ Frequently Asked Questions (FAQs)
 
   
 
