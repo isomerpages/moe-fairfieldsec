@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: markdown
 ---
-### 2023 DSA Sports
+### 2024 DSA Sports
 
 Our selection panel seeks to identify students with high levels of sporting ability and achievement in the following sports:&nbsp;  
 
