@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: markdown
 ---
-### 2023 DSA Performing Arts
+### 2024 DSA Performing Arts
 
 Our selection panel seeks to identify students with high levels of ability and achievement in the following performing arts:
 
@@ -29,8 +29,8 @@ Our selection panel seeks to identify students with high levels of ability and a
 
 |  |  |
 |---|---|
-| **Date** | 4 Jul 23 - 28 Jul 23 |
-| **Time** | 1300 - 1700 |
+| **Date** | TBC |
+| **Time** | TBC |
 | **Reporting Venue** | FMS(S) |
 | **Attire** | School Uniform |
 
