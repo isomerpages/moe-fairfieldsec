@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Assessment Matters</h3>
 <p></p>
 <h4>WA2 Schedule and Topics</h4>
-<p><a href="/files/Parents/Assessment Matters/2024/Sec_1_WA_2_Topics_2024__15_Apr_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Topics ( updated 15 Apr)</a>
+<p><a href="/files/Parents/Assessment Matters/2024/Sec_1_WA_2_Topics_2024__15_Apr__2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Topics ( updated 15 Apr)</a>
 </p>
 <p><a href="/files/Parents/Assessment Matters/2024/Sec1_WA_2_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Schedule</a>
 </p>
