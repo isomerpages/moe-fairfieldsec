@@ -1,5 +1,5 @@
 ---
-title: 2023 DSA Performing Arts
+title: 2024 DSA Performing Arts
 permalink: /prospective-students/direct-school-admission/performing-arts/
 description: ""
 third_nav_title: Direct School Admission

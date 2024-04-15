@@ -1,5 +1,5 @@
 ---
-title: 2023 DSA Sports
+title: 2024 DSA Sports
 permalink: /prospective-students/direct-school-admission/sports/
 description: ""
 third_nav_title: Direct School Admission
