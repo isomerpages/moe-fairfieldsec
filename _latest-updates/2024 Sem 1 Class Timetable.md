@@ -7,10 +7,10 @@ variant: markdown
 ### 2024  Sem 1 Class Timetable 
 
 
-[Sem 1 2024 Sec 1 Timetable 14Jan24.pdf](/files/Latest%20Updates/2024S1S1.pdf)
+[Sem_1_2024_Sec_1_Timetable_26Apr24.pdf](/files/Latest%20Updates/2024/Sem_1_2024_Sec_1_Timetable_26Apr24.pdf)
 
-[Sem 1 2024 Sec 2 Timetable 14Jan24.pdf](/files/Latest%20Updates/2024S1S2.pdf)
+[Sem_1_2024_Sec_2_Timetable_26Apr24.pdf](/files/Latest%20Updates/2024/Sem_1_2024_Sec_2_Timetable_26Apr24.pdf)
 
-[Sem 1 2024 Sec 3 Timetable 14Jan24.pdf](/files/Latest%20Updates/2024S1S3.pdf)
+[Sem_1_2024_Sec_3_Timetable_26Apr24.pdf](/files/Latest%20Updates/2024/Sem_1_2024_Sec_3_Timetable_26Apr24.pdf)
 
-[Sem 1 2024 Sec 4 and 5 Timetable 14Jan24.pdf](/files/Latest%20Updates/2024S1S45.pdf)
+[Sem_1_2024_Sec_4 and 5_Timetable_26Apr24.pdf](/files/Latest%20Updates/2024/Sem_1_2024_Sec_45_Timetable_26Apr24.pdf)
