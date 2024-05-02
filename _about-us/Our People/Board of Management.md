@@ -8,4 +8,7 @@ variant: markdown
 ### Board of Management
 
 <img src="/images/op1.png" style="width:100%">
-<img src="/images/op2_ver1.png" style="width:100%">
+
+![](/images/op2_ver_3_align2.jpg)
+
+
