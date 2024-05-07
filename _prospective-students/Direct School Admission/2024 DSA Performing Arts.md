@@ -20,7 +20,7 @@ Our selection panel seeks to identify students with high levels of ability and a
 | Performing Arts | Requirements |
 |:---:|:---:|
 | Choir | <br>Should have experience singing on stage.Preferably has received voice-training.<br><br>Applicants should be prepared to:<br><br>- Be tested on pitch, note intervals and rhythm feel.<br>- Sing a song of choice with or without accompaniment |
-| Modern Contemporary Dance | Have stage performance experience in the last 3 years<br><br>Applicants should be prepared to:<br><br>- learn and demonstrate a short routine/choreography on the spot<br>- perform a solo routine. |
+| Modern Contemporary Dance | Have stage performance experience in the last 3 years<br><br>Applicants should be prepared to:<br><br>- learn and demonstrate a short routine/choreography on the spot<br>- perform a solo routine (Street Dance / K-pop and Hip-hop will not be accepted). |
 | Concert Band | <br>Applicants should be prepared to:<br><br>- Perform a piece of music on a band instrument<br><br>- Have played any of the following band instruments:<br><br>List of Band Instruments:<br><br>- Bass Clarinet<br><br>- Bassoon<br><br>- Clarinet<br><br>- Cor anglais (English Horn)<br><br>- Cornet<br><br>- Double Bass (String Bass - exceptions made to those with cello experience)<br><br>- Euphonium/Baritone<br><br>- Flute<br><br>- French Horn<br><br>- Oboe<br><br>- Piccolo<br><br>- Saxophones (Alto, Tenor, Baritone)<br><br>- Trombone<br><br>- Trumpet<br><br>- Tuba (BB Flat) |
 
 #### Dates of Auditions/Interviews
