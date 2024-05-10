@@ -3,6 +3,7 @@ title: Group Personal Accident Insurance for Students
 permalink: /parents/administrative-matters/group-personal-accident-insurance/
 description: ""
 third_nav_title: Administrative Matters
+variant: markdown
 ---
 ### Group Personal Accident (GPA) Insurance for Students
 
@@ -12,11 +13,11 @@ All students are covered under the GPA Insurance Plan which provides coverage wh
 
   
 
-You may refer to the factsheet which provides information on the benefit/sum assured, coverage and other details. The factsheet can be found [here](/files/gpai.pdf). 
+You may refer to the factsheet which provides information on the benefit/sum assured, coverage and other details. The factsheet can be found [here](/files/Parents/Admin%20Matters/Product_Fact_Sheet__Year_2024_May__Revised.pdf)
 
   
 
-With effect from 2022, all student accident insurance claims submission are to be submitted electronically.  Parents/students are to submit their claims online and check the claims status through the online portal.
+All student accident insurance claims submission are to be submitted electronically.  Parents/students are to submit their claims online and check the claims status through the online portal.
 
   
 
