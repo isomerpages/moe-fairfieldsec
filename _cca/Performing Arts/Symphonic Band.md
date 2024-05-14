@@ -3,7 +3,7 @@ title: Symphonic Band
 permalink: /cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
 <h3>Symphonic Band</h3>
 <div class="isomer-image-wrapper">
@@ -49,12 +49,12 @@ variant: markdown
 / competition</p>
 <p>
 <br>
-<br><strong>Teachers In Charge:</strong>
+<br><strong>Teachers In Charge:</strong> 
 <br>Miss Tan Yi Qian (I/C)
 <br>Mr James Quek
 <br>Miss&nbsp;Siti Ainah
 <br>
-<br><strong>Conductor</strong>
+<br><strong>Conductor</strong> 
 <br>Mr Wong Yin Xuan&nbsp;
 <br>
 <br>Mr Wong Yin Xuan, an active educator and conductor, has been nurturing
@@ -113,17 +113,10 @@ and achieving excellence in every performance.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary One Induction</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bonding Activities</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peer Mentoring</p>
-<ul>
-<li>
+<p><strong>Achievements</strong>
+</p>
 <p></p>
-<ul>
-<li>
-<p></p>
-<ul>
-<li>
-<p>Achievements</p>
-<p></p>
-<p><strong>2023</strong>
+<p><strong>2023</strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -158,7 +151,7 @@ and achieving excellence in every performance.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Performance</strong>
+<p><strong>School Performance</strong> 
 <br>
 </p>
 </td>
@@ -179,7 +172,7 @@ and achieving excellence in every performance.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Public Performance</strong>
+<p><strong>Public Performance</strong> 
 <br>
 </p>
 </td>
@@ -189,7 +182,7 @@ and achieving excellence in every performance.</p>
 <p>
 <br>
 </p>
-<p><strong>2022</strong>
+<p><strong>2022</strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -224,7 +217,7 @@ and achieving excellence in every performance.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Public Performance</strong>
+<p><strong>Public Performance</strong> 
 <br>
 </p>
 </td>
@@ -234,7 +227,7 @@ and achieving excellence in every performance.</p>
 <p>
 <br>
 </p>
-<p><strong>2021</strong>
+<p><strong>2021</strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -245,7 +238,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</strong>
+<p><strong>SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</strong> 
 <br>
 </p>
 </td>
@@ -259,7 +252,7 @@ and achieving excellence in every performance.</p>
 <p>
 <br>
 </p>
-<p><strong>2019</strong>
+<p><strong>2019</strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -270,7 +263,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2019 Arts Presentation for&nbsp;Band (Concert)</strong>
+<p><strong>SYF 2019 Arts Presentation for&nbsp;Band (Concert)</strong> 
 <br>
 </p>
 </td>
@@ -284,7 +277,7 @@ and achieving excellence in every performance.</p>
 <p>
 <br>
 </p>
-<p><strong>2017</strong>
+<p><strong>2017</strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -295,7 +288,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2017 Arts Presentation for&nbsp;Band (Concert)</strong>
+<p><strong>SYF 2017 Arts Presentation for&nbsp;Band (Concert)</strong> 
 <br>
 </p>
 </td>
@@ -307,10 +300,4 @@ and achieving excellence in every performance.</p>
 </tbody>
 </table>
 <p></p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
 <p></p>
