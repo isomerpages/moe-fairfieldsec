@@ -6,9 +6,8 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Symphonic Band</h3>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cca14.gif">
-</div>
+<p></p>
+<p></p>
 <p>Details</p>
 <p><strong>Training Days &amp; Time:</strong>
 </p>
