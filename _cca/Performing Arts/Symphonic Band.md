@@ -20,11 +20,12 @@ variant: markdown
 <p> 
 <b>Training Days &amp; Time:</b><br>
 
-*Monday (Sec. 1 only. Sec. 2-5 during concert/competition season):&nbsp;3.30 pm - 6.00 pm  <br>
+*Monday (Main Band only): 3.30 pm - 6.00 pm  <br>
 
-Wednesday (Sec. 2-5): 3.30 pm - 6.00 pm<br>
+Wednesday (Junior Band only*): 2.30 pm - 5.30 pm<br>
 
-Friday (Sec. 1-5): 2.00 pm - 5.00 pm<br><br>
+Friday (Junior Band): 2.00 pm - 5.00 pm<br>
+           (Main Band): 3.00 pm - 6.00 pm<br><br>
 
   
 
