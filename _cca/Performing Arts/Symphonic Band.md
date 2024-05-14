@@ -3,144 +3,314 @@ title: Symphonic Band
 permalink: /cca/Performing-Arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-### Symphonic Band
-
-<img style="width:80%" src="/images/cca14.gif">
-
-<ul class="jekyllcodex_accordion">
-<li>
-		
-<input id="accordion1" type="checkbox">
-
-<label for="accordion1">Details</label>
-<div>
-
-<p> 
-<b>Training Days &amp; Time:</b><br>
-
-*Monday (Main Band only): 3.30 pm - 6.00 pm  <br>
-
-Wednesday (Junior Band only*): 2.30 pm - 5.30 pm<br>
-
-Friday (Junior Band): 2.00 pm - 5.00 pm<br>
-           (Main Band): 3.00 pm - 6.00 pm<br><br>
-
-  
-
-*Main Band has practices on Monday when there is upcoming performance / competition<br><br>
-
-  
-
-<b>Teachers In Charge:</b><br>
-
-Ms Lim Chee Shan (I/C)<br>
-
-Mr James Quek<br>
-
-Ms Tan Yi Qian<br><br>
-
-  
-
-<b>Conductors  </b><br>
-
-Mrs Chua-Tan Soh Hwa (Advisor)&nbsp;  <br>
-Mr Patrick Neo  <br>
-Mr Wong Yin Xuan&nbsp;<br><br>
-  
-
-Mrs Chua-Tan Soh Hwa and Mr Chua Tiong Hong began to lead the band in 2007. Under their baton, the band has soared and reached a new level of excellence in performance and showmanship, where it has achieved Gold Awards in consecutive SYFs, including the recent Certificates of Distinction in the SYF Arts Presentation in 2017 and 2019.
-</p>
+<h3>Symphonic Band</h3>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/cca14.gif">
 </div>
-
-<ul class="jekyllcodex_accordion">
-<li>
-		
-<input id="accordion2" type="checkbox">
-
-<label for="accordion2">Overview</label>
-<div>
-
+<p>Details</p>
+<p><strong>Training Days &amp; Time:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Main Band only): 3.30 pm - 6.00 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Junior Band only*): 2.30 pm - 5.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Junior Band): 2.00 pm - 5.00 pm</p>
+<p>(Main Band): 3.00 pm - 6.00 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Main Band has practices on Wednesday when there is upcoming performance
+/ competition</p>
 <p>
-<b>Vision</b><br> 
-
-Our vision is for young aspiring musicians in Fairfield to be trained and inspired in a hospitable and challenging environment. As individual musicians and members of the Fairfield Symphonic Band (FSB), they will pursue music excellence and the highest standards of musicality as one family.<br><br>
-
-  
-
-<b>Mission</b><br> 
-
-Our mission is to mould every member of FSB to reach their fullest potential. FSB will provide each member with an opportunity to experience an excellent music education and training, aiming to inspire and develop the enthusiastic and dedicated music-lovers in Fairfield. It also improves both mentally and physically as they get to interact with one another during band practices. We continue to soar through the skies to produce better results everytime!<br><br>
-
-  
-
-<b>Highlights</b><br><br>
-
-<b>Competitions:</b><br> 
-
-Singapore Youths Festival Art Presentation<br>
-
-Singapore International Band Festival (SIBF) competition<br><br>
-
-  
-
-<b>Performances:</b><br> 
-
-Limelight Concert<br>
-
-National Day Performance<br>
-
-Junior Band Recital<br>
-
-Fairfield Symphonic Band Concert (Year-End)<br><br>
-
-  
-
-<b>Team Bonding Activities:</b><br>
-
-Secondary One Induction<br>
-
-Band Camp	
-	
+<br>
+<br><strong>Teachers In Charge:</strong>
+<br>Miss Tan Yi Qian (I/C)
+<br>Mr James Quek
+<br>Miss&nbsp;Siti Ainah
+<br>
+<br><strong>Conductor</strong>
+<br>Mr Wong Yin Xuan&nbsp;
+<br>
+<br>Mr Wong Yin Xuan, an active educator and conductor, has been nurturing
+young talents in the world of wind instruments for over 15 years. Currently,
+he serves as the dedicated band director for the <a rel="noopener noreferrer nofollow" target="_blank">Fairfield Symphonic Band</a>,
+where he has been influencing the lives of both primary and secondary school
+students with his passion for music and teaching.</p>
+<p>Mr Wong's teaching philosophy centers on the nurturing power of encouragement
+and its transformative impact on students. He holds a firm belief that
+with adequate guidance, all students can eventually achieve their musical
+goals. Emphasizing inclusivity, he asserts that music is for everyone,
+not just the naturally talented. Under his dedicated leadership, Mr Wong
+led the band to earn a Certificate of Distinction at the 2023 Singapore
+Youth Festival, marking a significant achievement in his inaugural year
+as the main conductor.</p>
+<p></p>
+<p><strong>Overview</strong>
 </p>
-
-	
-</div>
-
-<ul class="jekyllcodex_accordion">
+<p></p>
+<p><strong><u>Vision</u></strong>
+</p>
+<p>Our vision is for young aspiring musicians in Fairfield to be trained
+and inspired in a nurturing and challenging environment. As individual
+musicians and members of the Fairfield Symphonic Band (FSB), they will
+pursue music excellence and the highest standards of musicality as one
+family.</p>
+<p></p>
+<p><strong><u>Mission</u></strong>
+</p>
+<p>Our mission is to enable every FSB member to reach their full potential.
+We provide outstanding music education and training opportunities designed
+to inspire and nurture dedicated music enthusiasts in Fairfield. Engaging
+in band practices enhances both mental and physical development as members
+interact and learn together. We are committed to continuous improvement
+and achieving excellence in every performance.</p>
+<p></p>
+<p><strong><u>Highlights</u></strong>
+</p>
+<p></p>
+<p><strong>Competitions:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youths Festival Art Presentation</p>
+<p></p>
+<p><strong>Performances:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Limelight Concert</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Day Performance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Band Recital (Term 3)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fairfield Symphonic Band Concert
+(Year-End)</p>
+<p></p>
+<p><strong>Special Activities and Programs:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values-in-Action (ViA) in CCA</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Masterclasses</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary One Induction</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bonding Activities</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peer Mentoring</p>
+<ul>
 <li>
-		
-<input id="accordion3" type="checkbox">
-
-<label for="accordion3">Achievements</label>
-<div>
-
-<p>
-
-<b>2023</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF 2023 Arts Presentation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Oh! It's Fairfield Carnival 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">National Day Performance 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers' Day Performance 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Junior Band Recital 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>		
-	
-<b>2022</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Cool Classics Series@Esplanade: Crescendo<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Junior Band Recital 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Symphonica Year End Band Concert<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>	
-	
-	
-	
-<b>2021</b><br>
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Accomplishment</b></td></tr></tbody></table><br>
-
-	
-<b>2019</b><br>
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2019 Arts Presentation for&nbsp;Band (Concert)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</b></td></tr></tbody></table><br>
-	
-	
-<b>2017</b><br>
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">SYF 2017 Arts Presentation for&nbsp;Band (Concert)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</b></td></tr></tbody></table>
+<p></p>
+<ul>
+<li>
+<p></p>
+<ul>
+<li>
+<p>Achievements</p>
+<p></p>
+<p><strong>2023</strong>
+<br>
 </p>
-
-	
-</div>
-
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF 2023 Arts Presentation<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Oh! It's Fairfield Carnival 2023<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Performance 2023<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers' Day Performance 2023<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior Band Recital 2023<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p><strong>2022</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cool Classics Series@Esplanade: Crescendo<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior Band Recital 2022<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Symphonica Year End Band Concert<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p><strong>2021</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Accomplishment</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p><strong>2019</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF 2019 Arts Presentation for&nbsp;Band (Concert)</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p><strong>2017</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF 2017 Arts Presentation for&nbsp;Band (Concert)</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </li>
-	
-</ul></li></ul></li></ul>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
