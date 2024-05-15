@@ -7,6 +7,9 @@ variant: markdown
 ---
 <h3>Symphonic Band</h3>
 <p></p>
+
+![](/images/CCA/PA/2024_Band_GIF.gif)
+
 <p>Details</p>
 <p><strong>Training Days &amp; Time:</strong>
 </p>
