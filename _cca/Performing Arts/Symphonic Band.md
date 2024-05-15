@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <h3>Symphonic Band</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA/2024_Band_GIF.jpg">
-</div>
 <p>Details</p>
 <p><strong>Training Days &amp; Time:</strong>
 </p>
