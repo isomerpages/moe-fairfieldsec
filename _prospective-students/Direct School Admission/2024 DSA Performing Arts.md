@@ -3,52 +3,242 @@ title: 2024 DSA Performing Arts
 permalink: /prospective-students/direct-school-admission/performing-arts/
 description: ""
 third_nav_title: Direct School Admission
-variant: markdown
+variant: tiptap
 ---
-### 2024 DSA Performing Arts
-
-Our selection panel seeks to identify students with high levels of ability and achievement in the following performing arts:
-
-  
-
-\- Choir (Mixed) <br>
-\- Modern Contemporary Dance (Mixed) <br>
-\- Concert Band (Mixed) 
-
-#### Selection Criteria
-
-| Performing Arts | Requirements |
-|:---:|:---:|
-| Choir | <br>Should have experience singing on stage.Preferably has received voice-training.<br><br>Applicants should be prepared to:<br><br>- Be tested on pitch, note intervals and rhythm feel.<br>- Sing a song of choice with or without accompaniment |
-| Modern Contemporary Dance | Have stage performance experience in the last 3 years<br><br>Applicants should be prepared to:<br><br>- learn and demonstrate a short routine/choreography on the spot<br>- perform a solo routine (Street Dance / K-pop and Hip-hop will not be accepted). |
-| Concert Band | <br>Applicants should be prepared to:<br><br>- Perform a piece of music on a band instrument<br><br>- Have played any of the following band instruments:<br><br>List of Band Instruments:<br><br>- Bass Clarinet<br><br>- Bassoon<br><br>- Clarinet<br><br>- Cor anglais (English Horn)<br><br>- Cornet<br><br>- Double Bass (String Bass - exceptions made to those with cello experience)<br><br>- Euphonium/Baritone<br><br>- Flute<br><br>- French Horn<br><br>- Oboe<br><br>- Piccolo<br><br>- Saxophones (Alto, Tenor, Baritone)<br><br>- Trombone<br><br>- Trumpet<br><br>- Tuba (BB Flat) |
-
-#### Dates of Auditions/Interviews
-
-#### Choir (Mixed)
-
-|  |  |
-|---|---|
-| **Date** | TBC |
-| **Time** | TBC |
-| **Reporting Venue** | FMS(S) |
-| **Attire** | School Uniform |
-
-
-#### Modern Contemporary Dance (Mixed)
-
-|  |  |
-|---|---|
-| **Date** | TBC |
-| **Time** | TBC |
-| **Reporting Venue** | FMS(S) |
-| **Attire** | School PE T-shirt &amp; Tights and Dance shoes |
-
-#### Concert Band (Mixed)
-
-|  |  |
-|---|---|
-| **Date** | TBC |
-| **Time** | TBC |
-| **Reporting Venue** | FMS(S) |
-| **Attire** | School Uniform |
+<h3>2024 DSA Performing Arts</h3>
+<p>Our selection panel seeks to identify students with high levels of ability
+and achievement in the following performing arts:</p>
+<p>- Choir (Mixed)
+<br>- Modern Contemporary Dance (Mixed)
+<br>- Concert Band (Mixed)</p>
+<h4>Selection Criteria</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Requirements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Should have experience singing on stage. Preferably has received voice-training.
+<br>
+<br>Applicants should be prepared to:
+<br>- Be tested on pitch, note intervals and rhythm feel.
+<br>- Sing a song of their choice with or without accompaniment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Contemporary Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Should have stage performance experience in the last 3 years.
+<br>
+<br>Applicants should be prepared to:
+<br>- Learn and demonstrate a short routine/choreography on the spot.
+<br>- Perform a solo routine (should be related to Modern Contemporary Dance;
+preferably not Street Dance, K-pop and Hip-hop).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Should have played any of the following band instruments:
+<br>
+<br>List of Band Instruments:
+<br>- Bass Clarinet
+<br>- Bassoon
+<br>- Clarinet
+<br>- Cor anglais (English Horn)
+<br>- Cornet
+<br>- Double Bass (String Bass - exceptions made to those with cello experience)
+<br>- Euphonium/Baritone
+<br>- Flute
+<br>- French Horn
+<br>- Oboe
+<br>- Piccolo
+<br>- Saxophones (Alto, Tenor, Baritone)
+<br>- Trombone
+<br>- Trumpet
+<br>- Tuba (BB Flat)</p>
+<p>&nbsp;</p>
+<p>Applicants should be prepared to:
+<br>- Perform a piece of music on a band instrument.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Dates of Auditions/Interviews</h4>
+<h4>Choir (Mixed)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Uniform</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Modern Contemporary Dance (Mixed)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School PE T-shirt &amp; Tights and Dance shoes</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Concert Band (Mixed)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Attire</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Uniform</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
