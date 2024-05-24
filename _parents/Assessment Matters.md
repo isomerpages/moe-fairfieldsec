@@ -5,6 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h3>Assessment Matters</h3>
+<h4>N Level Prelim Exam Schedule</h4>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_Sec_4NA_Prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Sec_4NA_Prelim.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_Sec_4NA_Prelim_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Sec_4NA_Prelim_SAA.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_Sec_4NT_Prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Sec_4NT_Prelim.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_Sec_4NT_Prelim_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Sec_4NT_Prelim_SAA.pdf</a>
+</p>
 <p></p>
 <h4>WA2 Schedule and Topics</h4>
 <p><a href="/files/Parents/Assessment Matters/2024/Sec_1_WA_2_Topics_2024__15_Apr__2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA2 Topics ( updated 15 Apr)</a>
