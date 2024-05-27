@@ -10,9 +10,6 @@ variant: markdown
 
 Fairfield Methodist School (Secondary) welcomes applications from Primary 6 students in the current academic year to take part in the Direct School Admission (DSA-Sec) Exercise. We seek to provide an environment which will nurture your abilities and enable you to reach your fullest potential as a student sportsperson/performer.
 
-#### DSA Promotional Video
-
-<iframe width="768" height="348" src="https://www.youtube.com/embed/KbeWyYy9ca8" title="FMSS DSA Promotional Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Parents and students are encouraged to choose wisely based on the student’s aptitudes and strengths, bearing in mind our school's academic and non-academic requirements, and the programmes that are available to develop the area of talent.
 
