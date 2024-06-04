@@ -25,7 +25,6 @@ variant: markdown
 | **Mr Alex Woo Chee Keong** | Senior Teacher<br>Sec 4H Form Teacher | [alex\_woo\_chee\_keong@moe.edu.sg](mailto:alex_woo_chee_keong@moe.edu.sg) |
 | **Ms Tham Xue Ping Desiree** | Sec 2D Form Teacher | [desiree\_tham\_xue\_ping@moe.edu.sg](mailto:desiree_tham_xue_ping@moe.edu.sg) |
 | **Mrs Elijah-Lily Cleopatra** | Senior Teacher<br>Sec 4G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
-| **Ms Juliana Bte Jamil** | Sec 1C Form Teacher | [juliana\_jamil@moe.edu.sg](mailto:juliana_jamil@moe.edu.sg) |
 | **Ms Lee Chiew Yi** | Sec 3D Form Teacher | [lee_chiew_yi@moe.edu.sg](mailto:lee_chiew_yi@moe.edu.sg) |
 | **Ms &nbsp;Lim Siew Ein Josephine** | Sec 2E Form Teacher | [lim\_siew\_ein\_@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
 | **Mr Heng Khim Liang Amos** | Teacher | [heng\_khim\_liang\_amos@moe.edu.sg](mailto:heng_khim_liang_amos@moe.edu.sg) |
