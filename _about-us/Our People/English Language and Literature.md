@@ -34,5 +34,4 @@ variant: markdown
 | **Ms Wee Lay Kit Jasmine** | Sec 4E Form Teacher |  [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
 |  **Ms Tan Li Ling Olivia** | Sec 2H Form Teacher  |  [olivia\_tan\_li\_ling@moe.edu.sg](mailto:olivia_tan_li_ling@moe.edu.sg) |
 |  **Ms Tan Ai Ling Marjorie** | Sec 1G Form Teacher  |  [tan\_ai\_ling\_marjorie@moe.edu.sg](mailto:tan_ai_ling_marjorie@moe.edu.sg) |
-| **Mdm Foo Choon Huay Serena** | Teacher |  [foo\_choon\_huay\_serena@moe.edu.sg](mailto:foo_choon_huay_serena@moe.edu.sg) |
 |  **Mr  Lim Ming Hee Nicholas** | Teacher  |  [lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |
