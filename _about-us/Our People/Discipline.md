@@ -24,5 +24,4 @@ variant: markdown
 | **Mdm Tay Shu-Min Samantha** | Sec 1 Level Discipline Mistress<br>Sec 1A Form Teacher | [tay\_shu-min\_samantha@moe.edu.sg](mailto:tay_shu-min_samantha@moe.edu.sg) |
 | **Mr Arif Bin Bakar** | Sec 2 Level Discipline Master<br>Sec 1F Form Teacher | [arif\_bakar@schools.gov.sg](mailto:arif_bakar@moe.edu.sg) |
 | **Ms Aminah Beevi D/O Rahim**  | Sec 3 Level Discipline Mistress<br>Sec 3B Form Teacher | [aminah\_beevi\_rahim@schools.gov.sg](mailto:aminah_beevi_rahim@schools.gov.sg) |
-| **Ms Yen Ding Yi** | Sec 3 Level Discipline Mistress  <br>Sec 3A Form Teacher | [yen\_ding\_yi@schools.gov.sg](mailto:yen_ding_yi@schools.gov.sg) |
 | **Mr Choy Andrew**  |  Sec 4 Level Discipline Master<br>Sec 4C Form Teacher  | [choy\_andrew@moe.edu.sg](mailto:choy_andrew@moe.edu.sg)  |
