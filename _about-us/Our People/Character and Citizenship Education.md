@@ -27,7 +27,6 @@ variant: markdown
 | **Mr Loke Liang En Joel** | SH Social Studies (covering) | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
 | **Mr Dannish Kurniago** | SH Student Leadership (covering) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) | 
 |  **Mr Lum Tuck Choi Jason** | Lead Teacher |  [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
-|  **Mr Chua Chong Yuan Alvin** | Sec 4E Form Teacher |  [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
 |  **Ms Wong Jiayi** | Sec 1F Form Teacher |  [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
 |  **Ms Lai Xin Yi Felicia** | Sec 4D Form Teacher | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
 |  **Mr Jon Poh Jing Ping** | Sec 3C Form Teacher | [jon\_poh\_jing\_ping@moe.edu.sg](mailto:jon_poh_jing_ping@moe.edu.sg) |
