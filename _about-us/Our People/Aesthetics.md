@@ -27,6 +27,7 @@ variant: markdown
 | **Mrs Elijah-Lily Cleopatra** | Senior Teacher<br>Sec 4G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
 | **Ms Lee Chiew Yi** | Sec 3D Form Teacher | [lee_chiew_yi@moe.edu.sg](mailto:lee_chiew_yi@moe.edu.sg) |
 | **Ms &nbsp;Lim Siew Ein Josephine** | Sec 2E Form Teacher | [lim\_siew\_ein\_@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
+| **Mdm  Nurul Afia Binte Mohammed Anuar** | Sec 1E Form Teacher | [nurul\_afia\_mohammed\_anuar@moe.edu.sg](mailto:nurul_afia_mohammed_anuar@moe.edu.sg) |
 | **Mr Heng Khim Liang Amos** | Teacher | [heng\_khim\_liang\_amos@moe.edu.sg](mailto:heng_khim_liang_amos@moe.edu.sg) |
 | **Mrs Tan Geok Kooi Katherine** | Teacher | [ong\_geok\_kooi\_katherine@moe.edu.sg](mailto:ong_geok_kooi_katherine@moe.edu.sg) |
 | **Mr Mohamad Sidek Bin Omar** | Technical Support Officer |  [mohammed\_sidek\_omar@moe.edu.sg](mailto:mohammed_sidek_omar@moe.edu.sg) |
