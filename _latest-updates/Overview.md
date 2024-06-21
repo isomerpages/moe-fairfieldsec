@@ -7,7 +7,7 @@ variant: markdown
 ### Latest Updates
 
 #### 2024 Sem 2 Class Timetable
-[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2024-sem1-class-timetable/)
+[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2024-sem2-class-timetable/)
 
 * * *
 
