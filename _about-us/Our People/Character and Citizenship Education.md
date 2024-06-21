@@ -34,4 +34,3 @@ variant: markdown
 |  **Ms Uma Devi D/O Muthamilan** | Sec 1E Form Teacher |  [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
 |  **Mr Tan Zhiwei @ Tham Chee Wai** | Sec 3H Form Teacher  | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
 |  **Mrs Elijah-Lily Cleaopatra** | Sec 4G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
-|  **Ms Wee Lay Kit Jasmine** | Sec 4E Form Teacher | [lay\_kit\_wee@moe.edu.sg](mailto:lay_kit_wee@moe.edu.sg) |
