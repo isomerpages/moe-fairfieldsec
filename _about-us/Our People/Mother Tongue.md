@@ -25,6 +25,6 @@ variant: markdown
 | **Ms Wong Jia Xian** | Sec 4H  Form Teacher  | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
 | **Ms Liong Hui Min** | Sec 2B Form Teacher  | [liong\_hui\_min@moe.edu.sg](mailto:liong_hui_min@moe.edu.sg) |
 | **Ms Tan Yi Qian** | Sec 2F Form Teacher | [tan\_yi\_qian@moe.edu.sg](mailto:tan_yi_qian@moe.edu.sg) |
-| **Ong Zhen Yong Bennett** | Sec 1A Form Teacher | [ong\_zhen\_yong\_bennett@moe.edu.sg](mailto:ong_zhen_yong_bennett@moe.edu.sg) |
+| **Mr Ong Zhen Yong Bennett** | Sec 1A Form Teacher | [ong\_zhen\_yong\_bennett@moe.edu.sg](mailto:ong_zhen_yong_bennett@moe.edu.sg) |
 | **Mdm Xu Hui** | Teacher  | [xu\_hui@moe.edu.sg](mailto:xu_hui@moe.edu.sg)  |
 | **Mdm Li Yandong** | Teacher  | [li\_yandong@moe.edu.sg](mailto:li_yandong@moe.edu.sg)  |
