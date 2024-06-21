@@ -4,7 +4,7 @@ permalink: /latest-updates/2024-sem2-class-timetable/
 description: ""
 variant: markdown
 ---
-### 2024  Sem 1 Class Timetable 
+### 2024  Sem 2 Class Timetable 
 
 
 
