@@ -5,6 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>Assessment Matters</h3>
+<h4>Sec 4/5 O Level Prelim Exam Schedule</h4>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_Prelim_O_Timetable_final_main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Prelim O Timetable</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_Prelim_O_Timetable_final_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Prelim O Timetable SAA</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_Prelim_O_Timetable_Practical.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Prelim O Timetable Practical</a>
+</p>
+<p></p>
 <h4>N Level Prelim Exam Schedule</h4>
 <p><a href="/files/Parents/Assessment Matters/2024/2024_Sec_4NA_Prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Sec_4NA_Prelim.pdf</a>
 </p>
