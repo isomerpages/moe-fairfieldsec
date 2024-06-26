@@ -84,7 +84,7 @@ are owned by, licensed to or controlled by Fairfield Methodist School (Secondary
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click&nbsp;<a href="https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/privacy/" rel="noopener noreferrer nofollow" target=""><u>here</u></a>&nbsp;to
+<p>Click&nbsp;<a href="https://www.fairfieldmethodistsec.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target=""><u>here</u></a>&nbsp;to
 review this Web Site Privacy Statement.&nbsp;
 <br>
 <br>
