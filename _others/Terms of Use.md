@@ -166,19 +166,15 @@ Methodist School&nbsp;(Secondary)&nbsp;does not warrant and hereby disclaims
 any warranty:&nbsp;
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>as to the accuracy, correctness, reliability, timeliness, non-infringement,
+<p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
 title, merchantability or fitness for any particular purpose of the Contents
-of this Web Site;&nbsp;</p>
-</li>
-<li>
-<p>that the Contents available through this Web Site or any functions associated
-therewith will be uninterrupted or error-free, or that defects will be
-corrected or that this Web Site and the server is and will be free of all
-viruses and/or other harmful elements.&nbsp;</p>
-</li>
-</ul>
+of this Web Site;&nbsp;
+<br>
+</p>
+<p>(b) that the Contents available through this Web Site or any functions
+associated therewith will be uninterrupted or error-free, or that defects
+will be corrected or that this Web Site and the server is and will be free
+of all viruses and/or other harmful elements.&nbsp;</p>
 </td>
 </tr>
 <tr>
