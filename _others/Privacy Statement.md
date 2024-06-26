@@ -2,7 +2,95 @@
 title: Privacy Statement
 permalink: /others/privacy-statement/
 description: ""
+variant: tiptap
 ---
-### Privacy Statement
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;" cellpadding="5" cellspacing="1" frame="void" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">1.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang="">This is a Fairfield Methodist (Secondary) School website. Thank you for examining our privacy statement.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">2.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">If you are only browsing this website, we do not capture data that allows us to identify you individually.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">3.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">4.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">5.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">6.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" valign="top" align="" scope="" dir="" lang=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span" id="">This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.&nbsp;</span></td></tr></tbody></table>
+<h3>Privacy Statement</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This is a Fairfield Methodist (Secondary) School website. Thank you for
+examining our privacy statement.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If you are only browsing this website, we do not capture data that allows
+us to identify you individually.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If you choose to make an application or send us an e-mail for which you
+provide us with personally identifiable data, we may share necessary data
+with other Government agencies, so as to serve you in a most efficient
+and effective way, unless such sharing is prohibited by legislation. We
+will NOT share your personal data with non-Government entities, except
+where such entities have been authorised to carry out specific Government
+services.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For your convenience, we may also display to you data you had previously
+supplied us or other Government agencies. This will speed up the transaction
+and save you the trouble of repeating previous submissions. Should the
+data be out-of-date, please supply us the latest data. We will retain your
+personal data only as necessary for the effective delivery of public services
+to you.&nbsp;
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To safeguard your personal data, all electronic storage and transmission
+of personal data are secured with appropriate security technologies.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This site may contain links to non-Government sites whose data protection
+and privacy practices may differ from ours. We are not responsible for
+the content and privacy practices of these other websites and encourage
+you to consult the privacy notices of those sites.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
