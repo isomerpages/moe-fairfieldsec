@@ -2,7 +2,323 @@
 title: Terms of Use
 permalink: /others/Terms-of-Use/
 description: ""
+variant: tiptap
 ---
-### Terms of Use
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; text-align: justify;" class="mceItemTable" frame="void" cellspacing="1" cellpadding="5" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">1.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">Thank you for visiting Fairfield Methodist School&nbsp;(Secondary)'s website. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" colspan="2" id=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">General</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">2.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Proprietary Rights&nbsp;</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">3.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">This Web Site is maintained by&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">. It is owned by&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">.</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">4.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Privacy Policy</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">5.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="">Click<span>&nbsp;</span><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(45, 64, 145); text-decoration: underline;" target="" href="https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/others/privacy-statement">here</a><span>&nbsp;</span>to review this Web Site Privacy Statement.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Restrictions on Use of Materials&nbsp;</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">6.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">7.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">Modification of any of the Contents or use of the Contents for any other purpose will be a violation of&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">'s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Right of Access</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">8.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="">Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">&nbsp;reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Disclaimer of Warranties and Liability</span>&nbsp;</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">9.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law,&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">&nbsp;does not warrant and hereby disclaims any warranty:&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.&nbsp;</li></ul></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">10.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="">Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">&nbsp;shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Links from This Web Site to Other Web Sites&nbsp;</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">11.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">This Web Site contains hyperlinks to web sites which are not maintained&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">.&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">&nbsp;is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.&nbsp;</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">12.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">Hyperlinks to other web sites are provided as a convenience. In no circumstances shall&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">&nbsp;be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Links to This Web Site from Other Web Sites&nbsp;</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">13.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.&nbsp;</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">14.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">You must secure permission from&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">&nbsp;prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities.&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">&nbsp;reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.&nbsp;</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">15.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.&nbsp;</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">16.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">In no circumstances shall&nbsp;</span>Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" class="Apple-style-span">&nbsp;be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.&nbsp;</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">17.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="">Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">&nbsp;reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.&nbsp;</span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">18.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="">Fairfield Methodist School&nbsp;(Secondary)<span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">&nbsp;reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align="" id="" colspan="2"><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;" class="Apple-style-span">Governing Law</span></span></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">19.</span></td><td style="margin: 0px; outline: 0px; padding: 0px;" scope="" dir="" lang="" valign="top" align=""><span style="margin: 0px; outline: 0px; padding: 0px;" id="" class="Apple-style-span">These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.&nbsp;</span></td></tr></tbody></table>
+<h3>Terms of Use</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thank you for visiting the Fairfield Methodist School (Secondary). By
+accessing and using this Web Site, you shall be deemed to have accepted
+to be legally bound by these Terms of Use. If you do not agree to these
+Terms of Use, please do not use this Web Site.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>General</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>These Terms of Use may be changed from time to time. Changes will be posted
+on this page and your use of this Web Site after such changes have been
+posted will constitute your agreement to the modified Terms of Use and
+all of the changes.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Proprietary Rights&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This Web Site is maintained by&nbsp;Fairfield Methodist School&nbsp;(Secondary).
+It is owned by&nbsp;Fairfield Methodist School&nbsp;(Secondary).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The materials located on this Web Site including the information and software
+programs (the Contents), are protected by copyright, trademark and other
+forms of proprietary rights. All rights, title and interest in the Contents
+are owned by, licensed to or controlled by Fairfield Methodist School (Secondary).
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Privacy Policy</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click&nbsp;<a href="https://fairfieldmethodistsec-moe-edu-sg-admin.cwp.sg/others/privacy-statement" rel="noopener noreferrer nofollow" target=""><u>here</u></a>&nbsp;to
+review this Web Site Privacy Statement.&nbsp;
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Restrictions on Use of Materials&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Except as otherwise provided, the Contents of this Web Site shall not
+be reproduced, republished, uploaded, posted, transmitted or otherwise
+distributed in any way, without the prior written permission of Fairfield
+Methodist School (Secondary). To use any parts of the contents of this
+Site, the user must seek permission in writing, stating the contents for
+use; intent of use; manner of use; time frame of use and identity of the
+user. MOE reserves the right to refuse permission without declaring reason(s);
+and/or if information submitted by user is deemed insufficient.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modification of any of the Contents or use of the Contents for any other
+purpose will be a violation of&nbsp;Fairfield Methodist School&nbsp;(Secondary)'s
+copyright and other intellectual property rights. Graphics and images on
+this Web Site are protected by copyright and may not be reproduced or appropriated
+in any manner without written permission of&nbsp;Fairfield Methodist School&nbsp;(Secondary).
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Right of Access</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fairfield Methodist School&nbsp;(Secondary)&nbsp;reserves all rights to
+deny or restrict access to this Web Site to any particular person, or to
+block access from a particular external address to this Web Site, at any
+time, without ascribing any reasons whatsoever.&nbsp;
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Disclaimer of Warranties and Liability</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Contents of this Web Site are provided on an "as is" basis without
+warranties of any kind. To the fullest extent permitted by law,&nbsp;Fairfield
+Methodist School&nbsp;(Secondary)&nbsp;does not warrant and hereby disclaims
+any warranty:&nbsp;
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>as to the accuracy, correctness, reliability, timeliness, non-infringement,
+title, merchantability or fitness for any particular purpose of the Contents
+of this Web Site;&nbsp;</p>
+</li>
+<li>
+<p>that the Contents available through this Web Site or any functions associated
+therewith will be uninterrupted or error-free, or that defects will be
+corrected or that this Web Site and the server is and will be free of all
+viruses and/or other harmful elements.&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fairfield Methodist School&nbsp;(Secondary)&nbsp;shall also not be liable
+for any damage or loss of any kind caused as a result (direct or indirect)
+of the use of the Web Site, including but not limited to any damage or
+loss suffered as a result of reliance on the Contents contained in or available
+from the Web Site.&nbsp;
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Links from This Web Site to Other Web Sites&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This Web Site contains hyperlinks to web sites which are not maintained&nbsp;Fairfield
+Methodist School&nbsp;(Secondary).&nbsp;Fairfield Methodist School&nbsp;(Secondary)&nbsp;is
+not responsible for the contents of those web sites and shall not be liable
+for any damages or loss arising from access to those web sites. Use of
+the hyperlinks and access to such web sites are entirely at your own risk.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hyperlinks to other web sites are provided as a convenience. In no circumstances
+shall&nbsp;Fairfield Methodist School&nbsp;(Secondary)&nbsp;be considered
+to be associated or affiliated with any trade or service marks, logos,
+insignia or other devices used or appearing on web sites to which this
+Web Site is linked.&nbsp;
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Links to This Web Site from Other Web Sites&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Except as set forth below, caching and links to, and the framing of this
+Web Site or any of the Contents are prohibited.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You must secure permission from&nbsp;Fairfield Methodist School&nbsp;(Secondary)&nbsp;prior
+to hyperlinking to, or framing, this Web Site or any of the Contents, or
+engaging in similar activities.&nbsp;Fairfield Methodist School&nbsp;(Secondary)&nbsp;reserves
+the right to impose conditions when permitting any hyperlinking to, or
+framing of this Web Site or any of the Contents.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Your linking to, or framing any part of this Web Site or its Contents
+constitute acceptance of these Terms of Use. This is deemed to be the case
+even after the posting of any changes or modifications to these Terms of
+Use. If you do not accept these Terms of Use, you must discontinue linking
+to, or framing of this Web Site or any of the Contents.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In no circumstances shall Fairfield Methodist School (Secondary) be considered
+to be associated or affiliated in whatever manner with any trade or service
+marks, logos, insignia or other devices used or appearing on web sites
+that link to this Web Site or any of the Contents. &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fairfield Methodist School (Secondary) reserves all rights to disable
+any links to, or frames of any site containing inappropriate, profane,
+defamatory, infringing, obscene, indecent or unlawful topics, names, material
+or information, or material or information that violates any written law,
+any applicable intellectual property, proprietary, privacy or publicity
+rights.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fairfield Methodist School (Secondary) reserves the right to disable any
+unauthorised links or frames and disclaims any responsibility for the content
+available on any other site reached by links to or from this Web Site or
+any of the Contents.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Governing Law</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>These Terms of Use shall be governed and construed in accordance with
+laws of the Republic of Singapore.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
