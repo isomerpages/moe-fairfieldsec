@@ -16,10 +16,10 @@ description: ""
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thank you for visiting the Fairfield Methodist School (Secondary). By
-accessing and using this Web Site, you shall be deemed to have accepted
-to be legally bound by these Terms of Use. If you do not agree to these
-Terms of Use, please do not use this Web Site.
+<p>Thank you for visiting the Fairfield Methodist School (Secondary) Web
+Site. By accessing and using this Web Site, you shall be deemed to have
+accepted to be legally bound by these Terms of Use. If you do not agree
+to these Terms of Use, please do not use this Web Site.
 <br>
 <br>
 </p>
