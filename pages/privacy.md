@@ -15,8 +15,8 @@ variant: tiptap
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This is a Fairfield Methodist (Secondary) School website. Thank you for
-examining our privacy statement.
+<p>This is the Fairfield Methodist (Secondary) School website. Thank you
+for examining our privacy statement.
 <br>
 <br>
 </p>
