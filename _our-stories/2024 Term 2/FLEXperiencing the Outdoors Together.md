@@ -17,6 +17,8 @@ For some students, this would be their first night adventure away from
 home. Bursting with anticipation, they ‘took flight’ for PAssion Wave @
 Sembawang, ready to immerse themselves in nature, forge new friendships,
 and participate in thrilling team-building activities.</p>
+<p></p>
+<p></p>
 <p>One of the most exhilarating experiences of the camp was dragon boating
 at Jurong Lake Gardens. Despite the heavy rain that curtailed some activities,
 the students' spirits remained high. They donned their gear, split into
