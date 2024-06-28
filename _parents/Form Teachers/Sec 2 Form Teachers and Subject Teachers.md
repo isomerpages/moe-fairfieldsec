@@ -5,4 +5,1448 @@ description: ""
 variant: tiptap
 third_nav_title: Form Teachers
 ---
-<h4>Sec 2 Form Teachers and Subject Teachers</h4><ul><li><p>Sec 2A</p><p></p><p>&nbsp;</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Lim Nina</strong><br></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Heng Khim Liang Amos</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Caroline</strong></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Elijah-Lily Cleaopatra</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Tan Geok Kooi Katherine</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Eric Loh</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p></p><p><br></p><p></p></li><li><p>Sec 2B</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Liong Huimin</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Heng Khim Liang Amos</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Chua Chang Fong</strong></p></td><td rowspan="1" colspan="1"><p>Design and Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Yap Hock Heng</strong></p></td><td rowspan="1" colspan="1"><p>Design and Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Caroline</strong><br></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Andrew Choy</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p></p></li><li><p>Sec 2C</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Xiao-En Tabitha</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Caroline</strong><br></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Juliana bte Jamil</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Tan Geok Kooi Katherine</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr&nbsp;Arif Bin Bakar</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p><br></p></li><li><p>Sec 2D</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Desiree Tham</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Tham Xue Ping Desiree</strong></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Chua Chang Fong</strong></p></td><td rowspan="1" colspan="1"><p>Design and Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Woo Chee Keong Alex</strong></p></td><td rowspan="1" colspan="1"><p>Design and Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr&nbsp;Arif Bin Bakar</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p></p></li><li><p>Sec 2 Resilience (Sec 2A, 2B, 2C, 2D)</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Khoo Khai Shee Yvonne</strong></p></td><td rowspan="1" colspan="1"><p>English</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Kua Khuan Tiong</strong></p></td><td rowspan="1" colspan="1"><p>English</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Chua Chong Yuan Alvin</strong></p></td><td rowspan="1" colspan="1"><p>English&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Olivia Tan</strong></p></td><td rowspan="1" colspan="1"><p>English</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Xiao-En Tabitha</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Rena Yeo</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Olivia Tan</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Tan Ai Ling Marjorie</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms He Ying</strong></p></td><td rowspan="1" colspan="1"><p>Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Tan Yi Qian</strong></p></td><td rowspan="1" colspan="1"><p>Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Sok Fun</strong></p></td><td rowspan="1" colspan="1"><p>Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Li Yandong</strong></p></td><td rowspan="1" colspan="1"><p>Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Xu Hui</strong></p></td><td rowspan="1" colspan="1"><p>Higher Chinese Language&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Shu Pei</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Shamsiah Bte Zainalabidin</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Chee Peng</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics<br></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Lim Nina</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Kua Khuan Tiong</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Aminah Beevi</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Kho Eng Kiong Patrick</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Teo-Tan Li Ling Terri</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Ho-Leong Yuet Lim Rosalind</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Tan Siok Hoon</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Trixie Chan Thing Lee</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Uma Devi</strong></p></td><td rowspan="1" colspan="1"><p>Geography</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Yee Suet Fong Dawn</strong></p></td><td rowspan="1" colspan="1"><p>Geography</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Wong Jiayi</strong></p></td><td rowspan="1" colspan="1"><p>Geography</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Oh-Ong Lei Wan Jasmin&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p>Geography</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Liew Koon Ern William</strong></p></td><td rowspan="1" colspan="1"><p>History</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Jon Poh</strong></p></td><td rowspan="1" colspan="1"><p>History<br></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Chan Xin Hui Charmaine</strong></p></td><td rowspan="1" colspan="1"><p>History</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Ezal Bin Sani</strong></p></td><td rowspan="1" colspan="1"><p>History</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Heng Khim Liang Amos</strong></p></td><td rowspan="1" colspan="1"><p>History</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Wee Guoyuan</strong></p></td><td rowspan="1" colspan="1"><p>Social Studies</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Vincent Chia</strong></p></td><td rowspan="1" colspan="1"><p>Computer Applications</p></td></tr></tbody></table><p></p></li><li><p>Sec 2E</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Dannish Kurniago</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Caroline</strong></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Juliana bte Jamil</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Elijah-Lily Cleaopatra</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Loh Youn Leong Eric</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p></p></li><li><p>Sec 2F</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Tan Yi Qian</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Caroline</strong></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Chua Chang Fong</strong></p></td><td rowspan="1" colspan="1"><p>Design and Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Dannish Kurniago</strong></p></td><td rowspan="1" colspan="1"><p>Design and Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr&nbsp;Arif Bin Bakar</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p></p></li><li><p>Sec 2G</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Ho-Leong Yuet Lim Rosalind</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lim Siew Ein</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Heng Khim Liang Amos</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Caroline</strong></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Elijah-Lily Cleaopatra</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Tan Geok Kooi Katherine</strong></p></td><td rowspan="1" colspan="1"><p>Food and Consumer Education</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Andrew Choy</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p></p></li><li><p>Sec 2H</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name</strong></p></th><th rowspan="1" colspan="1"><p><strong>Designation</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Olivia Tan</strong></p></td><td rowspan="1" colspan="1"><p>Form Teacher</p></td></tr><tr><td rowspan="1" colspan="2"><p><br></p></td></tr><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr&nbsp;Heng Khim Liang Amos</strong></p></td><td rowspan="1" colspan="1"><p>Music</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Chiew Yi</strong><br></p></td><td rowspan="1" colspan="1"><p>Food &amp; Consumer Education<br></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Tan Geok Kooi Katherine</strong></p></td><td rowspan="1" colspan="1"><p>Food &amp; Consumer Education<br></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Tham Xue Ping Desiree</strong></p></td><td rowspan="1" colspan="1"><p>Art</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr&nbsp;Arif Bin Bakar</strong></p></td><td rowspan="1" colspan="1"><p>PE</p></td></tr></tbody></table><p></p></li><li><p>Sec 2 Unity (Sec 2E, 2F, 2G, 2H)</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Subject Teachers</strong></p></th><th rowspan="1" colspan="1"><p><strong>Subject</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Khoo Khai Shee Yvonne</strong></p></td><td rowspan="1" colspan="1"><p>English</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Nicholas Lim</strong></p></td><td rowspan="1" colspan="1"><p>English</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Chew Kwai Hoong Gary</strong></p></td><td rowspan="1" colspan="1"><p>English<br></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Lee Xiao-En Tabitha&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p>English&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Olivia Tan</strong></p></td><td rowspan="1" colspan="1"><p>English</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Lee Xiao-En Tabitha</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Nio Qing Hui Brenda</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Olivia Tan</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Tan Sor Tin</strong></p></td><td rowspan="1" colspan="1"><p>Literature</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Chen Minhua</strong></p></td><td rowspan="1" colspan="1"><p>Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Wong Jiaxian</strong></p></td><td rowspan="1" colspan="1"><p>Chinese Language</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Siti Ainah Bte Maduri</strong></p></td><td rowspan="1" colspan="1"><p>Malay</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Tan Aik Hwee Alester</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Shamsiah Bte Zainalabidin</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Chee Peng</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Lim Nina</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics<br></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Lee Shu Pei</strong></p></td><td rowspan="1" colspan="1"><p>Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Eunice Lin</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Kho Eng Kiong Patrick</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Teo-Tan Li Ling Terri&nbsp;</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Ho-Leong Yuet Lim Rosalind</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Tan Siok Hoon</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Aminah Beevi</strong></p></td><td rowspan="1" colspan="1"><p>Science</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Uma Devi</strong></p></td><td rowspan="1" colspan="1"><p>Geography&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Yee Suet Fong Dawn</strong></p></td><td rowspan="1" colspan="1"><p>Geography&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Wong Jiayi</strong></p></td><td rowspan="1" colspan="1"><p>Geography&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mrs Oh-Ong Lei Wan Jasmin</strong></p></td><td rowspan="1" colspan="1"><p>Geography</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Liew Koon Ern William Isaac</strong></p></td><td rowspan="1" colspan="1"><p>History</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Poh Jing Ping Jon</strong></p></td><td rowspan="1" colspan="1"><p>History<br></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Chan Xin Hui Charmaine</strong></p></td><td rowspan="1" colspan="1"><p>History</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Ezal Bin Sani</strong></p></td><td rowspan="1" colspan="1"><p>History</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Loke Liang En Joel</strong></p></td><td rowspan="1" colspan="1"><p>Social Studies&nbsp;</p></td></tr></tbody></table><p></p></li><li><p>Teachers' Email Address</p><p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to view all teachers email addresses.</p></li></ul><p></p>
+<h4>Sec 2 Form Teachers and Subject Teachers</h4>
+<ul>
+<li>
+<p>Sec 2A</p>
+<p></p>
+<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Nina</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Heng Khim Liang Amos</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Caroline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Elijah-Lily Cleaopatra</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Tan Geok Kooi Katherine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Eric Loh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+</li>
+<li>
+<p>Sec 2B</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Liong Huimin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Heng Khim Liang Amos</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Chang Fong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Yap Hock Heng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Caroline</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Andrew Choy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sec 2C</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xiao-En Tabitha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Caroline</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Tan Geok Kooi Katherine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+</li>
+<li>
+<p>Sec 2D</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Desiree Tham</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tham Xue Ping Desiree</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Chang Fong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Woo Chee Keong Alex</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sec 2 Resilience (Sec 2A, 2B, 2C, 2D)</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Khoo Khai Shee Yvonne</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kua Khuan Tiong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Chong Yuan Alvin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Olivia Tan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xiao-En Tabitha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Rena Yeo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Olivia Tan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Ai Ling Marjorie</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Yi Qian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Sok Fun</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Li Yandong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Xu Hui</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese Language&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Shu Pei</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Shamsiah Bte Zainalabidin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Chee Peng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Nina</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kua Khuan Tiong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Aminah Beevi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kho Eng Kiong Patrick</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Teo-Tan Li Ling Terri</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Ho-Leong Yuet Lim Rosalind</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Tan Siok Hoon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Trixie Chan Thing Lee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Uma Devi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Yee Suet Fong Dawn</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wong Jiayi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Oh-Ong Lei Wan Jasmin&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Liew Koon Ern William</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jon Poh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chan Xin Hui Charmaine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ezal Bin Sani</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Heng Khim Liang Amos</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wee Guoyuan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Vincent Chia</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Applications</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sec 2E</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Dannish Kurniago</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Caroline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Elijah-Lily Cleaopatra</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loh Youn Leong Eric</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sec 2F</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Yi Qian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Caroline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Chang Fong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Dannish Kurniago</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sec 2G</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Ho-Leong Yuet Lim Rosalind</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Heng Khim Liang Amos</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Caroline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Elijah-Lily Cleaopatra</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Tan Geok Kooi Katherine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Andrew Choy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sec 2H</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Olivia Tan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr&nbsp;Heng Khim Liang Amos</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Chiew Yi</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food &amp; Consumer Education
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Tan Geok Kooi Katherine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Food &amp; Consumer Education
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tham Xue Ping Desiree</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sec 2 Unity (Sec 2E, 2F, 2G, 2H)</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Subject Teachers</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Khoo Khai Shee Yvonne</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Nicholas Lim</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chew Kwai Hoong Gary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xiao-En Tabitha&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Olivia Tan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lee Xiao-En Tabitha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nio Qing Hui Brenda</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Olivia Tan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Tan Sor Tin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chen Minhua</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wong Jiaxian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Siti Ainah Bte Maduri</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Aik Hwee Alester</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Shamsiah Bte Zainalabidin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Chee Peng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Nina</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Shu Pei</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Eunice Lin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kho Eng Kiong Patrick</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Teo-Tan Li Ling Terri&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Ho-Leong Yuet Lim Rosalind</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Siok Hoon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Aminah Beevi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Uma Devi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Yee Suet Fong Dawn</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wong Jiayi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Oh-Ong Lei Wan Jasmin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Liew Koon Ern William Isaac</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Poh Jing Ping Jon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chan Xin Hui Charmaine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ezal Bin Sani</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loke Liang En Joel</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Social Studies&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Teachers' Email Address</p>
+<p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+view all teachers email addresses.</p>
+</li>
+</ul>
+<p></p>
