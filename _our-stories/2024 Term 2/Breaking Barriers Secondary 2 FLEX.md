@@ -23,6 +23,11 @@ a lasting impression, where students experienced mobility impairments by
 using only their upper bodies, gaining profound insights into the daily
 hurdles faced by individuals with cerebral palsy. Each station deepened
 their empathy and awareness of 'diff-abilities'.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/2024/Sec_2_Flex_ezgif.gif">
+</div>
 <p>Day 2 dawned with the arrival of FAMQUEST, a role-playing activity where
 students formed 'families' to navigate life's pivotal choices. This interactive
 experience revolved around maneuvering through stations representing significant
