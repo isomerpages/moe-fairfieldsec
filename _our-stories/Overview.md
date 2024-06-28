@@ -6,6 +6,15 @@ variant: markdown
 ---
 ### Our Stories
 
+<img src="/images/Our%20Stories/2024/SEc_1_MF_FLEX.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> (FL)-EXperiencing the Outdoors Together [Read More](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/flexperiencing-the-outdoors-together/) <br><br>
+
+* * *
+
+<img src="/images/Our%20Stories/2024/Sec_2_MF_FLEX.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> Breaking Barriers: Secondary 2's (FL)-EXciting Journey of Embracing Diversity [Read More](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/breaking-barriers-secondary-2-flex/) <br><br>
+
+
+* * *
+
 <img src="/images/Our%20Stories/2024/MEC_Main_Feature_Photo.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> Embracing Diversity at Fairfield's Multi-Ethnic Celebrations! [Read More](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/our-stories/2024-term-1/multi-ethnic-celebrations/) <br><br>
 
 
