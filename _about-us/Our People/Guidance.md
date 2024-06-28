@@ -19,10 +19,10 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Mr Woo Chee Keong Alex**  | Senior Teacher<br>Sec 4H Form Teacher | [alex\_woo\_chee\_keong@schools.gov.sg](mailto:alex_woo_chee_keong@schools.gov.sg) |
 | **Mdm Samsiah Bte Mohd Diah** | Senior Teacher<br>Sec 5A Form Teacher | [samsiah\_mohamed\_diah@schools.gov.sg](mailto:samsiah_mohamed_diah@schools.gov.sg) |
-| **Ms Tan Xin Ru** | Senior School Counsellor | [tan\_xin\_ru@schools.gov.sg](mailto:tan_xin_ru@schools.gov.sg) |
+| **Mr Woo Chee Keong Alex**  | Senior Teacher<br>Sec 4H Form Teacher | [alex\_woo\_chee\_keong@schools.gov.sg](mailto:alex_woo_chee_keong@schools.gov.sg) |
 | **Mr Loh Zhiliang Larry** | Senior School Counsellor | [loh\_zhiliang\_larry@schools.gov.sg](mailto:loh_zhiliang_larry@schools.gov.sg) |
+| **Ms Tan Xin Ru** | Senior School Counsellor | [tan\_xin\_ru@schools.gov.sg](mailto:tan_xin_ru@schools.gov.sg) |
 | **Ms Lai Yi Ming** | ECG Counsellor | [lai\_yi\_ming@schools.gov.sg](mailto:lai_yi_ming@moe.edu.sg) |
 | **Ms Norefaliza Bte Amer** | Senior Special Educational Needs Officer<br>Sec 1, 3 | [noreffaliza\_amer@schools.gov.sg](mailto:noreffaliza_amer@schools.gov.sg)  |
 | **Ms Khan Zhu An Eirena** | Special Educational Needs Officer<br>Sec 2, 4 &amp; 5 | [khan\_zhu\_an\_eirena@schools.gov.sg](mailto:khan_zhu_an_eirena@schools.gov.sg)  |
