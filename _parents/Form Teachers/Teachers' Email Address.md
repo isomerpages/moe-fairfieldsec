@@ -23,6 +23,7 @@ third_nav_title: Form Teachers
 | Elijah-Lily Cleaopatra (Mrs) | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
 | Ezal Bin Sani (Mr) | [ezal\_sani@moe.edu.sg](mailto:ezal_sani@moe.edu.sg) |
 | Guo Enliang Joseph (Mr) | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
+| Goh Wei Ting Sandy  |  [goh\_wei\_ting_sandy@moe.edu.sg](mailto:goh_wei_ting_sandy@moe.edu.sg) |
 | Haliza Bte Abdul Hamid Khan (Mdm) | [haliza\_abdul\_hamid\_khan@moe.edu.sg](mailto:haliza_abdul_hamid_khan@moe.edu.sg) |
 | Ho Wee Yew Wilson (Mr) | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
 | Ho Ngai Kuen Magdalene (Ms) | [ho\_ngai\_kuen\_magdalene@moe.edu.sg](mailto:ho_ngai_kuen_magdalene@moe.edu.sg) |
