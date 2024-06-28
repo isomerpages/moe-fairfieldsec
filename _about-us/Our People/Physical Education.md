@@ -23,7 +23,7 @@ variant: markdown
 |---|---|---|
 | **Mr Lum Tuck Choi Jason** |  Lead Teacher | [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
 | **Mr Arif Bin Bakar** | Sec 1F Form Teacher | [arif\_bakar@moe.edu.sg](mailto:arif_bakar@moe.edu.sg) |
-| **Mr Tan Zhiwei @ Tham Chee Wai** | Sec 3H Form Teacher | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
 | **Mr Choy Andrew**  | Sec 4C Form Teacher  | [choy\_andrew@moe.edu.sg](mailto:choy_andrew@moe.edu.sg)  |
-| **Mr Ravi Shankar  Kathergamathamby**  | Teacher  | [ravi\_shankar\_kathergamathamby@moe.edu.sg](mailto:ravi_shankar_kathergamathamby@moe.edu.sg)  |
+| **Mr Tan Zhiwei @ Tham Chee Wai** | Sec 3H Form Teacher | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
 | **Mr Lee Yong Seng Peter**  | Teacher  | [lee\_yong\_seng\_peter@moe.edu.sg](mailto:lee_yong_seng_peter@moe.edu.sg)  |
+| **Mr Ravi Shankar  Kathergamathamby**  | Teacher  | [ravi\_shankar\_kathergamathamby@moe.edu.sg](mailto:ravi_shankar_kathergamathamby@moe.edu.sg)  |
