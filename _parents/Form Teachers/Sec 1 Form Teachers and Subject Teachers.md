@@ -506,29 +506,11 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Foo Choon Huay Serena</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Olivia Tan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Yan Ding Yi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -565,15 +547,6 @@ third_nav_title: Form Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Wan Ching Fang</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese Language&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -653,15 +626,6 @@ third_nav_title: Form Teachers
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Ho-Leong Yuet Lim Rosalind</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wee Lay Kit Jasmine</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -843,15 +807,6 @@ third_nav_title: Form Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p>Art</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Juliana bte Jamil</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Food and Consumer Education</p>
 </td>
 </tr>
 <tr>
@@ -1162,15 +1117,6 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Foo Choon Huay Serena</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Nio Qing Hui Brenda</strong>
 </p>
 </td>
@@ -1273,15 +1219,6 @@ third_nav_title: Form Teachers
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Kho Eng Kiong Patrick</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wee Lay Kit Jasmine</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
