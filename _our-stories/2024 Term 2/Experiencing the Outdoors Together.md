@@ -1,5 +1,5 @@
 ---
-title: Eperiencing the Outdoors Together
+title: Experiencing the Outdoors Together
 permalink: /flexperiencing-the-outdoors-together/
 variant: tiptap
 description: ""
