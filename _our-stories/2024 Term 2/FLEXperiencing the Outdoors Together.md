@@ -18,7 +18,6 @@ home. Bursting with anticipation, they ‘took flight’ for PAssion Wave @
 Sembawang, ready to immerse themselves in nature, forge new friendships,
 and participate in thrilling team-building activities.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/2024/Sec_1_Flex_ezgif.gif">
 </div>
