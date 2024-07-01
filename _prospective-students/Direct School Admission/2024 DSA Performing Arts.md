@@ -103,7 +103,7 @@ preferably not Street Dance, K-pop and Hip-hop).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>5 Jul 24</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ preferably not Street Dance, K-pop and Hip-hop).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>1.00pm - 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ preferably not Street Dance, K-pop and Hip-hop).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>3 Jul 24</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ preferably not Street Dance, K-pop and Hip-hop).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>2.00pm</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ preferably not Street Dance, K-pop and Hip-hop).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>5 Jul 24</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ preferably not Street Dance, K-pop and Hip-hop).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>2.00pm - 4.00pm</p>
 </td>
 </tr>
 <tr>
