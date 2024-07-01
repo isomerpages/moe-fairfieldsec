@@ -74,7 +74,8 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Girls: 3 Jul 24</p>
+<p>Boys: 5 Jul 24</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +84,8 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Girls: 2.00pm</p>
+<p>Boys: 2.00pm &amp; 3.30pm</p>
 </td>
 </tr>
 <tr>
