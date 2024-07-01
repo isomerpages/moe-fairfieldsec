@@ -129,7 +129,7 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>5 Jul 24</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>3.00pm &amp; 4.30pm</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>2 Jul 24</p>
 </td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>2.00pm</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +235,7 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>3 Jul 24</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,8 @@ striding over a distance etc).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Girls: 2.00pm</p>
+<p>Boys: 3.30pm</p>
 </td>
 </tr>
 <tr>
