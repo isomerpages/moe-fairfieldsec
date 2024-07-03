@@ -18,11 +18,9 @@ home. Bursting with anticipation, they ‘took flight’ for PAssion Wave @
 Sembawang, ready to immerse themselves in nature, forge new friendships,
 and participate in thrilling team-building activities.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/2024/Sec_1_Flex_ezgif.gif">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBU-L5unusQy3GypGFyaHIcG4QNdWjqdAcD5ueMMhqTcWs5pmbT4qubzGvyeSBjNMKdkOTNShPvHLa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 <p>One of the most exhilarating experiences of the camp was dragon boating
 at Jurong Lake Gardens. Despite the heavy rain that curtailed some activities,
 the students' spirits remained high. They donned their gear, split into
