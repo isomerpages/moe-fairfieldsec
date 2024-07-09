@@ -3,10 +3,10 @@ title: Overview
 permalink: /departments/Science/overview/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
 ### Science
 
-<img src="/images/Dept Photos/science department 2.jpg" style="width:80%">
 
 #### Vision
 
