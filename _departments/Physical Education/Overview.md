@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### Physical Education
 
-<img src="/images/Dept Photos/physical education department 2.jpg" style="width:80%">
 
 The PE department is a team of energetic and passionate educators who advocate continuously living active lifestyles. We firmly believe that Sports and Physical Education is an avenue for developing active lifelong learners and influential leaders of sterling character. We seek to equip Fairsians with the attitudes, knowledge and skills to pursue healthy lifestyles, in which core values such as resilience, teamwork, honesty and respect for others are evidently displayed through their involvement in sports.
 
