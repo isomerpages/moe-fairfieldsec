@@ -3,10 +3,10 @@ title: Overview
 permalink: /departments/Info-and-Comm-Technology/overview/
 description: ""
 third_nav_title: Info & Comm Technology
+variant: markdown
 ---
-### Information & Communication Technology
+### Information &amp; Communication Technology
 
-<img src="/images/Dept Photos/information technology department 2.jpg" style="width:80%">
 
 #### Vision:
 
