@@ -3,6 +3,7 @@ title: Education and Career Guidance
 permalink: /parents/resources-for-parents/education-and-career-guidance/
 description: ""
 third_nav_title: Resources for Parents
+variant: markdown
 ---
 ### Education and Career Guidance
 
@@ -216,9 +217,11 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 <div>
 
 <p>
-<a href="https://drive.google.com/drive/folders/1Ozy5ek6gra3SKr8uEdfRXDp53YCmvRBk?usp=sharing">Sec 2 Express ECG Talk for Parents</a>
+<a href="https://drive.google.com/drive/folders/1Ozy5ek6gra3SKr8uEdfRXDp53YCmvRBk?usp=sharing">Sec 2 Express ECG Talk for Parents</a> <br>
   
-<a href="https://drive.google.com/drive/folders/1-fJJrZkdQN0I7ddh6GIRzfGLuOdfRyVX?usp=sharing">Sec 4NA ECG Talk for Parents on DPP &amp; PFP</a>
+<a href="https://drive.google.com/drive/folders/1-fJJrZkdQN0I7ddh6GIRzfGLuOdfRyVX?usp=sharing">Sec 4NA ECG Talk for Parents on DPP &amp; PFP</a> <br>
+	
+<a href="https://drive.google.com/file/d/1WhajRnOxQYiiqVHdsfvDD6tZKIUVBBCh/view?usp=sharing">Preparing Your Child for the Future of Work</a> 
 </p>
 
 	
