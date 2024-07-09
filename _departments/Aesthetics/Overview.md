@@ -3,10 +3,10 @@ title: Overview
 permalink: /departments/Aesthetics/overview/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ### Aesthetics
 
-<img src="/images/Dept Photos/aesthetics department 2.jpg" style="width:80%">
 
 To nurture students to become creative lifelong learners who are effective and affective Fairsians, committed to serve the school and the community.
 
