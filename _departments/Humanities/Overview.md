@@ -3,12 +3,11 @@ title: Overview
 permalink: /departments/Humanities/overview/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
 ### Humanities
 
-<img src="/images/Dept Photos/humanities department 2.jpg" style="width:80%">
 
-<figure><img src="/images/hum1.png" style="width:40%"></figure>
 
 “The Humanities Department in Fairfield strives to help our students gain a critical understanding and appreciation of both the human and physical worlds.
 
