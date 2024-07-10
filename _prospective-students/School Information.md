@@ -49,7 +49,7 @@ Fairfield Methodist School (Primary), Anglo-Chinese Junior College
 
 |  |  |
 |---|---|
-| Sports And Games | Badminton (Girls), Basketball (Boys), Netball (Girls),  Football (Boys), Squash (Boys), Volleyball |
-| Uniformed Groups | Boys' Brigade, Girls' Brigade, NCC (Land) (Boys), NCC (Sea), Red Cross Youth |
+| Sports And Games | Badminton (Boys & Girls), Basketball (Boys), Netball (Girls),  Football (Boys), Volleyball (Boys & Girls) |
+| Uniformed Groups | Boys' Brigade, Girls' Brigade, NCC (Land) (Boys), NCC (Sea) |
 | Performing Arts | Symphonic Band, Choir, Dance, Drama (English), Guitar Ensemble |
-| Clubs And Societies | Media Club (Photography/Videography), Library@Fairfield, Journalism, Christian Fellowship, Robotics Club, PA/AVA |
+| Clubs And Societies | Media Club (Photography/Videography), Journalism, Robotics Club, PA/AVA |
