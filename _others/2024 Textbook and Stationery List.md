@@ -1,6 +1,6 @@
 ---
 title: 2024 Textbook and Stationery List
-permalink: /parents/administrative-matters/2024-textbook-and-stationery-list/
+permalink: /others/2024-textbook-and-stationery-list/
 description: ""
 variant: markdown
 ---
