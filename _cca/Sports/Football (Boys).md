@@ -3,6 +3,7 @@ title: Football (Boys)
 permalink: /cca/Sports/football-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Football (Boys)
 
@@ -28,7 +29,6 @@ Friday: 2.00 pm – 5.00 pm (All)&nbsp;  <br><br>
 
 Mr Jason Lum (I/C)<br>
 Mr Yap Hock Heng<br>
-Mdm Aminah Beevi<br>
 Mr Lee Yew Ming (Volunteer)<br>
 Mr Ravi Shankar
 </p>
