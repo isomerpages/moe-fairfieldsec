@@ -29,6 +29,7 @@ third_nav_title: Form Teachers
 | Ho Ngai Kuen Magdalene (Ms) | [ho\_ngai\_kuen\_magdalene@moe.edu.sg](mailto:ho_ngai_kuen_magdalene@moe.edu.sg) |
 | Ho-Leong Yuet Lim Rosalind (Mrs) | [leong\_yuet\_lim@moe.edu.sg](mailto:leong_yuet_lim@moe.edu.sg) |
 | Ho-Tan Siew Ching Jean (Mrs) | [jean\_tan\_siew\_ching@moe.edu.sg](mailto:jean_tan_siew_ching@moe.edu.sg) |
+| Jacelyn Pang Yi Xin (Ms) | [pang\_yi\_xin@moe.edu.sg](mailto:pang_yi_xin@moe.edu.sg)  |
 | Koh Wei Shan Clarissa (Mdm) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 | Kwok-Chang Jiapei (Mrs) | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
 | Khan Zhu An Eirena (Ms) | [khan\_zhu\_an\_eirena@moe.edu.sg](mailto:khan_zhu_an_eirena@moe.edu.sg) |
