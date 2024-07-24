@@ -205,7 +205,6 @@ it more enjoyable.</p>
 </table>
 <p></p>
 <p><strong>2023</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -248,7 +247,6 @@ it more enjoyable.</p>
 <br>
 </p>
 <p><strong>2022</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -290,7 +288,6 @@ it more enjoyable.</p>
 <br>
 </p>
 <p><strong>2021</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -322,7 +319,6 @@ it more enjoyable.</p>
 </table>
 <p>
 <br><strong>2020</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -356,7 +352,6 @@ it more enjoyable.</p>
 </table>
 <p>
 <br><strong>2019</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -398,7 +393,6 @@ it more enjoyable.</p>
 </table>
 <p>
 <br><strong>2018</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -431,7 +425,6 @@ it more enjoyable.</p>
 </table>
 <p>
 <br><strong>2017</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
