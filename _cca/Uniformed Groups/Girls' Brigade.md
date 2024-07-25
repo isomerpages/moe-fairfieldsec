@@ -157,318 +157,221 @@ but as an experience that you&nbsp;will never be able to have once you
 graduate out of secondary school, having friends that will&nbsp;always
 be there to catch you when you fall, especially during the camps, where
 your friendships&nbsp;are strengthened and the friends by your side make
-it more enjoyable.</p>
-<p></p>
+it more enjoyable.
+	
+</p><p>&nbsp;</p>
 <ul>
-<li>
-<p>Achievements</p>
-<p></p>
-<p><strong>2024</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]"><strong>Achievements</strong>
+<p>&nbsp;</p>
+<p><strong>2024</strong></p>
+<table style="width: 659px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2023)</strong>
-</p>
+<th rowspan="1" colspan="1" style="width: 312.531px;">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2023)</strong></p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
+<th rowspan="1" colspan="1" style="width: 333.469px;">
+<p><strong>Gold Award</strong></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigader Brooch 2024</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 312.531px;">
+<p><strong>Pioneer Brigader Brooch 2024</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>5 Recipients</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 333.469px;">
+<p><strong>5 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dr Low Guat Tin Challenge 2024</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 312.531px;">
+<p><strong>Dr Low Guat Tin Challenge 2024</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold, Silver, Bronze &amp; Top in MEDIUM (Illustrate)</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 333.469px;">
+<p><strong>Gold, Silver, Bronze &amp; Top in MEDIUM (Illustrate)</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>2023</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p>&nbsp;</p>
+<p><strong>2023</strong></p>
+<table style="width: 658.422px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2022)</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 315px;">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2022)</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 338.422px;">
+<p><strong>Gold Award</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigader Brooch 2023</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 315px;">
+<p><strong>Pioneer Brigader Brooch 2023</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>6 Recipients</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 338.422px;">
+<p><strong>6 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width: 315px;">
 <p><strong>2023 GB Drill Competition 2023</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 338.422px;">
+<p><strong>Gold Award</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong>2022</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p>&nbsp;</p>
+<p><strong>2022</strong></p>
+<table style="width: 654.953px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2021)</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 315px;">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2021)</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 335.953px;">
+<p><strong>Gold Award</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width: 315px;">
 <p><strong>Pioneer Brigader Brooch 2022</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>3 Recipients</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 335.953px;">
+<p><strong>3 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width: 315px;">
 <p><strong>Dr Low Guat Tin Challenge 2022&nbsp;</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold, Silver, Bronze &amp; Top in MEDIUM (Write, Illustrate &amp; Write Challenge Shield Winners)</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 335.953px;">
+<p><strong>Gold, Silver, Bronze &amp; Top in MEDIUM (Write, Illustrate &amp; Write Challenge Shield Winners)</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong>2021</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p>&nbsp;</p>
+<p><strong>2021</strong></p>
+<table style="width: 652.953px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigader Brooch 2021</strong>
-<br>
-</p>
+<td rowspan="1" colspan="1" style="width: 315px;">
+<p><strong>Pioneer Brigader Brooch 2021</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>3 Recipients</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 333.953px;">
+<p><strong>3 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="width: 315px;">
 <p><strong>Dr Low Guat Tin Challenge 2021&nbsp;</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 333.953px;">
+<p><strong>Gold</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>2020</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p><br><strong>2020</strong></p>
+<table style="width: 651.938px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigader Brooch 2020</strong>
-<br>
-</p>
+<td rowspan="1" colspan="1" style="width: 314px;">
+<p><strong>Pioneer Brigader Brooch 2020</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>4 Recipients</strong>
-<br>
-</p>
+<td rowspan="1" colspan="1" style="width: 331.938px;">
+<p><strong>4 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2019)</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 314px;">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2019)</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 331.938px;">
+<p><strong>Gold Award</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>2019</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p><br><strong>2019</strong></p>
+<table style="width: 651px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2018)<br></strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 315.219px;">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2018)<br></strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award<br></strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 332.781px;">
+<p><strong>Gold Award<br></strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigader Brooch 2019</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 315.219px;">
+<p><strong>Pioneer Brigader Brooch 2019</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>1 Recipient</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 332.781px;">
+<p><strong>1 Recipient</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dr Low Guat Tin Challenge 2019</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 315.219px;">
+<p><strong>Dr Low Guat Tin Challenge 2019</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>1 Silver &amp; 1 Bronze</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 332.781px;">
+<p><strong>1 Silver &amp; 1 Bronze</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>2018</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p><br><strong>2018</strong></p>
+<table style="width: 649px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>2018 GB Drill Competition (Gold Award) with Challenge Shield</strong>
-<br>
-</p>
+<td rowspan="1" colspan="1" style="width: 314.5px;">
+<p><strong>2018 GB Drill Competition (Gold Award) with Challenge Shield</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award</strong>
-<br>
-</p>
+<td rowspan="1" colspan="1" style="width: 333.5px;">
+<p><strong>Gold Award</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2017</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 314.5px;">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2017</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<td rowspan="1" colspan="1" style="width: 333.5px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>2017</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<p><br><strong>2017</strong></p>
+<table style="width: 648px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dr Low Guat Tin Challenge 2017</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 313.219px;">
+<p><strong>Dr Low Guat Tin Challenge 2017</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>3 Gold &amp; 2 Silver</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 331.781px;">
+<p><strong>3 Gold &amp; 2 Silver</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pioneer Brigader Brooch 2017</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 313.219px;">
+<p><strong>Pioneer Brigader Brooch 2017</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>1 Recipient</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 331.781px;">
+<p><strong>1 Recipient</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2016)</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 313.219px;">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2016)</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Award&nbsp;</strong>
-</p>
+<td rowspan="1" colspan="1" style="width: 331.781px;">
+<p><strong>Gold Award&nbsp;</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
+<p>&nbsp;</p></li></ul></li></ul>
