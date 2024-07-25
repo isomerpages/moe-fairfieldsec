@@ -158,7 +158,7 @@ graduate out of secondary school, having friends that will&nbsp;always
 be there to catch you when you fall, especially during the camps, where
 your friendships&nbsp;are strengthened and the friends by your side make
 it more enjoyable.
-	
+
 </p><p>&nbsp;</p>
 <ul>
 <li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]"><strong>Achievements</strong>
@@ -167,26 +167,26 @@ it more enjoyable.
 <table style="width: 659px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1" style="width: 312.531px;">
+<th rowspan="1" colspan="1" style="width: 364.266px;">
 <p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2023)</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 333.469px;">
+<th rowspan="1" colspan="1" style="width: 277.734px;">
 <p><strong>Gold Award</strong></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 312.531px;">
+<td rowspan="1" colspan="1" style="width: 364.266px;">
 <p><strong>Pioneer Brigader Brooch 2024</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 333.469px;">
+<td rowspan="1" colspan="1" style="width: 277.734px;">
 <p><strong>5 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 312.531px;">
+<td rowspan="1" colspan="1" style="width: 364.266px;">
 <p><strong>Dr Low Guat Tin Challenge 2024</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 333.469px;">
+<td rowspan="1" colspan="1" style="width: 277.734px;">
 <p><strong>Gold, Silver, Bronze &amp; Top in MEDIUM (Illustrate)</strong></p>
 </td>
 </tr>
@@ -194,29 +194,29 @@ it more enjoyable.
 </table>
 <p>&nbsp;</p>
 <p><strong>2023</strong></p>
-<table style="width: 658.422px;"><colgroup><col><col></colgroup>
+<table style="width: 658px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 365.875px;">
 <p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2022)</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 338.422px;">
+<td rowspan="1" colspan="1" style="width: 283.125px;">
 <p><strong>Gold Award</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 365.875px;">
 <p><strong>Pioneer Brigader Brooch 2023</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 338.422px;">
+<td rowspan="1" colspan="1" style="width: 283.125px;">
 <p><strong>6 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 365.875px;">
 <p><strong>2023 GB Drill Competition 2023</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1" style="width: 338.422px;">
+<td rowspan="1" colspan="1" style="width: 283.125px;">
 <p><strong>Gold Award</strong></p>
 </td>
 </tr>
@@ -224,29 +224,29 @@ it more enjoyable.
 </table>
 <p>&nbsp;</p>
 <p><strong>2022</strong></p>
-<table style="width: 654.953px;"><colgroup><col><col></colgroup>
+<table style="width: 654px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 365.906px;">
 <p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2021)</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 335.953px;">
+<td rowspan="1" colspan="1" style="width: 282.094px;">
 <p><strong>Gold Award</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 365.906px;">
 <p><strong>Pioneer Brigader Brooch 2022</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1" style="width: 335.953px;">
+<td rowspan="1" colspan="1" style="width: 282.094px;">
 <p><strong>3 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 365.906px;">
 <p><strong>Dr Low Guat Tin Challenge 2022&nbsp;</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1" style="width: 335.953px;">
+<td rowspan="1" colspan="1" style="width: 282.094px;">
 <p><strong>Gold, Silver, Bronze &amp; Top in MEDIUM (Write, Illustrate &amp; Write Challenge Shield Winners)</strong></p>
 </td>
 </tr>
@@ -254,42 +254,42 @@ it more enjoyable.
 </table>
 <p>&nbsp;</p>
 <p><strong>2021</strong></p>
-<table style="width: 652.953px;"><colgroup><col><col></colgroup>
+<table style="width: 652px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 363.875px;">
 <p><strong>Pioneer Brigader Brooch 2021</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 333.953px;">
+<td rowspan="1" colspan="1" style="width: 282.125px;">
 <p><strong>3 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315px;">
+<td rowspan="1" colspan="1" style="width: 363.875px;">
 <p><strong>Dr Low Guat Tin Challenge 2021&nbsp;</strong>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1" style="width: 333.953px;">
+<td rowspan="1" colspan="1" style="width: 282.125px;">
 <p><strong>Gold</strong></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><br><strong>2020</strong></p>
-<table style="width: 651.938px;"><colgroup><col><col></colgroup>
+<table style="width: 651px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="width: 314px;">
+<td rowspan="1" colspan="1" style="width: 361.5px;">
 <p><strong>Pioneer Brigader Brooch 2020</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 331.938px;">
+<td rowspan="1" colspan="1" style="width: 280.5px;">
 <p><strong>4 Recipients</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 314px;">
+<td rowspan="1" colspan="1" style="width: 361.5px;">
 <p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2019)</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 331.938px;">
+<td rowspan="1" colspan="1" style="width: 280.5px;">
 <p><strong>Gold Award</strong></p>
 </td>
 </tr>
@@ -299,26 +299,26 @@ it more enjoyable.
 <table style="width: 651px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315.219px;">
+<td rowspan="1" colspan="1" style="width: 362.609px;">
 <p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2018)<br></strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 332.781px;">
+<td rowspan="1" colspan="1" style="width: 282.391px;">
 <p><strong>Gold Award<br></strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315.219px;">
+<td rowspan="1" colspan="1" style="width: 362.609px;">
 <p><strong>Pioneer Brigader Brooch 2019</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 332.781px;">
+<td rowspan="1" colspan="1" style="width: 282.391px;">
 <p><strong>1 Recipient</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 315.219px;">
+<td rowspan="1" colspan="1" style="width: 362.609px;">
 <p><strong>Dr Low Guat Tin Challenge 2019</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 332.781px;">
+<td rowspan="1" colspan="1" style="width: 282.391px;">
 <p><strong>1 Silver &amp; 1 Bronze</strong></p>
 </td>
 </tr>
@@ -328,18 +328,18 @@ it more enjoyable.
 <table style="width: 649px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="width: 314.5px;">
+<td rowspan="1" colspan="1" style="width: 362.719px;">
 <p><strong>2018 GB Drill Competition (Gold Award) with Challenge Shield</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 333.5px;">
+<td rowspan="1" colspan="1" style="width: 282.281px;">
 <p><strong>Gold Award</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 314.5px;">
+<td rowspan="1" colspan="1" style="width: 362.719px;">
 <p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2017</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 333.5px;">&nbsp;</td>
+<td rowspan="1" colspan="1" style="width: 282.281px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -347,26 +347,26 @@ it more enjoyable.
 <table style="width: 648px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="width: 313.219px;">
+<td rowspan="1" colspan="1" style="width: 357.656px;">
 <p><strong>Dr Low Guat Tin Challenge 2017</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 331.781px;">
+<td rowspan="1" colspan="1" style="width: 282.344px;">
 <p><strong>3 Gold &amp; 2 Silver</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 313.219px;">
+<td rowspan="1" colspan="1" style="width: 357.656px;">
 <p><strong>Pioneer Brigader Brooch 2017</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 331.781px;">
+<td rowspan="1" colspan="1" style="width: 282.344px;">
 <p><strong>1 Recipient</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="width: 313.219px;">
+<td rowspan="1" colspan="1" style="width: 357.656px;">
 <p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2016)</strong></p>
 </td>
-<td rowspan="1" colspan="1" style="width: 331.781px;">
+<td rowspan="1" colspan="1" style="width: 282.344px;">
 <p><strong>Gold Award&nbsp;</strong></p>
 </td>
 </tr>
