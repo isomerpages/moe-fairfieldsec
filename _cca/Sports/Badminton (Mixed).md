@@ -74,50 +74,6 @@ variant: tiptap
 <p><strong>Achievements</strong>
 </p>
 <p></p>
-</li>
-</ul>
-<p>2024</p>
-</li>
-<li>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>NSG South Zone Badminton Championships 2024 - 'B' Div Girls</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>4th</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li>
-<p></p>
-<ul>
-<li>
 <p><strong>2023<br></strong>
 </p>
 <table style="minWidth: 50px">
