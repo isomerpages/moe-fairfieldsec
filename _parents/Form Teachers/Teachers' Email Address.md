@@ -41,7 +41,6 @@ third_nav_title: Form Teachers
 | Liong Hui Min (Ms) |[liong\_hui\_min@moe.edu.sg](mailto:liong_hui_min@moe.edu.sg)
 | Liew Koon Ern William Isaac (Mr) |[liew\_koon\_ern\_william@moe.edu.sg](mailto:liew_koon_ern_william@moe.edu.sg) |
 | Lim Chee Chin (Mdm) | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
-| Lim Hwee Ling (Mrs) | [gay\_hwee\_ling@moe.edu.sg](mailto:gay_hwee_ling@moe.edu.sg) |
 | Lim Nina (Mdm) | [lim\_nina@moe.edu.sg](mailto:lim_nina@moe.edu.sg) |
 | Loke Liang En Joel (Mr) | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) |
 | Lim Siew Ein (Ms) | [lim\_siew\_ein\@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
