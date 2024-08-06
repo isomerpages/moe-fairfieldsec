@@ -76,34 +76,34 @@ variant: markdown
 <table style="width: 590px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr style="height: 31px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>NSG South Zone Badminton Championships 2024 - 'B' Div Girls</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 31px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 31px; vertical-align: top;">
 <p><strong>4th</strong></p>
 </th>
 </tr>
 <tr style="height: 29px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>NSG South Zone Badminton Championships 2024 - 'B' Div Boys</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 29px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 29px; vertical-align: top;">
 <p><strong>Representation</strong></p>
 </th>
 </tr>
 <tr style="height: 26px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>NSG National Badminton Championships 2024 - 'B' Div Girls</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 26px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 26px; vertical-align: top;">
 <p><strong>Top 16</strong></p>
 </th>
 </tr>
 <tr style="height: 28px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>Singapore Badminton Challenge 2024 (U-19 Girls Doubles)</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 28px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 28px; vertical-align: top;">
 <p><strong>Representation</strong></p>
 </th>
 </tr>
