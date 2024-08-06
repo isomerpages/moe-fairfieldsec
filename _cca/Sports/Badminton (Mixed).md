@@ -219,7 +219,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong><br><br></strong>
+<p><strong><br></strong>
 </p>
 <p><strong>2021<br></strong>
 </p>
@@ -230,19 +230,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>NSG South Zone Badminton Championships 2022 - 'B' Div Girls (Zonal)</strong>
-<br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>2nd</strong>
 </p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
-<p><strong><br><br></strong>
+<p><strong><br></strong>
 </p>
 <p><strong>2019<br></strong>
 </p>
