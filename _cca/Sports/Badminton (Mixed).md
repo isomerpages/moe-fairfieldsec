@@ -73,7 +73,11 @@ variant: markdown
 <li>
 <p><strong>Achievements</strong>
 </p><ul>
+<p>&nbsp;</p>
+<ul>
+<li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]">
 <p><strong>2024</strong></p>
+<p>&nbsp;</p>
 <table style="width: 750px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr style="height: 51px;">
@@ -110,6 +114,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>2023<br></strong></p>
 <table style="width: 750px;"><colgroup><col><col></colgroup>
 <tbody>
@@ -163,6 +168,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong></p>
 <p><strong>2022<br></strong></p>
 <table style="width: 750px;"><colgroup><col><col></colgroup>
 <tbody>
@@ -176,6 +182,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong></p>
 <p><strong>2021<br></strong></p>
 <table style="width: 750px;"><colgroup><col><col></colgroup>
 <tbody>
@@ -189,6 +196,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong></p>
 <p><strong>2019<br></strong></p>
 <table style="width: 750.609px;"><colgroup><col><col></colgroup>
 <tbody>
@@ -266,6 +274,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p><strong><br><br></strong></p>
 <p><strong>2018<br></strong></p>
 <table style="width: 747px;"><colgroup><col><col></colgroup>
 <tbody>
@@ -367,6 +376,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p><strong><br><br></strong></p>
 <p><strong>2017<br></strong></p>
 <table style="width: 745px;"><colgroup><col><col></colgroup>
 <tbody>
@@ -452,6 +462,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
+</li>
 </ul>
-<p>&nbsp;</p></li></ul></li></ul></li></ul>
+<p>&nbsp;</p></ul></li></ul></li></ul></li></ul>
