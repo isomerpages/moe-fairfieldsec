@@ -67,49 +67,43 @@ variant: markdown
 <p><strong>Highlights<br></strong>
 </p>
 <p><strong>• Participation in NSG South Zone Badminton Championships and Nationals Championships<br>• Participations in the Methodist Schools Cup<br>• Participation in competitions organised by the Singapore Badminton Association such as the Alpha Age Group Series<br>• Participation in the National Deaf Games<br>• Participation in various other tournaments such as the Wee Kim Wee Badminton Challenge Trophy and Pilot Pen Championships<br>• Friendly matches with other schools</strong>
-</p>
-<p></p>
-<ul>
-<li>
-<p><strong>Achievements</strong>
-</p><ul>
 	
-<p>&nbsp;</p>
+</p><p>&nbsp;</p>
 <ul>
-<li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]">
+<li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]"><strong>Achievements</strong>
+<p>&nbsp;</p>	
 <p><strong>2024</strong></p>
-<p>&nbsp;</p>
 <table style="width: 590px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr style="height: 31px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>NSG South Zone Badminton Championships 2024 - 'B' Div Girls</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 31px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 31px; vertical-align: top;">
 <p><strong>4th</strong></p>
 </th>
 </tr>
 <tr style="height: 29px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>NSG South Zone Badminton Championships 2024 - 'B' Div Boys</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 29px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 29px; vertical-align: top;">
 <p><strong>Representation</strong></p>
 </th>
 </tr>
 <tr style="height: 26px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>NSG National Badminton Championships 2024 - 'B' Div Girls</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 26px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 26px; vertical-align: top;">
 <p><strong>Top 16</strong></p>
 </th>
 </tr>
 <tr style="height: 28px;">
-<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 215.75px; height: 30px; vertical-align: top;">
 <p><strong>Singapore Badminton Challenge 2024 (U-19 Girls Doubles)</strong></p>
 </th>
-<th rowspan="1" colspan="1" style="width: 10px; height: 28px; vertical-align: top;">
+<th rowspan="1" colspan="1" style="width: 84.25px; height: 28px; vertical-align: top;">
 <p><strong>Representation</strong></p>
 </th>
 </tr>
@@ -465,4 +459,4 @@ variant: markdown
 </table>
 </li>
 </ul>
-<p>&nbsp;</p></ul></li></ul></li></ul></li></ul>
+<p>&nbsp;</p></li></ul></li></ul>
