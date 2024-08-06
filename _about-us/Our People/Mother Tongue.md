@@ -26,5 +26,4 @@ variant: markdown
 | **Ms Siti Ainah Binte Maduri** | Sec 1G Form teacher | [siti\_ainah\_maduri@moe.edu.sg](mailto:siti_ainah_maduri@moe.edu.sg) |
 | **Ms Tan Yi Qian** | Sec 2F Form Teacher | [tan\_yi\_qian@moe.edu.sg](mailto:tan_yi_qian@moe.edu.sg) |
 | **Ms Wong Jia Xian** | Sec 4H  Form Teacher  | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
-| **Mdm Xu Hui** | Teacher  | [xu\_hui@moe.edu.sg](mailto:xu_hui@moe.edu.sg)  |
 | **Mdm Li Yandong** | Teacher  | [li\_yandong@moe.edu.sg](mailto:li_yandong@moe.edu.sg)  |

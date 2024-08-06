@@ -5,111 +5,464 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-### Badminton
-
-<img style="width:80%" src="/images/cca15.gif"><br>
-
-<b>Our Coaches:</b><br>
-Badminton (Boys) - Mr Gan Chin Kai<br>
-Badminton (Girls) - Mr Liao Junwei 
-<img src="/images/CCA/Sports/badminton%20coach%20photo.JPG" style="width:30%">
-	
-[Personal Achievements](/files/CCA/Coach%20%20%20Personal%20Achievements/Personal%20Achievements/fmss%20badminton%20coach_liao%20junwei_personal%20achievements.pdf)<br><br>
-
-<ul class="jekyllcodex_accordion">
-<li>
-		
-<input id="accordion1" type="checkbox">
-
-<label for="accordion1">Details</label>
-<div>
-
-<p>
-<b>Training Days &amp; Time:</b><br><br>
-Girls:<br>
-Monday : 3.00 pm - 5.30 pm (Sec 1 &amp; 2)&nbsp;<br>
-Wednesday: 3.00 pm - 5.30 pm (Sec 3 &amp; 4)<br>
-Friday: 2.00 pm - 4.00 pm (Sec 1 &amp; 2) &amp; 3.30 pm - 5.30 pm (Sec 3 &amp; 4)<br><br>	
-
-Boys:<br>
-Wednesday: 3.00 pm - 5.30 pm<br>
-Friday: 2.30 pm - 5.00 pm<br><br>
-
-<b>Teachers In Charge:</b><br><br>
-Girls:<br>
-Ms Thio Lay Hong (I/C)  <br>
-Mdm Yee Suet Fong Dawn<br><br>
-	
-Boys:<br>
-Mrs Jean Ho (I/C)<br>
-Mdm Haliza<br>
-Ms Tay Shu-Min, Samantha<br>
-
-	
-</p><b><b><b>
-</b></b></b></div><b><b><b>
-		
-<ul class="jekyllcodex_accordion">
-<li>
-		
-<input id="accordion2" type="checkbox">
-
-<label for="accordion2">Overview</label>
-<div>
-
-<p>
-<b>Vision &amp; Mission</b><br> 
-
-To develop pupils to become sports leaders who are intrinsically motivated and focused on success.  <br><br>
-
-  
-
-<b>Highlights</b><br> 
-
-• Participation in NSG South Zone Badminton Championships and Nationals Championships<br>
-• Participations in the Methodist Schools Cup<br>
-• Participation in competitions organised by the Singapore Badminton Association such as the Alpha Age Group Series<br>
-• Participation in the National Deaf Games<br>
-• Participation in various other tournaments such as the Wee Kim Wee Badminton Challenge Trophy and Pilot Pen Championships<br>
-• Friendly matches with other schools	
-	
-</p>
-
-	
+<h3>Badminton</h3>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/cca15.gif">
 </div>
-
-<ul class="jekyllcodex_accordion">
-<li>
-		
-<input id="accordion3" type="checkbox">
-
-<label for="accordion3">Achievements</label>
-<div>
-
 <p>
-
-<b>2023</b><br>
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 638px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2023 - 'B' Div Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 231px;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">3rd</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2023 - 'B' Div Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2023 - 'C' Div Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2023 - 'C' Div Boys<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">NSG National Badminton Championships 2023 - 'B' Div Girls<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Alpha Academy Age Group Series Badminton Championships (U-15 Girls Doubles)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"></tr></tbody></table><br><br>	
-	
-<b>2022</b><br>
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2022 - 'B' Div Girls (Zonal)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">3rd</b></td></tr></tbody></table>	<br><br>
-
-<b>2021</b><br>
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px; background-color: rgb(255, 255, 255); height: 53px;" class="iveo_table ives_tab_modern2" width="682" cellspacing="0" cellpadding="0" border="0"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 15pt;" height="20"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; height: 15pt; width: 537px;" width="481" class="xl65" height="20"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2022 - 'B' Div Girls (Zonal)</b><br style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px; width: 233px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">2nd</b></td></tr></tbody></table>	<br><br>	
-
-	
-	
-<b>2019</b><br>
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 623px;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2019 - 'B' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 247px;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2019 - 'C' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG National Badminton Championships 2019 - 'B' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Top 8</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG National Badminton Championships 2019 - 'C' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 34.5pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Alpha Academy Age Group Series Badminton Championships (U15 Girls Singles &amp; Doubles)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">National Deaf Games (U18 Girls Singles &amp; Women's Doubles)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Methodist Schools Cup 2019 (U17)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">1st</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Methodist Schools Cup 2019 (U14)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd &amp; 4th</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 323.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">ROMP Badminton Competition (U17)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 127.85pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">3rd &amp; Representation</strong></td></tr></tbody></table><br><br>	
-
-<b>2018</b><br>
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 638px;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Methodist Schools' Badminton Cup 2018 (U15)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 231px;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">3rd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Methodist Schools' Badminton Cup 2018 (U18)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">3rd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG National Badminton Championships 2018 - 'B' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Top 8</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG National Badminton Championships 2018 - 'C' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2018 - 'B' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2018 - 'C' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Pilot Pen Championships 2018</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Wee Kim Wee Badminton Challenge Trophy 2018</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd (Girls' Team Event)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Alpha Academy Age Group Championship 2018 (Girls Singles)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">National Deaf Games 2018 (Women's Doubles U18)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">3rd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">National Deaf Games 2018 (Mixed Doubles)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 331.4pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">National Deaf Games 2018 (Women's Singles U18)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 119.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong></td></tr></tbody></table><br><br>	
-	
-<b>2017</b><br>
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;" class="iveo_table ives_tab_modern2" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21.75pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 637px;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Alpha Academy Age Group Badminton Championships 2017</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 233px;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">3rd (Girls' Singles 14&amp;U)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Methodist Schools' Badminton Cup 2017</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG National Badminton Championships 2017 - 'C' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2017 - 'B' Div Boys</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2017 - 'B' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">NSG South Zone Badminton Championships 2017 - 'C' Div Girls</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">2nd</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Pilot Pen Championships 2017</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">SBA Badminton Academy @ActiveSG Inter-School Competition 2017</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Top 4</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Temasek Club Badminton Championships 2017</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Representation</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 21pt;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 330.8pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">Wee Kim Wee Badminton Challenge Trophy 2017</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 120.45pt;" valign="top"><strong style="margin: 0px; outline: 0px; padding: 0px;">3rd</strong></td></tr></tbody></table>
+<br>
 </p>
-
-	
+<p><strong>Our Coaches:</strong>
+<br>Badminton (Boys) - Mr Gan Chin Kai
+<br>Badminton (Girls) - Mr Liao Junwei</p>
+<div class="isomer-image-wrapper">
+<img style="width:30%" height="auto" width="100%" src="/images/CCA/Sports/badminton%20coach%20photo.JPG">
 </div>
-
-</li></ul></li></ul></b></b></b></li></ul>
+<p><a href="/files/CCA/Coach%20%20%20Personal%20Achievements/Personal%20Achievements/fmss%20badminton%20coach_liao%20junwei_personal%20achievements.pdf" rel="noopener noreferrer nofollow" target="_blank">Personal Achievements</a>
+<br>
+<br>
+</p>
+<ul>
+<li>
+<p>Details</p>
+<p><strong>Training Days &amp; Time:</strong>
+<br>
+<br>Girls:
+<br>Monday : 3.00 pm - 5.30 pm (Sec 1 &amp; 2)&nbsp;
+<br>Wednesday: 3.00 pm - 5.30 pm (Sec 3 &amp; 4)
+<br>Friday: 2.00 pm - 4.00 pm (Sec 1 &amp; 2) &amp; 3.30 pm - 5.30 pm (Sec
+3 &amp; 4)
+<br>
+<br>
+</p>
+<p>Boys:
+<br>Wednesday: 3.00 pm - 5.30 pm
+<br>Friday: 2.30 pm - 5.00 pm
+<br>
+<br>
+</p>
+<p><strong>Teachers In Charge:</strong>
+<br>
+<br>Girls:
+<br>Ms Thio Lay Hong (I/C)
+<br>Mdm Yee Suet Fong Dawn
+<br>
+<br>
+</p>
+<p>Boys:
+<br>Mrs Jean Ho (I/C)
+<br>Mdm Haliza
+<br>Ms Tay Shu-Min, Samantha
+<br>
+</p>
+<p></p>
+<ul>
+<li>
+<p><strong>Overview</strong>
+</p>
+<p><strong>Vision &amp; Mission<br></strong>
+</p>
+<p><strong>To develop pupils to become sports leaders who are intrinsically motivated and focused on success. <br><br></strong>
+</p>
+<p><strong>Highlights<br></strong>
+</p>
+<p><strong>• Participation in NSG South Zone Badminton Championships and Nationals Championships<br>• Participations in the Methodist Schools Cup<br>• Participation in competitions organised by the Singapore Badminton Association such as the Alpha Age Group Series<br>• Participation in the National Deaf Games<br>• Participation in various other tournaments such as the Wee Kim Wee Badminton Challenge Trophy and Pilot Pen Championships<br>• Friendly matches with other schools</strong>
+</p>
+<p></p>
+<ul>
+<li>
+<p><strong>Achievements</strong>
+</p><ul>
+	
+<p>&nbsp;</p>
+<ul>
+<li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]">
+<p><strong>2024</strong></p>
+<p>&nbsp;</p>
+<table style="width: 590px;"><colgroup><col><col></colgroup>
+<tbody>
+<tr style="height: 31px;">
+<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2024 - 'B' Div Girls</strong></p>
+</th>
+<th rowspan="1" colspan="1" style="width: 10px; height: 31px; vertical-align: top;">
+<p><strong>4th</strong></p>
+</th>
+</tr>
+<tr style="height: 29px;">
+<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2024 - 'B' Div Boys</strong></p>
+</th>
+<th rowspan="1" colspan="1" style="width: 10px; height: 29px; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</th>
+</tr>
+<tr style="height: 26px;">
+<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<p><strong>NSG National Badminton Championships 2024 - 'B' Div Girls</strong></p>
+</th>
+<th rowspan="1" colspan="1" style="width: 10px; height: 26px; vertical-align: top;">
+<p><strong>Top 16</strong></p>
+</th>
+</tr>
+<tr style="height: 28px;">
+<th rowspan="1" colspan="1" style="width: 213.141px; height: 30px; vertical-align: top;">
+<p><strong>Singapore Badminton Challenge 2024 (U-19 Girls Doubles)</strong></p>
+</th>
+<th rowspan="1" colspan="1" style="width: 10px; height: 28px; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>2023<br></strong></p>
+<table style="width: 590px;"><colgroup><col><col></colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1" style="width: 462.172px; text-align: left; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2023 - 'B' Div Girls<br></strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 213.828px; text-align: left; vertical-align: top;">
+<p><strong>3rd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 462.172px; text-align: left; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2023 - 'B' Div Boys<br></strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 213.828px; text-align: left; vertical-align: top;">
+<p><strong>Representation<br></strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 462.172px; text-align: left; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2023 - 'C' Div Girls<br></strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 213.828px; text-align: left; vertical-align: top;">
+<p><strong>Representation<br></strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 462.172px; text-align: left; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2023 - 'C' Div Boys<br></strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 213.828px; text-align: left; vertical-align: top;">
+<p><strong>Representation<br></strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 462.172px; text-align: left; vertical-align: top;">
+<p><strong>NSG National Badminton Championships 2023 - 'B' Div Girls<br></strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 213.828px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 462.172px; text-align: left; vertical-align: top;">
+<p><strong>Alpha Academy Age Group Series Badminton Championships (U-15 Girls Doubles)<br></strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 213.828px; text-align: left; vertical-align: top;">
+<p><strong>Representation<br></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>2022<br></strong></p>
+<table style="width: 589px;"><colgroup><col><col></colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1" style="width: 452.828px; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2022 - 'B' Div Girls (Zonal)</strong></p>
+</th>
+<th rowspan="1" colspan="1" style="width: 226.172px; vertical-align: top;">
+<p><strong>3rd</strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>2021<br></strong></p>
+<table style="width: 588px;"><colgroup><col><col></colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1" style="vertical-align: top; width: 386.531px;">
+<p><strong>NSG South Zone Badminton Championships 2022 - 'B' Div Girls (Zonal)</strong></p>
+</th>
+<th rowspan="1" colspan="1" style="vertical-align: top; width: 189.469px;">
+<p><strong>2nd</strong></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>2019<br></strong></p>
+<table style="width: 588px;"><colgroup><col><col></colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2019 - 'B' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>2nd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>NSG South Zone Badminton Championships 2019 - 'C' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>2nd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>NSG National Badminton Championships 2019 - 'B' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>Top 8</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>NSG National Badminton Championships 2019 - 'C' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>Alpha Academy Age Group Series Badminton Championships (U15 Girls Singles &amp; Doubles)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>National Deaf Games (U18 Girls Singles &amp; Women's Doubles)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>2nd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>Methodist Schools Cup 2019 (U17)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>1st</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>Methodist Schools Cup 2019 (U14)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>2nd &amp; 4th</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 954.828px; text-align: left; vertical-align: top;">
+<p><strong>ROMP Badminton Competition (U17)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 373.172px; text-align: left; vertical-align: top;">
+<p><strong>3rd &amp; Representation</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br><br></strong></p>
+<p><strong>2018<br></strong></p>
+<table style="width: 585px;"><colgroup><col><col></colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px; text-align: left; vertical-align: top;">
+<p><strong>Methodist Schools' Badminton Cup 2018 (U15)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px; text-align: left; vertical-align: top;">
+<p><strong>3rd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>Methodist Schools' Badminton Cup 2018 (U18)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px;">
+<p><strong>3rd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>NSG National Badminton Championships 2018 - 'B' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px; text-align: left; vertical-align: top;">
+<p><strong>Top 8</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>NSG National Badminton Championships 2018 - 'C' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>NSG South Zone Badminton Championships 2018 - 'B' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px; text-align: left; vertical-align: top;">
+<p><strong>2nd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>NSG South Zone Badminton Championships 2018 - 'C' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px; text-align: left; vertical-align: top;">
+<p><strong>2nd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>Pilot Pen Championships 2018</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>Wee Kim Wee Badminton Challenge Trophy 2018</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px;">
+<p><strong>2nd (Girls' Team Event)</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>Alpha Academy Age Group Championship 2018 (Girls Singles)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>National Deaf Games 2018 (Women's Doubles U18)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px;">
+<p><strong>3rd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>National Deaf Games 2018 (Mixed Doubles)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px;">
+<p><strong>2nd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 387.938px;">
+<p><strong>National Deaf Games 2018 (Women's Singles U18)</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 190.062px;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br><br></strong></p>
+<p><strong>2017<br></strong></p>
+<table style="width: 583px;"><colgroup><col><col></colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>Alpha Academy Age Group Badminton Championships 2017</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px; text-align: left; vertical-align: top;">
+<p><strong>3rd (Girls' Singles 14&amp;U)</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>Methodist Schools' Badminton Cup 2017</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>NSG National Badminton Championships 2017 - 'C' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>NSG South Zone Badminton Championships 2017 - 'B' Div Boys</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>NSG South Zone Badminton Championships 2017 - 'B' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px; text-align: left; vertical-align: top;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>NSG South Zone Badminton Championships 2017 - 'C' Div Girls</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px; text-align: left; vertical-align: top;">
+<p><strong>2nd</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>Pilot Pen Championships 2017</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>SBA Badminton Academy @ActiveSG Inter-School Competition 2017</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px; text-align: left; vertical-align: top;">
+<p><strong>Top 4</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>Temasek Club Badminton Championships 2017</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px;">
+<p><strong>Representation</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="width: 385.359px;">
+<p><strong>Wee Kim Wee Badminton Challenge Trophy 2017</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="width: 186.641px; text-align: left; vertical-align: top;">
+<p><strong>3rd</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<p>&nbsp;</p></ul></li></ul></li></ul></li></ul>
