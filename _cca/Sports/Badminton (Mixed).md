@@ -67,18 +67,12 @@ variant: markdown
 <p><strong>Highlights<br></strong>
 </p>
 <p><strong>• Participation in NSG South Zone Badminton Championships and Nationals Championships<br>• Participations in the Methodist Schools Cup<br>• Participation in competitions organised by the Singapore Badminton Association such as the Alpha Age Group Series<br>• Participation in the National Deaf Games<br>• Participation in various other tournaments such as the Wee Kim Wee Badminton Challenge Trophy and Pilot Pen Championships<br>• Friendly matches with other schools</strong>
-</p>
-<p></p>
-<ul>
-<li>
-<p><strong>Achievements</strong>
-</p><ul>
 	
-<p>&nbsp;</p>
+</p><p>&nbsp;</p>
 <ul>
-<li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]">
+<li data-pm-slice="2 5 [&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false},&quot;listItem&quot;,{},&quot;bulletList&quot;,{&quot;tight&quot;:false}]"><strong>Achievements</strong>
+<p>&nbsp;</p>	
 <p><strong>2024</strong></p>
-<p>&nbsp;</p>
 <table style="width: 590px;"><colgroup><col><col></colgroup>
 <tbody>
 <tr style="height: 31px;">
@@ -465,4 +459,4 @@ variant: markdown
 </table>
 </li>
 </ul>
-<p>&nbsp;</p></ul></li></ul></li></ul></li></ul>
+<p>&nbsp;</p></li></ul></li></ul>
