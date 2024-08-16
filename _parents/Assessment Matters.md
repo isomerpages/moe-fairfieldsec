@@ -5,6 +5,34 @@ description: ""
 variant: tiptap
 ---
 <h3>Assessment Matters</h3>
+<h4>EOY Schedule and Topics</h4>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_1.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_1_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_1_Topics.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_1_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_1_SAA.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_2.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_2_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_2_Topics.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_2_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_2_SAA.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_3Exp.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_3Exp.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_3_Topics.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_3_Topics.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_3Exp_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_3Exp_SAA.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_3NA.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_3NA_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_3NA_SAA.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_3NT.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2024/2024_EOY_Sec_3NT_SAA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_EOY_Sec_3NT_SAA.pdf</a>
+</p>
+<p></p>
 <h4>Sec 4/5 O Level Prelim Exam Schedule</h4>
 <p><a href="/files/Parents/Assessment Matters/2024/2024_Prelim_O_Timetable_final_main.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Prelim O Timetable</a>
 </p>
