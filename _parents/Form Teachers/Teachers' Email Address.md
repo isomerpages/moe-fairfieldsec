@@ -68,6 +68,7 @@ third_nav_title: Form Teachers
 | Siti Ainah (Ms) | [siti\_ainah\_maduri@moe.edu.sg](mailto:siti_ainah_maduri@moe.edu.sg) |
 | Shamsiah Bte Zainalabidin (Ms) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
 | Samsiah Bte Mohamed Diah (Ms) | [samsiah\_mohamed\_diah@moe.edu.sg](mailto:samsiah_mohamed_diah@moe.edu.sg) |
+| Sean Lee Mien Chung (Mr) | [sean\_lee\_mien\_chung@moe.edu.sg](mailto:sean_lee_mien_chung@moe.edu.sg) |
 | Tan Aik Hwee Alester (Mr) | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
 | Tan Chang Ci (Mr) | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
 | Tan Li Ming Glen (Mr) | [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
