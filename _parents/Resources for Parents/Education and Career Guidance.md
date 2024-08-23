@@ -219,7 +219,6 @@ To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR cod
 <p>
 <a href="https://drive.google.com/file/d/1zU6gDpw_z_AiGAw8RUyyIKKr6AGcbBcm/view?usp=sharing">Sec 3 &amp; 4NA Educational Pathways for your Child</a> <br>
 
-</p><p>
 <a href="https://drive.google.com/drive/folders/1Ozy5ek6gra3SKr8uEdfRXDp53YCmvRBk?usp=sharing">Sec 2 Express ECG Talk for Parents</a> <br>
   
 <a href="https://drive.google.com/drive/folders/1-fJJrZkdQN0I7ddh6GIRzfGLuOdfRyVX?usp=sharing">Sec 4NA ECG Talk for Parents on DPP &amp; PFP</a> <br>
