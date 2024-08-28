@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Form Teachers
 ---
-<h4>Sec 1 Form Teachers </h4>
+<h4>Sec 1 Form Teachers</h4>
 <ul>
 <li>
 <p>Sec 1A</p>
