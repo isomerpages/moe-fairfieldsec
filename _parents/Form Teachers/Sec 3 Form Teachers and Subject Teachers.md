@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Form Teachers
 ---
-<h4>Sec 3 Form Teachers and Subject Teachers</h4>
+<h4>Sec 3 Form Teachers </h4>
 <ul>
 <li>
 <p>Sec 3A</p>
@@ -28,7 +28,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yen Ding Yi</strong>
+<p><strong>Mrs Ho-Tan Siew Ching Jean</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Ho-Tan Siew Ching Jean</strong>
+<p><strong>Mr Tan Xian Heng Bryan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,124 +49,6 @@ third_nav_title: Form Teachers
 <p>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Subject Teachers</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Nio Qing Hui Brenda</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Sor Tin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Poh Jing Ping Jon</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tay Shu-min, Samantha</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tay Shu-min, Samantha</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Yi Qian</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Chang Ci</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Teo-Tan Li Ling Terri</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Biology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ho-Tan Siew Ching Jean</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lee Shu Pei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Li Weihan Joel</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ng Hun Boon Francis</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
 </td>
 </tr>
 </tbody>
@@ -203,7 +85,16 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sean Lee Mien Chung  </strong>
+<p><strong>Ms Celia Leo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Sean Lee Mien Chung</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,106 +106,6 @@ third_nav_title: Form Teachers
 <p>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Subject Teachers</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Guo Enliang Joseph</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Loke Liang En Joel</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Tay Shu-min, Samantha</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chen Minhua</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Teo-Tan Li Ling Terri</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Biology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Aminha Beevi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Puok Yee</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Kua Khuan Tiong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Haliza Bte Abdul Hamid Khan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Zhiwei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -350,101 +141,19 @@ third_nav_title: Form Teachers
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Yeo Zhi En</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Subject Teachers</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lai Xin Yi Felicia</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Poh Jing Ping Jon</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wong Jiayi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Wee Guoyuan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Wei Shan Clarissa</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Liew Hoe Meng Keith</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science (Physics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Li Weihan Joel</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Quek Chin Wee James</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Zhiwei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -480,137 +189,19 @@ third_nav_title: Form Teachers
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wang Yixin Helen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Subject Teachers</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Nio Qing Hui Brenda</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Sor Tin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ezal Bin Sani</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wong Jiayi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Uma Devi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Chee Chin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science (Chemistry)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Wong Beishi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science&nbsp; (Physics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lee Shu Pei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Paul T</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Mathematics&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Elijah-Lily Cleaopatra</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Dannish Kurniago</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design and Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tham Xue Ping Desiree</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Andrew Ong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -650,115 +241,6 @@ third_nav_title: Form Teachers
 <p>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Subject Teachers</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Rena Yeo</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Loke Liang En Joel</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Uma Devi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Xu Hui</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Yi Qian</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lim Yuen Tuck</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Biology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Wei Shan Clarissa</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Wong Bei Shi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lee Shu Pei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Haliza Bte Abdul Hamid Khan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Zhiwei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
 </td>
 </tr>
 </tbody>
@@ -809,151 +291,6 @@ third_nav_title: Form Teachers
 </p>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Subject Teachers</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Khoo Khai Shee Yvonne</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lai Xin Yi Felicia</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English (OOS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chan Xin Hui Charmaine</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Tay Shu-min, Samantha</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Combined Humanities / Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Yen Ding Yi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Samsiah Bte Mohamed Diah</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay / Malay (OOS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Chee Chin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science / Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Magdelene Sim</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science / Chemistry (OOS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Puok Yuee&nbsp;&nbsp; &nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science / Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ho-Tan Siew Ching Jean</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science / Physics (OOS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Kua Khuan Tiong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Paul T</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics (OOS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chua Chang Fong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design and Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tham Xue Ping Desiree</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Zhiwei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -1000,160 +337,6 @@ third_nav_title: Form Teachers
 <p>
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Subject Teachers</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lee Chiew Yi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Yee Suet Fong Dawn</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr&nbsp;Heng Khim Liang Amos</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Social Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Liong Huimin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic Chinese</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Siti Ainah Bte Maduri</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic Malay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Teo-Tan Li Ling Terri</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Koh Wei Shan Clarissa</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chia Wey Ling Vincent</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Kua Khuan Tiong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E Mathematics (OOS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Quek Chin Wee James</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Applications</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Li Ming Glen</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Applications</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lee Chiew Yi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Tan Geok Kooi Katherine</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Yap Hock Heng</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design and Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Zhiwei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ng Hun Boon Francis</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
 </td>
 </tr>
 </tbody>
