@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Form Teachers
 ---
-<h4>Sec 4 &amp; 5 Form Teachers </h4>
+<h4>Sec 4 &amp; 5 Form Teachers</h4>
 <ul>
 <li>
 <p>Sec 4A</p>
@@ -76,15 +76,6 @@ third_nav_title: Form Teachers
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Liew Koon Ern William Isaac</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Li Weihan Joel</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
