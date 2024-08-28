@@ -83,7 +83,8 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhan Huili</p>
+<p><strong>Ms Zhan Huili</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
