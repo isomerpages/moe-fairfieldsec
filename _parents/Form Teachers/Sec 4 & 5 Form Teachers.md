@@ -123,7 +123,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Andrew Ong</strong>
+<p><strong>Mr Andrew Choy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
