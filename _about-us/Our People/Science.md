@@ -29,7 +29,7 @@ variant: markdown
 | **Ms Aminah Beevi D/O Rahim**  | Sec 3B Form Teacher | [aminah\_beevi\_rahim@moe.edu.sg](mailto:aminah_beevi_rahim@moe.edu.sg) |
 | **Mdm Lim Chee Chin** | Sec 3G Form Teacher | [lim\_chee\_chin@moe.edu.sg](mailto:lim_chee_chin@moe.edu.sg) |
 | **Mdm Leong Yuet Lim Rosalind** | Sec 2G Form Teacher | [leong\_yuet\_lim@moe.edu.sg](mailto:leong_yuet_lim@moe.edu.sg) |
-| **Mr Sean Lee mien chung**   | Sec 3B Form Teacher | [ sean\_lee\_mien\_chung@moe.edu.sg](mailto: sean_lee_mien_chung@moe.edu.sg) |
+| **Mr Sean Lee mien chung** | Sec 3B Form Teacher | [sean\_lee\_mien\_chung@moe.edu.sg](mailto:sean_lee_mien_chung@moe.edu.sg) |
 | **Mr Tan Puok Yuee** | Sec 4A Form Teacher | [tan\_puok\_yuee@moe.edu.sg](mailto:tan_puok_yuee@moe.edu.sg) |
 | **Mrs Terri Teo** | Sec 3H Form Teacher |  [terri\_tan\_li\_ling@moe.edu.sg](mailto:terri_tan_li_ling@moe.edu.sg) |
 | **Ms Tan Siok Hoon** | Sec 1B Form Teacher |  [tan\_siok\_hoon@moe.edu.sg](mailto:tan_siok_hoon@moe.edu.sg) |
@@ -37,5 +37,7 @@ variant: markdown
 | **Mr Kho Eng Kiong Patrick** | AED ( T &amp; L )| [kho\_eng\_kiong@moe.edu.sg](mailto:kho_eng_kiong@moe.edu.sg) |
 | **Ms Ho Ngai Kuen Magdalene** | Teacher | [ho\_ngai\_kuen\_magdalene@moe.edu.sg](mailto:ho_ngai_kuen_magdalene@moe.edu.sg) |
 | **Ms Lin Yizhen, Eunice** | Teacher | [lin\_yizhen\_eunice@moe.edu.sg](mailto:lin_yizhen_eunice@moe.edu.sg) |
-| **Ms Thio Lay Hong** | Teacher |  [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
+| **Mr Lim Seow Yi Ethan** | Teacher | [lim\_seow\_yi\_ethan@moe.edu.sg](mailto:lim_seow_yi_ethan@moe.edu.sg) |
+ | **Ms Thio Lay Hong** | Teacher |  [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | **Mdm Chin Siew Moy** | Technical Support Officer | [chin\_siew\_moy@moe.edu.sg](mailto:chin_siew_moy@moe.edu.sg)  |
+| **Ms Nur fadhilah Mohamad** | Technical Support Officer | [nur\_fadhilah\_mohamad@moe.edu.sg](mailto:nur_fadhilah_mohamad@moe.edu.sg)  |
