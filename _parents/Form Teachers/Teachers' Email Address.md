@@ -51,7 +51,8 @@ third_nav_title: Form Teachers
 | Liew Hoe Meng Keith (Mr) | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
 | Lim Yuen Tuck (Mr) | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
 | Li Weihan Joel (Mr) | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
-| Li Yandong (Mdm) | [li\_Yandong@moe.edu.sg](mailto:li_Yandong@moe.edu.sg) |
+| Li Yandong (Mdm) | [li\_Yandong@moe.edu.sg](mailto:lim_seow_yi_ethan@moe.edu.sg) |
+| Lim Seow Yi Ethan ( Mr) | [lim\_seow\_yi\_ethan@moe.edu.sg](mailto:li_Yandong@moe.edu.sg) |
 | Loh Youn Leong Eric (Mr) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
 | Loh Zhiliang Larry (Mr) | [loh\_zhiliang\_larry@moe.edu.sg](mailto:loh_zhiliang_larry@moe.edu.sg) |
 | Lum Tuck Choi Jason (Mr) | [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
@@ -94,3 +95,5 @@ third_nav_title: Form Teachers
 | Yap Hock Heng (Mr) | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
 | Yee Suet Fong Dawn (Mdm) |[yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
 | Yeo Rena (Mrs) | [gomes\_rena\_jeanette@moe.edu.sg](mailto:gomes_rena_jeanette@moe.edu.sg) |
+
+
