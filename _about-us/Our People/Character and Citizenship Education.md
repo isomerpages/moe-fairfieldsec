@@ -31,5 +31,4 @@ variant: markdown
 |  **Mr Lum Tuck Choi Jason** | Lead Teacher |  [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
 |  **Ms Lai Xin Yi Felicia** | Sec 4D Form Teacher | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
 |  **Mr Tan Zhiwei @ Tham Chee Wai** | Sec 3H Form Teacher  | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
-|  **Ms Uma Devi D/O Muthamilan** | Sec 1E Form Teacher |  [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
 |  **Ms Wong Jiayi** | Sec 1F Form Teacher |  [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
