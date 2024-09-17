@@ -29,7 +29,6 @@ variant: markdown
 | **Ms Lai Xin Yi Felicia** | Sec 4D Form Teacher | [lai\_xin\_yi\_felicia@moe.edu.sg](mailto:lai_xin_yi_felicia@moe.edu.sg) |
 | **Mdm Ong Lei Wan Jasmin** | Sec 1B Form Teacher | [ong\_lei\_wan@moe.edu.sg](mailto:ong_lei_wan@moe.edu.sg) |
 | **Mdm Tay Shu-Min Samantha** | Sec 1A Form Teacher | [tay\_shu-min\_samantha@moe.edu.sg](mailto:tay_shu-min_samantha@moe.edu.sg) |
-| **Ms Uma Devi D/O Muthamilan** | Sec 1E Form Teacher | [uma\_devi\_muthamilan@moe.edu.sg](mailto:uma_devi_muthamilan@moe.edu.sg) |
 | **Ms Wong Jiayi** | Sec 1F Form Teacher | [wong\_jiayi@moe.edu.sg](mailto:wong_jiayi@moe.edu.sg) |
 | **Mdm Yee Suet Fong Dawn** | Sec 1D Form Teacher | [yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
 | **Mrs Choe Wai Leng** | Teacher | [choe\_wai\_leng\_evelyn_a@moe.edu.sg](mailto:choe_wai_leng_evelyn_a@moe.edu.sg) |
