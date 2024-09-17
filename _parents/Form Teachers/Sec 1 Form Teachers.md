@@ -251,15 +251,6 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Uma Devi D/O Muthamilan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Nurul Afia Mohammed Anuar</strong>
 </p>
 </td>
