@@ -10,31 +10,10 @@ variant: tiptap
 students from our Government and Government-Aided Schools who need financial
 assistance for their studies.</p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Income Criterion</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gross Monthly Household Income</p>
-<p>&lt; $3,000 or</p>
-<p>Per Capita Income &lt; $750</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Income_Criterion.jpg">
+</div>
 <h4>Application Procedure</h4>
 <ul>
 <li>
