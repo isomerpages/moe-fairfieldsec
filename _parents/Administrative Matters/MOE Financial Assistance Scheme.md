@@ -9,6 +9,7 @@ variant: tiptap
 <p>The Ministry of Education provides financial assistance to Singaporean
 students from our Government and Government-Aided Schools who need financial
 assistance for their studies.</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -62,7 +63,7 @@ and others)</p>
 <p>Family with more than 3 grandparents in the household</p>
 </li>
 </ul>
-<p>Students who are ComCare beneficiaries may be auto-granted MOE FAS for
+<p>Students who are ComCare beneficiaries will be auto-granted MOE FAS for
 2025. There is no requirement for this group of students to apply for MOE
 FAS.</p>
 <h4>Supporting Documents</h4>
