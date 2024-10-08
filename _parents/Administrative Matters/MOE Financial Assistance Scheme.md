@@ -9,8 +9,6 @@ variant: tiptap
 <p>The Ministry of Education provides financial assistance to Singaporean
 students from our Government and Government-Aided Schools who need financial
 assistance for their studies.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Income_Criterion.jpg">
 </div>
