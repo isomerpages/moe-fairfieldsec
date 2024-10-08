@@ -53,21 +53,21 @@ the school directly and submit the application form. <strong>Online submission i
 and others)</p>
 </li>
 <li>
-<p>Family with more than 5 children in govt school</p>
+<p>Family with more than 6 children in govt school</p>
 </li>
 <li>
-<p>Family with more than 4 unmarried children not in govt school</p>
+<p>Family with more than 5 unmarried children not in govt school</p>
 </li>
 <li>
 <p>Family with more than 3 grandparents in the household</p>
 </li>
 </ul>
 <p>Students who are ComCare beneficiaries may be auto-granted MOE FAS for
-2023. There is no requirement for this group of students to apply for MOE
+2025. There is no requirement for this group of students to apply for MOE
 FAS.</p>
 <h4>Supporting Documents</h4>
 <p>All compulsory documents must be submitted together with your completed
-application form for approval. <strong>You can refer to the attached application form (page 5 &amp; 6) for more details.</strong>
+application form for approval. <strong>You can refer to the attached application form (page 6 &amp; 7) for more details.</strong>
 </p>
 <p>School will request for any other documents when required for the purpose
 of verifying the income and other status.</p>
@@ -77,5 +77,6 @@ can visit this link</p>
 </p>
 <p>If you have any queries, please contact the school at 67788702 or fmss@moe.edu.sg</p>
 <h4>Application Forms</h4>
-<p><a href="https://go.gov.sg/ggas-application-form" rel="noopener noreferrer nofollow" target="_blank">Revised Application Form for MOE-FAS</a>
+<p><a href="/files/Parents/Admin Matters/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Application_Form_2025.pdf</a>
 </p>
+<p></p>
