@@ -12,7 +12,8 @@ assistance for their studies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Income_Criterion.jpg">
 </div>
-<h4>Application Procedure</h4>
+<h4><strong>Application Procedure </strong></h4>
+<p></p>
 <ul>
 <li>
 <p>Application is open throughout the year. Siblings in the same school can
@@ -43,7 +44,7 @@ and others)</p>
 <p>Students who are ComCare beneficiaries will be auto-granted MOE FAS for
 2025. There is no requirement for this group of students to apply for MOE
 FAS.</p>
-<h4>Supporting Documents</h4>
+<h4><strong>Supporting Documents</strong></h4>
 <p>All compulsory documents must be submitted together with your completed
 application form for approval. <strong>You can refer to the attached application form (page 6 &amp; 7) for more details.</strong>
 </p>
@@ -54,7 +55,7 @@ can visit this link</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <p>If you have any queries, please contact the school at 67788702 or fmss@moe.edu.sg</p>
-<h4>Application Forms</h4>
+<h4>Application Form</h4>
 <p><a href="/files/Parents/Admin Matters/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Application_Form_2025.pdf</a>
 </p>
 <p></p>
