@@ -6,6 +6,12 @@ variant: markdown
 ---
 ### Latest Updates
 
+
+#### 2024 Term 4 Week 6 Timetable
+[Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/2024-term-4-week-6-timetable/)
+
+* * *
+
 #### 2024 Sem 2 Class Timetable
 [Read More...](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2024-sem2-class-timetable/)
 
