@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_banner_trial_3.jpg
+      background: /images/trial_4.jpg
       key_highlights:
         - title: Our Stories
           description: ""
