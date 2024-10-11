@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_banner_squez.jpg
+      background: /images/shifted_1.jpg
       key_highlights:
         - title: Our Stories
           description: ""
@@ -15,5 +15,5 @@ sections:
         - title: Latest Updates
           description: ""
           url: /latest-updates/overview/
-      variant: center
+      variant: image
 ---
