@@ -15,5 +15,5 @@ sections:
         - title: Latest Updates
           description: ""
           url: /latest-updates/overview/
-      variant: center
+      variant: image
 ---
