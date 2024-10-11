@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_House_Banner_2024.jpg
+      background: /images/Website_banner_squez.jpg
       key_highlights:
         - title: Our Stories
           description: ""
