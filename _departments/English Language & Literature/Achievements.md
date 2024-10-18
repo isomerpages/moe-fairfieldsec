@@ -23,7 +23,7 @@ Fairfield is proud of the achievements of the following talented and creative yo
 Wynstelle Olga Sutandar (4A) – Merit Award
 
 
-#### 2024 Queens Commonwealth Essay Competition.
+#### 2024 Queens Commonwealth Essay Competition
 Fayth Wai (2D) – Silver Award<br>
 Goh Yu Qian (2H) - Silver Award 
 
