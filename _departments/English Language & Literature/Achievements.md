@@ -49,7 +49,7 @@ Ng Xin Yee Kayla (Sec 2D) - Silver Award
 
   
 
-#### 2021 Safety Starts With Me Creative Story Writing Competition*
+#### 2021 Safety Starts With Me Creative Story Writing Competition
 
 
 Clara Ng Xin Yue (4F) -&nbsp; Bronze <br>
