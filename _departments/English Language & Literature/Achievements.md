@@ -18,13 +18,14 @@ Through the close guidance of our English Language teachers, students gain the i
   
 
 Fairfield is proud of the achievements of the following talented and creative young writers who delivered prize-winning masterpieces after seizing the unique opportunity to make their voice heard on both the local and global platforms.
+
 #### 2024 Live On Writing Competition
 Wynstelle Olga Sutandar (4A) – Merit Award
+
 
 #### 2024 Queens Commonwealth Essay Competition.
 Fayth Wai (2D) – Silver Award<br>
 Goh Yu Qian (2H) - Silver Award 
-
 
 
 #### 2023 Live On Writing Competition
