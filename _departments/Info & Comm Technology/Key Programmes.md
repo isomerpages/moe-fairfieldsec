@@ -12,8 +12,11 @@ variant: markdown
 In the idea of ‘technology-transformed learning’, there is a fundamental shift in educational approaches, where educators leverage modern digital tools and platforms to enhance the learning experience.
 
 For example:
+
 **a)	Collaborative digital platforms:** Students work on projects together in real-time, regardless of physical location, using cloud-based tools and video conferencing eg. Google Workspace, Microsoft 365, Zoom.
+
 **b)	Gamification of learning:** Educational content is presented in game-like formats to increase engagement and motivation through challenges, rewards, and progress tracking eg. Kahoot, Quizziz, Blooket.
+
 **c)	Anytime, anywhere learning:** Students can access educational content and complete assignments from any location eg. viewing video lessons, completing assignments on SLS and Google Classroom.
 
 #### (b) Programming Workshops @ Learning Festival
@@ -23,14 +26,3 @@ Secondary 1 and 2 students participate in programming workshops such as the Micr
 #### (c) Drone Programming @ Secondary 3 FLEX
 
 In the Fairfield Learning Experience Week (FLEX) Challenge that the Secondary 3 cohort embarks on annually, one of the challenges available to students is Drone Programming. This offers students hands-on experience with cutting-edge technology, combining coding skills with real-world applications. The Drone Programming FLEX challenge enhances students' understanding of robotics, spatial awareness, and physics while fostering creativity and problem-solving in an engaging, practical context that can spark interest in STEM fields and emerging career opportunities.
-
-
-
-
-
-
-
-
-
-
-
