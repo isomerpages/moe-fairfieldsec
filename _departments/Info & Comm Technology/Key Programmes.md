@@ -13,11 +13,12 @@ In the idea of ‘technology-transformed learning’, there is a fundamental shi
 
 For example:
 
-**a)	Collaborative digital platforms:** Students work on projects together in real-time, regardless of physical location, using cloud-based tools and video conferencing eg. Google Workspace, Microsoft 365, Zoom.
+ 
+  &nbsp;&nbsp;&nbsp;&nbsp; **a)	Collaborative digital platforms:** Students work on projects together in real-time, regardless of physical location, using cloud-based tools and video conferencing eg. Google Workspace, Microsoft 365, Zoom.
 
-**b)	Gamification of learning:** Educational content is presented in game-like formats to increase engagement and motivation through challenges, rewards, and progress tracking eg. Kahoot, Quizziz, Blooket.
+&nbsp;&nbsp;&nbsp;&nbsp;**b)	Gamification of learning:** Educational content is presented in game-like formats to increase engagement and motivation through challenges, rewards, and progress tracking eg. Kahoot, Quizziz, Blooket.
 
-**c)	Anytime, anywhere learning:** Students can access educational content and complete assignments from any location eg. viewing video lessons, completing assignments on SLS and Google Classroom.
+&nbsp;&nbsp;&nbsp;&nbsp;**c)	Anytime, anywhere learning:** Students can access educational content and complete assignments from any location eg. viewing video lessons, completing assignments on SLS and Google Classroom.
 
 #### (b) Programming Workshops @ Learning Festival
 
