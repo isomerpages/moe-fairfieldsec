@@ -70,9 +70,21 @@ for Student Council Executive Committee and the Presidents/Vice Presidents
 of the CCAs. They go through mentoring sessions with their teachers to
 sharpen their communication, people and project management skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier_1.jpg">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier_2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier_2_2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tier_3.jpg">
+</div>
 <p></p>
 <p></p>
