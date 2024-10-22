@@ -13,24 +13,39 @@ on the idea that “Leadership is Influence” and not on position or title.
 Fairsians are taught that they can lead themselves and at the same time,
 they follow a leader because of who he/she is and what he/she represents.</p>
 <p></p>
+<h4>4 Fairfield Leadership Practices</h4>
+<p>Modeling Purity &amp; Honesty</p>
+<p>• Leaders lead by example, demonstrate integrity and live according to
+their values.</p>
 <p></p>
-<p>Fairfield’s Sophia Blackmore Leadership Programme (SBLP) seeks to develop
-students to be influential cultural leaders who are ready to take the lead
-to serve the immediate school community as well as the wider community
-at large. The school adopts John Maxwell’s definition of leadership which
-is based on the idea that “Leadership is Influence” and not on position
-or title. Fairsians are taught that they can lead themselves and at the
-same time, they follow a leader because of who he/she is and what he/she
-represents.&nbsp;</p>
-<p>The SBLP also aims to nurture leaders with a Personal Voice (PV). PV is
-defined as the ability to form sound opinions through listening to others
-and reflecting deeply; articulate opinions with respect and confidence;
-and having the moral courage to speak up and stand up for one’s beliefs.</p>
-<p>With a strong PV, student leaders will be able to influence the student
-body and shape the culture of a student-led school. This is done in tandem
-with the push to strengthen moral and performance character, promote active
-citizenry and inspire students to serve.</p>
-<h4>Leadership Skills Framework</h4>
+<p>Encouraging Hearts, Enabling Unity</p>
+<p>• Leaders recognise and empower their peers by fostering a supportive
+and collaborative environment that sustains motivation and growth.</p>
+<p></p>
+<p>Stewarding Growth, Strengthening Resilience</p>
+<p>• Leaders exhibit resilience and adaptability as they foster growth and
+innovation. They dare to take risks, tackle challenges and improve their
+environment.</p>
+<p></p>
+<p>Inspiring Peaks of Excellence</p>
+<p>• Leaders articulate a compelling vision for their school or community
+by rallying others to join them in the pursuit of excellence.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>The school has adopted James Kouzes and Barry Posner’s five practices
 of exemplary leadership and seeks to equip our student leaders with these
 skills.</p>
