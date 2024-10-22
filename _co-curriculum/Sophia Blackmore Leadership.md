@@ -14,21 +14,24 @@ Fairsians are taught that they can lead themselves and at the same time,
 they follow a leader because of who he/she is and what he/she represents.</p>
 <p></p>
 <h4>4 Fairfield Leadership Practices</h4>
-<p>Modeling Purity &amp; Honesty</p>
+<p><strong>Modeling Purity &amp; Honesty</strong>
+</p>
 <p>• Leaders lead by example, demonstrate integrity and live according to
 their values.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_1.jpg">
 </div>
-<p>Encouraging Hearts, Enabling Unity</p>
+<p><strong>Encouraging Hearts, Enabling Unity</strong>
+</p>
 <p>• Leaders recognise and empower their peers by fostering a supportive
 and collaborative environment that sustains motivation and growth.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<p>Stewarding Growth, Strengthening Resilience</p>
+<p><strong>Stewarding Growth, Strengthening Resilience</strong>
+</p>
 <p>• Leaders exhibit resilience and adaptability as they foster growth and
 innovation. They dare to take risks, tackle challenges and improve their
 environment.</p>
@@ -36,7 +39,8 @@ environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p>Inspiring Peaks of Excellence</p>
+<p><strong>Inspiring Peaks of Excellence</strong>
+</p>
 <p>• Leaders articulate a compelling vision for their school or community
 by rallying others to join them in the pursuit of excellence.</p>
 <p></p>
