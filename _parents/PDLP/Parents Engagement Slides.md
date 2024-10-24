@@ -6,7 +6,7 @@ third_nav_title: PDLP
 variant: markdown
 ---
 ### Parents Engagement Deck
-
+Resources for the Secondary 1 cohort of 2025 will be made available by mid-December 2024.
 #### Resources
 
 
