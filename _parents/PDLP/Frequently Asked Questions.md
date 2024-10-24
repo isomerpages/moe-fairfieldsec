@@ -6,6 +6,7 @@ third_nav_title: PDLP
 variant: markdown
 ---
 ### Frequently Asked Questions
+Details regarding the PLD purchase for Secondary 1 students in 2025 will be updated by mid-December 2024.
 
 **Q1. What is the device that FMS(S) students will be purchasing and what is included in the package?**
 
