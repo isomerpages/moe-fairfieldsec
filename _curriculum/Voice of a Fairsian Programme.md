@@ -12,15 +12,26 @@ The ‘Voice Of A Fairsian Programme’ aims to develop in Fairsians an influent
 
 
   
+![](/images/EL_Tier_1.jpg)
+![](/images/Tier_1_2.jpg)
+![](/images/EL_Tier_2.jpg)
 
-#### 2018 YMCA PESA
+![](/images/EL_Tier_2_2.jpg)
 
-B Vithiyadhar (Sec 3A) – Champion (Upper Secondary Category)
+![](/images/EL_Tier_3.jpg)
 
-  
+![](/images/Tier_3_2.jpg)
 
-#### 2016 NPSC
+![](/images/slide_10.jpg)
 
-Jeslyn Leung (Sec 3B) – Second Place
+![](/images/slide_11.jpg)
 
-<img src="/images/vofp.gif" style="width:70%">
+![](/images/slide_12.jpg)
+
+![](/images/slide_13.jpg)
+
+![](/images/slide_14_a.jpg)
+
+
+
+<img src="/images/slide_15.jpg" style="width:80%">

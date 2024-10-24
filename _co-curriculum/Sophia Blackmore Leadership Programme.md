@@ -1,5 +1,5 @@
 ---
-title: Sophia Blackmore Leadership
+title: Sophia Blackmore Leadership Programme
 permalink: /co-curriculum/sophia-blackmore-leadership/
 description: ""
 variant: tiptap
