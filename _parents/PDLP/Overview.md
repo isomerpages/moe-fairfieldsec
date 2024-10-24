@@ -31,7 +31,7 @@ iPad 9th Gen&nbsp; 64 GB 10.2-inch with Apple Pencil and casing with attached ke
 
 The price of the device bundle (inclusive of GST) is:&nbsp;**S$865.40**
 
-  
+Details of PLD bundle for Secondary 1 students in 2025 will be made available by mid-December 2024.  
 
 #### Use of Edusave
 
@@ -59,7 +59,7 @@ The school will progressively roll out IT applications that will be vital for te
 
 (a) **Student iCON**: Every student will be provided with access to the Google Suite set of tools, including email address. <br>
 (b) **Microsoft ProPlus**: Every student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.&nbsp;<br>
-(c) **Zoom**: Every student will be given a free Zoom account with 40-min time limit for their video conferencing needs.&nbsp;&nbsp;
+(c) **Zoom**: Every student will be given a free Zoom account with 40-min time limit for their video conferencing needs.&nbsp;&nbsp;(In 2025, MS Teams accounts will be provided to students instead.)
 
 The school will need to use students’ full name, Student iCON ID and class to set up user accounts. The school may also choose to roll out applications other than those listed above.&nbsp;
 
