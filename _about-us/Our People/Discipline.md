@@ -26,3 +26,4 @@ variant: markdown
 | **Mr Arif Bin Bakar** | Sec 2 Level Discipline Master<br>Sec 1F Form Teacher | [arif\_bakar@schools.gov.sg](mailto:arif_bakar@moe.edu.sg) |
 | **Ms Aminah Beevi D/O Rahim**  | Sec 3 Level Discipline Mistress<br>Sec 3B Form Teacher | [aminah\_beevi\_rahim@schools.gov.sg](mailto:aminah_beevi_rahim@schools.gov.sg) |
 | **Mr Choy Andrew**  |  Sec 4 Level Discipline Master<br>Sec 4C Form Teacher  | [choy\_andrew@moe.edu.sg](mailto:choy_andrew@moe.edu.sg)  |
+| **Mr Seah Saw Phing Sam** | Administrative Executive | [seah\_saw\_phing@moe.edu.sg](mailto:seah_saw_phing@moe.edu.sg) |
