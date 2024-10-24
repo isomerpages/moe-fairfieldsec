@@ -30,8 +30,8 @@ The ‘Voice Of A Fairsian Programme’ aims to develop in Fairsians an influent
 
 ![](/images/slide_13.jpg)
 
-![](/images/slide_14_a.jpg)
+<img src="/images/slide_14_a.jpg" style="width:90%">
 
-
+<br>
 
 <img src="/images/slide_15.jpg" style="width:80%">
