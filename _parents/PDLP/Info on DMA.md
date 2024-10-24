@@ -6,6 +6,7 @@ third_nav_title: PDLP
 variant: markdown
 ---
 ### Quick guide on which DMA option to choose
+Details for the new MOE DMA which will take effect in 2025 will be made available by mid-December 2024.
 
 ![](/images/Parents/choose_dma_option_2024.png)
 
