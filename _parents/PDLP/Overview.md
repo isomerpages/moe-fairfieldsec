@@ -55,7 +55,7 @@ Subsidies are available for students who require funding support to purchase a P
 
 #### IT Applications
 
-The School will progressively roll out IT applications that will be vital for teaching and learning. These include:&nbsp;
+The school will progressively roll out IT applications that will be vital for teaching and learning. These include:&nbsp;
 
 (a) **Student iCON**: Every student will be provided with access to the Google Suite set of tools, including email address. <br>
 (b) **Microsoft ProPlus**: Every student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.&nbsp;<br>
