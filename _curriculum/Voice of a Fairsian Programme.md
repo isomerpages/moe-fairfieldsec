@@ -11,9 +11,9 @@ The ‘Voice Of A Fairsian Programme’ aims to develop in Fairsians an influent
 ![Voice_of_Fairsian.jpg](/images/About%20Us/Voice_of_Fairsian.jpg)
 
 
-  
-![](/images/EL_Tier_1.jpg)
-![](/images/Tier_1_2.jpg)
+![](/images/EL_Tier_1_pic1_.jpg)  
+![](/images/EL_Tier_1_pic2.jpg)
+
 ![](/images/EL_Tier_2.jpg)
 
 ![](/images/EL_Tier_2_2.jpg)
