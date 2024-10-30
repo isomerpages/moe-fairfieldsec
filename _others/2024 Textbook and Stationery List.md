@@ -7,26 +7,25 @@ variant: markdown
 ### Purchase of School Textbooks, Stationery and School Attire
 
 
-Dear Parent/Guardian,
+Dear Parents/Guardians,
 
-<u>Guidelines for Year-End Purchase of 2024 School Textbooks, Stationery and School Attire</u>
-
-**Revisions to the End-Year Sales Approach**<br>
-Starting from this year, the bookshop (Asencio Pte Ltd) will no longer handle the sale of school attire on behalf of Shanghai Uniforms Pte Ltd. 
-The vendor for the school attire, Shanghai Uniforms Pte Ltd will only be physically present at the school on selected specific dates. You can find additional details in the provided schedule. If you are unable to make an in-person purchase, you have the option of buying the school attire through their online website.  
+<u>Guidelines for Year-End Purchase of 2025 School Textbooks, Stationery and School Attire</u>
 
 **Mode of Purchase**<br>
-You have two options for making your purchases: you can either buy the items in person on the designated dates within the school, or you can opt for online purchases through the respective vendors’ website using the provided links. Please note that both vendors may apply delivery charges. You can only opt for self-collection when buying books and stationery.
-If you have any additional questions or concerns, please do not hesitate to get in touch with the General Office during our office hours, which are from 8am to 5pm.
+There are 2 options for purchases: you can either buy the items in person on the designated dates within the school, or you can opt for online purchases through the respective vendors’ website using the provided links. Please note that both vendors will apply delivery charges. You can only opt for self-collection when buying books and stationery.
+
+**Updates from Uniform Vendor: Shanghai School Uniforms Pte Ltd**<br>
+As part of their ongoing sustainability efforts, Shanghai Uniforms have discontinued the use of plastic bags in their retail store. Instead, they now charge 10 cents per bag provided. This practice will apply for their uniform sales in school as well. Do note and prepare your reusable bags to support their efforts.
+
+If you have any additional questions or concerns, please do not hesitate to get in touch with the General Office during our office hours, from 8am to 5pm.
 
 Please refer to the&nbsp;[Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire](/files/Parents/Admin%20Matters/2023/schedule.pdf)&nbsp;for more information.
 
 
 
-### 2024 Textbook and Stationery List
+### 2025 Textbook and Stationery List
 
-#### Secondary 1
-[FMS(S) S1 Booklist and Stationery List 2024](/files/Parents/2024_Secondary_1_Book_List_and_Stationery_List_Final_v2.pdf)
+#### Secondary 1 - Coming Soon!
 
 
 #### Secondary 2
