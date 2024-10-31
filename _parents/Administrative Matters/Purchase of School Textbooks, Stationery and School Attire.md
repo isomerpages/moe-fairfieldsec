@@ -24,7 +24,7 @@ to support their efforts.</p>
 <p>If you have any additional questions or concerns, please do not hesitate
 to get in touch with the General Office during our office hours, from 8am
 to 5pm.</p>
-<p>Please refer to the&nbsp;<a href="/files/Parents/Admin Matters/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire 2025</a>&nbsp;for
+<p>Please refer to the&nbsp;<a href="/files/Parents/Admin Matters/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire 2025</a> for
 more information.</p>
 <h3>2025 Textbook and Stationery List</h3>
 <h4>Secondary 1 - Coming Soon!</h4>
