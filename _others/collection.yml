@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - 2024 Textbook and Stationery List.md
       - Student Device Briefing.md
       - National Digital Literacy Prog/Resources for Parents.md
       - National Digital Literacy Prog/Device Management Application (DMA).md
