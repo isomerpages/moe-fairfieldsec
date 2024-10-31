@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h3>Latest Updates</h3>
 <h4>2025 Purchase of School Textbooks, Stationery and School Attire</h4>
-<p></p>
+<p><a href="https://fairfieldmethodistsec.moe.edu.sg/others/2024-textbook-and-stationery-list/" rel="noopener nofollow" target="_blank">Read More...</a>
+</p>
 <p></p>
 <h4>2024 Term 4 Week 6 Timetable</h4>
 <p><a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/2024-term-4-week-6-timetable/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
