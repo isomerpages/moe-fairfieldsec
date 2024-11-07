@@ -16,9 +16,29 @@ third_nav_title: 2024 Open House
 <p></p>
 <h2>Open House Brochure</h2>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ezgif_open_house_brochure.gif" src="/images/Prospective Students/ezgif_open_house_brochure.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospective Students/Guide_to_Fairfield_Open_House__2024_E__Brochure_1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospective Students/Guide_to_Fairfield_Open_House__2024_E__Brochure_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
