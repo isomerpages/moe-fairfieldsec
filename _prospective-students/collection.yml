@@ -2,9 +2,9 @@ collections:
   prospective-students:
     output: true
     order:
-      - 2024 Open House/2023 Founder's Day Video.md
-      - 2024 Open House/2024 Open House.md
       - 2024 Open House/.keep
+      - 2024 Open House/2024 Open House.md
+      - 2024 Open House/2023 Founder's Day Video.md
       - 2023 Open House & P6 Talk/.keep
       - School Information.md
       - Direct School Admission/Overview.md
