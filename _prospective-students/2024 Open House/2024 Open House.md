@@ -9,6 +9,15 @@ third_nav_title: 2024 Open House
 <p>Fairfield Methodist School (Secondary) will be having our Open House 2024
 on <strong>20 November 2024, 12.30pm to 4.30pm</strong>.</p>
 <p></p>
-<p>![](/images/fairfield%20open%20house_2023.jpg)</p>
-<p>### Open House Brochure</p>
-<p>![](/images/Prospective%20Students/2023/2023-open-house-ezgif.gif)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOTD_landscape.jpg" src="/images/Prospective Students/MOTD_landscape.jpg">
+</div>
+<p></p>
+<p></p>
+<h2>Open House Brochure</h2>
+<p><a href="/files/Prospective Students/Guide_to_Fairfield_Open_House__2024_E__Brochure.pdf" rel="noopener nofollow" target="_blank">Guide_to_Fairfield_Open_House__2024_E__Brochure.pdf</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
