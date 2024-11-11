@@ -29,7 +29,6 @@ variant: markdown
 | **Mdm  Nurul Afia Binte Mohammed Anuar** | Sec 1E Form Teacher | [nurul\_afia\_mohammed\_anuar@moe.edu.sg](mailto:nurul_afia_mohammed_anuar@moe.edu.sg) |
 | **Ms Tham Xue Ping Desiree** | Sec 2D Form Teacher | [desiree\_tham\_xue\_ping@moe.edu.sg](mailto:desiree_tham_xue_ping@moe.edu.sg) |
 | **Mr Heng Khim Liang Amos** | Teacher | [heng\_khim\_liang\_amos@moe.edu.sg](mailto:heng_khim_liang_amos@moe.edu.sg) |
-| **Mrs Tan Geok Kooi Katherine** | Teacher | [ong\_geok\_kooi\_katherine@moe.edu.sg](mailto:ong_geok_kooi_katherine@moe.edu.sg) |
 | **Mr Mohamad Sidek Bin Omar** | Technical Support Officer |  [mohammed\_sidek\_omar@moe.edu.sg](mailto:mohammed_sidek_omar@moe.edu.sg) |
 | **Mr Siew Yiu Wah @ Mohamad Faizal Bin Abdullah** | Technical Support Officer |  [siew\_yiu\_wah@moe.edu.sg](mailto:siew_yiu_wah@moe.edu.sg) |
 | **Ms Tay Veronica** | Kitchen Helper |  |
