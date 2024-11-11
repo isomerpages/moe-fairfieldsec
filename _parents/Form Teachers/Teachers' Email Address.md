@@ -77,7 +77,6 @@ third_nav_title: Form Teachers
 | Tan Sor Tin (Mdm) | [tan\_sor\_tin@moe.edu.sg](mailto:tan_sor_tin@moe.edu.sg) |
 | Tay Shu-Min Samantha (Mdm) | [tay\_shu-min\_samantha@moe.edu.sg](mailto:tay_shu-min_samantha@moe.edu.sg) |
 | Tan Xin Ru (Ms) | [tan\_xin\_ru@moe.edu.sg](mailto:tan_xin_ru@moe.edu.sg) |
-| Tan Geok Kooi Katherine (Mrs) | [ong\_geok\_kooi\_katherine@moe.edu.sg](mailto:ong_geok_kooi_katherine@moe.edu.sg) |
 | Tan Puok Yuee (Mr) | [tan\_puok\_yuee@moe.edu.sg](mailto:tan_puok_yuee@moe.edu.sg) |
 | Tan Siok Hoon (Ms) | [tan\_siok\_hoon@moe.edu.sg](mailto:tan_siok_hoon@moe.edu.sg) |
 | Tan Yi Qian (Ms) | [tan\_yi\_qian@moe.edu.sg](mailto:tan_yi_qian@moe.edu.sg) |
