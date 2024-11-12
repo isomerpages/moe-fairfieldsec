@@ -35,8 +35,9 @@ more information.</p>
 <p><a href="/files/Parents/Admin Matters/FMS_S__S3_Booklist_and_Stationery_List_2025.pdf" rel="noopener nofollow" target="_blank">FMS(S) S3 Booklist and Stationery List 2025</a>
 </p>
 <h4>Secondary 4</h4>
-<p><a href="/files/Parents/Admin Matters/FMS_S__S4_Booklist_and_Stationery_List_2025.pdf" rel="noopener nofollow" target="_blank">FMS(S) S4 Booklist and Stationery List 2025</a>
+<p><a href="/files/FMS_S__S4_Booklist_and_Stationery_List_2025__updated121124_.pdf" rel="noopener nofollow" target="_blank">FMS(S) S4 Booklist and Stationery List 2025 updated121124.pdf</a>
 </p>
+<p></p>
 <h4>Secondary 5</h4>
 <p><a href="/files/Parents/Admin Matters/FMS_S__S5_Booklist_and_Stationery_List_2025.pdf" rel="noopener nofollow" target="_blank">FMS(S) S5 Booklist and Stationery List 2025</a>
 </p>
