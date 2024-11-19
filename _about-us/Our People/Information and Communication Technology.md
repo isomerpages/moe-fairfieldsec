@@ -22,5 +22,4 @@ variant: markdown
 | **Mr Lee Yew Ming** | ICT Manager | [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg) |
 | **Mdm Ramachandran Sangeetha** | ICT Manager | [ramachandran\_sangeetha@moe.edu.sg](mailto:ramachandran_sangeetha@moe.edu.sg) |
 | **Mr Hadisyafiq Bin Mohd Salleh**  | AV Executive | [hadisyafiq_mohd_salleh@moe.edu.sg](mailto:hadisyafiq_mohd_salleh@moe.edu.sg) |
-| **Ms Chan Hoon Teng Joi**  | Desktop Engineer | [hoon.teng.chan@ncs.com.sg](mailto:hoon.teng.chan@ncs.com.sg) |
 | **Mr Dzariff Atiq Bin Mahzan**  | Desktop Engineer | [dzariff.mahzan@ncs.com.sg](mailto:dzariff.mahzan@ncs.com.sg) |
