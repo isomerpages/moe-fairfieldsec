@@ -26,5 +26,3 @@ variant: markdown
 | **Ms Lai Yi Ming** | ECG Counsellor | [lai\_yi\_ming@schools.gov.sg](mailto:lai_yi_ming@moe.edu.sg) |
 | **Ms Jacelyn Pang Yi Xin** | Senior Special Educational Needs Officer<br>Sec 1, 3 | [Pang\_Yi\_Xin@schools.gov.sg](mailto:Pang_Yi_Xin@schools.gov.sg)  |
 | **Ms Norefaliza Bte Amer** | Senior Special Educational Needs Officer<br>Sec 2, 4 &amp; 5 | [noreffaliza\_amer@schools.gov.sg](mailto:noreffaliza_amer@schools.gov.sg)  |
-| **Mdm Lim Si Xiu Esther** | Christian Ministry Staff | [Lim\_Si\_Xiu\_Esther@schools.gov.sg](mailto:Lim_Si_Xiu_Esther@schools.gov.sg) |
-| **Ms Tan Ai Cheng** | Christian Ministry Staff | [Tan\_Ai\_Cheng@schools.gov.sg](mailto:Tan_Ai_Cheng@schools.gov.sg) |
