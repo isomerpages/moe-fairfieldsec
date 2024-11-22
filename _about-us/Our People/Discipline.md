@@ -27,3 +27,5 @@ variant: markdown
 | **Ms Aminah Beevi D/O Rahim**  | Sec 3 Level Discipline Mistress<br>Sec 3B Form Teacher | [aminah\_beevi\_rahim@schools.gov.sg](mailto:aminah_beevi_rahim@schools.gov.sg) |
 | **Mr Choy Andrew**  |  Sec 4 Level Discipline Master<br>Sec 4C Form Teacher  | [choy\_andrew@moe.edu.sg](mailto:choy_andrew@moe.edu.sg)  |
 | **Mr Seah Saw Phing Sam** | Administrative Executive | [seah\_saw\_phing@moe.edu.sg](mailto:seah_saw_phing@moe.edu.sg) |
+| **Mdm Lim Si Xiu Esther** | Christian Ministry Staff | [Lim\_Si\_Xiu\_Esther@schools.gov.sg](mailto:Lim_Si_Xiu_Esther@schools.gov.sg) |
+| **Ms Tan Ai Cheng** | Christian Ministry Staff | [Tan\_Ai\_Cheng@schools.gov.sg](mailto:Tan_Ai_Cheng@schools.gov.sg) |

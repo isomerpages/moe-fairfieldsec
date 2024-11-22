@@ -40,4 +40,4 @@ variant: markdown
 | **Mr Lim Seow Yi Ethan** | Teacher | [lim\_seow\_yi\_ethan@moe.edu.sg](mailto:lim_seow_yi_ethan@moe.edu.sg) |
  | **Ms Thio Lay Hong** | Teacher |  [thio\_lay\_hong@moe.edu.sg](mailto:thio_lay_hong@moe.edu.sg) |
 | **Mdm Chin Siew Moy** | Technical Support Officer | [chin\_siew\_moy@moe.edu.sg](mailto:chin_siew_moy@moe.edu.sg)  |
-| **Ms Nur fadhilah Mohamad** | Technical Support Officer | [nur\_fadhilah\_mohamad@moe.edu.sg](mailto:nur_fadhilah_mohamad@moe.edu.sg)  |
+| **Ms Nur Fadhilah Mohamad** | Technical Support Officer | [nur\_fadhilah\_mohamad@moe.edu.sg](mailto:nur_fadhilah_mohamad@moe.edu.sg)  |
