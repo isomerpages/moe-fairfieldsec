@@ -23,7 +23,7 @@ variant: markdown
 | Name | Designation | Email |
 |---|---|---|
 | **Mr Alex Woo Chee Keong** | Senior Teacher<br>Sec 4H Form Teacher | [alex\_woo\_chee\_keong@moe.edu.sg](mailto:alex_woo_chee_keong@moe.edu.sg) |
-| **Mrs Elijah-Lily Cleopatra** | Senior Teacher<br>Sec 4G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
+| **Mrs Elijah-Lily Cleaopatra** | Senior Teacher<br>Sec 4G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
 | **Ms Lee Chiew Yi** | Sec 3D Form Teacher | [lee_chiew_yi@moe.edu.sg](mailto:lee_chiew_yi@moe.edu.sg) |
 | **Ms &nbsp;Lim Siew Ein Josephine** | Sec 2E Form Teacher | [lim\_siew\_ein\_@moe.edu.sg](mailto:Lim_Siew_Ein@moe.edu.sg) |
 | **Mdm  Nurul Afia Binte Mohammed Anuar** | Sec 1E Form Teacher | [nurul\_afia\_mohammed\_anuar@moe.edu.sg](mailto:nurul_afia_mohammed_anuar@moe.edu.sg) |
