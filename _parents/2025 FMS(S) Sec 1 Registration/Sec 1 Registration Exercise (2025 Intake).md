@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 FMS(S) Sec 1 Registration
 ---
-<h2><strong>Dear parents/guardians,</strong></h2>
+<h2>Dear parents/guardians,</h2>
 <p>A very warm welcome to Fairfield Methodist School (Secondary)! We look
 forward to partnering you as we embark on your child's/ward’s secondary
 education journey together.</p>
