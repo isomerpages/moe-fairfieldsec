@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 FMS(S) Sec 1 Registration
 ---
-<p><strong>Higher Mother Tongue Languages (HMTL)&nbsp;</strong>
-</p>
+<h2><strong>Higher Mother Tongue Languages (HMTL)&nbsp;</strong></h2>
 <p><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on 21 December 2024</strong>,
 if the student is eligible.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -60,8 +59,11 @@ to continue with their private study arrangements.</p>
 <details class="isomer-details">
 <summary>3rd Language</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Parents / Guardians will receive a Parent Gateway notification from the
+3rd Language Coordinator, Miss Siti Ainah, regarding registration at allocated
+centres. Information will be disseminated via Parent Gateway to parents.</p>
 </div>
 </details>
 </div>
+<h2></h2>
 <p></p>
