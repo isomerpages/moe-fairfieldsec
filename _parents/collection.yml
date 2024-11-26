@@ -2,10 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - 2025 FMS(S) Sec 1 Registration/Personal Learning Device.md
+      - 2025 FMS(S) Sec 1 Registration/.keep
       - 2025 FMS(S) Sec 1 Registration/Sec 1 Registration Exercise (2025
         Intake).md
-      - 2025 FMS(S) Sec 1 Registration/.keep
       - 2025 FMS(S) Sec 1 Registration/Subject Based Banding.md
       - 2025 FMS(S) Sec 1 Registration/Mother Tongue and Other Languages.md
       - 2025 FMS(S) Sec 1 Registration/Appeal for Transfer.md
@@ -18,6 +17,7 @@ collections:
         Girls.md
       - 2025 FMS(S) Sec 1 Registration/Access to School Car Park.md
       - 2025 FMS(S) Sec 1 Registration/Parents Gateway.md
+      - 2025 FMS(S) Sec 1 Registration/Personal Learning Device.md
       - Partners In Education/.keep
       - Partners In Education/Overview.md
       - Partners In Education/The Team.md
