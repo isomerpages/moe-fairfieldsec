@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 FMS(S) Sec 1 Registration
 ---
-<p></p>
 <h2>Subject Based Banding</h2>
 <p>Students who are eligible to take the subject (English Language / Mother
 Tongue / Mathematics / Science) at a more demanding level (at G2 / G3 level)
