@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 FMS(S) Sec 1 Registration
 ---
-<h2><strong>Higher Mother Tongue Languages (HMTL)&nbsp;</strong></h2>
+<h2>Higher Mother Tongue Languages (HMTL)&nbsp;</h2>
 <p><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on 21 December 2024</strong>,
 if the student is eligible.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
