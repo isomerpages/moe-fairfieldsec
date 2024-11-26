@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 FMS(S) Sec 1 Registration
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p>Sale of Secondary 1 2025 Textbooks, Stationery, School Attire</p>
-</li>
-</ul>
+<h2>Sale of Secondary 1 2025 Textbooks, Stationery, School Attire</h2>
 <p></p>
 <p><strong>MODES OF PURCHASE</strong>
 </p>
@@ -18,10 +14,14 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <summary><strong>OPTION 1:</strong>&nbsp;<strong>Purchase directly from the school</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Strictly <strong>no parking</strong> in
-the school.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Kindly park at the nearest
-public car park (Blk 2A Dover Road).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strictly <strong>no parking</strong> in the school.</p>
+</li>
+<li>
+<p>Kindly park at the nearest public car park (Blk 2A Dover Road).</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Venues and Date/Time for Sale</strong>
 </p>
