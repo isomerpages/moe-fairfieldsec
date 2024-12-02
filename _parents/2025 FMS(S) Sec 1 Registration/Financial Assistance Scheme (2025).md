@@ -6,34 +6,32 @@ description: ""
 third_nav_title: 2025 FMS(S) Sec 1 Registration
 ---
 <h2>Financial Assistance Scheme (FAS) 2025</h2>
-<p>From Sep 2022, eligible applicants will be able to apply for FAS via hardcopy
-or through eFAS <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>link.</u></a> Online
-submission is strongly encouraged.</p>
+<p>Eligible applicants will be able to apply for FAS via hardcopy or through
+<a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">eFAS</a>. Online submission is strongly encouraged.&nbsp;</p>
+<p></p>
 <p>We will require you to submit hardcopy application form for the following
-scenarios and you may <strong>download the application forms for</strong> 
-<a href="https://cms.isomer.gov.sg/files/Parents/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>FAS</u>
-</a>and submit the completed form(s) with the necessary supporting documents
-to Fairfield General Office, during office hours.</p>
-<ul data-tight="true" class="tight">
+scenarios and you may <strong>download the application forms for </strong><u>FAS </u><em>(insert ‘2025 MOE FAS Application Form.pdf’ from Google Drive)</em> and
+submit the completed form(s) with the necessary supporting documents to
+Fairfield General Office, during office hours.&nbsp;</p>
+<ul>
 <li>
 <p>Family with other dependents (Great grandparents, Aunties/Uncles, Cousins
-and Others)</p>
+and Others)&nbsp;</p>
 </li>
 <li>
-<p>Family with more than 5 children in govt school</p>
+<p>Family with more than 6 children in govt school&nbsp;</p>
 </li>
 <li>
-<p>Family with more than 4 unmarried children not in govt school</p>
+<p>Family with more than 5 unmarried children not in govt school&nbsp;</p>
 </li>
 <li>
-<p>Family with more than 3 grandparents in the household</p>
+<p>Family with more than 3 grandparents in the household&nbsp;</p>
 </li>
 </ul>
-<p>Students who are ComCare beneficiaries may be auto-granted FAS for 2025.
-There is no requirement for this group of students to apply for FAS.</p>
-<p>For more information, you can visit this <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>link.</u></a>
+<p>Students who are ComCare beneficiaries will be auto-granted FAS for 2025.
+There is no requirement for this group of students to apply for FAS.&nbsp;</p>
+<p>For more information, you can visit this <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">link</a><u>.</u>
 </p>
-<p>Please submit the completed form(s) via eFAS or directly to Fairfield
-General Office, with the necessary supporting documents by <strong>27 December 2024.</strong> Do
-note that incomplete submissions will result in a delay in your application.</p>
-<p></p>
+<p>&nbsp;Please submit the completed form(s) via eFAS or directly to Fairfield
+General Office, with the necessary supporting documents by <strong>27 December 2024</strong>.
+Do note that incomplete submissions will result in a delay in your application.&nbsp;</p>
