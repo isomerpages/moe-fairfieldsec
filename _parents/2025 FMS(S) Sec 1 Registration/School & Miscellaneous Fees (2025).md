@@ -13,30 +13,16 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p style="text-align: left;"><strong>Nationality</strong></p>
 </td>
 <td style="text-align: center; width: 106px;">
-<p><strong>School Fees</strong></p>
+<p><strong>Monthly School Fees</strong></p>
 </td>
 <td style="text-align: center; width: 120px;">
-<p><strong>New Single-Tier Miscellaneous&nbsp;</strong><strong>Fees</strong></p>
+<p><strong>Monthly Miscellaneous&nbsp;</strong><strong>Fees</strong></p>
 </td>
 <td style="text-align: center; width: 98.75px;">
-<p><strong>Autonomous Fees</strong></p>
+<p><strong>Monthly Autonomous Fees</strong></p>
 </td>
 <td style="text-align: center; width: 95.25px;">
 <p><strong>Total</strong></p>
-</td>
-</tr>
-<tr>
-<td style="width: 106px; text-align: center;">
-<p>$</p>
-</td>
-<td style="width: 120px; text-align: center;">
-<p>$</p>
-</td>
-<td style="width: 100px; text-align: center;">
-<p>$</p>
-</td>
-<td style="width: 95.25px; text-align: center;">
-<p>$</p>
 </td>
 </tr>
 <tr>
@@ -44,16 +30,16 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p>SC (Malay)</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>0</p>
+<p>$0</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>20</p>
+<p>$20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
-<p>3</p>
+<p>$3</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>23</p>
+<p>$23</p>
 </td>
 </tr>
 <tr>
@@ -61,16 +47,16 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p>SC (Others)</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>5</p>
+<p>$5</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>20</p>
+<p>$20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
-<p>3</p>
+<p>$3</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>28</p>
+<p>$28</p>
 </td>
 </tr>
 <tr>
@@ -78,16 +64,16 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p>PR</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>560</p>
+<p>$620</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>20</p>
+<p>$20</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
-<p>3</p>
+<p>$3</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>523</p>
+<p>$643</p>
 </td>
 </tr>
 <tr>
@@ -95,16 +81,16 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p>IS (ASEAN)</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>970</p>
+<p>$1030</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>20</p>
+<p>$21.80</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
-<p>3</p>
+<p>$3.27</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>933</p>
+<p>$1055.07</p>
 </td>
 </tr>
 <tr>
@@ -112,16 +98,16 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p>IS (Non-ASEAN)</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>1910</p>
+<p>$2050</p>
 </td>
 <td style="width: 120px; text-align: center;">
-<p>20</p>
+<p>$21.80</p>
 </td>
 <td style="width: 98.75px; text-align: center;">
-<p>3</p>
+<p>$3.27</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>1793</p>
+<p>$2075.07</p>
 </td>
 </tr>
 </tbody>
