@@ -112,3 +112,14 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 </tr>
 </tbody>
 </table>
+
+*   The fees are inclusive of GST.&nbsp;&nbsp;
+    
+
+*   The fees will be deducted around the 26th of every month except for the months of January and February. Deduction of January and February fees will be done together in February. There will still be deductions in November and December as the fees payable are calculated on an annual basis.&nbsp;
+    
+
+*   Please ensure sufficient funds in your GIRO account for successful deduction.&nbsp;
+    
+
+*   We encourage all Singaporean students to sign up to use their Edusave accounts to pay for the miscellaneous and autonomous fees.
