@@ -11,7 +11,7 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>OPTION 1:</strong>&nbsp;<strong>Purchase directly from the school</strong>
+<summary><strong>OPTION 1: Purchase directly from the school</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -36,7 +36,8 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p>Information</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>21, 22, 26, 27, 28, 29 December 2024</p>
+<p>Dates: <strong>19, 20, 23, 26, 27, 30 December 2024</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -72,8 +73,7 @@ size reference.</p>
 <br>
 <br>
 <br>Venue: Level 1 Classroom - C111
-<br>Time: 9am to 3pm
-<br>* 29 Dec 2023-9am to 12pm only</p>
+<br>Time: 9am to 3pm</p>
 </td>
 </tr>
 </tbody>
