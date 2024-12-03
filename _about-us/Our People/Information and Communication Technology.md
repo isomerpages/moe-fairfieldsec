@@ -14,7 +14,7 @@ variant: markdown
 
 | Name | Designation | Email |
 |---|---|---|
-| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
+| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
 
 
 | Name | Designation | Email |
