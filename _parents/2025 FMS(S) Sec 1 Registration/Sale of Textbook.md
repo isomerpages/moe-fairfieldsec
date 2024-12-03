@@ -48,7 +48,7 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue: Level 1 Classroom - C102, C103
+<p>Venue: Level 1 School Bookshop
 <br>Time: 9am to 3pm</p>
 </td>
 </tr>
@@ -63,7 +63,7 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <br>
 <br>Please note that there will be no trying on of attire.
 <br>
-<br>Refer to <a href="https://shop.shanghai-uniforms.com/product-category/fairfield-methodist-school-secondary/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
+<br>Refer to this <a href="https://shop.shanghai-uniforms.com/product-category/fairfield-methodist-school-secondary/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
 size reference.</p>
 </td>
 <td rowspan="1" colspan="1">
