@@ -15,7 +15,7 @@ variant: markdown
 | Name | Designation | Email |
 |---|---|---|
 | **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
-| **Mr Loke Liang En Joel** | SH Social Studies (covering) | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
+| **Mr Loke Liang En Joel** | SH Social Studies | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
 | **Mr Ezal Bin Sani** | Lead Teacher<br>Sec 4G Form Teacher |  [ezal\_sani@moe.edu.sg](mailto:ezal_sani@moe.edu.sg) |
 
 #### Our Teachers
