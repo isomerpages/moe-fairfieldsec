@@ -15,7 +15,7 @@ variant: markdown
 | Name | Designation | Email |
 | --- | --- | --- |
 | **Mrs Kwok Jiapei** | HOD English Language &amp; Literature | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
-| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
+| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
 | **Mr Guo Enliang Joseph** | LH English Language | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
 | **Ms Tan Sor Tin**  | SH Literature | [tan\_sor\_tin@moe.edu.sg](mailto:tan_sor_tin@moe.edu.sg) |
  
@@ -37,4 +37,3 @@ variant: markdown
 |  **Mr  Lim Ming Hee Nicholas** | Teacher  |  [lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |
 |  **Mr  Low Gek Meng Wendy** | Teacher  |  [low\_gek\_meng\_wendy@moe.edu.sg](mailto:low_gek_meng_wendy@moe.edu.sg) |
 |  **Ms Yang Huiqin Lynette** | Teacher  |  [yang\_huiqin\_lynette@moe.edu.sg](mailto:yang_huiqin_lynette@moe.edu.sg) |
-

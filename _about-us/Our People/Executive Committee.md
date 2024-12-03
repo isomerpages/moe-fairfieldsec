@@ -29,7 +29,7 @@ variant: markdown
 | **Mr Tan Li Ming Glen** | HOD Special Educational Needs | [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
 | **Mr Chia Wey Ling Vincent** | HOD Discipline | [vincent\_chia\_wey\_ling@moe.edu.sg](mailto:vincent_chia_wey_ling@moe.edu.sg) |
 | **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
-| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology (covering) | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
+| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology  | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
 | **Ms Koh Wei Shan Clarissa** | Year Head ( Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
 | **Mr Loh Youn Leong Eric** | Year Head ( Lower Sec ) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
 | **Mr Yap Hock Heng** | Assistant Year Head (Upper Sec) | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
@@ -42,8 +42,8 @@ variant: markdown
 | **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
 | **Mr Tan Aik Hwee Alester** | SH Co-Curricular Activities | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
 | **Ms Shamsiah Bte Zainalabidin** | SH Character &amp; Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
-| **Mr Loke Liang En Joel** | SH Social Studies (covering) | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
-| **Mr Dannish Kurniago** | SH Student Leadership (covering) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) | 
+| **Mr Loke Liang En Joel** | SH Social Studies  | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
+| **Mr Dannish Kurniago** | SH Student Leadership | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) | 
 | **Ms Ong Huey Ying** | Administration Manager | [ong\_huey\_ying@schools.gov.sg](mailto:ong_huey_ying@schools.gov.sg) |
 | **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
 |
