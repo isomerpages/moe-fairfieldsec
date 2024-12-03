@@ -18,14 +18,13 @@ appeal through this <a href="https://go.gov.sg/sec1appealfortransfer" rel="noope
 The transfer request form will be available from <strong>Thursday, 19&nbsp; December 2024, 12pm(TBC)</strong> You
 will receive an email confirmation upon completing the form. All appeal
 forms must reach the school <strong>by 5pm</strong> on <strong>Tuesday, 24 December 2024(TBC)</strong>&nbsp;
+<br>
 <br>Consideration for any transfer is based on the following:&nbsp;</p>
 <ul>
 <li>
 <p>Student’s PSLE aggregate score must meet the school’s cut-off point of
 the posting year.&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>The school has available vacancies.&nbsp;</p>
 </li>
