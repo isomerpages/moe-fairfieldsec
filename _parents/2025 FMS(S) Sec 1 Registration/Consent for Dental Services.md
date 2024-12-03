@@ -9,14 +9,4 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <p>To promote good oral health for your child / ward, the Health Promotion
 Board (HPB) continues to provide free dental checks and basic treatments
 (if required) at specific times during school hours. The dental service
-for our students is provided at Fairfield Methodist School (Primary).</p>
-<p>To give consent:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Log on to&nbsp;<a href="https://childconsent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://childconsent.hpb.gov.sg</u></a>
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Login using your SingPass with
-2-factor authentication (2FA).</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Type in your child’s/ward’s UIN/BC/FIN
-number.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Fill up and submit the consent
-form.</p>
-<p></p>
+for our students is provided at Fairfield Methodist School (Primary).&nbsp;&nbsp;</p>
