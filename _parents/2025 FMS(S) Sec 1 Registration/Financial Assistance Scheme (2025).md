@@ -8,7 +8,6 @@ third_nav_title: 2025 FMS(S) Sec 1 Registration
 <h2>Financial Assistance Scheme (FAS) 2025</h2>
 <p>Eligible applicants will be able to apply for FAS via hardcopy or through
 <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">eFAS</a>. Online submission is strongly encouraged.&nbsp;</p>
-<p></p>
 <p>We will require you to submit hardcopy application form for the following
 scenarios and you may <strong>download the application forms for </strong><u>FAS </u><em>(insert ‘2025 MOE FAS Application Form.pdf’ from Google Drive)</em> and
 submit the completed form(s) with the necessary supporting documents to
