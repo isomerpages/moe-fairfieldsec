@@ -25,11 +25,11 @@ The PLD bundle which includes warranty and insurance for purchase for Secondary 
 
   
 
-iPad 9th Gen&nbsp; 64 GB 10.2-inch with Apple Pencil and casing with attached keyboard, includes 3-year warranty and insurance
+iPad 10th Gen&nbsp; 64 GB 10.2-inch with Apple Pencil (USB-C) and casing with attached keyboard, includes 3-year warranty and insurance
 
   
 
-The price of the device bundle (inclusive of GST) is:&nbsp;**S$865.40**
+The price of the device bundle (inclusive of GST) is:&nbsp;**S$880.70**
 
 Details of PLD bundle for Secondary 1 students in 2025 will be made available by mid-December 2024.  
 
@@ -59,7 +59,7 @@ The school will progressively roll out IT applications that will be vital for te
 
 (a) **Student iCON**: Every student will be provided with access to the Google Suite set of tools, including email address. <br>
 (b) **Microsoft ProPlus**: Every student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.&nbsp;<br>
-(c) **Zoom**: Every student will be given a free Zoom account with 40-min time limit for their video conferencing needs.&nbsp;&nbsp;(In 2025, MS Teams accounts will be provided to students instead.)
+(c) **MS Teams**: Every student will be given a free MS Teams account for their video conferencing needs.&nbsp;&nbsp;
 
 The school will need to use students’ full name, Student iCON ID and class to set up user accounts. The school may also choose to roll out applications other than those listed above.&nbsp;
 
@@ -67,7 +67,7 @@ The school will need to use students’ full name, Student iCON ID and class to 
 
 #### Device Management Application
 
-A Device Management Application (**“DMA”**) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
+A Device Management Application (**“DMA”**) will be installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
 
 (a) Classroom Management Service: This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning. <br>
 b) Mobile Device Management Service: This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.<br>
