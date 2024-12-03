@@ -26,27 +26,19 @@ doses. The first and second doses will be given in Secondary 1 and the
 third dose will be given in the following year.&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;To give consent:&nbsp;</p>
-<ol>
+<p>To give consent:&nbsp;</p>
+<ol data-tight="true" class="tight">
 <li>
-<p>Log on to <a href="https://about:blank/" rel="noopener noreferrer nofollow" target="_blank"><u>https://childconsent.hpb.gov.sg</u></a>&nbsp;&nbsp;</p>
+<p>Log on to <a href="https://childconsent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg</a>&nbsp;&nbsp;</p>
 </li>
-</ol>
-<ol start="2">
 <li>
 <p>Login using your SingPass with 2-factor authentication (2FA).&nbsp;</p>
 </li>
-</ol>
-<ol start="3">
 <li>
 <p>Type in your child’s/ward’s UIN/BC/FIN number.&nbsp;</p>
 </li>
-</ol>
-<ol start="4">
 <li>
-<p>Fill up and submit the consent form.&nbsp;&nbsp;The Health Promotion Board
-will be offering school-based human papillomavirus (HPV) vaccination to <strong>all female students</strong> in
-secondary schools, under the national school-based HPV vaccination programme.</p>
+<p>Fill up and submit the consent form.&nbsp;&nbsp;</p>
 </li>
 </ol>
 <p></p>
