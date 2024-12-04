@@ -34,8 +34,8 @@ PE lessons.&nbsp;</p>
 <p>On Fridays, which are Dress Down Days, students can be in half-uniform
 with any school-related T-shirt.&nbsp;&nbsp;</p>
 <p>All tops, except for the blouse, must be tucked in at all times whether
-in full uniform, half-uniform or PE attire.&nbsp;
-<br>*Note that the school badge will be presented to the Secondary 1 students
+in full uniform, half-uniform or PE attire.&nbsp;</p>
+<p>*Note that the school badge will be presented to the Secondary 1 students
 during the Installation Ceremony on Friday <strong>10 January 2025</strong>,
 and students will receive their name tags by the middle of Term 1 if they
 make payment when they purchase their books/stationery from the school
@@ -49,4 +49,6 @@ in the locker during curriculum time, including recess.&nbsp;</p>
 <br>The school will be organising a camp for Secondary 1 students as part
 of the school’s FLEX programme. It will be held at an external campsite.
 Parents / Guardians will receive more information with regards to the camp
-via Parents Gateway (PG) at a later date.&nbsp;</p>
+via Parents Gateway (PG) at a later date.
+<br>
+</p>
