@@ -44,7 +44,7 @@ third_nav_title: 2025 Sec 1 Registration
 <td rowspan="1" colspan="1">
 <p><strong>Textbooks and Stationery</strong>
 <br>Vendor: Asencio Pte Ltd
-<br><a href="https://cms.isomer.gov.sg/files/Parents/2024_Secondary_1_Book_List_and_Stationery_List_Final_v2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2024_Secondary_1_Book_List_and_Stationery_List.pdf</u></a>
+<br><a href="/files/Parents/2025_secondary_1_book_list_and_stationery_list_final.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 Book List and Stationery List Final</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
