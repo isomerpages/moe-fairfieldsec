@@ -10,7 +10,7 @@ third_nav_title: 2025 Sec 1 Registration
 <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">eFAS</a>. Online submission is strongly encouraged.&nbsp;</p>
 <p>We will require you to submit hardcopy application form for the following
 scenarios and you may <strong>download the application forms for </strong>
-<a href="/files/Parents/2025_moe_fas_application_form.pdf" rel="noopener nofollow" target="_blank">FAS</a>and submit the completed form(s) with the necessary supporting
+<a href="/files/Parents/2024_MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">FAS</a>and submit the completed form(s) with the necessary supporting
 documents to Fairfield General Office, during office hours.&nbsp;</p>
 <ul>
 <li>
