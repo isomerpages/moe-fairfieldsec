@@ -24,8 +24,8 @@ variant: markdown
 |---|---|---|
 |  **Mr Ng Hun Boon Francis** | HOD Physical Education &amp; Co-  Curricular Activities |  [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
 | **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
-| **Mr Dannish Kurniago** | SH Student Leadership (covering) | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) | 
-| **Mr Loke Liang En Joel** | SH Social Studies (covering) | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
+| **Mr Dannish Kurniago** | SH Student Leadership  | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) | 
+| **Mr Loke Liang En Joel** | SH Social Studies  | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
 |  **Mrs Elijah-Lily Cleaopatra** | Sec 4G Form Teacher | [lily\_cleaopatra\_anthony\_pm@moe.edu.sg](mailto:lily_cleaopatra_anthony_pm@moe.edu.sg) |
 |  **Mr Jon Poh Jing Ping** | Sec 3C Form Teacher | [jon\_poh\_jing\_ping@moe.edu.sg](mailto:jon_poh_jing_ping@moe.edu.sg) |
 |  **Mr Lum Tuck Choi Jason** | Lead Teacher |  [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
