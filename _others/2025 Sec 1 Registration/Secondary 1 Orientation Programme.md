@@ -43,8 +43,8 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <p>3.00pm*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full School Uniform with tie.&nbsp;&nbsp;</p>
-<p>Bring along PE T-Shirt&nbsp;</p>
+<p>Full School Uniform with tie.&nbsp;&nbsp;
+<br>Bring along PE T-Shirt&nbsp;</p>
 </td>
 </tr>
 <tr>
