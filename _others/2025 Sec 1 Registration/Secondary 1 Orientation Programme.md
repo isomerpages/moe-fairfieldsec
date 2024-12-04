@@ -99,3 +99,32 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <br><em>OG C &amp; D - 3 Jan (3.45pm - 4.45pm)</em>&nbsp;
 <br><em>OG E &amp; F - 6 Jan (3.45pm - 4.45pm)</em>&nbsp;
 <br><em>OG G &amp; H’s session will take place at a later date.&nbsp;</em>&nbsp;</p>
+<p><strong>Things to bring from 2 – 6 January 2025:</strong>&nbsp;</p>
+<ul>
+<li>
+<p>A lock for their lockers (for students to keep their personal belongings
+during the Orientation programme)&nbsp;</p>
+</li>
+<li>
+<p>Extra mask (if required)&nbsp;</p>
+</li>
+<li>
+<p>A ziplock bag to store the mask during strenuous activities (if required)&nbsp;</p>
+</li>
+<li>
+<p>Writing materials&nbsp;</p>
+</li>
+<li>
+<p>Thermometer&nbsp;</p>
+</li>
+<li>
+<p>Water bottle&nbsp;</p>
+</li>
+<li>
+<p>Money for lunch&nbsp;</p>
+</li>
+<li>
+<p>Backpack to store the above&nbsp;</p>
+</li>
+</ul>
+<p></p>
