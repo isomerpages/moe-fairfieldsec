@@ -72,9 +72,9 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <p>3.45pm*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Orientation T-Shirt with PE bottoms.&nbsp;&nbsp;</p>
-<p>Bring along PE T-Shirt&nbsp;</p>
-<p><em>(Orientation T-Shirt will be provided on Day 1 or 2)</em>&nbsp;</p>
+<p>Orientation T-Shirt with PE bottoms.&nbsp;&nbsp;
+<br>Bring along PE T-Shirt&nbsp;
+<br><em>(Orientation T-Shirt will be provided on Day 1 or 2)</em>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +88,8 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <p>8.00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Uniform&nbsp;&nbsp;</p>
-<p><em>(Lessons as per usual. Orientation programme carries on after lessons)</em>&nbsp;</p>
+<p>School Uniform&nbsp;&nbsp;
+<br><em>(Lessons as per usual. Orientation programme carries on after lessons)</em>&nbsp;</p>
 </td>
 </tr>
 </tbody>
