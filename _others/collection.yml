@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - 2025 Sec 1 Registration/Start of School 2025.md
       - 2025 Sec 1 Registration/.keep
       - 2025 Sec 1 Registration/Sec 1 Registration Exercise (2025 Intake).md
       - 2025 Sec 1 Registration/Subject Based Banding.md
@@ -16,6 +15,7 @@ collections:
       - 2025 Sec 1 Registration/Consent for HPV Vaccination for Sec 1 Girls.md
       - 2025 Sec 1 Registration/Access to School Car Park.md
       - 2025 Sec 1 Registration/Parents Gateway.md
+      - 2025 Sec 1 Registration/Start of School 2025.md
       - 2025 Sec 1 Registration/Personal Learning Device.md
       - School Canteen Advertisement.md
       - Student Device Briefing.md
