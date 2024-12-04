@@ -127,4 +127,16 @@ during the Orientation programme)&nbsp;</p>
 <p>Backpack to store the above&nbsp;</p>
 </li>
 </ul>
+<p>Please also note that the school will be providing the Secondary 1 students
+with an<strong> Orientation T-shirt </strong>specially designed for their
+cohort. The measurements of the T-shirt are as follows. Please indicate
+your child’s size in the e-Registration Form.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/2024/2025_Sec_1_Orientation_Tee.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/2025_Sec_1_Orientation_Tee_Size_Chart.png">
+</div>
 <p></p>
