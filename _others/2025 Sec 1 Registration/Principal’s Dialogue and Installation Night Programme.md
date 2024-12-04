@@ -58,9 +58,9 @@ follows:&nbsp;</p>
 <p>1905 - 1940&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Installation Night Programme&nbsp;</p>
-<p>Prize Presentation&nbsp;</p>
-<p>Badge Presentation&nbsp;</p>
+<p>Installation Night Programme&nbsp;
+<br>Prize Presentation&nbsp;
+<br>Badge Presentation&nbsp;</p>
 </td>
 </tr>
 <tr>
