@@ -45,7 +45,6 @@ week of January 2025. More information will be provided at a later date.&nbsp;</
 <p>Students taking Non-MTL / NTIL / MTL in-lieu will attend lessons at a
 designated centre outside of curriculum time. Students will need to register
 for their own private study or respective language centre.&nbsp;</p>
-<p>&nbsp;</p>
 <p>For MTL in-lieu, applications to study in MOELC (Bishan / Newton) will
 need to be submitted via FMS(S) during the first week of January 2025.
 Students will be informed through the school to sit for a readiness test.
