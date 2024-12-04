@@ -37,12 +37,12 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1800 - 1900&nbsp;</p>
-<p>1850 - 1900&nbsp;</p>
+<p>1800 - 1900&nbsp;
+<br>1850 - 1900&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal’s Dialogue (Parents)&nbsp;</p>
-<p>Movement of Students to Hall&nbsp;</p>
+<p>Principal’s Dialogue (Parents)&nbsp;
+<br>Movement of Students to Hall&nbsp;</p>
 </td>
 </tr>
 <tr>
