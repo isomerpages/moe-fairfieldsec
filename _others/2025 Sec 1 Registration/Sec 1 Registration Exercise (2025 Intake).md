@@ -16,9 +16,6 @@ this <a href="https://go.gov.sg/2025sec1" rel="noopener nofollow" target="_blank
 online registration will close at<strong> 5pm the same day</strong>. You
 will receive an email confirmation upon completing the form.&nbsp;</p>
 <p></p>
-<p><strong>Please DO NOT purchase any computing devices yet. The school will provide you with more information on the Personalised Digital Learning Programme (PDLP) sometime in January 2025.</strong>
-<br>Should you have any further queries, you may contact the school at <a href="https://for.edu.sg/fmsssec1registration" rel="noopener noreferrer nofollow" target="_blank"><u>admin@fmss.moe.edu.sg</u></a> or
-call our General Office at 67788 702.</p>
 <p>Thank you.
 <br>We encourage you to take some time to explore this microsite for additional
 information.</p>
