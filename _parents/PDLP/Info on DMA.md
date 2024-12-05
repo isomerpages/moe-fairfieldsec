@@ -94,6 +94,121 @@ glued to their screens and become addicted to the various online games
 and videos.</p>
 <p><em>*Please note that the Apps purchased (using your personal Apple ID) under options A and B will be hidden and inaccessible during school hours (6.00a.m. - 6.00p.m.)</em>
 </p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Device Groups</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Hours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>After School Hours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sleep Hours</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Default&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Default Set 6:30am to 2pm</p>
+<p>&nbsp;</p>
+<p>Follow MOE setting in JAMF School</p>
+<p>Web Content Control: Yes</p>
+<p>Student Install Application: No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Default Set 2pm to 11pm</p>
+<p>&nbsp;</p>
+<p>Web Content Control: Yes</p>
+<p>Student Install Application: No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sleep Hour set at 11pm
+<br>
+<br>
+<br>
+</p>
+<p>
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Option A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Default Set 6:30am to 2pm</p>
+<p>&nbsp;</p>
+<p>Follow MOE setting in JAMF School</p>
+<p>Web Content Control: Yes</p>
+<p>Student Install Application: No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Default Set 2pm to 11pm
+<br>
+<br>
+<br>
+</p>
+<p>&nbsp;</p>
+<p>Web Content Control: Yes</p>
+<p>Parent App Control: Yes</p>
+<p>Student Install Application: Yes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sleep Hour set at 11pm
+<br>
+<br>
+<br>
+</p>
+<p>
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Option B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Default Set 6:30am to 2pm</p>
+<p>Follow MOE setting in JAMF School</p>
+<p>Web Content Control: Yes</p>
+<p>Student Install Application: No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Default set from 2pm to 6:30am</p>
+<p>&nbsp;</p>
+<p>Web Content Control: No</p>
+<p>Student Install Application: Yes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Applicable</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h5>USEFUL TIP</h5>
 <p>Parents/Guardians may wish to consider the following questions before
 deciding on which After-School DMA Option is best for their child/ward.&nbsp;</p>
