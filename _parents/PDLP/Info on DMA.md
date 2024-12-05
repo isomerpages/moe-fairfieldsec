@@ -131,20 +131,12 @@ child/ward might face?</p>
 <p>Please download the guides according to the options you have selected
 below:</p>
 <p>1)&nbsp;<strong>Default Option</strong>&nbsp;--<a href="/files/Parents/PDLP/IE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Default Option</a>
-<a href="/files/Parents/PDLP/2023/dma%20parent%20guide%20-%20default%20option.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p>2)&nbsp;<strong>Option A</strong>&nbsp;--<a href="/files/Parents/PDLP/IE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option A</a>
 </p>
 <p>3)&nbsp;<strong>Option B</strong>&nbsp;--<a href="/files/Parents/PDLP/IE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
 <p></p>
-<h4>DMA Video Guides</h4>
-<p><a href="https://drive.google.com/file/d/1ZxiwMC5a53oig3xCRtdQAAr8nSI3f1C6/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Overriding School Sleep Hours.mp4</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1QnVJd0GYDre-EbFjPKts-8VhZYdKrO76/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parent Account Password Reset.mp4</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1o4z1rnfYM4-GRV4xHqTSiVnOLoRrR1OI/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Setting Rules to Restrict Usage.mp4</a>
-</p>
 <h3>DMA Hours</h3>
 <div class="isomer-image-wrapper">
 <img style="width:45%" height="auto" width="100%" src="/images/dma2.png">
