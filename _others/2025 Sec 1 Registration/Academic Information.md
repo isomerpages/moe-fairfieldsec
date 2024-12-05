@@ -6,14 +6,13 @@ description: ""
 third_nav_title: 2025 Sec 1 Registration
 ---
 <h2>Academic Information</h2>
-<p><strong><u>Subject Based Banding</u></strong>
-<br>Students who are eligible to take the subject (English Language / Mother
+<h4><strong>Subject Based Banding</strong></h4>
+<p>Students who are eligible to take the subject (English Language / Mother
 Tongue / Mathematics / Science) at a more demanding level (at G2 / G3 level)
-will receive a Parents Gateway notification on <strong>19 December 2024(TBC)</strong>.
-The parent will need to indicate via the notification the student’s interest
+will receive a Parents Gateway notification on 19 December 2024(TBC). The
+parent will need to indicate via the notification the student’s interest
 in taking on subjects at a more demanding level.&nbsp;</p>
-<p><strong><u>Mother Tongue Language &amp; Other Languages</u></strong>
-</p>
+<h4><strong>Mother Tongue Language &amp; Other Languages</strong></h4>
 <p><strong>Higher Mother Tongue Languages (HMTL)&nbsp;</strong>
 <br><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on 19 December 2024(TBC)</strong>, if
 the student is eligible.&nbsp;</p>
