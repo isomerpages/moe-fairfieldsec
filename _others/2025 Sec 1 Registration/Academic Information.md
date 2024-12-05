@@ -5,14 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Sec 1 Registration
 ---
-<h3>Subject Based Banding</h3>
-<p>Students who are eligible to take the subject (English Language / Mother
+<h2>Academic Information</h2>
+<p><strong><u>Subject Based Banding</u></strong>
+<br>Students who are eligible to take the subject (English Language / Mother
 Tongue / Mathematics / Science) at a more demanding level (at G2 / G3 level)
 will receive a Parents Gateway notification on <strong>19 December 2024(TBC)</strong>.
 The parent will need to indicate via the notification the student’s interest
 in taking on subjects at a more demanding level.&nbsp;</p>
-<h3>Higher Mother Tongue Languages (HMTL)&nbsp;</h3>
-<p><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on 19 December 2024(TBC)</strong>, if
+<p><strong><u>Higher Mother Tongue Languages (HMTL)&nbsp;</u></strong>
+<br><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on 19 December 2024(TBC)</strong>, if
 the student is eligible.&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -36,19 +37,13 @@ submit their HML or HTL Option Form to the General Office when they report
 to Fairfield Methodist School (Secondary).&nbsp;&nbsp;</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Tamil Language (TL) / Basic Tamil Language (BTL)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Students taking<strong> TL and BTL</strong> will attend lessons at <strong>Queenstown Secondary School</strong>,
+</div>
+<p><strong><u>Tamil Language (TL) / Basic Tamil Language (BTL)</u></strong>
+<br>Students taking<strong> TL and BTL</strong> will attend lessons at <strong>Queenstown Secondary School</strong>,
 outside of curriculum time. Registration will be open during the first
 week of January 2025. More information will be provided at a later date.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Non-Mother Tongue Language (Non-MTL) / Non-Tamil Indian Language (NTIL)
-/ Mother Tongue Language in-lieu (MTL in-lieu)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Students taking Non-MTL / NTIL / MTL in-lieu will attend lessons at a
+<p><strong><u>Non-Mother Tongue Language (Non-MTL) / Non-Tamil Indian Language (NTIL) / Mother Tongue Language in-lieu (MTL in-lieu)</u></strong>
+<br>Students taking Non-MTL / NTIL / MTL in-lieu will attend lessons at a
 designated centre outside of curriculum time. Students will need to register
 for their own private study or respective language centre.&nbsp;</p>
 <p>For MTL in-lieu, applications to study in MOELC (Bishan / Newton) will
@@ -57,16 +52,7 @@ Students will be informed through the school to sit for a readiness test.
 Admission to MOELC is subject to students passing the test. Students who
 have not been notified to sit for the readiness test or did not pass the
 test are required to continue with their private study arrangements.&nbsp;</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>3rd Language</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Parents / Guardians will receive a Parent Gateway notification from the
+<p><strong><u>3rd Language</u></strong>
+<br>Parents / Guardians will receive a Parent Gateway notification from the
 3rd Language Coordinator, Miss Siti Ainah, regarding registration at allocated
 centres. Information will be disseminated via Parent Gateway to parents.&nbsp;</p>
-</div>
-</details>
-</div>
-<h2></h2>
-<p></p>
