@@ -28,13 +28,19 @@ information.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/2025sec1"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Step_1_Registration.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/2025sec1"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Step_1_Registration.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Step_2_Uniform___Books.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Step_3_Important_Information.png">
+</div>
 </th>
 </tr>
 <tr>
@@ -43,21 +49,12 @@ information.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Step 2: Purchase Texbooks, Stationery and School Attire</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Step 3: Browse Important Information below</strong>
+</p>
 </td>
 </tr>
 </tbody>
