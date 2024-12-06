@@ -19,5 +19,47 @@ will receive an email confirmation upon completing the form.&nbsp;</p>
 <p>Thank you.
 <br>We encourage you to take some time to explore this microsite for additional
 information.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/2025sec1"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Step_1_Registration.png"></a>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Step 1: Fill in Registration Form</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
