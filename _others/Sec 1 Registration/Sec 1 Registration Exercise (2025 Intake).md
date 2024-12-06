@@ -138,11 +138,9 @@ information.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/parents-gateway"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Parent_Support_Group.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/personal-learning-device"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Personal_Learning_Device.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -161,5 +159,6 @@ information.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
