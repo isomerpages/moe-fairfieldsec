@@ -71,7 +71,7 @@ information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First day Instructions</p>
+<p>First Day Instructions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secondary 1 Orientation Programme</p>
