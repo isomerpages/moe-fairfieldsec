@@ -7,13 +7,11 @@ variant: tiptap
 ---
 <h3>Quick guide on which DMA option to choose</h3>
 <p>Details for the new MOE DMA which will take effect in 2025 will be made
-available by mid-December 2024.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/choose_dma_option_2024.png">
-</div>
+available by mid-January 2025.</p>
 <p>The after-school hours are as follows:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -29,6 +27,9 @@ available by mid-December 2024.</p>
 <th rowspan="1" colspan="1">
 <p>After-school hours</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Sleep Hours</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -38,29 +39,21 @@ available by mid-December 2024.</p>
 <p>Default settings between 6 a.m. to 6 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents’/Guardians’ after-school option between 6 p.m. to 6 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School events (e.g. Cross Country Runs, Speech Day)</p>
+<p>Parents’/Guardians’ after-school option between 6 p.m. to 10 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Default settings between 6 a.m. to 1 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents’/Guardians’ after-school option between 1 p.m. to 6 a.m.</p>
+<p>iPad is locked from 10 p.m. to 6 a.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Weekends, School and Public Holidays</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Parents’ / Guardians’ After-School DMA Option for the whole day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>iPad is locked from 10 p.m. to 6 a.m.</p>
 </td>
 </tr>
 </tbody>
@@ -68,16 +61,13 @@ available by mid-December 2024.</p>
 <h4>Summary of DMA Settings after School Hours&nbsp;</h4>
 <p><em>During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Parents/DMA_Options_2024.JPG">
-</div>
 <h4>What the different options mean</h4>
 <h5>Default</h5>
 <p>Default setting treats the iPad as a device which is used for learning
 only. The restrictions set in place are derived from the perspective of
 how a teacher would want the device to behave in order for the student
-to learn in the most desirable environment.&nbsp;The assumption is that
-the student will be inclined to use the iPad more as an entertainment device
+to learn in the most desirable environment. The assumption is that the
+student will be inclined to use the iPad more as an entertainment device
 rather than as a learning device if there are no clear boundaries and control.</p>
 <h5>Option A</h5>
 <p>Option A provides a hybrid model of allowing parental control after school
@@ -92,7 +82,10 @@ such a child should be rule-abiding, disciplined and mature enough to control
 his/her actions. Without boundaries and control, students may find themselves
 glued to their screens and become addicted to the various online games
 and videos.</p>
-<p><em>*Please note that the Apps purchased (using your personal Apple ID) under options A and B will be hidden and inaccessible during school hours (6.00a.m. - 6.00p.m.)</em>
+<p>*Please note that the Apps purchased (using your personal Apple ID) under
+options A and B will be hidden and inaccessible during school hours (6.00a.m.
+- 6.00p.m.)
+<br>
 </p>
 <h5>USEFUL TIP</h5>
 <p>Parents/Guardians may wish to consider the following questions before
@@ -137,31 +130,7 @@ below:</p>
 <p>3)&nbsp;<strong>Option B</strong>&nbsp;--<a href="/files/Parents/PDLP/IE10_Parent_User_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
 <p></p>
-<h3>DMA Hours</h3>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/dma2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/dma3.png">
-</div>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
 <h4>Request for change to DMA option&nbsp;</h4>
 <p>Please email Mr Lee Yew Ming&nbsp; (&nbsp;<a href="mailto:lee_yew_ming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_ming_a@moe.edu.sg</a>&nbsp;&nbsp;)&nbsp;for
 any changes.</p>

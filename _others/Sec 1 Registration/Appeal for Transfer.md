@@ -3,7 +3,7 @@ title: Appeal for Transfer
 permalink: /appeal-for-transfer/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: Sec 1 Registration
 ---
 <h2>Appeal for Transfer after Sec 1 Posting</h2>
 <p>Students who wish to appeal for transfer must still register at the posted

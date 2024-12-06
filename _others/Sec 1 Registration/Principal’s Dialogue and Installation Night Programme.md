@@ -3,7 +3,7 @@ title: Principal’s Dialogue and Installation Night Programme
 permalink: /principal-s-dialogue-and-installation-night-programme/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: Sec 1 Registration
 ---
 <h2><strong>Principal’s Dialogue and Installation Night Programme</strong>&nbsp;</h2>
 <p>As part of our Orientation Programme, parents are invited to attend the

@@ -1,9 +1,9 @@
 ---
-title: Sale of Textbook
+title: Sale of Textbooks, Stationery and School Attire
 permalink: /sale-of-textbook/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: Sec 1 Registration
 ---
 <h2>Sale of Secondary 1 2025 Textbooks, Stationery, School Attire</h2>
 <p></p>

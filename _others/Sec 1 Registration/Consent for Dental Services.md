@@ -3,7 +3,7 @@ title: Consent for Dental Services
 permalink: /consent-for-dental-services/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: Sec 1 Registration
 ---
 <h2>Online Consent for Dental Services (Secondary School Dental Programme)</h2>
 <p>To promote good oral health for your child / ward, the Health Promotion

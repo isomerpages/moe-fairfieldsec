@@ -3,7 +3,7 @@ title: Secondary 1 Orientation Programme
 permalink: /secondary-1-orientation-programme/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: Sec 1 Registration
 ---
 <h2><strong>Secondary 1 Orientation Programme</strong>&nbsp;</h2>
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation programme

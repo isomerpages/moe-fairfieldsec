@@ -6,13 +6,12 @@ third_nav_title: PDLP
 variant: markdown
 ---
 ### Frequently Asked Questions
-Details regarding the PLD purchase for Secondary 1 students in 2025 will be updated by mid-December 2024.
 
 **Q1. What is the device that FMS(S) students will be purchasing and what is included in the package?**
 
   
 
-iPad 9th Gen 10.2” 64 GB with Apple pencil and casing with attached keyboard. The device will also come with an enhanced device bundle of 3-year insurance and a 3-year warranty.
+iPad 10th Gen 10.9” 64 GB with Apple pencil (USB-C) and casing with attached keyboard. The device will also come with an enhanced device bundle of 3-year insurance and a 3-year warranty.
 
   
 
@@ -36,11 +35,11 @@ You can call 6260 0777 to check on your child’s Edusave balance.
 
   
 
-**Q3. When will my child, who is in Sec 1 2024, be receiving the device?** 
+**Q3. When will my child, who is in Sec 1 2025, be receiving the device?** 
 
   
 
-Your child should receive his/her device in end Mar 2024. More details will be shared once the school has more detailed information from the vendor.
+Your child should receive his/her device at the start of April 2025. More details will be shared once the school has more detailed information from the vendor.
 
   
 
@@ -124,7 +123,7 @@ We would strongly encourage all students to purchase the standard device prescri
 
   
 
-For students who do not wish to purchase a device because they already have their own devices will have to check if the device is compatible to the school’s learning systems (for FMS(S), iPad 9th generation and above). These devices must also be installed with the school’s Device Management Application (DMA) software to manage the student’s access and usage.
+For students who do not wish to purchase a device because they already have their own devices will have to check if the device is compatible to the school’s learning systems (for FMS(S), iPad 10th generation and above). These devices must also be installed with the school’s Device Management Application (DMA) software to manage the student’s access and usage.
 
 **Q10. How can my child check if his/her own personal device is compatible for use? Will the school provide a checklist of specifications for the student to check on the specifications of their own personal laptop?**
 
