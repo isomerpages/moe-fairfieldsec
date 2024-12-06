@@ -62,14 +62,11 @@ information.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/start-of-school-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/First_Day_of_School.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/start-of-school-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/First_Day_of_School.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/secondary-1-orientation-programme"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Orientation_Information.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/secondary-1-orientation-programme"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Orientation_Information.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/principal-s-dialogue-and-installation-night-programme"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/P_talk.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/principal-s-dialogue-and-installation-night-programme"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/P_talk.png"></a>
 </th>
 </tr>
 <tr>
@@ -84,14 +81,11 @@ information.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/academic-information"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Academic_Information.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/academic-information"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Academic_Information.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/secondary-1-cca-registration"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CCA_Information.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/secondary-1-cca-registration"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CCA_Information.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/appeal-for-transfer"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Appeal_Information.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/appeal-for-transfer"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Appeal_Information.png"></a>
 </td>
 </tr>
 <tr>
@@ -108,14 +102,12 @@ information.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/financial-assistance-scheme-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Financial_Assistance.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SEN.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sen-form"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SEN.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/school_fees.png">
+</div>
 </td>
 </tr>
 <tr>
