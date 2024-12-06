@@ -42,16 +42,13 @@ information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Step 1: Fill in Registration Form</strong>
-</p>
+<p><strong>Step 1: </strong>Fill in Registration Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Step 2: Purchase Texbooks, Stationery and School Attire</strong>
-</p>
+<p><strong>Step 2: </strong>Purchase Texbooks, Stationery and School Attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Step 3: Browse Important Information below</strong>
-</p>
+<p><strong>Step 3: </strong>Browse Important Information below</p>
 </td>
 </tr>
 </tbody>
