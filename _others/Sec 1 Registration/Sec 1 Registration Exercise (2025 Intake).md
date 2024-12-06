@@ -15,9 +15,8 @@ You can complete the registration <strong>online </strong>by clicking on
 this <a href="https://go.gov.sg/2025sec1" rel="noopener nofollow" target="_blank">link</a> The
 online registration will close at<strong> 5pm the same day</strong>. You
 will receive an email confirmation upon completing the form.&nbsp;</p>
-<p></p>
-<p>Thank you.
-<br>We encourage you to take some time to explore this microsite for additional
+<p>Thank you.</p>
+<p>We encourage you to take some time to explore this microsite for additional
 information.</p>
 <table style="minWidth: 75px">
 <colgroup>
