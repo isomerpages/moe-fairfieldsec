@@ -104,10 +104,7 @@ information.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sen-form"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SEN.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/school_fees.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/school-miscellaneous-fees-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/school_fees.png"></a>
 </td>
 </tr>
 <tr>
@@ -122,14 +119,11 @@ information.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/consent-for-dental-services"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CS_for_Dental_Services.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/consent-for-hpv-vaccination-for-sec-1-girls"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CS_for_vaccination.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/access-to-school-car-park"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Access_to_car_park.png"></a>
 </td>
 </tr>
 <tr>
