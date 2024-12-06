@@ -3,27 +3,26 @@ title: Compatible iPad List
 permalink: /parents/pdlp/compatible-ipad-list/
 description: ""
 third_nav_title: PDLP
+variant: markdown
 ---
-
-
 ### Compatible iPad list
 
   
 
-The school strongly recommends that the iPad is purchased through the school to benefit from the 3-year warranty, 3-year insurance, as well as fortnightly courier service for damaged devices.   
+The school strongly recommends that the iPad is purchased through the school to benefit from the 3-year warranty and 3-year insurance. 
   
 
-Parents who opt not to purchase must ensure that their existing iPads meet the following conditions: 
+Parents who opt not to purchase must ensure that their existing iPads meet the following conditions:&nbsp;
 
-• Compatible with Device Management Application (DMA) software 
+•&nbsp;Compatible with Device Management Application (DMA) software&nbsp;
 
-    Processor: A10 Fusion or better 
+&nbsp; &nbsp; Processor: A10 Fusion or better&nbsp;
 
-    Capacity: 32GB or Higher
+&nbsp; &nbsp; Capacity: 32GB or Higher
 
-    OS version: iPadOS 15 or higher
+&nbsp; &nbsp; OS version: iPadOS 15 or higher
 
-• Must have a compatible with stylus and keyboard cover (e.g Apple Pencil, Logitech Ruggedized Combo 3)
+•&nbsp;Must have a compatible stylus and keyboard cover (e.g Apple Pencil, Logitech Ruggedized&nbsp;Combo)
 
 • DMA must be installed on the iPad
 
@@ -40,9 +39,9 @@ The table below shows the iPad models that are compatible with DMA software.
 
 Method 1:  
 
-Open the **Settings** app and tap on **General > About**
+Open the&nbsp;**Settings**&nbsp;app and tap on&nbsp;**General &gt; About**
 
-Look for the Model entry on this page. You should see a model number beginning with an ‘M’.  Tap on the Model entry and it will show a model number beginning with a letter ‘A’.  
+Look for the Model entry on this page. You should see a model number beginning with an ‘M’.&nbsp;&nbsp;Tap on the Model entry and it will show a model number beginning with a letter ‘A’.  
   
 
 The image below shows the iPad model is ‘A….’.
