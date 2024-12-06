@@ -63,14 +63,28 @@ information.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/start-of-school-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/First_Day_of_School.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/secondary-1-orientation-programme"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Orientation_Information.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/P_talk.png">
+</div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First day Instructions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 Orientation Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal's Dialogue and Installation Night</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,10 +99,76 @@ information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Academic Information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal for Transfer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Financial Assistance Scheme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student SEN Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School &amp; Miscellaneous Fees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Consent for Dental Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consent for HPV Vaccination for Sec 1 Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Access to School Car Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Gateway</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Personal Learning Device</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
