@@ -41,13 +41,13 @@ information.</p>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p><strong style="font-size: 1.5em; color: red;">Step 1: </strong>Fill in Registration Form</p>
+<p><strong style="font-size: 1.2em; color: red;">Step 1: </strong>Fill in Registration Form</p>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p><strong style="font-size: 1.5em; color: red;">Step 2: </strong>Purchase Texbooks, Stationery and School Attire</p>
+<p><strong style="font-size: 1.2em; color: red;">Step 2: </strong>Purchase Texbooks, Stationery and School Attire</p>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p><strong style="font-size: 1.5em; color: red;">Step 3: </strong>Browse Important Information below</p>
+<p><strong style="font-size: 1.2em; color: red;">Step 3: </strong>Browse Important Information below</p>
 </td>
 </tr>
 </tbody>
