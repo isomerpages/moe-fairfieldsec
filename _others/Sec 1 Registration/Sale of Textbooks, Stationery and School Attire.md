@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Sec 1 Registration
 ---
 <h2>Sale of Secondary 1 2025 Textbooks, Stationery, School Attire</h2>
-<p></p>
+<p>Please download the book list and Stationery list here <a href="/files/FMS_S__S4_Booklist_and_Stationery_List_2025__updated121124_.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
+<p>Please download the price list of the school attire here</p>
 <p><strong>MODES OF PURCHASE</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
