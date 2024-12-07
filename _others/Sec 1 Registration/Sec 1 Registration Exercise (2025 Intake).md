@@ -85,13 +85,13 @@ information.</p>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/academic-information"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Academic_Information.png"></a>
+<a class="isomer-image-wrapper" href="/academic-information"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Academic_Information.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/secondary-1-cca-registration"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CCA_Information.png"></a>
+<a class="isomer-image-wrapper" href="/secondary-1-cca-registration"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CCA_Information.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/appeal-for-transfer"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Appeal_Information.png"></a>
+<a class="isomer-image-wrapper" href="/appeal-for-transfer"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Appeal_Information.png"></a>
 </td>
 </tr>
 <tr>
@@ -107,13 +107,13 @@ information.</p>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/financial-assistance-scheme-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Financial_Assistance.png"></a>
+<a class="isomer-image-wrapper" href="/financial-assistance-scheme-2025"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Financial_Assistance.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/sen-form"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SEN.png"></a>
+<a class="isomer-image-wrapper" href="/sen-form"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SEN.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/school-miscellaneous-fees-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/school_fees.png"></a>
+<a class="isomer-image-wrapper" href="/school-miscellaneous-fees-2025"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/school_fees.png"></a>
 </td>
 </tr>
 <tr>
@@ -129,13 +129,13 @@ information.</p>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/consent-for-dental-services"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CS_for_Dental_Services.png"></a>
+<a class="isomer-image-wrapper" href="/consent-for-dental-services"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CS_for_Dental_Services.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/consent-for-hpv-vaccination-for-sec-1-girls"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CS_for_vaccination.png"></a>
+<a class="isomer-image-wrapper" href="/consent-for-hpv-vaccination-for-sec-1-girls"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CS_for_vaccination.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/access-to-school-car-park"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Access_to_car_park.png"></a>
+<a class="isomer-image-wrapper" href="/access-to-school-car-park"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Access_to_car_park.png"></a>
 </td>
 </tr>
 <tr>
@@ -151,10 +151,10 @@ information.</p>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/parents-gateway"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Parents_Gateway.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/parents-gateway"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Parents_Gateway.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/personal-learning-device"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Personal_Learning_Device.png"></a>
+<a class="isomer-image-wrapper" href="/personal-learning-device"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Personal_Learning_Device.png"></a>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
 <p></p>
