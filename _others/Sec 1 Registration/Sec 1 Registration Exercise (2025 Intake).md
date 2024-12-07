@@ -147,8 +147,11 @@ information.</p>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
 <p>Access to School Car Park</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/parents-gateway"></a></td></tr></tbody></table>
+</td> </tr> 
+<tr> 
+<td style="text-align: center;" rowspan="1" colspan="1"> 
+<p><a class="isomer-image-wrapper" href="/parents-gateway"></a></p><a class="isomer-image-wrapper" href="/parents-gateway">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Parents_Gateway.png"></a>
+</td> 
+<td style="text-align: center;" rowspan="1" colspan="1"> <a class="isomer-image-wrapper" href="/personal-learning-device"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Personal_Learning_Device.png"></a> </td> <td style="text-align: center;" rowspan="1" colspan="1"> <p></p> </td> </tr> <tr> <td style="text-align: center;" rowspan="1" colspan="1"> <p>Parents Gateway</p> </td> <td style="text-align: center;" rowspan="1" colspan="1<td colspan="> <p>Personal Learning Device </p> 
+</td></tr></tbody></table>
