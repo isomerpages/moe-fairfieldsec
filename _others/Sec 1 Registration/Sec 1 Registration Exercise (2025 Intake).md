@@ -63,13 +63,13 @@ information.</p>
 <tbody>
 <tr>
 <th style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/start-of-school-2025"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/First_Day_of_School.png"></a>
+<a class="isomer-image-wrapper" href="/start-of-school-2025"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/First_Day_of_School.png"></a>
 </th>
 <th style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/secondary-1-orientation-programme"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Orientation_Information.png"></a>
+<a class="isomer-image-wrapper" href="/secondary-1-orientation-programme"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Orientation_Information.png"></a>
 </th>
 <th style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/principal-s-dialogue-and-installation-night-programme"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/P_talk.png"></a>
+<a class="isomer-image-wrapper" href="/principal-s-dialogue-and-installation-night-programme"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/P_talk.png"></a>
 </th>
 </tr>
 <tr>
