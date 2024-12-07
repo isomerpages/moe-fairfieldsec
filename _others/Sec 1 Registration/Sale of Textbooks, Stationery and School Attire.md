@@ -45,9 +45,7 @@ third_nav_title: Sec 1 Registration
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Textbooks and Stationery</strong>
-<br>Vendor: Asencio Pte Ltd
-<br><a href="/files/Parents/2025_secondary_1_book_list_and_stationery_list_final.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 Book List and Stationery List Final</a>
-</p>
+<br>Vendor: Asencio Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 School Bookshop
