@@ -41,13 +41,13 @@ information.</p>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p><strong>Step 1: </strong>Fill in Registration Form</p>
+<p><strong style="font-size: 1.5em; color: red;">Step 1: </strong>Fill in Registration Form</p>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p><strong>Step 2: </strong>Purchase Texbooks, Stationery and School Attire</p>
+<p><strong style="font-size: 1.5em; color: red;">Step 2: </strong>Purchase Texbooks, Stationery and School Attire</p>
 </td>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p><strong>Step 3: </strong>Browse Important Information below</p>
+<p><strong style="font-size: 1.5em; color: red;">Step 3: </strong>Browse Important Information below</p>
 </td>
 </tr>
 </tbody>
@@ -151,21 +151,4 @@ information.</p>
 </tr>
 <tr>
 <td style="text-align: center;" rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/parents-gateway"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Parents_Gateway.png"></a>
-</td>
-<td style="text-align: center;" rowspan="1" colspan="1">
-<a class="isomer-image-wrapper" href="/personal-learning-device"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Personal_Learning_Device.png"></a>
-</td>
-<td style="text-align: center;" rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="1" colspan="1">
-<p>Parents Gateway</p>
-</td>
-<td style="text-align: center;" rowspan="1" colspan="1<td colspan=">
-<p>Personal Learning Device </p>
-<p></p>
-<p></p>
-<p></p></td></tr></tbody></table>
+<p></p><a class="isomer-image-wrapper" href="/parents-gateway"></a></td></tr></tbody></table>
