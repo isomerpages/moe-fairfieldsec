@@ -26,7 +26,7 @@ third_nav_title: Sec 1 Registration
 <p>Book and Stationery List</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
