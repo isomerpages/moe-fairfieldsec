@@ -6,9 +6,48 @@ description: ""
 third_nav_title: Sec 1 Registration
 ---
 <h2>Sale of Secondary 1 2025 Textbooks, Stationery, School Attire</h2>
-<p>Please download the book list and Stationery list <a href="/files/FMS_S__S4_Booklist_and_Stationery_List_2025__updated121124_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Please download the documents for your reference below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Item</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Price List</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Book and Stationery List</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
-<p>Please download the price list of the school attire here</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Uniform</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School PE attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>MODES OF PURCHASE</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
