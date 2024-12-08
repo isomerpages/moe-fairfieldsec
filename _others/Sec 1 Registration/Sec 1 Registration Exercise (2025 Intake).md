@@ -178,7 +178,7 @@ third_nav_title: Sec 1 Registration
     <tr>
       <td style="text-align: center;">
         <a class="isomer-image-wrapper" href="/parents-gateway">
-          <img height="auto" width="80%" alt="" src="/images/Parents/2024/Parents_Gateway.png">
+          <img height="auto" width="80%" alt="" src="/images/Parents/2024/pg_logo.png">
         </a>
       </td>
       <td style="text-align: center;">
