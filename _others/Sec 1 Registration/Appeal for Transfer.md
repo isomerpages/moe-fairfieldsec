@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Sec 1 Registration
 ---
 <h2>Appeal for Transfer after Sec 1 Posting</h2>
-<p>Students who wish to appeal for transfer must still register at the posted
-secondary school on <strong>19 December 2024(TBC)</strong>.&nbsp;</p>
+<p>Students intending to appeal for a transfer must still complete registration
+at their assigned secondary school by the specified deadline.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Non-Medical Reasons</summary>
@@ -15,9 +15,9 @@ secondary school on <strong>19 December 2024(TBC)</strong>.&nbsp;</p>
 <p>Students who are appealing&nbsp; for school transfer into Fairfield Methodist
 School (Secondary) due to non-medical reasons, will need to submit their
 appeal through this <a href="https://go.gov.sg/sec1appealfortransfer" rel="noopener nofollow" target="_blank">link</a>.
-The transfer request form will be available from <strong>Thursday, 19&nbsp; December 2024, 12pm(TBC)</strong> You
+The transfer request form will be available from <strong>Wednesday, 18&nbsp; December 2024, 12pm(TBC)</strong> You
 will receive an email confirmation upon completing the form. All appeal
-forms must reach the school <strong>by 5pm</strong> on <strong>Tuesday, 24 December 2024(TBC)</strong>&nbsp;
+forms must reach the school <strong>by 5pm</strong> on <strong>Monday, 23 December 2024(TBC)</strong>&nbsp;
 <br>
 <br>Consideration for any transfer is based on the following:&nbsp;</p>
 <ul>
@@ -34,12 +34,13 @@ the posting year.&nbsp;</p>
 <details class="isomer-details">
 <summary>Medical Reasons</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For students who request for <strong>school transfer out</strong>  <strong>due to medical reasons</strong>,
-students will need to submit their appeal via email to <a href="https://about:blank/" rel="noopener noreferrer nofollow" target="_blank"><u>ong_huey_ying@schools.gov.sg</u></a> by <strong>20 December 2024</strong>, <strong>12pm(TBC)</strong>.
-All appeals must be <strong>accompanied by relevant supporting documents</strong>,
-such as medical reports and / or letters from doctors. Please refer to
-<a href="https://about:blank/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</u>
-</a>for more information. The appeal results will only be made known to applicants
+<p>For students who request for school transfer out due to serious medical
+conditions or severe physical impairments, students will need to submit
+their appeal via email to <a href="https://about:blank/" rel="noopener noreferrer nofollow" target="_blank"><u>ong_huey_ying@schools.gov.sg</u></a> by 12pm
+on the next working day after the release of the posting results. All appeals
+must be <strong>accompanied by relevant supporting documents</strong>, such
+as medical reports and / or letters from doctors. Please refer to <a href="https://about:blank/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer </u></a>for
+more information. The appeal results will only be made known to applicants
 in <strong>early January 2025</strong> through FMS(S). Applicants should
 continue to attend lessons at FMS(S) while waiting for the appeal results.&nbsp;&nbsp;</p>
 </div>
