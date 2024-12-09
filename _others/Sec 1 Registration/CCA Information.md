@@ -15,5 +15,6 @@ also be set aside for CCA Experience in Uniformed Groups.&nbsp;</p>
 times will be sent via Parents Gateway (PG) when the school term starts.&nbsp;</p>
 <p>The <strong>Instructional Guide for Online CCA Registration</strong> will
 be provided in <strong>January 2025</strong>.&nbsp;</p>
-<p>Should you have any queries, please email <strong>Mr Francis Ng</strong>  <strong>(HOD PE/CCA)</strong> at <strong><a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a></strong>.&nbsp;</p>
+<p>Should you have any queries, please email <strong>Mr Francis Ng</strong>  <strong>(HOD PE/CCA)</strong> at
+<a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>.&nbsp;</p>
 <p>&nbsp;</p>
