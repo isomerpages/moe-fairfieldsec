@@ -14,4 +14,4 @@ on the school’s programme and activities.&nbsp;</p>
 will be able to receive notifications for all your children on the same
 PG App. We strongly encourage all parents to download and use the PG App
 to stay updated on the school’s programme and activities.&nbsp;</p>
-<p>For more information on Parents Gateway, please visit <a href="https://about:blank/" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>.&nbsp;</p>
+<p>For more information on Parents Gateway, please visit <a href="https://pg.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/</a>.&nbsp;</p>
