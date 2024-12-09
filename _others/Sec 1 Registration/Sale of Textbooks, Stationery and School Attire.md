@@ -18,7 +18,7 @@ third_nav_title: Sec 1 Registration
 <p>Item</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Price List</p>
+<p>Attachment</p>
 </th>
 </tr>
 <tr>
