@@ -32,7 +32,7 @@ follows:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students report to canteen&nbsp;
-<br>Dinner &amp; OG Time (Students)&nbsp;</p>
+<br>Light Refreshment &amp; OG Time (Students)&nbsp;</p>
 </td>
 </tr>
 <tr>
