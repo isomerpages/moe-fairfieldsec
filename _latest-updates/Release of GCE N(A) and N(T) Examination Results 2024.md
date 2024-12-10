@@ -33,9 +33,9 @@ park at the nearby HDB carparks should there be no carpark lots available.</p>
 <p>Students who are unable to collect their results in person are to inform
 the school's General Office or their Form Teacher. Students may appoint
 a proxy to collect a physical copy of their results on their behalf from
-the General Office. Please fill up the Appointment of Proxy form upon collection
-of the results. Proxies are required to produce the relevant documents
-for the school’s verification when collecting the results.</p>
+the General Office. Please fill up the Appointment of Proxy <a href="/files/Latest Updates/2024/2024_Appointment_of_Proxy_for_N_Level_Result.pdf" rel="noopener nofollow" target="_blank">form</a> upon
+collection of the results. Proxies are required to produce the relevant
+documents for the school’s verification when collecting the results.</p>
 </li>
 </ol>
 <p></p>
