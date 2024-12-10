@@ -2,6 +2,7 @@ collections:
   latest-updates:
     output: true
     order:
+      - Release of GCE N(A) and N(T) Examination Results 2024.md
       - Overview.md
       - 2024 Term 4 Week 6 Timetable.md
       - 2024 Sem 2 Class Timetable.md
