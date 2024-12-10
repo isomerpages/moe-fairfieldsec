@@ -2,7 +2,6 @@ collections:
   latest-updates:
     output: true
     order:
-      - N level result release notification.md
       - Overview.md
       - 2024 Term 4 Week 6 Timetable.md
       - 2024 Sem 2 Class Timetable.md
