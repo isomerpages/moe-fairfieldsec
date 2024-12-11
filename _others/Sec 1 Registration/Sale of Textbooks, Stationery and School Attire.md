@@ -97,8 +97,6 @@ third_nav_title: Sec 1 Registration
 <br>Vendor: Shanghai School Uniforms Pte Ltd
 <br>
 <br><strong>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.</strong>
-<br><a href="https://cms.isomer.gov.sg/files/Parents/FMSS_2023__2024_Price__U_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>FMSS_2023__2024_Price__U_.pdf</u></a>
-<br><a href="https://cms.isomer.gov.sg/files/Parents/FMSS_2023__2024_Price__PE_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Parents/FMSS_2023__2024_Price__PE_.pdf</u></a>
 <br>
 <br>Please note that there will be no trying on of attire.
 <br>
