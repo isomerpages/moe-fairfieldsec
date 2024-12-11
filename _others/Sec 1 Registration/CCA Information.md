@@ -16,6 +16,7 @@ times will be sent via Parents Gateway (PG) when the school term starts.&nbsp;</
 <p>The <strong>Instructional Guide for Online CCA Registration</strong> will
 be provided in <strong>January 2025</strong>.&nbsp;</p>
 <p>Should you have any queries, please email <strong>Mr Francis Ng</strong>  <strong>(HOD PE/CCA)</strong> at
-<a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>or Mr Alester Tan (SH/CCA) at <a href="tan_aik_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a>
+<a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>or <strong>Mr Alester Tan (SH/CCA)</strong> at
+<a href="tan_aik_hwee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
