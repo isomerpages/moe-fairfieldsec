@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-<h2><strong>Welcome, Secondary 1 Students of 2025</strong></h2>
+<h2><strong>Welcome, Secondary 1 Students of 2025!</strong></h2>
 <p>Congratulations on your posting to Fairfield Methodist School (Secondary). It will be a new phase of your development, and we are happy to welcome you to be part of the family!&nbsp;</p>
 
 <p><strong><u>Secondary 1 Registration</u></strong><br>
