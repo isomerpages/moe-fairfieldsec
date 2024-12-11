@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Latest Updates</h3>
+<h4>Secondary 1 Registration</h4>
+<p><a href="/2025-sec-1-registration" rel="noopener nofollow" target="_blank">Read More...</a>
+</p>
+<hr>
 <h4>Release of GCE N(A) &amp; N(T) Examination Results 2024</h4>
 <p><a href="/release-of-gce-n-a-and-n-t-examination-results-2024" rel="noopener nofollow" target="_blank">Read More...</a>
 </p>
