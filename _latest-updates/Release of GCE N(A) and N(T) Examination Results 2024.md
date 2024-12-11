@@ -13,8 +13,7 @@ will be released on <strong><u>Monday, 16 December 2024, 2.00pm</u></strong>.</p
 </li>
 <li>
 <p>Students should return to the school to collect their hardcopy results
-slip and/or
-<br>certificates. They are to report at the <strong><u>Auditorium</u></strong> by <strong><u>1.30pm</u></strong>.
+slip and/or certificates. They are to report at the <strong><u>Auditorium</u></strong> by <strong><u>1.30pm</u></strong>.
 Students are to turn up in school polo t-shirts with school pants or skirt
 or in full school uniform with proper decorum. Students who turn up with
 outlandish or improper attire and/or coloured hair will not be allowed
