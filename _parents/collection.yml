@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Personal Learning Device.md
       - Sec 1 Registration/.keep
       - Partners In Education/.keep
       - Partners In Education/Overview.md
