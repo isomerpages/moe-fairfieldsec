@@ -14,8 +14,8 @@ The parent will need to indicate via the notification the student’s interest
 in taking on subjects at a more demanding level.&nbsp;</p>
 <h4><strong>Mother Tongue Language &amp; Other Languages</strong></h4>
 <p><strong>Higher Mother Tongue Languages (HMTL)&nbsp;</strong>
-<br><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on Thursday, 19 December 2024</strong>, if
-the student is eligible.&nbsp;</p>
+<br><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on Thursday, 19 December 2024</strong>,
+if the student is eligible.&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><u>Higher Chinese Language (HCL)</u>
