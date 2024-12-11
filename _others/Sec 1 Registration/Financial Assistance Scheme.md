@@ -32,5 +32,5 @@ There is no requirement for this group of students to apply for FAS.&nbsp;</p>
 <p>For more information, you can visit this <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">link</a><u>.</u>
 </p>
 <p>&nbsp;Please submit the completed form(s) via eFAS or directly to Fairfield
-General Office, with the necessary supporting documents by <strong>27 December 2024</strong>.
+General Office, with the necessary supporting documents by <strong>Friday,</strong>  <strong>27 December 2024</strong>.
 Do note that incomplete submissions will result in a delay in your application.&nbsp;</p>
