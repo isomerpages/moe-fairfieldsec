@@ -26,24 +26,17 @@ third_nav_title: Sec 1 Registration
 <p>Book and Stationery List</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/FMS_S__S1_Booklist_and_Stationery_List_2025__updated_021224_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Uniform</p>
+<p>School Uniform and PE attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School PE attire</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Price_List_for_School_Uniform_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -97,8 +90,6 @@ third_nav_title: Sec 1 Registration
 <br>Vendor: Shanghai School Uniforms Pte Ltd
 <br>
 <br><strong>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.</strong>
-<br><a href="https://cms.isomer.gov.sg/files/Parents/FMSS_2023__2024_Price__U_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>FMSS_2023__2024_Price__U_.pdf</u></a>
-<br><a href="https://cms.isomer.gov.sg/files/Parents/FMSS_2023__2024_Price__PE_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Parents/FMSS_2023__2024_Price__PE_.pdf</u></a>
 <br>
 <br>Please note that there will be no trying on of attire.
 <br>
@@ -106,12 +97,7 @@ third_nav_title: Sec 1 Registration
 size reference.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Venue: Level 1 Classroom - C111
+<p>Venue: Level 1 Classroom - C111
 <br>Time: 9am to 3pm</p>
 </td>
 </tr>
@@ -142,8 +128,7 @@ size reference.</p>
 <p><strong>Textbooks and Stationery</strong>
 <br>Vendor: Asencio Pte Ltd
 <br>
-<br>Delivery Charges: <em>$11.99</em>
-</p>
+<br>Delivery Charges: $11.99</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asenciobookshop.sg/</u></a>
