@@ -22,21 +22,21 @@ to rectify the issue before they are allowed to return.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/attire100.png">
 </div>
-<p>On normal school days, students must wear the full school uniform, as
-above, or the school polo T-shirt with school bottoms (i.e. school shorts,
-pants or skirt). However, on days when students have PE lessons, except
-for Chapel days, students can be in half-uniform, i.e. school PE T-shirt
-and school uniform bottoms.&nbsp;</p>
-<p>On Thursdays, when Lower Secondary students attend Chapel, they are to
-be in full school uniform with their school ties (both boys and girls).
-If students have PE on Thursdays, they can be in half-uniform after their
-PE lessons.&nbsp;</p>
-<p>On Fridays, which are Dress Down Days, students can be in half-uniform
-with any school-related T-shirt.&nbsp;&nbsp;</p>
+<p>On <strong>normal school days</strong>, students must wear the full school
+uniform, as above, or the school polo T-shirt with school bottoms (i.e.
+school shorts, pants or skirt). However, on days when students have PE
+lessons, except for Chapel days, students can be in half-uniform, i.e.
+school PE T-shirt and school uniform bottoms.&nbsp;</p>
+<p>On <strong>Thursdays</strong>, when Lower Secondary students attend Chapel,
+they are to be in full school uniform with their school ties (both boys
+and girls). If students have PE on Thursdays, they can be in half-uniform
+after their PE lessons.&nbsp;</p>
+<p>On <strong>Fridays</strong>, which are Dress Down Days, students can be
+in half-uniform with any school-related T-shirt.&nbsp;&nbsp;</p>
 <p>All tops, except for the blouse, must be tucked in at all times whether
 in full uniform, half-uniform or PE attire.&nbsp;</p>
 <p>*Note that the school badge will be presented to the Secondary 1 students
-during the Installation Ceremony on Friday <strong>10 January 2025</strong>,
+during the Installation Ceremony on <strong>Friday, 10 January 2025</strong>,
 and students will receive their name tags by the middle of Term 1 if they
 make payment when they purchase their books/stationery from the school
 bookshop.&nbsp;</p>
