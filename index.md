@@ -16,5 +16,4 @@ sections:
           description: ""
           url: /latest-updates/overview/
       variant: image
-      url: /2025-sec-1-registration
 ---
