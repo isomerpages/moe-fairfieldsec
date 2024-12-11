@@ -41,11 +41,11 @@ to Fairfield Methodist School (Secondary).&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
-<p><u>Tamil Language (TL) / Basic Tamil Language (BTL)</u>
+<p><strong>Tamil Language (TL) / Basic Tamil Language (BTL)</strong>
 <br>Students taking<strong> TL and BTL</strong> will attend lessons at <strong>Queenstown Secondary School</strong>,
 outside of curriculum time. Registration will be open during the first
 week of January 2025. More information will be provided at a later date.&nbsp;</p>
-<p><u>Non-Mother Tongue Language (Non-MTL) / Non-Tamil Indian Language (NTIL) / Mother Tongue Language in-lieu (MTL in-lieu)</u>
+<p><strong>Non-Mother Tongue Language (Non-MTL) / Non-Tamil Indian Language (NTIL) / Mother Tongue Language in-lieu (MTL in-lieu)</strong>
 <br>Students taking Non-MTL / NTIL / MTL in-lieu will attend lessons at a
 designated centre outside of curriculum time. Students will need to register
 for their own private study or respective language centre.&nbsp;</p>
@@ -55,7 +55,7 @@ Students will be informed through the school to sit for a readiness test.
 Admission to MOELC is subject to students passing the test. Students who
 have not been notified to sit for the readiness test or did not pass the
 test are required to continue with their private study arrangements.&nbsp;</p>
-<p><u>3rd Language</u>
+<p><strong>3rd Language</strong>
 <br>Parents / Guardians will receive a Parent Gateway notification from the
 3rd Language Coordinator, Miss Siti Ainah, regarding registration at allocated
 centres. Information will be disseminated via Parent Gateway to parents.&nbsp;</p>
