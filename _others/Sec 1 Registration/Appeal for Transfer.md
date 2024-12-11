@@ -14,8 +14,8 @@ School (Secondary) due to non-medical reasons, will need to submit their
 appeal through this <a href="https://go.gov.sg/sec1appealfortransfer" rel="noopener nofollow" target="_blank">link</a>.
 The transfer request form will be available from Wednesday, 18&nbsp; December
 2024, 12pm. You will receive an email confirmation upon completing the
-form. All appeal forms must reach the school by 5pm on Monday, 23 December
-2024.</p>
+form. All appeal forms must reach the school by <strong>5pm on Monday, 23 December 2024.</strong>
+</p>
 <p>Consideration for any transfer is based on the following:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
