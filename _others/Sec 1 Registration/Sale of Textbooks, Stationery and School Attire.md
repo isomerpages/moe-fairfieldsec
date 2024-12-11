@@ -97,12 +97,7 @@ third_nav_title: Sec 1 Registration
 size reference.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>Venue: Level 1 Classroom - C111
+<p>Venue: Level 1 Classroom - C111
 <br>Time: 9am to 3pm</p>
 </td>
 </tr>
