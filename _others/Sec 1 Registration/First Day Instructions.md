@@ -11,8 +11,8 @@ their secondary school journey with us, please note the following information.&n
 <p><strong>(A) <u>Reporting &amp; Dismissal Time and Venue</u></strong>&nbsp;
 <br>Daily reporting time:&nbsp; Students are encouraged to be in school <strong>by 7:25am</strong> for
 silent reading.&nbsp; They will be considered <strong>late</strong> if they
-arrive in school from <strong>7:28am onwards</strong>.&nbsp;&nbsp;
-<br>Reporting venue on Day 1: Parade Square*&nbsp;
+arrive in school from <strong>7:28am onwards</strong>.&nbsp;</p>
+<p>Reporting venue on Day 1: Parade Square*&nbsp;
 <br>*The Student Leaders of the Secondary 1 Orientation Programme will guide
 them to the parade square.&nbsp;</p>
 <p><strong>(B) <u>School Attire and Appearance</u></strong>&nbsp;
