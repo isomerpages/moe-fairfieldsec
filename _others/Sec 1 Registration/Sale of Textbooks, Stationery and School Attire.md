@@ -26,24 +26,17 @@ third_nav_title: Sec 1 Registration
 <p>Book and Stationery List</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/FMS_S__S1_Booklist_and_Stationery_List_2025__updated_021224_.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Uniform</p>
+<p>School Uniform and PE attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School PE attire</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Price_List_for_School_Uniform_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </td>
 </tr>
 </tbody>
