@@ -27,7 +27,9 @@ to 5pm.</p>
 <p>Please refer to the&nbsp;<a href="/files/Parents/Admin Matters/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025.pdf" rel="noopener nofollow" target="_blank">Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire 2025</a> for
 more information.</p>
 <h3>2025 Textbook and Stationery List</h3>
-<h4>Secondary 1 - Coming Soon!</h4>
+<h4>Secondary 1</h4>
+<p><a href="/files/FMS_S__S1_Booklist_and_Stationery_List_2025__updated_021224_.pdf" rel="noopener nofollow" target="_blank">FMS(S) S1 Booklist and Stationery List 2025</a>
+</p>
 <h4>Secondary 2</h4>
 <p><a href="/files/Parents/Admin Matters/FMS_S__S2_Booklist_and_Stationery_List_2025.pdf" rel="noopener nofollow" target="_blank">FMS(S) S2 Booklist and Stationery List 2025</a>
 </p>
