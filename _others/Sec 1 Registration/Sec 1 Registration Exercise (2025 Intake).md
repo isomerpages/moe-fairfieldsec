@@ -25,7 +25,7 @@ third_nav_title: Sec 1 Registration
   <tbody>
     <tr>
       <th style="text-align: center;">
-        <a class="isomer-image-wrapper" href="https://go.gov.sg/2025sec1">
+        <a class="isomer-image-wrapper" href="https://go.gov.sg/2025sec1" target="_blank">
           <img height="auto" width="80%" alt="" src="/images/Parents/2024/Step_1_Registration.png">
         </a>
       </th>
