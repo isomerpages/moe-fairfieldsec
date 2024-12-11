@@ -9,7 +9,7 @@ third_nav_title: Sec 1 Registration
 <p>CCA Experience for Uniformed groups, Clubs, Sports and Performing Arts
 groups will be conducted over three afternoons from <strong>8, 9 and 10 January 2025</strong> for
 all Secondary 1 students, regardless of their interest. DSA students are
-exempted. In addition, one <strong>Friday afternoon, 17 January 2025</strong> will
+exempted. In addition, one Friday afternoon, <strong>17 January 2025</strong> will
 also be set aside for CCA Experience in selected Uniformed Groups.&nbsp;</p>
 <p>The schedule for CCA trials / auditions / interviews and the dismissal
 times will be sent via Parents Gateway (PG) when the school term starts.&nbsp;</p>
