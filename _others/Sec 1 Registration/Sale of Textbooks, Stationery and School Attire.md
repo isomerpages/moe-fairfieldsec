@@ -140,8 +140,7 @@ size reference.</p>
 <p><strong>Textbooks and Stationery</strong>
 <br>Vendor: Asencio Pte Ltd
 <br>
-<br>Delivery Charges: <em>$11.99</em>
-</p>
+<br>Delivery Charges: $11.99</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asenciobookshop.sg/</u></a>
