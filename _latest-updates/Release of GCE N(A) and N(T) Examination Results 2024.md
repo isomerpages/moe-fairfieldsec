@@ -4,6 +4,8 @@ permalink: /release-of-gce-n-a-and-n-t-examination-results-2024/
 variant: tiptap
 description: ""
 ---
+<p>Dear students, please download the briefing slides <a href="/files/Latest Updates/2024/2024_N_Level_Result_Release_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>The results of the 2024 Singapore-Cambridge General Certificate of Education
@@ -37,4 +39,5 @@ collection of the results. Proxies are required to produce the relevant
 documents for the school’s verification when collecting the results.</p>
 </li>
 </ol>
+<p></p>
 <p></p>
