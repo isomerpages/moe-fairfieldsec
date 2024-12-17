@@ -143,7 +143,7 @@ size reference.</p>
 <br>Delivery Charges: $10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://shanghai-uniforms.com/</u></a>
+<p><a href="https://shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://shanghai-uniforms.com/</u></a>
 </p>
 </td>
 </tr>
