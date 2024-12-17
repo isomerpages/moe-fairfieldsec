@@ -18,7 +18,6 @@ sections:
       variant: center
   - infopic:
       title: Secondary One Registration (2025 Intake)
-      subtitle: Add an image and text
       id: infopic
       description: Welcome to Fairfield Methodist School (Secondary)! Please click on
         the link to visit our microsite for more information to help prepare for
