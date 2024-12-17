@@ -33,11 +33,11 @@ the Mother Tongue Language teacher.&nbsp;</p>
 <summary><u>Higher Malay Language (HML) / Higher Tamil Language (HTL)</u>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Students taking HML or HTL will attend lessons at a designated centre
-outside of curriculum time.  Students taking <strong>HTL</strong> will attend
-lessons at <strong>SSS</strong>, outside of curriculum time. Students can
-submit their HML or HTL Option Form to the General Office when they report
-to Fairfield Methodist School (Secondary).&nbsp;&nbsp;</p>
+<p>Students taking HML will attend lessons at MOE Language Center (Bishan),
+and students taking HTL will attend lessons at either Uma Pulavar Tamil
+Language Center or Jurong West Secondary School outside curriculum time.
+Students can submit their HML or HTL Option Form to the General Office
+when they report to Fairfield Methodist School (Secondary).&nbsp;</p>
 </div>
 </details>
 </div>
