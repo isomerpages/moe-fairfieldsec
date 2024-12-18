@@ -41,9 +41,9 @@ Fairfield Methodist School (Primary), Anglo-Chinese Junior College
 
 |  |  | |
 |---|---|---|
-| Express | 10 | PG3 |
-| Normal (Academic) | 22  | PG2 |
-| Normal ( Technical) | 27 | PG1 |
+| Posting Group 3 | 10 
+| Posting Group 2 | 22 
+| Posting Group 3 | 27
 
 #### CCAs  Offered
 
