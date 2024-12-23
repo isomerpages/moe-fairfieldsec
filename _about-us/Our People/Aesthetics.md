@@ -131,24 +131,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Lim Yu Sim</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 3B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_yu_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_sim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
