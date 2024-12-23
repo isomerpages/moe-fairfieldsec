@@ -3,27 +3,184 @@ title: Mother Tongue
 permalink: /about-us/our-people/mother-tongue/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-### Mother Tongue
-
-<img src="/images/About%20Us/Our%20People/mother_tongue_languages_department_1.jpg" style="width:100%">
-
-#### Key Personnel
-
-| Name | Designation | Email |
-|---|---|---|
-| **Ms Lee Sok Fun** | HOD Mother Tongue Languages| [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
-| **Ms Chen Minhua** | SH Mother Tongue Languages | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg) |
-
-#### Our Teachers
-
-| Name | Designation | Email |
-|---|---|---|
-| **Mdm Samsiah Bte Mohd Diah** | Senior Teacher<br>Sec 5A Form Teacher | [samsiah\_mohamed\_diah@moe.edu.sg](mailto:samsiah_mohamed_diah@moe.edu.sg) |
-| **Ms Liong Hui Min** | Sec 2B Form Teacher  | [liong\_hui\_min@moe.edu.sg](mailto:liong_hui_min@moe.edu.sg) |
-| **Mr Ong Zhen Yong Bennett** | Sec 1A Form Teacher | [ong\_zhen\_yong\_bennett@moe.edu.sg](mailto:ong_zhen_yong_bennett@moe.edu.sg) |
-| **Ms Siti Ainah Binte Maduri** | Sec 1G Form teacher | [siti\_ainah\_maduri@moe.edu.sg](mailto:siti_ainah_maduri@moe.edu.sg) |
-| **Ms Tan Yi Qian** | Sec 2F Form Teacher | [tan\_yi\_qian@moe.edu.sg](mailto:tan_yi_qian@moe.edu.sg) |
-| **Ms Wong Jia Xian** | Sec 4H  Form Teacher  | [wong\_jia\_xian@moe.edu.sg](mailto:wong_jia_xian@moe.edu.sg) |
-| **Mdm Li Yandong** | Teacher  | [li\_yandong@moe.edu.sg](mailto:li_yandong@moe.edu.sg)  |
+<h3>Mother Tongue</h3>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/mother_tongue_languages_department_1.jpg">
+</div>
+<h4>Key Personnel</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Sok Fun</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_sok_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_fun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chen Minhua</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_minhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_minhua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Teachers</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Samsiah Bte Mohd Diah</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samsiah_mohamed_diah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samsiah_mohamed_diah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Liong Hui Min</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1G Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liong_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liong_hui_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ong Zhen Yong Bennett</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2A Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_zhen_yong_bennett@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_zhen_yong_bennett@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Puah Hui Sze</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_hui_sze@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Siti Ainah Binte Maduri</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2B Form teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_ainah_maduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_ainah_maduri@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Yi Qian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1A Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yi_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_qian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wong Jia Xian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_jia_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_xian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Li Yandong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_yandong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yandong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
