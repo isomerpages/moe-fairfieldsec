@@ -3,27 +3,156 @@ title: Physical Education
 permalink: /about-us/our-people/physical-education/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-### Physical Education
-
-<img src="/images/About%20Us/Our%20People/physical_education_department_2.jpg" style="width:100%">
-
-
-#### Key Personnel
-
-| Name | Designation | Email |
-|---|---|---|
-| **Mr Francis Ng Hun Boon** | HOD PE &amp; CCA | [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
-| **Mr Loh Youn Leong Eric** | Year Head ( Lower Sec ) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
-
-#### Our Teachers
-
-| Name | Designation | Email |
-|---|---|---|
-| **Mr Lum Tuck Choi Jason** |  Lead Teacher | [lum\_tuck\_choi\_jason@moe.edu.sg](mailto:lum_tuck_choi_jason@moe.edu.sg) |
-| **Mr Arif Bin Bakar** | Sec 1F Form Teacher | [arif\_bakar@moe.edu.sg](mailto:arif_bakar@moe.edu.sg) |
-| **Mr Choy Andrew**  | Sec 4C Form Teacher  | [choy\_andrew@moe.edu.sg](mailto:choy_andrew@moe.edu.sg)  |
-| **Mr Tan Zhiwei @ Tham Chee Wai** | Sec 3H Form Teacher | [tan\_zhiwei@moe.edu.sg](mailto:tan_zhiwei@moe.edu.sg) |
-| **Mr Lee Yong Seng Peter**  | Teacher  | [lee\_yong\_seng\_peter@moe.edu.sg](mailto:lee_yong_seng_peter@moe.edu.sg)  |
-| **Mr Ravi Shankar  Kathergamathamby**  | Teacher  | [ravi\_shankar\_kathergamathamby@moe.edu.sg](mailto:ravi_shankar_kathergamathamby@moe.edu.sg)  |
+<h3>Physical Education</h3>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/physical_education_department_2.jpg">
+</div>
+<h4>Key Personnel</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Francis Ng Hun Boon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loh Youn Leong Eric</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head ( Lower Sec )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_youn_leong_eric@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_youn_leong_eric@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Teachers</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lum Tuck Choi Jason</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lum_tuck_choi_jason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_tuck_choi_jason@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Arif Bin Bakar</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1A Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:arif_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arif_bakar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Choy Andrew</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Zhiwei @ Tham Chee Wai</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4H Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_zhiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zhiwei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Yong Seng Peter</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yong_seng_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_seng_peter@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ravi Shankar Kathergamathamby</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ravi_shankar_kathergamathamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ravi_shankar_kathergamathamby@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
