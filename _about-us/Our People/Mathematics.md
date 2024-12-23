@@ -208,6 +208,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Voon Qiyuan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:voon_qiyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">voon_qiyuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mrs Chak-Goh Chiow Yean Jessica</strong>
 </p>
 </td>
