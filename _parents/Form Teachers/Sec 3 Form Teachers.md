@@ -6,9 +6,6 @@ variant: tiptap
 third_nav_title: Form Teachers
 ---
 <h4>Sec 3 Form Teachers</h4>
-<ul>
-<li>
-<p>Sec 3A</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -17,336 +14,99 @@ third_nav_title: Form Teachers
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 3A</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
+<p>Mr Woo Chee Keong Alex</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Tan Puok Yuee</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 3B</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Tay Shu-Min, Samantha</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Yu Sim</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3C</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Ms Wong Beishi</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Ho-Tan Siew Ching Jean</strong>
+<p><strong>Sec 3D</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p><strong>Ms Lee Xiao-En Tabitha</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Xian Heng Bryan</strong>
+<p><strong>Sec 3E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher</p>
+<p><strong>Ms Wong Jiaxian</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3F</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Chong Yuan Alvin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3G</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Elijah-Lily Cleaopatra</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-</li>
-<li>
-<p>Sec 3B</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Aminah Beevi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Celia Leo</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Sean Lee Mien Chung</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</li>
-<li>
-<p>Sec 3C</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Jon Poh Jing Ping</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Yeo Zhi En</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</li>
-<li>
-<p>Sec 3D</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lee Chiew Yi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wang Yixin Helen</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</li>
-<li>
-<p>Sec 3E</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Rena Yeo</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</li>
-<li>
-<p>Sec 3G</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Chee Chin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Kua Khuan Tiong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</li>
-<li>
-<p>Sec 3H</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Teo-Tan Li Ling Terri</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Zhiwei</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-</li>
-<li>
-<p>Teachers' Email Address</p>
+<h4>Teachers' Email Address</h4>
 <p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view all teachers email addresses.</p>
-</li>
-</ul>
+<p></p>
+<p></p>
 <p></p>
