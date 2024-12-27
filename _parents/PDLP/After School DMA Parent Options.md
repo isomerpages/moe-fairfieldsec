@@ -169,7 +169,7 @@ chosen:</p>
 </p>
 <p>2)&nbsp;<strong>Option A</strong>&nbsp;-- <a href="/files/Parents/PDLP/2025_Jamf_DMA_Option_A_Parent_Guide.pdf" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option A</a>
 </p>
-<p>3)&nbsp;<strong>Option B</strong>&nbsp;-- <a href="/files/Parents/PDLP/2025_Jamf_DMA_Option_B_Parent_Guide.pdf" rel="noopener nofollow" target="_blank"> Jamf DMA Parent Guide for Option B</a>
+<p>3)&nbsp;<strong>Option B</strong>&nbsp;-- <a href="/files/Parents/PDLP/2025_Jamf_DMA_Option_B_Parent_Guide.pdf" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option B</a>
 </p>
 <h4>Request for change of DMA Option&nbsp;</h4>
 <p>Please email Mr Lee Yew Ming&nbsp;(<a href="mailto:lee_yew_ming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_ming_a@moe.edu.sg</a>)&nbsp;for
