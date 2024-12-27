@@ -142,6 +142,6 @@ to the student, and
 <br>(c) placing restrictions on students’ screen time in order to prevent
 cyber addiction.&nbsp;</p>
 <h4>Further Queries</h4>
-<p>Do take a look at our&nbsp;<strong><a href="https://ask.gov.sg/fmss" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions section</a></strong>&nbsp;or
+<p>Do take a look at our&nbsp;<strong><a href="https://www.fairfieldmethodistsec.moe.edu.sg/parents/pdlp/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions section</a></strong>&nbsp;or
 drop us your questions via the School Email (<strong><a href="mailto:fmss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fmss@moe.edu.sg</a></strong>)
 if you have further queries.</p>
