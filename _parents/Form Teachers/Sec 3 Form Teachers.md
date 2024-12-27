@@ -24,12 +24,17 @@ third_nav_title: Form Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 3A</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Mr Ong Zhen Yong Bennett</p>
+<p>Mr Woo Chee Keong Alex</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Tan Puok Yuee</p>
 </th>
 </tr>
 <tr>
@@ -38,13 +43,13 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Siok Hoon</strong>
+<p><strong>Mdm Tay Shu-Min, Samantha</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Siti Ainah</strong>
+<p><strong>Mr Lim Yu Sim</strong>
 </p>
 </td>
 </tr>
@@ -54,7 +59,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Mr Chew Kwai Hoong Gary</p>
+<p>Ms Wong Beishi</p>
 </th>
 </tr>
 <tr>
@@ -63,7 +68,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Haliza Bte Abdul Hamid Khan</strong>
+<p><strong>Ms Lee Xiao-En Tabitha</strong>
 </p>
 </td>
 </tr>
@@ -73,7 +78,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Khoo Khai Shee Yvonne&nbsp;</strong>
+<p><strong>Ms Wong Jiaxian</strong>
 </p>
 </td>
 </tr>
@@ -83,7 +88,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Wong Jiayi</strong>
+<p><strong>Mr Chua Chong Yuan Alvin</strong>
 </p>
 </td>
 </tr>
@@ -93,16 +98,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Ai Ling Marjorie</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Goh Wei Ting Sandy</strong>
+<p><strong>Mrs Elijah-Lily Cleaopatra</strong>
 </p>
 </td>
 </tr>
