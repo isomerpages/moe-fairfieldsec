@@ -25,7 +25,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2A</strong>
+<p><strong>Sec 3A</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -34,7 +34,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Sec 2B</strong>
+<p><strong>Sec 3B</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +50,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2C</strong>
+<p><strong>Sec 3C</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2D</strong>
+<p><strong>Sec 3D</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2E</strong>
+<p><strong>Sec 3E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2F</strong>
+<p><strong>Sec 3F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +89,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2G</strong>
+<p><strong>Sec 3G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
