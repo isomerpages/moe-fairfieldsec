@@ -38,8 +38,96 @@ third_nav_title: Form Teachers
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1B</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Phoebe Chin Kit Yin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 1C</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Ms Chan Xin Hui Charmaine</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Kamariah Binte Sajat</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 1D</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Yee Suet Fong Dawn&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Dannish Kurniago</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec1 F</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Olivia Tan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Voon Qiyuan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 1G</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Liong Hui Min</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nurul Afia Mohammed Anuar</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1H</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Nina</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
@@ -69,6 +157,8 @@ third_nav_title: Form Teachers
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <table style="minWidth: 50px">
