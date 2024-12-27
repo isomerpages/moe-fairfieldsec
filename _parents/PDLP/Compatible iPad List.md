@@ -89,22 +89,19 @@ wiped; all personal data must be backed-up)</p>
 <p><strong>How to find the model number of your iPad:</strong>
 </p>
 <p><strong>Method 1:</strong>
-</p>
-<p>Open the&nbsp;<strong>Settings</strong>&nbsp;app and tap on&nbsp;<strong>General &gt; About.</strong>
-</p>
-<p>Look for the Model entry on this page. You should see a model number beginning
+<br>Open the&nbsp;<strong>Settings</strong>&nbsp;app and tap on&nbsp;<strong>General &gt; About.</strong>
+<br>Look for the Model entry on this page. You should see a model number beginning
 with an ‘M’.&nbsp;&nbsp;Tap on the Model entry and it will show a model
-number beginning with a letter ‘A’.</p>
-<p>The image below shows the iPad model is ‘A….’.</p>
+number beginning with a letter ‘A’.
+<br>The image below shows the iPad model is ‘A….’.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/ipad2.png">
 </div>
 <p><strong>Method 2:</strong>
-</p>
-<p>The model number is imprinted on the back of your iPad.</p>
-<p>Flip your iPad over and read the small text printed under the word ‘iPad’.
-You should see the model number near the iPad serial number.</p>
-<p>The image below shows the iPad model: ‘A1566’.</p>
+<br>The model number is imprinted on the back of your iPad.
+<br>Flip your iPad over and read the small text printed under the word ‘iPad’.
+You should see the model number near the iPad serial number.
+<br>The image below shows the iPad model: ‘A1566’.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ipad3.png">
 </div>
