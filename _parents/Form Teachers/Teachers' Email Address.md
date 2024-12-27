@@ -202,6 +202,15 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Kamariah Binte Sajat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kamariah_sajat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamariah_sajat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Koh Wei Shan Clarissa (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,6 +296,15 @@ third_nav_title: Form Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_nina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_nina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Yu Sim (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yu_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_sim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -490,10 +508,28 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Phoebe Chin Kit Yin (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phoebe_chin_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoebe_chin_kit_yin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Poh Jing Ping Jon (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jon_poh_jing_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jon_poh_jing_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Puah Hui Sze (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_hui_sze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -656,6 +692,15 @@ third_nav_title: Form Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thio_lay_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thio_lay_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Voon Qiyuan (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:voon_qiyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">voon_qiyuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
