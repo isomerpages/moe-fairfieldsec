@@ -6,11 +6,6 @@ variant: tiptap
 third_nav_title: Form Teachers
 ---
 <h4>Sec 1 Form Teachers</h4>
-<ul>
-<li>
-<p>Sec 1A</p>
-<p></p>
-<p>&nbsp;</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -19,47 +14,138 @@ third_nav_title: Form Teachers
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 1A</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Ms Tan Yi Qian</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1B</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Ms Phoebe Chin Kit Yin</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 1C</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Ms Chan Xin Hui Charmaine</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Kamariah Binte Sajat</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>==========</p>
+<h4>Sec 1 Form Teachers</h4>
+<p>Sec 1A</p>
+<p></p>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="2" colspan="1">
+<p>Sec 1A</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
+<p>Ms Tan Yi Qian</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chan Xin Hui Charmaine</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Tay Shu-Min, Samantha</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ong Zhen Yong Bennett</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>
-<br>
+<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
 </p>
 </td>
 </tr>
