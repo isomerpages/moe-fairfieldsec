@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Jacelyn Pang Yi Xin</strong>
+<p><strong>Ms Noreffaliza Bte Amer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,13 +140,14 @@ variant: tiptap
 <br>Sec 1, 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Pang_Yi_Xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_Yi_Xin@schools.gov.sg</a>
+<p><a href="mailto:noreffaliza_amer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noreffaliza_amer@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Norefaliza Bte Amer</strong>
+<p></p>
+<p><strong>Ms Jacelyn Pang Yi Xin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +155,8 @@ variant: tiptap
 <br>Sec 2, 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noreffaliza_amer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noreffaliza_amer@schools.gov.sg</a>
+<p></p>
+<p><a href="mailto:Pang_Yi_Xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_Yi_Xin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
