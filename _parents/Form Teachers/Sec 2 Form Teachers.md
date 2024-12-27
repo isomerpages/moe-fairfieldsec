@@ -25,100 +25,85 @@ third_nav_title: Form Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>Sec 1A</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2A</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Ms Tan Yi Qian</p>
+<p>Mr Ong Zhen Yong Bennett</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 2B</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Siok Hoon</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Siti Ainah</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2C</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Mr Chew Kwai Hoong Gary</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
+<p><strong>Sec 2D</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Haliza Bte Abdul Hamid Khan</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1B</strong>
+<p><strong>Sec 2E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Phoebe Chin Kit Yin</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Sec 1C</strong>
-</p>
-</td>
-<th rowspan="1" colspan="1">
-<p>Ms Chan Xin Hui Charmaine</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Kamariah Binte Sajat</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Sec 1D</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Yee Suet Fong Dawn&nbsp;</strong>
+<p><strong>Mdm Khoo Khai Shee Yvonne&nbsp;</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Dannish Kurniago</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Sec1 F</strong>
+<p><strong>Sec 2F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Olivia Tan</strong>
+<p><strong>Ms Wong Jiayi</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Voon Qiyuan</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Sec 1G</strong>
+<p><strong>Sec 2G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Liong Hui Min</strong>
+<p><strong>Ms Tan Ai Ling Marjorie</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurul Afia Mohammed Anuar</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1H</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Nina</strong>
+<p><strong>Ms Goh Wei Ting Sandy</strong>
 </p>
 </td>
 </tr>
