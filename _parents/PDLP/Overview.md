@@ -19,11 +19,12 @@ the Singapore Student Learning Space (<strong>“SLS”</strong>) – as well
 as other educational technology to personalise and enhance students’ learning.
 This will also enable students to acquire digital skills and apply these
 skills as they navigate an increasingly digitalised world.&nbsp;</p>
+<hr>
 <h4>Purchase of PLD bundle</h4>
 <p>The PLD bundle which includes warranty and insurance for purchase by Secondary
 1 students in 2025 will be:&nbsp;
-<br>iPad 10th Gen&nbsp;64 GB 10.9-inch with Apple Pencil (USB-C) and casing
-with attached keyboard, includes 3-year warranty and insurance.</p>
+<br><strong>iPad 10th Gen&nbsp;64 GB 10.9-inch with Apple Pencil (USB-C) and casing with attached keyboard, includes 3-year warranty and insurance</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/2024/ipad_Enhance_bundle.png">
 </div>
@@ -142,6 +143,6 @@ to the student, and
 <br>(c) placing restrictions on students’ screen time in order to prevent
 cyber addiction.&nbsp;</p>
 <h4>Further Queries</h4>
-<p>Do take a look at our&nbsp;<strong><a href="https://www.fairfieldmethodistsec.moe.edu.sg/parents/pdlp/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions section</a></strong>&nbsp;or
+<p>Do take a look at our&nbsp;<strong><a href="/parents/pdlp/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions section</a></strong>&nbsp;or
 drop us your questions via the School Email (<strong><a href="mailto:fmss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fmss@moe.edu.sg</a></strong>)
 if you have further queries.</p>
