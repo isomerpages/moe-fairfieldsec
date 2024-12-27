@@ -124,18 +124,19 @@ cyber wellness:</p>
 of the PLD during lesson time to improve classroom management and support
 effective teaching and learning.
 <br>
-<br>b) Mobile Device Management Service: This facilitates the updating and
-managing of the PLD, protects the PLD from malicious software, and protects
-students from objectionable internet content.
+<br>b) Mobile Device Management Service: To help update and manage the PLD,
+protect the PLD from malicious software, and protects students from objectionable
+internet content.
 <br>
-<br>(c) Usage Management Service: This enables the school and/or parents/guardians
+<br>(c) Usage Management Service: To enable school and/or parents/guardians
 to better supervise and set helpful limits for students’ use of PLD after
 school.</p>
 <h4>Cyber Wellness</h4>
-<p>In rolling out the PLD, MOE is aware of concerns regarding students’ cyber
-wellness. The DMA allows the school to manage this by:&nbsp;</p>
-<p>(a) collecting data on usage by the student, such as the amount of time
-spent on each application,&nbsp;
+<p>Parents/guardians may have concerns regarding students’ cyber wellness
+with the introduction of the PLD. The DMA allows the school to manage this
+by:</p>
+<p>(a) collecting data on usage by the student, such as the websites assessed
+on the PLD,&nbsp;
 <br>(b) monitoring, filtering and limiting the type of websites accessible
 to the student, and
 <br>(c) placing restrictions on students’ screen time in order to prevent
@@ -143,4 +144,4 @@ cyber addiction.&nbsp;</p>
 <h4>Further Queries</h4>
 <p>Do take a look at our&nbsp;<strong><a href="https://ask.gov.sg/fmss" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions section</a></strong>&nbsp;or
 drop us your questions via the School Email (<strong><a href="mailto:fmss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fmss@moe.edu.sg</a></strong>)
-if there should be further queries.</p>
+if you have further queries.</p>
