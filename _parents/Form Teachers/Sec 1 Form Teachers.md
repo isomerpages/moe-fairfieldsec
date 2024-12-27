@@ -81,7 +81,7 @@ third_nav_title: Form Teachers
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Sec1 F</strong>
+<p><strong>Sec 1F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
