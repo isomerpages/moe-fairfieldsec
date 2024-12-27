@@ -5,12 +5,13 @@ description: ""
 third_nav_title: PDLP
 variant: tiptap
 ---
-<h3>Useful Online Learning Resources for Parents</h3>
-<p>Parent Handbooks (I) and (II) on Learning with a Personal Learning Device</p>
+<h3>Useful Online Resources for Parents</h3>
+<p>Parent Handbooks (I) and (II) on Learning with a Personal Learning Device:</p>
+<p><a href="/files/Parents/PDLP/2025_Parent_Handbook__I_.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) 2025</a>
+</p>
+<p><a href="/files/Parents/PDLP/2025_Parent_Handbook__II_.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2025</a>
+</p>
 <p></p>
-<p><a href="/files/Parents/PDLP/Parent_Handbook__I.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I on Learning with a PLD.pdf</a>
-</p>
-<p><a href="/files/Parents/PDLP/Parent_Handbook__II.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II on Learning with a PLD.pdf</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
