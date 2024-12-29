@@ -9,11 +9,9 @@ third_nav_title: Sec 1 Registration
 <p>Congratulations on your posting to Fairfield Methodist School (Secondary). It will be a new phase of your development, and we are happy to welcome you to be part of the family!&nbsp;</p>
 
 <p><strong><u>Secondary 1 Registration</u></strong><br>
-  Secondary 1 Registration will open at <strong>12 pm</strong> on <strong>Wednesday, 18 December 2024 </strong>. 
-  You can complete the registration <strong>online</strong> by clicking on this <a href="https://go.gov.sg/2025sec1" target="_blank">link</a>. 
-  The online registration will close at <strong>5pm on Thursday, 19 December 2024</strong>. You will receive an email confirmation upon completing the form.&nbsp;</p>
+  The online registration form has closed. 
 
-<p>Thank you.</p>
+</p><p>Thank you.</p>
 <p>We encourage you to take some time to explore this microsite for additional information.</p>
 
 <table style="min-width: 75px;">
