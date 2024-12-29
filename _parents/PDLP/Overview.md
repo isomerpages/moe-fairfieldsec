@@ -118,7 +118,7 @@ other than those listed above.&nbsp;</p>
 on all PLDs purchased through the school, and will be installed on devices
 that parents/guardians have opted for the student to use in lieu of the
 PLD purchased through the school, after parents/guardians have given consent.
-The DMA has 3 main components which will support the efficient use of the
+The DMA has 3 main components which will support the effective use of the
 PLD in the classroom to enhance students’ learning and safeguard students’
 cyber wellness:</p>
 <p>(a) Classroom Management Service: To help teachers manage students’ use
