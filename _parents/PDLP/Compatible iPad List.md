@@ -11,9 +11,9 @@ school to benefit from the 3-year warranty and 3-year insurance.</p>
 <p>Parents who opt not to purchase must ensure that their existing iPads
 meet the following conditions:&nbsp;
 <br>•&nbsp;Compatible with Device Management Application (DMA) software&nbsp;
-<br>Processor: A10 Fusion or better&nbsp;
-<br>Capacity: 32GB or Higher
-<br>OS version: iPadOS 15 or higher
+<br>Processor: A14 Fusion or better&nbsp;
+<br>Capacity: 64GB or Higher
+<br>OS version: iPadOS 18 or higher
 <br>•&nbsp;Must have a compatible stylus and keyboard cover (e.g Apple Pencil,
 Logitech Ruggedized&nbsp;Combo)
 <br>• DMA must be installed on the iPad
