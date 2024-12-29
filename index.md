@@ -22,7 +22,7 @@ sections:
       description: Welcome to Fairfield Methodist School (Secondary)! Please click on
         the link below for more information to help you prepare for the new
         school year.
-      button: Visit this site to register!
+      button: Visit this site for more info!
       url: /2025-sec-1-registration
       image: /images/Home Page/2024_sec_1_reg_hero_banner_final.png
       alt: Image alt text
