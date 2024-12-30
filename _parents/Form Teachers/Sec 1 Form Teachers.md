@@ -44,7 +44,7 @@ third_nav_title: Form Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Phoebe ChiMs n Kit Yin</strong>
+<p><strong>Ms Phoebe Chin Kit Yin</strong>
 </p>
 </td>
 </tr>
