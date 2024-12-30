@@ -39,12 +39,18 @@ third_nav_title: Form Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 1B</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Phoebe Chin Kit Yin</strong>
+<p><strong>Ms Phoebe ChiMs n Kit Yin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Oh-Ong Lei Wan Jasmin</strong>
 </p>
 </td>
 </tr>
@@ -76,6 +82,22 @@ third_nav_title: Form Teachers
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Dannish Kurniago</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 1E</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Andrew Choy</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Puah Hui Sze</strong>
 </p>
 </td>
 </tr>
