@@ -140,19 +140,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ravi Shankar Kathergamathamby</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ravi_shankar_kathergamathamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ravi_shankar_kathergamathamby@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
