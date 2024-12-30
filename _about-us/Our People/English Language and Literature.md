@@ -3,37 +3,286 @@ title: English Language and Literature
 permalink: /about-us/our-people/english-language-and-literature/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-### English Language &amp; Literature
-
-<img src="/images/About%20Us/Our%20People/english_language_department_2.jpg" style="width:100%">
-
-
-#### Key Personnel
-
-| Name | Designation | Email |
-| --- | --- | --- |
-| **Mrs Kwok Jiapei** | HOD English Language &amp; Literature | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
-| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
-| **Mr Guo Enliang Joseph** | LH English Language | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
-| **Ms Tan Sor Tin**  | SH Literature | [tan\_sor\_tin@moe.edu.sg](mailto:tan_sor_tin@moe.edu.sg) |
- 
-####  Our Teachers
-
-| Name | Designation | Email |
-|---|---|---|
-| **Mr Chew Kwai Hoong Gary** | Sec 2C Form Teacher | [chew\_kwai\_hoong@moe.edu.sg](mailto:chew_kwai_hoong@moe.edu.sg) |
-| **Mr Chua Chong Yuan Alvin** | Sec 3F Form Teacher | [chua\_chong\_yuan\_alvin@moe.edu.sg](mailto:chua_chong_yuan_alvin@moe.edu.sg) |
-|  **Ms Goh Wei Ting Sandy** | Sec 2G Form Teacher  |  [goh\_wei\_ting_sandy@moe.edu.sg](mailto:goh_wei_ting_sandy@moe.edu.sg) |
-| **Mdm Khoo Khai Shee Yvonne** | Sec 2E Form Teacher | [yvonne\_khoo\_khai\_shee@moe.edu.sg](mailto:yvonne_khoo_khai_shee@moe.edu.sg) |
-| **Mr Kua Khuan Tiong** | Sec 4G Form Teacher | [kua\_khuan\_tiong@moe.edu.sg](mailto:kua_khuan_tiong@moe.edu.sg) |
-| **Mdm Lim Nina** | Sec 1H Form Teacher | [lim\_nina@moe.edu.sg](mailto:lim_nina@moe.edu.sg) |
-|  **Ms Lee Xiao-En Tabitha** | Sec 3D Form Teacher  |  [lee_xiao-en_tabitha@moe.edu.sg](mailto:lee_xiao-en_tabitha@moe.edu.sg) |
-|  **Ms Phoebe Chin Kit Yin** | Sec 1B Form Teacher  |  [phoebe\_chin\_kit\_yin@moe.edu.sg ](mailto:phoebe_chin_kit_yin@moe.edu.sg) |
-| **Mrs Rena Yeo** | Sec 4E Form Teacher |  [gomes\_rena\_jeanette@moe.edu.sg](mailto:gomes_rena_jeanette@moe.edu.sg) |
-|  **Ms Tan Li Ling Olivia** | Sec 1F Form Teacher  |  [olivia\_tan\_li\_ling@moe.edu.sg](mailto:olivia_tan_li_ling@moe.edu.sg) |
-|  **Ms Tan Ai Ling Marjorie** | Sec 2G Form Teacher  |  [tan\_ai\_ling\_marjorie@moe.edu.sg](mailto:tan_ai_ling_marjorie@moe.edu.sg) |
-| **Mdm Yee Suet Fong Dawn** | Sec 1D Form Teacher | [yee\_suet\_fong@moe.edu.sg](mailto:yee_suet_fong@moe.edu.sg) |
-|  **Mr  Lim Ming Hee Nicholas** | Teacher  |  [lim\_ming\_hee@moe.edu.sg](mailto:lim_ming_hee@moe.edu.sg) |
-|  **Mr  Low Gek Meng Wendy** | Teacher  |  [low\_gek\_meng\_wendy@moe.edu.sg](mailto:low_gek_meng_wendy@moe.edu.sg) |
+<h3>English Language &amp; Literature</h3>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/english_language_department_2.jpg">
+</div>
+<h4>Key Personnel</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Kwok Jiapei</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_jiapei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_jiapei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nio Qing Hui Brenda</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Information &amp; Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nio_qing_hui_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nio_qing_hui_brenda@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Guo Enliang Joseph</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:guo_enliang_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_enliang_joseph@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Sor Tin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sor_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sor_tin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Teachers</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chew Kwai Hoong Gary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_kwai_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kwai_hoong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Chong Yuan Alvin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_chong_yuan_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chong_yuan_alvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Goh Wei Ting Sandy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2G Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_wei_ting_sandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_ting_sandy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Khoo Khai Shee Yvonne</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yvonne_khoo_khai_shee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yvonne_khoo_khai_shee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Kua Khuan Tiong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4G Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kua_khuan_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kua_khuan_tiong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Nina</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1H Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_nina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_nina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xiao-En Tabitha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_xiao-en_tabitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xiao-en_tabitha@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Phoebe Chin Kit Yin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phoebe_chin_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoebe_chin_kit_yin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Rena Yeo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gomes_rena_jeanette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gomes_rena_jeanette@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Li Ling Olivia</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:olivia_tan_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">olivia_tan_li_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Ai Ling Marjorie</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2G Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ai_ling_marjorie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_ling_marjorie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Yee Suet Fong Dawn</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yee_suet_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_suet_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Ming Hee Nicholas</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ming_hee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ming_hee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Low Gek Meng Wendy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_gek_meng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_gek_meng_wendy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
