@@ -2,9 +2,12 @@
 title: School Leaders' Updates
 permalink: /parents/school-leaders-updates/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Leaders' Updates
-
-#### 2024 Term 4 Updates
-[PG_to_Parents_T4_update_2024.pdf](/files/Parents/SL%20Updates/PG_to_Parents_T4_update_2024.pdf)
+<h3>School Leaders' Updates</h3>
+<h4>Start of School 2025 </h4>
+<p><a href="/files/Parents/SL Updates/PG_to_Parents_Start_of_2025.pdf" rel="noopener nofollow" target="_blank">PG_to_Parents_Start_of_2025.pdf</a>
+</p>
+<p></p>
+<h4></h4>
+<p></p>
