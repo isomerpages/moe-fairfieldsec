@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Latest Updates</h3>
 <h4>2025 Sem 2 Class Timetable</h4>
-<p><a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2024-sem2-class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
+<p><a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2025-sem1-class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
 </p>
 <hr>
 <h4>Secondary 1 Registration</h4>
