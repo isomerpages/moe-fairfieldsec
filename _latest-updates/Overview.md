@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Latest Updates</h3>
-<h4>2025 Sem 2 Class Timetable</h4>
+<h4>2025 Sem 1 Class Timetable</h4>
 <p><a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2025-sem1-class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
 </p>
 <hr>
