@@ -15,7 +15,7 @@ phone.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_01.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_01.png">
 </div>
 <hr>
 <ol start="2" data-tight="true" class="tight">
@@ -23,7 +23,7 @@ phone.</p>
 <p>Select <strong>SWN@SSOE </strong>from the available Wi-Fi network list.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_02.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_02.png">
 </div>
 </li>
 </ol>
@@ -34,7 +34,7 @@ phone.</p>
 <br>(Remember to check on the box to accept the terms.)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_03.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_03.png">
 </div>
 </li>
 </ol>
@@ -45,7 +45,7 @@ phone.</p>
 Otherwise, please proceed to <strong>Step 5</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_04_B.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_04_B.png">
 </div>
 </li>
 </ol>
@@ -56,7 +56,7 @@ Otherwise, please proceed to <strong>Step 5</strong>.</p>
 download and install the MOE-SSL certificate. (You only need to do so once.)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_04.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_04.png">
 </div>
 </li>
 </ol>
@@ -66,7 +66,7 @@ download and install the MOE-SSL certificate. (You only need to do so once.)</p>
 <p>Press the <strong>Install </strong>button when you see the <strong>Install Profile</strong> page.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_05.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_05.png">
 </div>
 </li>
 </ol>
@@ -78,7 +78,7 @@ to start. If your phone is not protected with a passcode, you will be prompted
 to create one.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_06.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_06.png">
 </div>
 <p></p>
 </li>
@@ -89,7 +89,7 @@ to create one.</p>
 <p>Press the <strong>Install </strong>button after you have entered your passcode.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_07.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_07.png">
 </div>
 </li>
 </ol>
@@ -99,7 +99,7 @@ to create one.</p>
 <p>Press <strong>Done </strong>to complete.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_04_B.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_04_B.png">
 </div>
 </li>
 </ol>
