@@ -5,13 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: PDLP
 ---
-<p>Students may connect to SWN Wi-Fi network to access the Internet for teaching
-and learning purpose.</p>
+<p>Students may connect to the <strong>SWN Wi-Fi network</strong> to access
+the Internet for teaching and learning purposes.</p>
 <p>Follow the steps below:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to <strong>Wi-Fi</strong> under <strong>Settings </strong>on your mobile
-phone.</p>
+<p>Go to <strong>Wi-Fi</strong> under <strong>Settings </strong>on your device.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
@@ -30,8 +29,8 @@ phone.</p>
 <hr>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Once connected, a login page will pop up. Log-in using your MIMS account.
-<br>(Remember to check on the box to accept the terms.)</p>
+<p>Once connected, a login page will pop up. Log-in using your <strong>MIMS account</strong>.
+<br>(Remember to check the box to accept the terms and conditions.)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SWN_Login_03.png">
@@ -41,7 +40,7 @@ phone.</p>
 <hr>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>If you have the certificates installed, you may press the <strong>Done </strong>button.
+<p>If you have the MOE-SSL certificates installed, you may click on <strong>Done</strong>.
 Otherwise, please proceed to <strong>Step 5</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -52,7 +51,7 @@ Otherwise, please proceed to <strong>Step 5</strong>.</p>
 <hr>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p>If you are connecting to SWN on the mobile phone for the first time, please
+<p>If you are connecting to SWN on your device for the first time, please
 download and install the MOE-SSL certificate. (You only need to do so once.)</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -104,10 +103,9 @@ to create one.</p>
 </li>
 </ol>
 <hr>
-<p><strong>Note</strong>: You cannot log-in to more than one device using
+<p><strong>Note</strong>: You cannot log-in on more than one device using
 the same account at the same time. Please remember to log out from SWN
 at http://portal.swn.moe.edu.sg when you have finished using the connection.</p>
-<p>To reset your MIMS password, you can go to the IT center for help or email
-to <strong>Mr Lee Yew Ming</strong> at <a href="mailto:lee_yew_ming_a@moed.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_ming_a@moed.edu.sg</a>or <strong>Mdm Sangeetha</strong> at
-<a href="mailto:ramachandran_sangeetha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramachandran_sangeetha@moe.edu.sg</a>Your MIMS password will expire every
-365 days.</p>
+<p>To reset your MIMS password, you can go to the IT Center for help or email <strong>Mr Lee Yew Ming</strong> at
+<a href="mailto:lee_yew_ming_a@moed.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_ming_a@moed.edu.sg</a>or <strong>Mdm Sangeetha</strong> at <a href="mailto:ramachandran_sangeetha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramachandran_sangeetha@moe.edu.sg</a>Your
+MIMS password will expire every 365 days.</p>
