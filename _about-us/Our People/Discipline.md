@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Discipline Master (Lower Sec)
+<p>Lower Sec Discipline Master
 <br>Sec 1A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
