@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Discipline Master (Lower Sec)
+<p>Lower Sec Discipline Master
 <br>Sec 1A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ variant: tiptap
 <br>Sec 1E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
+<p><a href="mailto:choy_andrew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -100,7 +100,7 @@ variant: tiptap
 <br>Sec 2G Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wei_ting_sandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_ting_sandy@moe.edu.sg</a>
+<p><a href="mailto:Goh_Wei_Ting_Sandy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_ting_sandy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <br>Sec 3B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_shu-min_samantha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_shu-min_samantha@moe.edu.sg</a>
+<p><a href="mailto:tay_shu-min_samantha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_shu-min_samantha@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ variant: tiptap
 <br>Sec 2B Form teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_ainah_maduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_ainah_maduri@moe.edu.sg</a>
+<p><a href="mailto:siti_ainah_maduri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_ainah_maduri@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -155,7 +155,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_saw_phing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_saw_phing@moe.edu.sg</a>
+<p><a href="mailto:seah_saw_phing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_saw_phing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
