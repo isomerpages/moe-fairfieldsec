@@ -147,7 +147,7 @@ third_nav_title: Form Teachers
 </table>
 <p></p>
 <h4>Sec 1 Subject Teachers</h4>
-<p><a href="/files/Parents/Sec_1_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec_1_FTs___Subject_Teachers.pdf</a>
+<p><a href="/files/Parents/Sec_1_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 1 FTs and Subject Teachers.pdf</a>
 </p>
 <p></p>
 <h4>Teachers' Email Address</h4>
