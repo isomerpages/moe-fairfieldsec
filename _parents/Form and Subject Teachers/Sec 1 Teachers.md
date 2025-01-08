@@ -1,9 +1,9 @@
 ---
-title: Sec 1 Form Teachers
+title: Sec 1 Teachers
 permalink: /parents/sec-1-teachers/
 description: ""
 variant: tiptap
-third_nav_title: Form Teachers
+third_nav_title: Form and Subject Teachers
 ---
 <h4>Sec 1 Form Teachers</h4>
 <p></p>
