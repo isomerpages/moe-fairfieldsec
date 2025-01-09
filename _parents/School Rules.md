@@ -16,7 +16,7 @@ _Students need to take ownership of their learning by being present and punctual
 
   
 
-● Attendance in school is compulsory. Absence from school is permitted only when it is supported by a Medical Certificate (MC) or a parent’s letter with valid reasons. Students should not submit more than three excuse letters per semester. Subsequently, students will be booked for Absence Without Valid Reasons, which is deemed as truancy.&nbsp;
+● Attendance in school is compulsory. Absence from school is permitted only when it is supported by a Medical Certificate (MC) or a parent’s letter with valid reasons. Students should not submit more than five excuse letters per semester. Subsequently, students will be booked for Absence Without Valid Reasons, which is deemed as truancy.&nbsp;
 
   
 
