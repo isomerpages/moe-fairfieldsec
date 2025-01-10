@@ -37,3 +37,6 @@ further queries.</p>
 <img style="width: 100%" height="auto" width="100%" alt="O_level_result_QR_.jpg" src="/images/Latest Updates/O_level_result_QR_.jpg">
 </div>
 <p></p>
+<h4><strong>2024 O Level Results Briefing Slides</strong></h4>
+<p><a href="/files/Latest Updates/2024_O_Level_Results_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2024_O_Level_Results_Briefing_Slides.pdf</a>
+</p>
