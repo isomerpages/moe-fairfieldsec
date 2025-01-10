@@ -3,23 +3,129 @@ title: Information and Communication Technology
 permalink: /about-us/our-people/information-and-communication-technology/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-### Information &amp; Communication Technology
-
-<img src="/images/About%20Us/Our%20People/information_and_communication_technology_department_1.jpg" style="width:90%">
-
-
-#### Key Personnel
-
-| Name | Designation | Email |
-|---|---|---|
-| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
-
-
-| Name | Designation | Email |
-|---|---|---|
-| **Mr Lee Yew Ming** | ICT Manager | [lee\_yew\_ming\_a@moe.edu.sg](mailto:lee_yew_ming_a@moe.edu.sg) |
-| **Mdm Ramachandran Sangeetha** | ICT Manager | [ramachandran\_sangeetha@moe.edu.sg](mailto:ramachandran_sangeetha@moe.edu.sg) |
-| **Mr Hadisyafiq Bin Mohd Salleh**  | AV Executive | [hadisyafiq_mohd_salleh@moe.edu.sg](mailto:hadisyafiq_mohd_salleh@moe.edu.sg) |
-| **Mr Dzariff Atiq Bin Mahzan**  | Desktop Engineer | [dzariff.mahzan@ncs.com.sg](mailto:dzariff.mahzan@ncs.com.sg) |
+<h3>Information &amp; Communication Technology</h3>
+<div class="isomer-image-wrapper">
+<img style="width:90%" height="auto" width="100%" src="/images/About%20Us/Our%20People/information_and_communication_technology_department_1.jpg">
+</div>
+<h4>Key Personnel</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nio Qing Hui Brenda</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Information &amp; Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nio_qing_hui_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nio_qing_hui_brenda@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Yew Ming</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yew_ming_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yew_ming_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Ramachandran Sangeetha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ramachandran_sangeetha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramachandran_sangeetha@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Hadisyafiq Bin Mohd Salleh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AV Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hadisyafiq_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hadisyafiq_mohd_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Dzariff Atiq Bin Mahzan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dzariff.mahzan@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">dzariff.mahzan@ncs.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Rogani R Munusamy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rogani.rmunusamy@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">rogani.rmunusamy@ncs.com.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
