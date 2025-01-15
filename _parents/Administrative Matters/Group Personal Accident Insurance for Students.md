@@ -10,7 +10,7 @@ variant: tiptap
 while they are at the school premises, in Singapore or elsewhere, participating
 in school-related activities, including Co-Curricular Activities (CCA).</p>
 <p>You may refer to the factsheet which provides information on the benefit/sum
-assured, coverage and other details. The factsheet can be found <a href="/files/Parents/Admin Matters/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> 
+assured, coverage and other details. The factsheet can be found <a href="/files/Parents/Admin Matters/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>All student accident insurance claims submission are to be submitted electronically.&nbsp;
 Parents/students are to submit their claims online and check the claims
