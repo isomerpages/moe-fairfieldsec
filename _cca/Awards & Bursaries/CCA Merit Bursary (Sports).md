@@ -1,13 +1,433 @@
 ---
 title: CCA Merit Bursary (Sports)
 permalink: /cca/cca-merit-bursary-sports/permalink/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Awards & Bursaries
 ---
-##### **Fairfield CCA Merit Bursary (Sports)**<br>
-
-![](/images/CCA/Sports/CCA_Merit_Bursary_GIF.gif)
-
-<table style="border-collapse:
- collapse;width:480pt" width="623" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1609;width:33pt" width="44"> <col style="mso-width-source:userset;mso-width-alt:11190;width:230pt" width="306"> <col style="mso-width-source:userset;mso-width-alt:2560;width:65pt" width="70"> <col style="mso-width-source:userset;mso-width-alt:3145;width:65pt" width="86"> <col style="mso-width-source:userset;mso-width-alt:4278;width:190pt" width="117"></colgroup><tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:33pt" width="44" class="xl67" height="20">Year</td><td style="border-left:none;width:230pt" width="306" class="xl67">Student Name</td><td style="border-left:none;width:53pt" width="70" class="xl67">Class</td><td style="border-left:none;width:65pt" width="86" class="xl67">Gender</td><td style="border-left:none;width:88pt" width="117" class="xl67">CCA</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2023</td><td style="border-top:none;border-left:none" class="xl68">Kenneth Kwok Ting Fong</td><td style="border-top:none;border-left:none" class="xl68">S1-E</td><td style="border-top:none;border-left:none;width:65pt" width="86" class="xl69">M</td><td style="border-top:none;border-left:none" class="xl71">Volleyball (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2023</td><td style="border-top:none;border-left:none" class="xl68">Jeremy Fang</td><td style="border-top:none;border-left:none" class="xl68">S2-B</td><td style="border-top:none;border-left:none" class="xl68">M</td><td style="border-top:none;border-left:none" class="xl71">Basketball (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2023</td><td style="border-top:none;border-left:none" class="xl68">Tan Kai Jun (Chen Kai Jun)</td><td style="border-top:none;border-left:none" class="xl68">S2-B</td><td style="border-top:none;border-left:none" class="xl68">M</td><td style="border-top:none;border-left:none" class="xl71">Volleyball (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2023</td><td style="border-top:none;border-left:none" class="xl68">Tristan Ong Yu Hng</td><td style="border-top:none;border-left:none" class="xl66">S4-F</td><td style="border-top:none;border-left:none" class="xl66">M</td><td style="border-top:none;border-left:none" class="xl71">Volleyball (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2022</td><td style="border-top:none;border-left:none" class="xl68">Syarifah Nursyakira Binte Muhammad Isadariah</td><td style="border-top:none;border-left:none" class="xl66">S2-H</td><td style="border-top:none;border-left:none" class="xl66">F</td><td style="border-top:none;border-left:none" class="xl71">Volleyball (Girls)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2022</td><td style="border-top:none;border-left:none" class="xl68">Jacque Lim Wee Yu</td><td style="border-top:none;border-left:none" class="xl66">S5-A</td><td style="border-top:none;border-left:none" class="xl66">M</td><td style="border-top:none;border-left:none" class="xl71">Basketball (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2021</td><td style="border-top:none;border-left:none" class="xl68">Hong Yuet Ling</td><td style="border-top:none;border-left:none" class="xl66">S4-B</td><td style="border-top:none;border-left:none" class="xl66">F</td><td style="border-top:none;border-left:none" class="xl71">Badminton (Girls)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2020</td><td style="border-top:none;border-left:none" class="xl68">Nil</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td><td style="border-top:none;border-left:none" class="xl66">&nbsp;</td><td style="border-top:none;border-left:none" class="xl71">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2019</td><td style="border-top:none;border-left:none" class="xl68">Nigel Chua</td><td style="border-top:none;border-left:none" class="xl66">S2-E</td><td style="border-top:none;border-left:none" class="xl66">M</td><td style="border-top:none;border-left:none" class="xl71">Squash (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2019</td><td style="border-top:none;border-left:none" class="xl68">Carissa Tan Jing Wen</td><td style="border-top:none;border-left:none" class="xl66">S2-G2</td><td style="border-top:none;border-left:none" class="xl66">F</td><td style="border-top:none;border-left:none" class="xl71">Volleyball (Girls)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2019</td><td style="border-top:none;border-left:none" class="xl68">Lim Jun Zhan</td><td style="border-top:none;border-left:none" class="xl66">S3-F</td><td style="border-top:none;border-left:none" class="xl66">M</td><td style="border-top:none;border-left:none" class="xl71">Volleyball (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2018</td><td style="border-top:none;border-left:none" class="xl68">Woo Si Man</td><td style="border-top:none;border-left:none" class="xl66">S2-D</td><td style="border-top:none;border-left:none" class="xl66">F</td><td style="border-top:none;border-left:none" class="xl71">Badminton (Girls)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2018</td><td style="border-top:none;border-left:none" class="xl68">Gabriel Soon</td><td style="border-top:none;border-left:none" class="xl66">S2-D</td><td style="border-top:none;border-left:none" class="xl66">M</td><td style="border-top:none;border-left:none" class="xl71">Squash (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2018</td><td style="border-top:none;border-left:none" class="xl68">Jerome Aw Jin Ming</td><td style="border-top:none;border-left:none" class="xl66">S4-A</td><td style="border-top:none;border-left:none" class="xl66">M</td><td style="border-top:none;border-left:none" class="xl71">Squash (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2018</td><td style="border-top:none;border-left:none" class="xl68">Debbie Chew</td><td style="border-top:none;border-left:none" class="xl66">S4-C</td><td style="border-top:none;border-left:none" class="xl66">F</td><td style="border-top:none;border-left:none" class="xl71">Volleyball (Girls)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2017</td><td style="border-top:none;border-left:none" class="xl68">Jerome Aw Jin Ming</td><td style="border-top:none;border-left:none" class="xl66">S3-A</td><td style="border-top:none;border-left:none" class="xl66">M</td><td style="border-top:none;border-left:none" class="xl71">Squash (Boys)</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl66" height="20">2017</td><td style="border-top:none;border-left:none" class="xl68">Josephine Lim Siu Wen</td><td style="border-top:none;border-left:none" class="xl66">S3-B</td><td style="border-top:none;border-left:none" class="xl66">F</td><td style="border-top:none;border-left:none" class="xl71">Badminton (Girls)</td></tr></tbody></table>
+<h5><strong>Fairfield CCA Merit Bursary (Sports)</strong><br></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/CCA_Merit_Bursary_GIF.gif">
+</div>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gender</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Ai Xuan Lovelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S1-C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Kwok Ting Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leon Toh Jin Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darlene Ri Xin Bte Hamza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tee Chee Wee, Jovan Lucius (Zheng Zhiwei)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Football (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evangeline Lee En Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Kwok Ting Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S1-E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jeremy Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kai Jun (Chen Kai Jun)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tristan Ong Yu Hng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Syarifah Nursyakira Binte Muhammad Isadariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jacque Lim Wee Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5-A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Yuet Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nigel Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squash (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Carissa Tan Jing Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Jun Zhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woo Si Man</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gabriel Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2-D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squash (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jerome Aw Jin Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squash (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debbie Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jerome Aw Jin Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squash (Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Josephine Lim Siu Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3-B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Girls)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
