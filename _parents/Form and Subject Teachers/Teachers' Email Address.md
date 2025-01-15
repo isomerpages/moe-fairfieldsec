@@ -319,15 +319,6 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Gek Meng Wendy (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_gek_meng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_gek_meng_wendy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lim Siew Ein (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -566,6 +557,15 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sean_lee_mien_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sean_lee_mien_chung@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sui-Low Gek Meng Wendy (Mrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_gek_meng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_gek_meng_wendy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
