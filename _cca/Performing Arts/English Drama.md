@@ -21,9 +21,7 @@ variant: markdown
 <b>Training Days &amp; Time:</b><br>
 
 Wednesday: 3.30 pm – 6.00 pm&nbsp;<br>
-
 Friday: 2.00 pm – 5.00 pm&nbsp;<br><br>
-
 	
 <b>Teachers In Charge:</b><br>
 
@@ -31,13 +29,10 @@ Ms Tabitha Lee (I/C)  <br>
 Ms Puah Hui Ze <br>
 Mdm Ai Ling Tan	<br><br>
 
-  
-
 <b>Our Instructor</b><br><br>
 
 <img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/CCA/PA/Mdm_Naquiah.jpg">
 Mdm Naquiah has been involved in the arts since she was five years old. She enjoys working with youth in the arts the most, as it gives her insight into ever-changing trends. She has worked on various arts projects, such as arts and music festivals, both locally and abroad. Above all, teaching drama holds a special place in her heart. For her, teaching is not only about imparting knowledge to her students but also about learning from them to stay relevant. It is always a great honour to be a small part of their lives through the arts, nurturing the future patrons and practitioners of the arts industry.<br><br><br>
-	
 	
 <b>English Drama Past Public Performances</b><br>
 	
