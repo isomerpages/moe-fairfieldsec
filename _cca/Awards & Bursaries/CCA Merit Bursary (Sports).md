@@ -92,7 +92,7 @@ third_nav_title: Awards & Bursaries
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Darlene Ri Xin Bte Hamza</p>
+<p>Darlene Ri Xin Binte Hamza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2-H</p>
