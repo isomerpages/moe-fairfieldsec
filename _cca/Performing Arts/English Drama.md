@@ -3,6 +3,7 @@ title: English Drama
 permalink: /cca/Performing-Arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### English Drama
 
@@ -26,12 +27,15 @@ Friday: 2.00 pm – 5.00 pm&nbsp;<br><br>
 	
 <b>Teachers In Charge:</b><br>
 
-Ms. Yen Ding Yi (I/C)  <br>
-Ms. Tabitha Lee  <br><br>
+Ms Tabitha Lee (I/C)  <br>
+Ms Puah Hui Ze <br>
+Mdm Ai Ling Tan	<br><br>
 
   
 
 <b>Our Instructor</b><br><br>
+
+
 	
 <img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/claire.png">	Ms Claire Devine is Fairfield English Drama's much-loved instructor. She is the Artistic Director of Buds Theatre, a home for artists and emerging artists to explore their talent and cultivate their work. A graduate of the prestigious Guildford School of Acting UK., Claire has been living and working in Singapore as a director, actor and educator for the past 20 years.<br><br><br>
 
