@@ -181,7 +181,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sean Lee mien chung</strong>
+<p><strong>Mr Sean Lee Mien Chung</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,19 +267,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kho_eng_kiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kho_eng_kiong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Ho Ngai Kuen Magdalene</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_ngai_kuen_magdalene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ngai_kuen_magdalene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
