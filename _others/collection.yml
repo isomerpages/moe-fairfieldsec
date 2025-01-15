@@ -2,7 +2,7 @@ collections:
   others:
     output: true
     order:
-      - 2025 Sec 1 Registration/Financial Assistance Scheme.md
+      - 2025 Sec 1 Registration/.keep
       - 2025 Sec 1 Registration/Sec 1 Registration Exercise (2025 Intake).md
       - 2025 Sec 1 Registration/Sale of Textbooks, Stationery and School
         Attire.md
@@ -13,6 +13,7 @@ collections:
       - 2025 Sec 1 Registration/Academic Information.md
       - 2025 Sec 1 Registration/CCA Information.md
       - 2025 Sec 1 Registration/Appeal for Transfer.md
+      - 2025 Sec 1 Registration/Financial Assistance Scheme.md
       - 2025 Sec 1 Registration/Student SEN Form.md
       - 2025 Sec 1 Registration/School & Miscellaneous Fees.md
       - 2025 Sec 1 Registration/Consent for Dental Services.md
@@ -20,7 +21,6 @@ collections:
       - 2025 Sec 1 Registration/Access to School Car Park.md
       - 2025 Sec 1 Registration/Parents Gateway.md
       - 2025 Sec 1 Registration/Personal Learning Device.md
-      - 2025 Sec 1 Registration/.keep
       - School Canteen Advertisement.md
       - Student Device Briefing.md
       - National Digital Literacy Prog/Resources for Parents.md
