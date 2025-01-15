@@ -319,7 +319,7 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Gek Meng Wendy (Mr)</p>
+<p>Low Gek Meng Wendy (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_gek_meng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_gek_meng_wendy@moe.edu.sg</a>
