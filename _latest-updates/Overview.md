@@ -5,6 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3>Latest Updates</h3>
+<p></p>
+<h3>Principal’s Dialogue with Sec 1 Parents</h3>
+<h5></h5>
+<p><a href="https://drive.google.com/file/d/1XS-BgJbv6eGxm9ygLcDVXQJdSt8Jnc6I/view?usp=drive_link" rel="noopener nofollow" target="_blank">10-01-2025 Sec 1 Meet the Parents</a>
+</p>
+<p></p>
+<hr>
 <h4>Release of GCE O Level Examination Results <br></h4>
 <p><a href="/release-of-gce-o-level-examination-results/" rel="noopener nofollow" target="_blank">Read More...</a>
 </p>
