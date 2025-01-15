@@ -35,10 +35,10 @@ Mdm Ai Ling Tan	<br><br>
 
 <b>Our Instructor</b><br><br>
 
-
+<img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/CCA/PA/Mdm_Naquiah.jpg">
+Mdm Naquiah has been involved in the arts since she was five years old. She enjoys working with youth in the arts the most, as it gives her insight into ever-changing trends. She has worked on various arts projects, such as arts and music festivals, both locally and abroad. Above all, teaching drama holds a special place in her heart. For her, teaching is not only about imparting knowledge to her students but also about learning from them to stay relevant. It is always a great honour to be a small part of their lives through the arts, nurturing the future patrons and practitioners of the arts industry.<br><br><br>
 	
-<img align="left" style="width:183px;height:240px;margin-right:15px;" src="/images/claire.png">	Ms Claire Devine is Fairfield English Drama's much-loved instructor. She is the Artistic Director of Buds Theatre, a home for artists and emerging artists to explore their talent and cultivate their work. A graduate of the prestigious Guildford School of Acting UK., Claire has been living and working in Singapore as a director, actor and educator for the past 20 years.<br><br><br>
-
+	
 <b>English Drama Past Public Performances</b><br>
 	
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Fairfield English Drama Devising Theatre 2022: The Tale of Lilith and Atlas" src="https://www.youtube.com/embed/k7fcpKbfeUo?list=PLqd9NMZKhyOqEGkW9d40jZcml6IvRGSSx" height="389" width="765"></iframe>
@@ -98,8 +98,8 @@ In a typical year, our Drama club produces one major production. In the drama sh
 
 <b>List of Past Public Performances</b><br>
 
-• 2022: "Devising Theatre - Creating Performance Through Play" (Online)  <br>
-    
+• 2024: "Never Have I Ever"<br>	
+• 2022: "Devising Theatre - Creating Performance Through Play" (Online)<br>
 • 2021: "James and the Giant Peach" (Online)&nbsp;<br>
 • 2019: "A Night at the Theatre"<br>
 • 2018: "The Women of Fairfield"<br>
