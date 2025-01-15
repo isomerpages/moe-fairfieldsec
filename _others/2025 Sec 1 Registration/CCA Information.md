@@ -3,7 +3,7 @@ title: CCA Information
 permalink: /secondary-1-cca-registration/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Registration
+third_nav_title: 2025 Sec 1 Registration
 ---
 <h2><strong>Secondary 1 CCA Registration</strong>&nbsp;</h2>
 <p>CCA Experience for Uniformed groups, Clubs, Sports and Performing Arts

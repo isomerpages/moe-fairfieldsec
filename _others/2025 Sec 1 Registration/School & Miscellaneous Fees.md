@@ -3,7 +3,7 @@ title: School & Miscellaneous Fees
 permalink: /school-miscellaneous-fees-2025/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Registration
+third_nav_title: 2025 Sec 1 Registration
 ---
 <h2>School / Miscellaneous Fees for 2025</h2>
 <table style="width: 644px;">

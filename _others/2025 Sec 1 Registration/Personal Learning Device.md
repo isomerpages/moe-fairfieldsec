@@ -3,7 +3,7 @@ title: Personal Learning Device
 permalink: /personal-learning-device/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Registration
+third_nav_title: 2025 Sec 1 Registration
 ---
 <h2>Personal Learning Device</h2>
 <p><strong>Please DO NOT purchase any computing devices yet. The school will provide you with more information on the Personalised Digital Learning Programme (PDLP) sometime in January 2025.</strong>

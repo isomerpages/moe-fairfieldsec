@@ -2,24 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Sec 1 Registration/.keep
-      - Sec 1 Registration/Sec 1 Registration Exercise (2025 Intake).md
-      - Sec 1 Registration/Sale of Textbooks, Stationery and School Attire.md
-      - Sec 1 Registration/First Day Instructions.md
-      - Sec 1 Registration/Secondary 1 Orientation Programme.md
-      - Sec 1 Registration/Principal’s Dialogue and Installation Night
-        Programme.md
-      - Sec 1 Registration/Academic Information.md
-      - Sec 1 Registration/CCA Information.md
-      - Sec 1 Registration/Appeal for Transfer.md
-      - Sec 1 Registration/Financial Assistance Scheme.md
-      - Sec 1 Registration/Student SEN Form.md
-      - Sec 1 Registration/School & Miscellaneous Fees.md
-      - Sec 1 Registration/Consent for Dental Services.md
-      - Sec 1 Registration/Consent for HPV Vaccination for Sec 1 Girls.md
-      - Sec 1 Registration/Access to School Car Park.md
-      - Sec 1 Registration/Parents Gateway.md
-      - Sec 1 Registration/Personal Learning Device.md
       - Partners In Education/.keep
       - Partners In Education/Overview.md
       - Partners In Education/The Team.md

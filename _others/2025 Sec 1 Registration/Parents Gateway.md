@@ -3,7 +3,7 @@ title: Parents Gateway
 permalink: /parents-gateway/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Registration
+third_nav_title: 2025 Sec 1 Registration
 ---
 <h2>Parents Gateway</h2>
 <p>The Parent Gateway (PG) Mobile App is an initiative by MOE to enable parents

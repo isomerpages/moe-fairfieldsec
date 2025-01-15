@@ -3,7 +3,7 @@ title: Sec 1 Registration Exercise (2025 Intake)
 permalink: /2025-sec-1-registration/
 variant: markdown
 description: ""
-third_nav_title: Sec 1 Registration
+third_nav_title: 2025 Sec 1 Registration
 ---
 <h2><strong>Welcome, Secondary 1 Students of 2025!</strong></h2>
 <p>Congratulations on your posting to Fairfield Methodist School (Secondary). It will be a new phase of your development, and we are happy to welcome you to be part of the family!&nbsp;</p>
