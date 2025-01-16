@@ -3,6 +3,7 @@ title: Dance
 permalink: /cca/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Dance
 
@@ -28,8 +29,8 @@ Wednesday : 3.30 pm – 6.00 pm<br><br>
 <b>Teachers In Charge:</b><br>
 
 Ms Liong Hui Min (I/C)<br>
-
-Ms Serena Foo Choon Huay<br><br>
+Ms Olivia Tan (2 I/C)<br>
+Mdm Yvonne Khoo<br><br>
 
 <b> Our Instructor</b><br><br>
 	
