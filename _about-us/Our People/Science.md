@@ -150,7 +150,8 @@ variant: tiptap
 <p>Sec 1C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kamariah_sajat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamariah_sajat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

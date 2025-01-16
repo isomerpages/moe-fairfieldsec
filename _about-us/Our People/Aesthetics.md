@@ -170,7 +170,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms &nbsp;Lim Siew Ein Josephine</strong>
+<p><strong>Ms Joanna D/O George</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanna@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Khoo Lee Kuan Susanna</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khoo_lee_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_lee_kuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein Josephine</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
