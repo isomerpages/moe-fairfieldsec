@@ -27,7 +27,7 @@ Friday: 2.00 pm - 4.30 pm  <br><br>
 <b>Teachers In Charge:</b><br>
 
 Mr Joel Loke (I/C)&nbsp;<br>
-
+Mr Lim Yu Sim<br>
 Ms Lim Siew En Josephine<br><br>
 
   
