@@ -23,8 +23,9 @@ Wednesday (Sec 1): 3.30 pm - 5.30 pm <br>
 Friday (Sec 2 - 4): 2.00 pm - 4.00 pm <br><br>
 
 <b>Teachers In Charge:</b><br>
-Ms Desiree Tham (I/C)<br>
-Ms Samsiah (2 I/C)<br>
+Ms Nurul Afia (I/C)<br>
+Ms Samsiah<br>
+Mr Amos Heng<br>	
 Mr Hadi<br><br>
 
 <b>Social Media:</b><br>
