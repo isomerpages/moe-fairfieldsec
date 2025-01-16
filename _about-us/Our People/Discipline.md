@@ -199,7 +199,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Christian Ministry Staff</p>
+<p>Assistant Christian Ministry Staff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tan_Ai_Cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Ai_Cheng@schools.gov.sg</a>
