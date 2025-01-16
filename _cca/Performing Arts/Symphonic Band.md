@@ -51,9 +51,10 @@ variant: markdown
 <p>
 <br>
 <br><strong>Teachers In Charge:</strong> 
-<br>Miss Tan Yi Qian (I/C)
-<br>Mr James Quek
-<br>Miss&nbsp;Siti Ainah
+<br>Ms Tan Yi Qian (I/C)
+<br>Mr Alester Tan
+<br>Mdm Haliza	
+<br>Ms Siti Ainah
 <br>
 <br><strong>Conductor</strong> 
 <br>Mr Wong Yin Xuan&nbsp;

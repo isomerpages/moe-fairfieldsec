@@ -3,6 +3,7 @@ title: Robotics Club
 permalink: /cca/Clubs-and-Societies/robotics-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Robotics Club
 
@@ -26,8 +27,9 @@ Saturday (Competition venues): Whole day  <br><br>
 
 <b>Teachers In Charge:</b><br>
 
-Mr Keith Liew (Advisor)  <br>
-Ms Lim Chee Chin (I/C)  <br>
+Ms Lim Chee Chin (I/C)<br>
+Mdm Aminah Beevi<br>
+Mr Kho Eng Kiong Patrick<br>	
 Mdm Sangeetha (Volunteer)
 </p>
 </div>
