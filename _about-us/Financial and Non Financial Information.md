@@ -119,13 +119,23 @@ school.</p>
 <td rowspan="1" colspan="1">
 <p>For current year
 <br>
-<br>• Sec 1 – 4 Flex Programmes
+<br>• Enrichment Tuesdays
 <br>• Learning Journey
 <br>• Geography/History Investigation
 <br>•ITE Elective Modules
-<br>• Blackmore Leadership Training Programme
-<br>• Enrichment Programmes for N(T) Students
+<br>• Sophia Blackmore Leadership Training Programme
 <br>• Gear Up Programmes</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Voice of a Fairsian Programme</p>
+</li>
+<li>
+<p>Learning Festival</p>
+</li>
+<li>
+<p>Sec 3 FLEX Challenges</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
