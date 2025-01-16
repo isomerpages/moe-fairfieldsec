@@ -121,8 +121,7 @@ school.</p>
 <br>
 <br>• Enrichment Tuesdays
 <br>• Learning Journey
-<br>• Geography/History Investigation
-<br>•ITE Elective Modules
+<br>• ITE Elective Modules
 <br>• Sophia Blackmore Leadership Training Programme
 <br>• Gear Up Programmes</p>
 <ul data-tight="true" class="tight">
