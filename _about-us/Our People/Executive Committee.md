@@ -3,46 +3,447 @@ title: Executive Committee
 permalink: /about-us/our-people/executive-committee/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-### Executive Committee
-
-<img src="/images/About%20Us/Our%20People/executive_committee_2.jpg" style="width:100%">
-
-
+<h3>Executive Committee</h3>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/executive_committee_2.jpg">
+</div>
+<p>
 <br>
-
-| Name | Designation | Email |
-|---|---|---|
-| **Mr Wee Tat Chuen** | Principal | [WEE\_Tat\_Chuen@schools.gov.sg](mailto:WEE_Tat_Chuen@schools.gov.sg) |
-| **Mr Jeromy Ngian Kun Chuan** | Vice-Principal  | [Jeromy_NGIAN@schools.gov.sg](mailto:Jeromy_NGIAN@schools.gov.sg) |
-| **Ms Stella Koh Li Hui** | Vice-Principal  | [stella\_koh\_li\_hui@schools.gov.sg](mailto:stella_koh_li_hui@schools.gov.sg) |
-| **Mdm Chua Jiayin Veronica** | Vice-Principal (Administration)| [chua\_jiayin@schools.gov.sg](mailto:chua_jiayin@schools.gov.sg) |
-| **Mr Lim Yuen Tuck** | School Staff Developer | [lim\_yuen\_tuck@moe.edu.sg](mailto:lim_yuen_tuck@moe.edu.sg) |
-| **Mrs Kwok Jiapei** | HOD English Language &amp; Literature  | [chang\_jiapei@moe.edu.sg](mailto:chang_jiapei@moe.edu.sg) |
-| **Ms Lee Sok Fun** | HOD Mother Tongue Languages |  [lee\_sok\_fun@moe.edu.sg](mailto:lee_sok_fun@moe.edu.sg) |
-| **Ms Lee Chee Peng** | HOD Mathematics &amp; CPA | [lee\_chee\_peng@moe.edu.sg](mailto:lee_chee_peng@moe.edu.sg) |
-| **Mr Liew Hoe Meng Keith** | HOD Science | [keith\_liew\_hoe\_meng@moe.edu.sg](mailto:keith_liew_hoe_meng@moe.edu.sg) |
-| **Mr Chua Chang Fong** | HOD Aesthetics | [chua\_chang\_fong@moe.edu.sg](mailto:chua_chang_fong@moe.edu.sg) |
-| **Mr Ng Hun Boon Francis** | HOD PE &amp; CCA | [ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg) |
-| **Mr Li Weihan Joel** | HOD Character &amp; Citizenship Education | [li\_weihan\_joel@moe.edu.sg](mailto:li_weihan_joel@moe.edu.sg) |
-| **Mr Tan Li Ming Glen** | HOD Special Educational Needs | [glen\_tan\_li\_ming@moe.edu.sg](mailto:glen_tan_li_ming@moe.edu.sg) |
-| **Mr Chia Wey Ling Vincent** | HOD Discipline | [vincent\_chia\_wey\_ling@moe.edu.sg](mailto:vincent_chia_wey_ling@moe.edu.sg) |
-| **Mr Wee Guoyuan** | HOD Humanities (covering) | [wee\_guoyuan@moe.edu.sg](mailto:wee_guoyuan@moe.edu.sg) |
-| **Ms Nio Qing Hui Brenda** | HOD Information &amp; Communication Technology  | [nio\_qing\_hui\_brenda@moe.edu.sg](mailto:nio_qing_hui_brenda@moe.edu.sg) |
-| **Ms Koh Wei Shan Clarissa** | Year Head ( Upper Sec) | [koh\_wei\_shan\_clarissa@moe.edu.sg](mailto:koh_wei_shan_clarissa@moe.edu.sg) |
-| **Mr Loh Youn Leong Eric** | Year Head ( Lower Sec ) | [loh\_youn\_leong\_eric@moe.edu.sg](mailto:loh_youn_leong_eric@moe.edu.sg) |
-| **Mr Yap Hock Heng** | Assistant Year Head (Upper Sec) | [yap\_hock\_heng@moe.edu.sg](mailto:yap_hock_heng@moe.edu.sg) |
-| **Ms Trixie Chan Thing Lee** | Assistant Year Head (Lower Sec) | [trixie\_chan\_thing\_lee@moe.edu.sg](mailto:trixie_chan_thing_lee@moe.edu.sg  ) |
-| **Mr Guo Enliang  Joseph** | LH English Language | [guo\_enliang\_joseph@moe.edu.sg](mailto:guo_enliang_joseph@moe.edu.sg) |
-| **Mr Ho Wee Yew Wilson** | LH Mathematics | [wilson\_ho\_wee\_yew@moe.edu.sg](mailto:wilson_ho_wee_yew@moe.edu.sg) |
-| **Mdm Tan Sor Tin** | SH Literature | [tan\_sor-tin@moe.edu.sg](mailto:tan_sor-tin@moe.edu.sg) |
-| **Ms Chen Minhua** | SH Mother Tongue Languages | [chen\_minhua@moe.edu.sg](mailto:chen_minhua@moe.edu.sg)
-| **Mr Tan Chang Ci** | SH Chemistry | [tan\_chang\_ci@moe.edu.sg](mailto:tan_chang_ci@moe.edu.sg) |
-| **Mr Tan Aik Hwee Alester** | SH Co-Curricular Activities | [tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg) |
-| **Ms Shamsiah Bte Zainalabidin** | SH Character &amp; Citizenship Education (Lifeskills Curriculum) | [shamsiah\_zainalabidin@moe.edu.sg](mailto:shamsiah_zainalabidin@moe.edu.sg) |
-| **Mr Loke Liang En Joel** | SH Social Studies  | [loke\_liang\_en\_joel@moe.edu.sg](mailto:loke_liang_en_joel@moe.edu.sg) | 
-| **Mr Dannish Kurniago** | SH Student Leadership | [dannish\_kurniago@moe.edu.sg](mailto:dannish_kurniago@moe.edu.sg) | 
-| **Ms Ong Huey Ying** | Administration Manager | [ong\_huey\_ying@schools.gov.sg](mailto:ong_huey_ying@schools.gov.sg) |
-| **Mr Mohamed Malik Bin Shahal** | Operations Manager | [mohamed\_malik\_shahal@schools.gov.sg](mailto:mohamed_malik_shahal@schools.gov.sg) |
-|
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wee Tat Chuen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:WEE_Tat_Chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WEE_Tat_Chuen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jeromy Ngian Kun Chuan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Jeromy_NGIAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeromy_NGIAN@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Stella Koh Li Hui</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:stella_koh_li_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">stella_koh_li_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Chua Jiayin Veronica</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_jiayin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jiayin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Yuen Tuck</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yuen_tuck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yuen_tuck@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Kwok Jiapei</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_jiapei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_jiapei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Sok Fun</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_sok_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_fun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Chee Peng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics &amp; CPA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chee_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Liew Hoe Meng Keith</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:keith_liew_hoe_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_liew_hoe_meng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Chang Fong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_chang_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chang_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ng Hun Boon Francis</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Li Weihan Joel</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_weihan_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_weihan_joel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Li Ming Glen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Special Educational Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:glen_tan_li_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">glen_tan_li_ming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chia Wey Ling Vincent</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vincent_chia_wey_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vincent_chia_wey_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wee Guoyuan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wee_guoyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_guoyuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nio Qing Hui Brenda</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Information &amp; Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nio_qing_hui_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nio_qing_hui_brenda@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Koh Wei Shan Clarissa</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head ( Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_wei_shan_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_shan_clarissa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loh Youn Leong Eric</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head ( Lower Sec )</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_youn_leong_eric@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_youn_leong_eric@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Yap Hock Heng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_hock_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hock_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Trixie Chan Thing Lee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:trixie_chan_thing_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trixie_chan_thing_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Guo Enliang Joseph</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:guo_enliang_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_enliang_joseph@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ho Wee Yew Wilson</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wilson_ho_wee_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wilson_ho_wee_yew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Tan Sor Tin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_sor-tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sor-tin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chen Minhua</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_minhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_minhua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Chang Ci</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chang_ci@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chang_ci@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Aik Hwee Alester</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_aik_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Shamsiah Bte Zainalabidin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Character &amp; Citizenship Education (Lifeskills Curriculum)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shamsiah_zainalabidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamsiah_zainalabidin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Loke Liang En Joel</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loke_liang_en_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_liang_en_joel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Dannish Kurniago</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dannish_kurniago@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ong Huey Ying</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_huey_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_huey_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Mohamed Malik Bin Shahal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_malik_shahal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_malik_shahal@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
