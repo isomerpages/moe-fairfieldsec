@@ -123,18 +123,11 @@ school.</p>
 <br>• Learning Journey
 <br>• ITE Elective Modules
 <br>• Sophia Blackmore Leadership Training Programme
-<br>• Gear Up Programmes</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Voice of a Fairsian Programme</p>
-</li>
-<li>
-<p>Learning Festival</p>
-</li>
-<li>
-<p>Sec 3 FLEX Challenges</p>
-</li>
-</ul>
+<br>• Gear Up Programmes
+<br>• Voice of a Fairsian Programme
+<br>• Learning Festival
+<br>• Sec 3 FLEX Challenges</p>
+<p></p>
 </td>
 </tr>
 <tr>
