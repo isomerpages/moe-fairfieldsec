@@ -195,7 +195,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Gregory Loh</strong>
+<p><strong>Mr Loh Kian Fook, Gregory</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
