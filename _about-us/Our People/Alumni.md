@@ -10,16 +10,11 @@ variant: tiptap
 <img style="width:80%" height="auto" width="100%" src="/images/op16.png">
 </div>
 <h4>History of the Alumni Association</h4>
-<ul>
-<li>
 <p>The Fairfield Methodist Schools Alumni Association was formed in 1951.
 The association was formed so that old girls who have left the school can
 interact with their teachers and friends through activities organised by
 the association. The founding members included Mrs Lim Bock Kee, several
-teachers and alumni.&nbsp;
-<br>
-<br>
-</p>
+teachers and alumni.</p>
 <p>The early years saw the association:&nbsp;
 <br>
 </p>
@@ -53,7 +48,12 @@ events for alumni, to support the school and to promote the networking
 of alumni with teachers and other stakeholders.</p>
 <p></p>
 <h4>2024/2025 Executive Committee Members<br></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -274,8 +274,6 @@ of alumni with teachers and other stakeholders.</p>
 </tbody>
 </table>
 <p></p>
-</li>
-</ul>
 <h4>Contact Us</h4>
 <p></p>
 <p>• <strong>Website: <a href="https://fairfieldalumni.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://fairfieldalumni.org.sg/</a>&nbsp;</strong> 
