@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Awards & Bursaries
 ---
 <h5><strong>Fairfield CCA Merit Bursary (Sports)</strong><br></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/CCA_Merit_Bursary_GIF.gif">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/CCA_Merit_Bursary_GIF_Latest_4.gif">
+</div>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
