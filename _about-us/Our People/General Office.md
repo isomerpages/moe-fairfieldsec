@@ -26,7 +26,7 @@ variant: markdown
 | **Mdm Norsuhaila Binte Mostapa** | Administrative Executive | [norsuhaila\_mostapa@moe.edu.sg](mailto:norsuhaila_mostapa@moe.edu.sg) |
 | **Mdm Juliah Binte Sandib** | Corporate Support Officer | [juliah\_sandib@moe.edu.sg](mailto:juliah\_sandib@moe.edu.sg) |
 | **Mdm Sri Dewi D/O Pushpangathan** | Corporate Support Officer | [sri_dewi_pushpangathan@moe.edu.sg](mailto:sri_dewi_pushpangathan@moe.edu.sg) |
-| **Mdm Noorzidah Binte Abdul Jalil** | Librarian | [noorzidah\_abdul\_jalil@moe.edu.sg](mailto:noorzidah_abdul_jalil@moe.edu.sg) |
+| **Ms Kelly Teo Chwee Lee** | Librarian | [noorzidah\_abdul\_jalil@moe.edu.sg](mailto:noorzidah_abdul_jalil@moe.edu.sg) |
 
 
 
