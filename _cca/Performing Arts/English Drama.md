@@ -26,7 +26,7 @@ Friday: 2.00 pm – 5.00 pm&nbsp;<br><br>
 <b>Teachers In Charge:</b><br>
 
 Ms Tabitha Lee (I/C)  <br>
-Ms Puah Hui Ze <br>
+Ms Puah Hui Sze <br>
 Mdm Ai Ling Tan	<br><br>
 
 <b>Our Instructor</b><br><br>
