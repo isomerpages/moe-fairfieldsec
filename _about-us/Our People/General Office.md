@@ -141,15 +141,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kelly Teo Chwee Lee</strong>
+<p><strong>Ms Lim May May</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_chwee_lee_kelly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chwee_lee_kelly@moe.edu.sg</a> 
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
