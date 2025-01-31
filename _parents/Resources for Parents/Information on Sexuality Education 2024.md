@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Resources for Parents
 variant: markdown
 ---
-### Information on Sexuality Education 2024
+### Information on Sexuality Education 2025
 
 **MOE SEXUALITY EDUCATION IN SCHOOLS**
 
