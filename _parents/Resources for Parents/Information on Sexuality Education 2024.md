@@ -723,51 +723,8 @@ at the start of the year and is also downloadable <a href="/files/Parents/Resour
 The completed form is to be submitted by 14/02/2025.</p>
 <p>12.Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Parents/Resources for Parents/2025_SEd_ANNEX_B.pdf" rel="noopener nofollow" target="_blank">here</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>. The completed form is to be submitted by 14/02/2025.</p>
+at the start of the year and is also downloadable <a href="/files/Parents/Resources for Parents/2025_SEd_ANNEX_B.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 14/02/2025.</p>
 <p>13. Parents can contact the school at 67788702 or fmss@moe.edu.sg for
 discussion or to seek clarification about the school’s sexuality education
 programme.</p>
