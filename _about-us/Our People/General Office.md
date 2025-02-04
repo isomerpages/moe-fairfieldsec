@@ -148,7 +148,8 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_may_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_may_may@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
