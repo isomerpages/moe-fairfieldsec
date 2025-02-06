@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <hr>
 <h4>2025 Sem 1 Class Timetable</h4>
-<p><a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/latest-updates/2025-sem1-class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
+<p><a href="https://www.fairfieldmethodistsec.moe.edu.sg/latest-updates/2025-sem1-class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
 </p>
 <hr>
 <h4>Release of GCE N(A) &amp; N(T) Examination Results 2024</h4>
@@ -23,11 +23,11 @@ variant: tiptap
 </p>
 <hr>
 <h4>Student Well-being</h4>
-<p><a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/co-curriculum/student-well-being/overview/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
+<p><a href="/co-curriculum/student-well-being/overview/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
 </p>
 <hr>
 <h4>Personalised Digital Literacy Programme (PDLP)</h4>
-<p><a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/pdlp/overview/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
+<p><a href="/parents/pdlp/overview/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
 </p>
 <hr>
 <p></p>
