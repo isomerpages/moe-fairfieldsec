@@ -48,45 +48,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lin Tong Shen (2010)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Yi Xiang (2011)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheong Wai Kian (2012)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Darius Teo Jun Keat (2015)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Xu Ligen (2014)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Hong Ying (2015)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dylon Lawrence Han (2014)
-<br>
-</p>
+<p>Tan Kay Choon (2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -94,9 +56,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Samuel Tay (2014)
-<br>
-</p>
+<p>Koen Etienne Tan (2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -104,9 +64,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Tan Jia Jun (2015)
-<br>
-</p>
+<p>Tan Min Ern, Daniel (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -114,9 +72,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sean Ho Wen Bin (2015)
-<br>
-</p>
+<p>Matthew Toh Kai Jie (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,9 +80,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tyson Ng Gen Howe (2016)
-<br>
-</p>
+<p>Fu Houjun, Luke (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,9 +88,31 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jeremy Ng (2016)
-<br>
-</p>
+<p>Lin Tong Shen (2010)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yi Xiang (2011)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheong Wai Kian (2012)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darius Teo Jun Keat (2015)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xu Ligen (2014)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Hong Ying (2015)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dylon Lawrence Han (2014)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,9 +120,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caleb Foo (2017)
-<br>
-</p>
+<p>Samuel Tay (2014)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -154,9 +128,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Guan Yu (2018)
-<br>
-</p>
+<p>Bryan Tan Jia Jun (2015)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -164,9 +136,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zacharia Aslam (2019)
-<br>
-</p>
+<p>Sean Ho Wen Bin (2015)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -174,9 +144,7 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amos Prem (2019)
-<br>
-</p>
+<p>Tyson Ng Gen Howe (2016)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -184,9 +152,47 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rahul Venkata Mallavarapu (2019)
-<br>
-</p>
+<p>Jeremy Ng (2016)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Caleb Foo (2017)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Guan Yu (2018)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zacharia Aslam (2019)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Amos Prem (2019)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rahul Venkata Mallavarapu (2019)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
