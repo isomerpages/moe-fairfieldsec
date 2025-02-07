@@ -427,7 +427,6 @@ programmes such as Exercise Wallaby in Australia.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Unit Recognition Award (Year of Assessment 2021)</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -445,14 +444,6 @@ programmes such as Exercise Wallaby in Australia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>HQNCC Precision Drill Squad Competition National Finals 2022</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -466,14 +457,6 @@ programmes such as Exercise Wallaby in Australia.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Top 2 &amp; Representation</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -544,7 +527,7 @@ programmes such as Exercise Wallaby in Australia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Unit Recognition Award (Year of Assessment 2019)<br></strong>
+<p><strong>Unit Recognition Award (Year of Assessment 2019)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -577,7 +560,7 @@ programmes such as Exercise Wallaby in Australia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Unit Recognition Award (Year of Assessment 2018)<br></strong>
+<p><strong>Unit Recognition Award (Year of Assessment 2018)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
