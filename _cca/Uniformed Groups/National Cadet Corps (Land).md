@@ -326,6 +326,50 @@ programmes such as Exercise Wallaby in Australia.</p>
 <li>
 <p>Achievements</p>
 <p></p>
+<p><strong>2024</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Unit Recognition Award (Year of Assessment 2023)</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Distinction</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCC Outstanding Cadet Award 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MSG Lim Yi Kai Robbie</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024 National Precision Drill Squad Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2nd (District)</strong>
+</p>
+<p><strong>Top 5 (National)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2023</strong>
 <br>
 </p>
@@ -337,7 +381,7 @@ programmes such as Exercise Wallaby in Australia.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Unit Recognition Award (Year of Assessment 2022)<br></strong>
+<p><strong>Unit Recognition Award (Year of Assessment 2022)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,17 +391,17 @@ programmes such as Exercise Wallaby in Australia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NCC Outstanding Cadet Award 2023<br></strong>
+<p><strong>NCC Outstanding Cadet Award 2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MSG Fu Houjun, Luke<br></strong>
+<p><strong>MSG Fu Houjun, Luke</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2023 National Precision Drill Squad Competition<br></strong>
+<p><strong>2023 National Precision Drill Squad Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
