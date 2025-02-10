@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 <p>Wednesday: 3.30 pm – 6.00 pm [PDS Training: Sec. 1 (from Semester 2),
 Sec. 2 and selected Sec. 3 &amp; 4 cadets]
-<br>Friday: 2.00 pm – 6.00 pm (Regular Training: all Cadets)
+<br>Friday: 2.00 pm – 6.00 pm [Regular Training: all Cadets]
 <br>
 </p>
 <p><strong>Teachers In Charge:</strong>
@@ -45,46 +45,6 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 <p><strong><u>Associate Members<br></u></strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Kay Choon (2024)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koen Etienne Tan (2024)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Min Ern, Daniel (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Matthew Toh Kai Jie (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fu Houjun, Luke (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -233,6 +193,46 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mohamed Shaheem S O Mohamed Habeebullah (2021)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fu Houjun, Luke (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Matthew Toh Kai Jie (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Min Ern, Daniel (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koen Etienne Tan (2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Kay Choon (2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
