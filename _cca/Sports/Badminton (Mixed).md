@@ -13,7 +13,7 @@ variant: markdown
 <br>
 </p>
 <p><strong>Our Coaches:</strong>
-<br>Badminton (Boys) - Mr Gan Chin Kai
+<br>Badminton (Boys) - Mr Kelly Wee
 <br>Badminton (Girls) - Mr Liao Junwei</p>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/CCA/Sports/badminton%20coach%20photo.JPG">
