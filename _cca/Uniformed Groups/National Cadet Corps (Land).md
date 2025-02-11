@@ -10,9 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG/NCCL.gif">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG/NCCL2.jpg">
-</div>
 <p></p>
 <ul>
 <li>
