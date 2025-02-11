@@ -6,9 +6,11 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3>National Cadet Corps (Land)</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cca23.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UG/NCCL2.jpg">
 </div>
+<p></p>
 <ul>
 <li>
 <p>Details</p>
