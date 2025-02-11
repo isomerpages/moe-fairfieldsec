@@ -177,7 +177,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_yandong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yandong@moe.edu.sg</a>
+<p><a href="mailto:li_yandong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yandong_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
