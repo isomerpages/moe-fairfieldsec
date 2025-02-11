@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Principal’s Dialogue with Parents</h3>
-<h5>07-02-2025 Dialog with Upper Sec Parents</h5>
+<h5>07-02-2025 Dialogue with Upper Sec Parents</h5>
 <p><a href="https://drive.google.com/file/d/1k6RwcxLQjz1fsi65J8sRrO3tCeSLlBva/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 P's Dialogue for Upper Sec</a>
 </p>
 <p><a href="/files/Parents/Ps Dialogue/2025_Exp_Post_sec_Pathways_Parents.pdf" rel="noopener nofollow" target="_blank">2025_Exp_Post_sec_Pathways_Parents.pdf</a>
