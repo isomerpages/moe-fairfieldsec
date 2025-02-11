@@ -178,7 +178,7 @@ third_nav_title: Form and Subject Teachers
 <p>Ho-Leong Yuet Lim Rosalind (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_yuet_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yuet_lim@moe.edu.sg</a>
+<p><a href="mailto:leong_yuet_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yuet_lim_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -322,7 +322,7 @@ third_nav_title: Form and Subject Teachers
 <p>Li Yandong (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_seow_yi_ethan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_Yandong@moe.edu.sg</a>
+<p><a href="mailto:lim_seow_yi_ethan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_Yandong_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
