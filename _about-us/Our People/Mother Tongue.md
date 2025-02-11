@@ -6,8 +6,9 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>Mother Tongue</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/mother_tongue_languages_department_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/mother_tongue_languages_department_2.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
