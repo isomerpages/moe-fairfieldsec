@@ -6,8 +6,9 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>Aesthetics</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/aesthetics_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/aesthetics_department_2025.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
