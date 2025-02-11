@@ -6,8 +6,9 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>Executive Committee</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/executive_committee_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="executive_committee_2025.jpg" src="/images/About Us/Our People/executive_committee_2025.jpg">
 </div>
 <p>
 <br>
