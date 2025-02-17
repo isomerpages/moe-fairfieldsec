@@ -316,6 +316,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mdm Wong Bei Shi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_bei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_bei_shi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Wong Jiayi</strong>
 </p>
 </td>
