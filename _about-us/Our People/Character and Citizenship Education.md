@@ -130,19 +130,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lee Xiao-En Tabitha</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3D Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_xiao-en_tabitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_xiao-en_tabitha@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Loke Liang En Joel</strong>
 </p>
 </td>
@@ -272,6 +259,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kua_khuan_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kua_khuan_tiong@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xiao-En Tabitha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_xiao-en_tabitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_xiao-en_tabitha@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
