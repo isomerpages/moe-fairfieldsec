@@ -130,6 +130,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xiao-En Tabitha</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_xiao-en_tabitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_xiao-en_tabitha@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Loke Liang En Joel</strong>
 </p>
 </td>
@@ -151,6 +164,75 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lum_tuck_choi_jason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_tuck_choi_jason@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Haliza Bte Abdul Hamid</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>Sec 2D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:haliza_abdul_hamid_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haliza_abdul_hamid_khan@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Jacelyn Pang Yi Xin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer
+<br>Sec 2, 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="mailto:Pang_Yi_Xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Pang_Yi_Xin@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Noreffaliza Bte Amer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer
+<br>Sec 1, 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noreffaliza_amer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noreffaliza_amer@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chan Xin Hui Charmaine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:charmaine_chan_xin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>charmaine_chan_xin_hui@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chew Kwai Hoong Gary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_kwai_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chew_kwai_hoong@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -182,6 +264,45 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Kua Khuan Tiong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4G Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kua_khuan_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kua_khuan_tiong@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Rena Yeo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gomes_rena_jeanette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gomes_rena_jeanette@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Yi Qian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1A Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yi_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yi_qian@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Tan Zhiwei @ Tham Chee Wai</strong>
 </p>
 </td>
@@ -204,6 +325,30 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_jiayi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jiayi@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein Josephine</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lim_Siew_Ein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_siew_ein_@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
