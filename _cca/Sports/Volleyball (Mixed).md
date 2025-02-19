@@ -32,9 +32,7 @@ variant: markdown
 <br>Mr Tan Zhiwei (I/C)
 <br>Mr Alex Woo (2 I/C)
 <br>Mr Wilson Ho
-<br>
-</p>
-<p><u>Girls</u>:
+<br><br><u>Girls</u>:
 <br>Mdm Lim Nina (I/C)
 <br>Ms Chen Minhua
 <br>Mdm Kamariah
