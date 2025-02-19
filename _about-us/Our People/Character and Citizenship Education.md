@@ -130,19 +130,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Loke Liang En Joel</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loke_liang_en_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_liang_en_joel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Lum Tuck Choi Jason</strong>
 </p>
 </td>
