@@ -156,6 +156,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Ezal Bin Sani</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher
+<br>Sec 5A Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ezal_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ezal_sani@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Haliza Bte Abdul Hamid</strong>
 </p>
 </td>
@@ -174,8 +188,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Special Educational Needs Officer
-<br>Sec 2, 4 &amp; 5</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -189,8 +202,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Special Educational Needs Officer
-<br>Sec 1, 3</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noreffaliza_amer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noreffaliza_amer@schools.gov.sg</u></a>
@@ -272,6 +284,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_xiao-en_tabitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_xiao-en_tabitha@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ong Zhen Yong Bennett</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2A Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_zhen_yong_bennett@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_zhen_yong_bennett@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
