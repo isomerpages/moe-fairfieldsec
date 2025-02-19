@@ -104,19 +104,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wee Guoyuan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Humanities (covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wee_guoyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_guoyuan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Dannish Kurniago</strong>
 </p>
 </td>
