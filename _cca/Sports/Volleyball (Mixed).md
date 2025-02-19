@@ -27,20 +27,17 @@ variant: markdown
 <p>Selected Saturdays (for friendly matches): 8.00 am - 12.00 pm
 <br>
 </p>
-<p><strong>Teachers In Charge:</strong>
-</p>
-<p><u>Boys</u>
-</p>
-<p>Mr Tan Zhiwei (I/C)</p>
-<p>Mr Alex Woo (2 I/C)</p>
-<p>Mr Wilson Ho</p>
-<p></p>
-<p><u>Girls</u>
-</p>
-<p>Mdm Lim Nina (I/C)</p>
-<p>Ms Chen Minhua</p>
-<p>Mdm Kamariah</p>
-<p></p>
+<p><strong>Teachers In Charge:</strong><br>
+Boys:<br>
+Mr Tan Zhiwei (I/C)<br>
+Mr Alex Woo (2 I/C)<br>
+Mr Wilson Ho<br>
+
+Girls:<br>
+Mdm Lim Nina (I/C)<br>
+Ms Chen Minhua<br>
+Mdm Kamariah<br>
+</p><p></p>
 <ul>
 <li>
 <p>Overview</p>
