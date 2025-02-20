@@ -276,6 +276,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Puah Hui Sze</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>puah_hui_sze@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mrs Rena Yeo</strong>
 </p>
 </td>
@@ -315,6 +328,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mrs Terri Teo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4H Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:terri_tan_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>terri_tan_li_ling@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Wong Bei Shi</strong>
 </p>
 </td>
@@ -336,6 +362,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_jiayi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jiayi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wong Jia Xian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_jia_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_jia_xian@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
