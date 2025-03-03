@@ -22,7 +22,7 @@ variant: markdown
 
 Monday :&nbsp;3.30 pm - 6.00 pm (C Div)<br>
 Wednesday: 3.30 pm - 6.00 pm (B Div)  <br>
-Friday: 2.00 pm – 5.00 pm (All)&nbsp;  <br><br>
+Friday: 2.30 pm – 5.30 pm (All)&nbsp;  <br><br>
   
 
 <b>Teachers In Charge:</b><br>
@@ -30,7 +30,6 @@ Friday: 2.00 pm – 5.00 pm (All)&nbsp;  <br><br>
 Mr Jason Lum (I/C)<br>
 Mr Yap Hock Heng<br>
 Mr Lee Yew Ming (Volunteer)<br>
-Mr Ravi Shankar
 </p>
 </div>
 
