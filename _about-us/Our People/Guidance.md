@@ -133,19 +133,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lai Yi Ming</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lai_yi_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_yi_ming@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Noreffaliza Bte Amer</strong>
 </p>
 </td>
