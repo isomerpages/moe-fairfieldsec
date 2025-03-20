@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date</strong>
+<p><strong>Date </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
