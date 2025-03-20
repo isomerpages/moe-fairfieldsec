@@ -48,8 +48,7 @@ variant: tiptap
 <p>10 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal’s address n PiE Engagement Session with Sec 1</p>
-<p>Parent</p>
+<p>Principal’s address n PiE Engagement Session with Sec 1 Parent</p>
 </td>
 </tr>
 <tr>
@@ -60,8 +59,7 @@ variant: tiptap
 <p>14 March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents are able to participate with</p>
-<p>teachers in games</p>
+<p>Parents are able to participate with teachers in games</p>
 </td>
 </tr>
 <tr>
@@ -69,13 +67,17 @@ variant: tiptap
 <p>Parents Workshops 1,2 &amp; 3 by Focus on the Family.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Feb(9-10am)</p>
-<p>1 March (9-10am)</p>
-<p>8 March(9-10am)</p>
+<p>15 Feb (9-10am)
+<br>1 March (9-10am)
+<br>8 March (9-10am)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raising Resilient Kids</p>
-<p>Raising Relationally-Smart Kids</p>
+<p>Raising Resilient Kids
+<br>
+</p>
+<p>Raising Relationally-Smart Kids
+<br>
+</p>
 <p>Raising Screenwise Kids</p>
 </td>
 </tr>
@@ -87,8 +89,7 @@ variant: tiptap
 <p>May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PiE indoor bonding activities with</p>
-<p>parents</p>
+<p>PiE indoor bonding activities with parents</p>
 </td>
 </tr>
 <tr>
@@ -112,8 +113,7 @@ variant: tiptap
 <p>5 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Crafting Workshop for parent and</p>
-<p>child bonding</p>
+<p>Crafting Workshop for parent and child bonding</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +124,7 @@ variant: tiptap
 <p>30 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Activities to show appreciation to</p>
-<p>teachers.</p>
+<p>Activities to show appreciation to teachers.</p>
 </td>
 </tr>
 <tr>
@@ -136,8 +135,7 @@ variant: tiptap
 <p>Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appreciate PiE parents for their hard</p>
-<p>work.</p>
+<p>Appreciate PiE parents for their hard work.</p>
 </td>
 </tr>
 <tr>
@@ -148,8 +146,7 @@ variant: tiptap
 <p>Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Showcase PiE activities n parents’</p>
-<p>engagement</p>
+<p>Showcase PiE activities n parents’ engagement</p>
 </td>
 </tr>
 </tbody>
