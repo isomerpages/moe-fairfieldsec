@@ -3,148 +3,155 @@ title: 2025 PiE Activities and Events
 permalink: /parents/parents-in-education/2025-pie-activities-and-events/
 description: ""
 third_nav_title: Partners In Education
-variant: markdown
+variant: tiptap
 ---
-<h3>2024 PiE&nbsp;Activities/Events</h3>
-
-<table>
+<h3>2025 PiE&nbsp;Activities/Events</h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="208">
-<p><strong>Activities/Event</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Activities/Event</strong>
+</p>
 </td>
-<td width="142">
-<p><strong>Date</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
 </td>
-<td width="274">
-<p><strong>Information</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Information</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="208">
-<p>Teachers Snacks</p>
+<td rowspan="1" colspan="1">
+<p>Back to school snacks</p>
 </td>
-<td width="142">
+<td rowspan="1" colspan="1">
 <p>2 Jan</p>
 </td>
-<td width="274">
-<p>Prepare “Welcome Back to School” snacks for teachers &amp; staffs</p>
+<td rowspan="1" colspan="1">
+<p>Welcome teachers and all staff back</p>
+<p>to school</p>
 </td>
 </tr>
 <tr>
-<td width="208">
+<td rowspan="1" colspan="1">
 <p>Secondary 1 Installation Night</p>
 </td>
-<td width="142">
-<p>5 Jan</p>
+<td rowspan="1" colspan="1">
+<p>10 Jan</p>
 </td>
-<td width="274">
-<p>Principal’s address to Sec 1 parents</p>
+<td rowspan="1" colspan="1">
+<p>Principal’s address n PiE Engagement Session with Sec 1</p>
+<p>Parent</p>
 </td>
 </tr>
 <tr>
-<td width="208">
+<td rowspan="1" colspan="1">
 <p>Sports Day</p>
 </td>
-<td width="142">
-<p>8 March</p>
+<td rowspan="1" colspan="1">
+<p>14 March</p>
 </td>
-<td width="274">
-<p>Parents are able to participate with teachers in games</p>
-</td>
-</tr>
-<tr>
-<td width="208">
-<p>Kayaking with PiE Parents</p>
-</td>
-<td width="142">
-<p>March</p>
-</td>
-<td width="274">
-<p>PiE outdoor bonding activities with parents</p>
+<td rowspan="1" colspan="1">
+<p>Parents are able to participate with</p>
+<p>teachers in games</p>
 </td>
 </tr>
 <tr>
-<td width="208">
+<td rowspan="1" colspan="1">
 <p>Parents Workshops 1,2 &amp; 3 by Focus on the Family.</p>
 </td>
-<td width="142">
-<p>6 April (9-10am)</p>
-<p>13 April (9-10am)</p>
-<p>20 April (9-10am)</p>
+<td rowspan="1" colspan="1">
+<p>15 Feb(9-10am)</p>
+<p>1 March (9-10am)</p>
+<p>8 March(9-10am)</p>
 </td>
-<td width="274">
-<p>Mental &amp; Emotional Resilience</p>
-<p>Relational Health &amp; Sexual Intelligence Screenwise Parenting</p>
+<td rowspan="1" colspan="1">
+<p>Raising Resilient Kids</p>
+<p>Raising Relationally-Smart Kids</p>
+<p>Raising Screenwise Kids</p>
 </td>
 </tr>
 <tr>
-<td width="208">
-<p>Dads@Fairfield</p>
-<p>Dad &amp; Child Photography Workshop</p>
+<td rowspan="1" colspan="1">
+<p>Prawning with PiE Parents</p>
 </td>
-<td width="142">
+<td rowspan="1" colspan="1">
 <p>May</p>
 </td>
-<td width="274">
-<p>Fundamentals of professional photography workshop with outdoor photography exercise.</p>
+<td rowspan="1" colspan="1">
+<p>PiE indoor bonding activities with</p>
+<p>parents</p>
 </td>
 </tr>
 <tr>
-<td width="208">
+<td rowspan="1" colspan="1">
 <p>Bless Programmes</p>
 </td>
-<td width="142">
+<td rowspan="1" colspan="1">
 <p>July to Aug</p>
 </td>
-<td width="274">
-<p>Programmes to bless the graduating cohort.</p>
+<td rowspan="1" colspan="1">
+<p>Programmes to bless the graduating</p>
+<p>cohort.</p>
 </td>
 </tr>
 <tr>
-<td width="208">
+<td rowspan="1" colspan="1">
+<p>Parent-Child Crafting</p>
+<p>Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crafting Workshop for parent and</p>
+<p>child bonding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teachers' Day Celebration</p>
 </td>
-<td width="142">
+<td rowspan="1" colspan="1">
 <p>30 Aug</p>
 </td>
-<td width="274">
-<p>Activities to show appreciation to teachers.</p>
+<td rowspan="1" colspan="1">
+<p>Activities to show appreciation to</p>
+<p>teachers.</p>
 </td>
 </tr>
 <tr>
-<td width="208">
-<p>Bowling with PiE Parents</p>
-</td>
-<td width="142">
-<p>Sept</p>
-</td>
-<td width="274">
-<p>PiE indoor bonding activities with parents</p>
-</td>
-</tr>
-<tr>
-<td width="208">
+<td rowspan="1" colspan="1">
 <p>PiE Appreciation Dinner</p>
 </td>
-<td width="142">
+<td rowspan="1" colspan="1">
 <p>Oct</p>
 </td>
-<td width="274">
-<p>Appreciate PiE parents for their hard work.</p>
+<td rowspan="1" colspan="1">
+<p>Appreciate PiE parents for their hard</p>
+<p>work.</p>
 </td>
 </tr>
 <tr>
-<td width="208">
-<p>Dads@Fairfield</p>
-<p>Parent &amp; Child Indoor Archery</p>
+<td rowspan="1" colspan="1">
+<p>Fairfield Open House</p>
 </td>
-<td width="142">
+<td rowspan="1" colspan="1">
 <p>Nov</p>
 </td>
-<td width="274">
-<p>Goal setting Workshop + Indoor Archery</p>
+<td rowspan="1" colspan="1">
+<p>Showcase PiE activities n parents’</p>
+<p>engagement</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
