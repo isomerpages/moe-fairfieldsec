@@ -55,7 +55,7 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Sec 1C</strong>
 </p>
 </td>
@@ -66,6 +66,12 @@ third_nav_title: Form and Subject Teachers
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Kamariah Binte Sajat</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Jasmine</strong>
 </p>
 </td>
 </tr>
@@ -134,12 +140,18 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 1H</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Nina</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chia Chun Yee</strong>
 </p>
 </td>
 </tr>
