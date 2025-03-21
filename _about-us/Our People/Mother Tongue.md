@@ -197,6 +197,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Lim Seow wei</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_seow_wei_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_wei_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Nur Sheela Sugirmanto</strong>
 </p>
 </td>
