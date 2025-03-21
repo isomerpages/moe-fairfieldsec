@@ -93,7 +93,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chia Chun yee</strong>
+<p><strong>Mr Chia Chun Yee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
