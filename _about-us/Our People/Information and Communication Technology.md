@@ -90,19 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Hadisyafiq Bin Mohd Salleh</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AV Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hadisyafiq_mohd_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hadisyafiq_mohd_salleh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Dzariff Atiq Bin Mahzan</strong>
 </p>
 </td>
