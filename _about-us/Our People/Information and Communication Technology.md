@@ -45,6 +45,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
