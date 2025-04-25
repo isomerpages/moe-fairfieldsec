@@ -32,7 +32,7 @@ variant: tiptap
 <p>For mental health crisis/suicidal emergencies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 6389 2222Daily (24 hours)</p>
+<p>Tel: 6389 2222 Daily (24 hours)</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>For any person in crisis/feeling suicidal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 1800-221 4444Daily (24 hours)</p>
+<p>Tel: 1800-221 4444 Daily (24 hours)</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,8 @@ as job matching and family services more accessible to those who need it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Care Corner Counselling Centre</p>
+<p>Care Corner Counselling CentreNational Anti-Violence &amp; Sexual Harassment
+Helpline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hotline for the Mandarin–speaking community facing mental health problems
@@ -168,6 +169,23 @@ or distressing family situations
 <p>1800 353 5800
 <br>Mon to Sun: 1000 to 2200 (Excluding public holidays)
 <br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Anti-Violence &amp; Sexual Harassment Helpline</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If you or someone you know is in an abusive relationship, seek help by
+contacting the National Anti-Violence &amp; Sexual Harassment Helpline.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You may call 1800-777-0000 or 1800-777-0000</p>
+<p>Or</p>
+<p>Online report</p>
+<p><a href="https://form.gov.sg/6376fbdc8d8be90012d8e56b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6376fbdc8d8be90012d8e56b</a>
 </p>
 </td>
 </tr>
