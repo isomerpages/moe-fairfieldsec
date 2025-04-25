@@ -182,10 +182,10 @@ or distressing family situations
 contacting the National Anti-Violence &amp; Sexual Harassment Helpline.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>You may call 1800-777-0000 or 1800-777-0000</p>
-<p>Or</p>
-<p>Online report</p>
-<p><a href="https://form.gov.sg/6376fbdc8d8be90012d8e56b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6376fbdc8d8be90012d8e56b</a>
+<p>You may call 1800-777-0000 or 1800-777-0000
+<br>Or
+<br>Online report
+<br><a href="https://form.gov.sg/6376fbdc8d8be90012d8e56b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6376fbdc8d8be90012d8e56b</a>
 </p>
 </td>
 </tr>
