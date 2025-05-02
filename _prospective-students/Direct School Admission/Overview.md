@@ -3,52 +3,184 @@ title: Overview
 permalink: /prospective-students/direct-school-admission/overview/
 description: ""
 third_nav_title: Direct School Admission
-variant: markdown
+variant: tiptap
 ---
-### Direct School Admission (DSA)
-
-
-Fairfield Methodist School (Secondary) welcomes applications from Primary 6 students in the current academic year to take part in the Direct School Admission (DSA-Sec) Exercise. We seek to provide an environment which will nurture your abilities and enable you to reach your fullest potential as a student sportsperson/performer.
-
-
-Parents and students are encouraged to choose wisely based on the student’s aptitudes and strengths, bearing in mind our school's academic and non-academic requirements, and the programmes that are available to develop the area of talent.
-
-  
-
-Successful students, regardless of stream, will gain admission into FMS(S) for the academic year beginning January 2025 and will complete their secondary school education in FMS(S) as long as they meet the set criteria for DSA to FMS(S) and pass the PSLE.
-
-**Areas offered by FMS(S) for DSA-Sec Exercise**
-
-
-
-| Sports | Performing Arts |
-| -------- | -------- | 
-| Badminton (Mixed)| Choir (Mixed)
-| Basketball (Boys)| Modern Contemporary Dance (Mixed)
-| Football (Boys)| Concert Band (Mixed)
-| Volleyball (Mixed)
-
-Detailed criteria are provided in the respective page of each group.
-#### **Note:**
-**English Drama &amp; Guitar Ensemble are no longer offered for DSA**
-
-
-
-#### Timeline for DSA
-
-**Selection of Trials/Auditions**
-*   Applicants who are shortlisted will be notified to attend the Selection Trials.  
-*   For Sports CCA, please refer&nbsp;**[here](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/prospective-students/direct-school-admission/sports/).**
-*   For Performing Arts CCA, please refer&nbsp;**[here](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/prospective-students/direct-school-admission/performing-arts/).**
-*   Applicants who are not successful will be informed via letters/email.
-
-
-
-#### Enquiries
-After reading through the FAQ page&nbsp;**[here](https://staging.d1wp5xkpm2dbnc.amplifyapp.com/prospective-students/direct-school-admission/faq/),**&nbsp;you may contact the following staff if you still have questions:  
-
-\- Mr. Shahrin (DSA Coordinator)&nbsp;at&nbsp;[shahrin\_mohamed\_ariffin@moe.edu.sg](mailto:shahrin_mohamed_ariffin@moe.edu.sg)&nbsp;(for Selection Trials &amp; Interviews)&nbsp;
-
-\- Mr. Francis Ng (HOD PE &amp; CCA)&nbsp;at&nbsp;[ng\_hun\_boon@moe.edu.sg](mailto:ng_hun_boon@moe.edu.sg)&nbsp;(for Sports-related DSA enquires)&nbsp;
-
-\- Mr. Alester Tan (SH CCA)&nbsp;at&nbsp;[tan\_aik\_hwee@moe.edu.sg](mailto:tan_aik_hwee@moe.edu.sg)&nbsp;(for PA-related DSA enquires)
+<p><strong>2025 Direct School Admission (DSA)</strong>
+</p>
+<p><strong><u>Introduction</u></strong>
+</p>
+<p>Fairfield Methodist School (Secondary) welcomes applications from Primary
+6 students in the current academic year to take part in the 2025 Direct
+School Admission (DSA-Sec) Exercise. Introduced in 2004, the DSA provides
+a pathway for students to gain admission to secondary schools based on
+their interests, aptitude, and potential, beyond their performance at Primary
+School Leaving Examination (PSLE). Primary 6 students who do not participate
+in the DSA-Sec will continue to seek admission based on their PSLE score
+through the Secondary 1 Posting.</p>
+<p><strong><u>DSA at Fairfield Methodist School (Secondary)</u></strong>
+</p>
+<p>FMS(S) is inviting applications for DSA in the following talent areas.&nbsp;Please
+see the following information on the respective talent area selection criteria.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>DSA talent areas offered by FMS(S) for 2025 DSA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sports</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton (Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir (Girls and Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band (Girls and Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football (Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Girls and Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;Selection Criteria</strong>
+</p>
+<p>FMS(S) seeks to admit students who have demonstrated a strong interest
+and talent in their respective talent areas, whether in Sports or Performing
+Arts. We are also looking for students who demonstrate positive personal
+dispositions and learning attitudes. Applicants who do not have prior experience
+may also apply. The school will assess applicants based on the selection
+criteria, which may include assessing the potential of the applicants.</p>
+<p><strong>Note: </strong>Please note that meeting all the criteria does
+not guarantee that the student would be shortlisted/given an offer.</p>
+<p><em>You will receive notification from the school by end of July 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.</em>
+</p>
+<p></p>
+<p><strong><u>Application for DSA-Sec</u></strong>
+</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.</p>
+<p>For more details, please refer to MOE website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa).<br><br></a>Parents
+and students are encouraged to choose schools wisely based on the student’s
+aptitudes and strengths, bearing in mind the schools’ academic and non-academic
+requirements, and the programmes available to develop the area of talent.</p>
+<p></p>
+<p>Students who are successfully admitted to the school via DSA are required
+to <strong>honour</strong> their commitment to the school and participate
+in the activities related to the talent they are selected for from year
+1-4.</p>
+<p></p>
+<p><strong><u>Useful MOE Weblinks</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec Main Webpage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application
+<br>(Mainstream students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application
+<br>(Non-Mainstream Students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal
+<br>(Mainstream Students)</p>
+<p>*go live on 7 May 2025, 11am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal
+<br>(Non-Mainstream Students)</p>
+<p>*go live on 7 May 2025, 11am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec iFAQs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec SchoolFinder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
