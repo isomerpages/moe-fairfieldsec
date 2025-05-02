@@ -77,11 +77,7 @@ see the following information on the respective talent area selection criteria.<
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Selection Criteria</strong>
+<p><strong>&nbsp;Selection Criteria</strong>
 </p>
 <p>FMS(S) seeks to admit students who have demonstrated a strong interest
 and talent in their respective talent areas, whether in Sports or Performing
