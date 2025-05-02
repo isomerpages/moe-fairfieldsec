@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Direct School Admission.md
       - 2024 Open House/.keep
       - 2024 Open House/2024 Open House.md
       - 2024 Open House/2024 Founder's Day Video.md
