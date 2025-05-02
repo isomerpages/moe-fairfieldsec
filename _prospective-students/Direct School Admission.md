@@ -115,8 +115,9 @@ The application is free-of-charge and will be open from <strong>7 May 2025, 11am
 <p>For more details, please refer to MOE website <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 <a rel="noopener noreferrer nofollow" target="_blank">
 <br>
-<br>
-</a>Parents and students are encouraged to choose schools wisely based on
+</a>
+</p>
+<p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
