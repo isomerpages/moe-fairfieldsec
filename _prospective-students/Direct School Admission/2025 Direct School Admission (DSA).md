@@ -1,9 +1,9 @@
 ---
-title: Overview
-permalink: /prospective-students/direct-school-admission/overview/
+title: 2025 Direct School Admission (DSA)
+permalink: /2025-direct-school-admission-dsa/
+variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
-variant: tiptap
 ---
 <p><strong>2025 Direct School Admission (DSA)</strong>
 </p>
@@ -17,6 +17,7 @@ their interests, aptitude, and potential, beyond their performance at Primary
 School Leaving Examination (PSLE). Primary 6 students who do not participate
 in the DSA-Sec will continue to seek admission based on their PSLE score
 through the Secondary 1 Posting.</p>
+<p></p>
 <p><strong><u>DSA at Fairfield Methodist School (Secondary)</u></strong>
 </p>
 <p>FMS(S) is inviting applications for DSA in the following talent areas.&nbsp;Please
@@ -85,8 +86,10 @@ Arts. We are also looking for students who demonstrate positive personal
 dispositions and learning attitudes. Applicants who do not have prior experience
 may also apply. The school will assess applicants based on the selection
 criteria, which may include assessing the potential of the applicants.</p>
+<p></p>
 <p><strong>Note: </strong>Please note that meeting all the criteria does
 not guarantee that the student would be shortlisted/given an offer.</p>
+<p></p>
 <p><em>You will receive notification from the school by end of July 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.</em>
 </p>
 <p></p>
