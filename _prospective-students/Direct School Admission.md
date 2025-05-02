@@ -93,10 +93,14 @@ not guarantee that the student would be shortlisted/given an offer.</p>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.</p>
-<p>For more details, please refer to MOE website (<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa).<br><br></a>Parents
-and students are encouraged to choose schools wisely based on the student’s
-aptitudes and strengths, bearing in mind the schools’ academic and non-academic
-requirements, and the programmes available to develop the area of talent.</p>
+<p>For more details, please refer to MOE website <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+</a>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to <strong>honour</strong> their commitment to the school and participate
 in the activities related to the talent they are selected for from year
@@ -114,7 +118,7 @@ in the activities related to the talent they are selected for from year
 <p>DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -124,7 +128,7 @@ in the activities related to the talent they are selected for from year
 <br>(Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+<p><a href="https://www.moe.gov.sg/secondary/dsa/application/?pt=Mainstream%20primary%20school" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -134,7 +138,7 @@ in the activities related to the talent they are selected for from year
 <br>(Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+<p><a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 </td>
 </tr>
@@ -165,7 +169,7 @@ in the activities related to the talent they are selected for from year
 <p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p><a href="https://www.moe.gov.sg/faq?categoryid=FD36A5CE93E74E11B907D5EB5954E676" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
 </p>
 </td>
 </tr>
@@ -174,7 +178,7 @@ in the activities related to the talent they are selected for from year
 <p>DSA-Sec SchoolFinder</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<p><a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school&amp;q=*&amp;fq=school_journey_ss%3A%22Secondary%20school%22&amp;fq=admission_types_dsa_b%3A%20true&amp;fl=*&amp;sort=school_name_s%20asc" rel="noopener nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 </td>
 </tr>
