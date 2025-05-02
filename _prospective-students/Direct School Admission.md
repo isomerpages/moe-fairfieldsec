@@ -85,6 +85,8 @@ Arts. We are also looking for students who demonstrate positive personal
 dispositions and learning attitudes. Applicants who do not have prior experience
 may also apply. The school will assess applicants based on the selection
 criteria, which may include assessing the potential of the applicants.</p>
+<p></p>
+<p></p>
 <p><strong>Note: </strong>Please note that meeting all the criteria does
 not guarantee that the student would be shortlisted/given an offer.</p>
 <p><em>You will receive notification from the school by end of July 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.</em>
