@@ -85,8 +85,27 @@ Arts. We are also looking for students who demonstrate positive personal
 dispositions and learning attitudes. Applicants who do not have prior experience
 may also apply. The school will assess applicants based on the selection
 criteria, which may include assessing the potential of the applicants.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_4.png">
+</div>
 <p><strong>Note: </strong>Please note that meeting all the criteria does
 not guarantee that the student would be shortlisted/given an offer.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_5.png">
+</div>
 <p><em>You will receive notification from the school by end of July 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.</em>
 </p>
 <p><strong><u>Application for DSA-Sec</u></strong>
