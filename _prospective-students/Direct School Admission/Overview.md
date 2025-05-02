@@ -17,7 +17,6 @@ their interests, aptitude, and potential, beyond their performance at Primary
 School Leaving Examination (PSLE). Primary 6 students who do not participate
 in the DSA-Sec will continue to seek admission based on their PSLE score
 through the Secondary 1 Posting.</p>
-<p>&nbsp;</p>
 <p><strong><u>DSA at Fairfield Methodist School (Secondary)</u></strong>
 </p>
 <p>FMS(S) is inviting applications for DSA in the following talent areas.&nbsp;Please
