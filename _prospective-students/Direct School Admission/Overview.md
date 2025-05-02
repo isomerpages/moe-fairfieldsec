@@ -98,12 +98,12 @@ The application is free-of-charge and will be open from <strong>7 May 2025, 11am
 and students are encouraged to choose schools wisely based on the student’s
 aptitudes and strengths, bearing in mind the schools’ academic and non-academic
 requirements, and the programmes available to develop the area of talent.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Students who are successfully admitted to the school via DSA are required
 to <strong>honour</strong> their commitment to the school and participate
 in the activities related to the talent they are selected for from year
 1-4.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>Useful MOE Weblinks</u></strong>
 </p>
 <table style="minWidth: 50px">
