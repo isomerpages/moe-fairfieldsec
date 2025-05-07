@@ -169,7 +169,7 @@ in the activities related to the talent they are selected for from year
 <p>*go live on 7 May 2025, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+<p><a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 </td>
 </tr>
@@ -180,7 +180,7 @@ in the activities related to the talent they are selected for from year
 <p>*go live on 7 May 2025, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<p><a href="https://www.dsa-is.moe.gov.sg/login/nonmainstreamapplicant" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
 </p>
 </td>
 </tr>
