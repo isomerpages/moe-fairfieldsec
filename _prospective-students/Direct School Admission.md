@@ -125,6 +125,13 @@ the area of talent.</p>
 to <strong>honour</strong> their commitment to the school and participate
 in the activities related to the talent they are selected for from year
 1-4.</p>
+<p>You may contact the following staff if you still have questions:&nbsp;</p>
+<p>Mr. Shahrin (DSA Coordinator) - <a rel="noopener noreferrer nofollow" target="_blank">shahrin_mohamed_ariffin@moe.edu.sg</a> (for
+Selection Trials &amp; Interviews)</p>
+<p>Mr. Francis Ng (HOD PE &amp; CCA) - <a rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg </a>(for
+Sports-related DSA enquires)</p>
+<p>Mr. Alester Tan (SH CCA) - <a rel="noopener noreferrer nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a> (for
+PA-related DSA enquires)</p>
 <p><strong><u>Useful MOE Weblinks</u></strong>
 </p>
 <table style="minWidth: 50px">
