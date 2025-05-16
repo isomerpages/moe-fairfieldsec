@@ -86,23 +86,19 @@ dispositions and learning attitudes. Applicants who do not have prior experience
 may also apply. The school will assess applicants based on the selection
 criteria, which may include assessing the potential of the applicants.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_3.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_4.png">
 </div>
 <p><strong>Note: </strong>Please note that meeting all the criteria does
 not guarantee that the student would be shortlisted/given an offer.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Criteria_5.png">
 </div>
@@ -125,6 +121,13 @@ the area of talent.</p>
 to <strong>honour</strong> their commitment to the school and participate
 in the activities related to the talent they are selected for from year
 1-4.</p>
+<p>You may contact the following staff if you still have questions:&nbsp;</p>
+<p>Mr. Shahrin (DSA Coordinator) - <a rel="noopener noreferrer nofollow" target="_blank">shahrin_mohamed_ariffin@moe.edu.sg</a> (for
+Selection Trials &amp; Interviews)</p>
+<p>Mr. Francis Ng (HOD PE &amp; CCA) - <a rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg </a>(for
+Sports-related DSA enquires)</p>
+<p>Mr. Alester Tan (SH CCA) - <a rel="noopener noreferrer nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a> (for
+PA-related DSA enquires)</p>
 <p><strong><u>Useful MOE Weblinks</u></strong>
 </p>
 <table style="minWidth: 50px">
