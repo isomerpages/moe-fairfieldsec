@@ -18,4 +18,4 @@ variant: markdown
 | [HRP](https://www.hrp.gov.sg/) | [READ@Academy](http://readacademy.moe.edu.sg/) |
 | [SEN Resource Portal](http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx)  | [Singapore Academy of Teachers](https://academyofsingaporeteachers.moe.edu.sg/) |
 | [RBS](https://rbs.avero-tech.com/) (Resource Booking Service) | [Parents Gateway](https://pg.moe.edu.sg/) |
-| [National School Games](https://nsg.moe.edu.sg/nis/#!/login)   |   |
+| [National School Games](https://nsg.moe.edu.sg/nis/#!/login)   |   [Methodist Message](https://www.methodist.org.sg/message)|
