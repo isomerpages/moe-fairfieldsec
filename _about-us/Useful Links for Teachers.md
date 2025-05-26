@@ -10,7 +10,7 @@ variant: markdown
 |---|---|
 |  [iExams2](https://iexams.seab.gov.sg/login) | [SC Mobile](https://scmobile.moe.edu.sg/) |
 | [School Cockpit Chrome](https://schoolcockpit.moe.gov.sg/academic) (moe.edu.sg) | [School Cockpit IE](https://schoolcockpit.moe.gov.sg/) (moe.gov.sg) |
-| [SSOE2 Portal](https://ssoe2.moe.edu.sg/) | [SLS](https://learning.moe.edu.sg/) (Student Learning Space) |
+| [SSOE2 Portal](https://ssoe2.moe.edu.sg/) | [SLS](https://www.learning.moe.edu.sg/) (Student Learning Space) |
 | [Discipline Resource Portal](http://intranet.moe.gov.sg/guidancebranch/Discipline%20Resource%20Portal/Pages/Discipline_Resource_Portal_Home.aspx) | [Fairfield Instagram](https://www.instagram.com/ohitsfairfield/) |
 | [MIMS](http://www.mims.moe.gov.sg/) | [ICON 2.0](https://icon.moe.edu.sg/) |
 | [Library OPAC](http://schoolibrary.moe.edu.sg/fairfieldmethodistsec) | [OPAL 2.0](https://opal2.moe.edu.sg/) |
