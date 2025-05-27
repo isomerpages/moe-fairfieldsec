@@ -108,9 +108,9 @@ not guarantee that the student would be shortlisted/given an offer.</p>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.</p>
-<p>For more details, please refer to MOE website <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
-<a rel="noopener noreferrer nofollow" target="_blank"></a> <a rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<p>For more details, please refer to MOE website <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
+<p></p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
