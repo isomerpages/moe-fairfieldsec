@@ -1,6 +1,6 @@
 ---
 title: Sec 4 and 5 Timed Practice Schedule
-permalink: /timed-practice-schedule/
+permalink: /latest-updates/timed-practice-schedule/
 variant: tiptap
 description: ""
 ---
