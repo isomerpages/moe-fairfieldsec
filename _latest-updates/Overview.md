@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Latest Updates</h3>
-<h4>Sec 4/5 Timed practice schedule</h4>
+<h4>Sec 4/5 Timed Practice Schedule</h4>
 <p><a href="/latest-updates/timed-practice-schedule/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
 </p>
 <hr>
