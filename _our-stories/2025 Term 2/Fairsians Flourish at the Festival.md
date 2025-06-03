@@ -6,6 +6,7 @@ description: ""
 third_nav_title: 2025 Term 2
 ---
 <h1><strong>Fairsians Flourish at the Festival!</strong></h1>
+<p>By Timothy Chua (Sec 2D)</p>
 <p>Since 1967, the Singapore Youth Festival (SYF) has served as a prestigious
 national platform to celebrate the artistic achievements of students across
 the country. For generations of Fairsians, it has represented a significant
