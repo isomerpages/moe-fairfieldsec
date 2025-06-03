@@ -29,6 +29,7 @@ Ken Mizusawa. Both groups achieved Certificates of Accomplishment.</p>
 brightest when we stand united. Our students performed with courage, conviction,
 and commitment, carrying forward a proud legacy and inspiring all who witnessed
 their journey.</p>
-<p>
-<br>
-</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMSk8uvMZHZ5Rvq8dWfmAfgkc1493pBq6pT1Vby4zB5wGXB2ed9eNqdpbnEuT0MEeNRwm1UZFmvAvJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
