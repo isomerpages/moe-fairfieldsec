@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2025 Term 2/.keep
       - Overview.md
       - 2024 Term 1/Multi Ethnic Celebrations.md
       - 2024 Term 1/.keep
