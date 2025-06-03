@@ -16,6 +16,9 @@ through the performing arts.</p>
 to the stage with passion and pride. Each group demonstrated not only remarkable
 individual talent but also the collective strength that shines when Fairsians
 work together towards a common goal.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMSk8uvMZHZ5Rvq8dWfmAfgkc1493pBq6pT1Vby4zB5wGXB2ed9eNqdpbnEuT0MEeNRwm1UZFmvAvJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>The Fairfield Symphonic Band delivered a stirring rendition of <em>Symphonic Dances for Wind Ensemble (Part 2: Tango)</em> by
 Yosuke Fukuda, earning a well-deserved Certificate of Distinction. Fairfield
 Dance captivated audiences with <em>Transcend</em>, a piece marked by elegance
@@ -30,7 +33,4 @@ Ken Mizusawa. Both groups achieved Certificates of Accomplishment.</p>
 brightest when we stand united. Our students performed with courage, conviction,
 and commitment, carrying forward a proud legacy and inspiring all who witnessed
 their journey.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMSk8uvMZHZ5Rvq8dWfmAfgkc1493pBq6pT1Vby4zB5wGXB2ed9eNqdpbnEuT0MEeNRwm1UZFmvAvJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
