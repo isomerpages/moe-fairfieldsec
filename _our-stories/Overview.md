@@ -6,7 +6,14 @@ variant: markdown
 ---
 ### Our Stories
 
-<img src="/images/Our%20Stories/2024/SEc_1_MF_FLEX.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> (FL)-EXperiencing the Outdoors Together [Read More](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/flexperiencing-the-outdoors-together/) <br><br>
+
+<img src="/images/Our%20Stories/2025/2025_SYF.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Fairsians Flourish at the Festival! [Read More](https://fairfieldmethodistsec.moe.edu.sg/fairsians-flourish-at-the-festival/)
+<br><br>
+
+***
+
+<img src="/images/Our%20Stories/2024/SEc_1_MF_FLEX.jpg" style="width:100px;height:100px;margin-right:15px;" align="left"> (FL)-EXperiencing the Outdoors Together [Read More](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/flexperiencing-the-outdoors-together/)
+ <br><br>
 
 * * *
 
