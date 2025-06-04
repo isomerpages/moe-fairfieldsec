@@ -6,7 +6,10 @@ description: ""
 third_nav_title: 2025 Term 2
 ---
 <h2><strong>Fairsians Flourish at the Festival!</strong></h2>
-<p>By Timothy Chua (Sec 2D)</p>
+<p>By Elijah Wong (Sec 1F), Yoo Hyenah (Sec 1D), Ashlyn Ho (Sec 2E), Amy
+Claire Chan (Sec 2F), Alicia Ng (Sec 3D), Goh Yu Qian (Sec 3G), Mikaela
+Faith (Sec 3D), Zobel Lee (Sec 3F), Cherylynn Hao (Sec 2C), Fayth Wai (Sec
+3E) and Goh Yu Qian (Sec 3G)</p>
 <p>Since 1967, the Singapore Youth Festival (SYF) has served as a prestigious
 national platform to celebrate the artistic achievements of students across
 the country. For generations of Fairsians, it has represented a significant
