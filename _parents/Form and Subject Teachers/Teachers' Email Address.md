@@ -103,6 +103,15 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Choy Andrew (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chua Chang Fong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
