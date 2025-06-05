@@ -109,16 +109,6 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 5A</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ezal Bin Sani</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Sec 4 &amp; 5 Subject Teachers</h4>
