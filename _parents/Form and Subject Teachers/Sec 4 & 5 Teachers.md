@@ -58,12 +58,18 @@ third_nav_title: Form and Subject Teachers
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 4D</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lee Chiew Yi</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ezal Bin Sani</strong>
 </p>
 </td>
 </tr>
