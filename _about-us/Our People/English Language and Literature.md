@@ -208,19 +208,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Phoebe Chin Kit Yin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phoebe_chin_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoebe_chin_kit_yin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mrs Rena Yeo</strong>
 </p>
 </td>
