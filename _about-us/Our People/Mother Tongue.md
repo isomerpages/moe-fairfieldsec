@@ -145,19 +145,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Siti Ainah Binte Maduri</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2B Form teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_ainah_maduri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_ainah_maduri@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Tan Yi Qian</strong>
 </p>
 </td>
