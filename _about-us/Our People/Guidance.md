@@ -120,19 +120,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Venetia Anne Chong Pei Ni</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:venetia_chong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">venetia_chong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Noreffaliza Bte Amer</strong>
 </p>
 </td>
