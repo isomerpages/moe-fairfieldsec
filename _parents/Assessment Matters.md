@@ -5,6 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h3>Assessment Matters</h3>
+<h4>GCE N level Prelim Schedule</h4>
+<p><a href="/files/Parents/Assessment Matters/2025_Prelim_4NA_Timetable.pdf" rel="noopener nofollow" target="_blank">2025_Prelim_4NA_Timetable.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2025_Prelim_4NT_Timetable.pdf" rel="noopener nofollow" target="_blank">2025_Prelim_4NT_Timetable.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2025_Prelim_4NA_Timetable__AA_.pdf" rel="noopener nofollow" target="_blank">2025_Prelim_4NA_Timetable_AA.pdf</a>
+</p>
+<p><a href="/files/Parents/Assessment Matters/2025_Prelim_4NT_Timetable_AA_.pdf" rel="noopener nofollow" target="_blank">2025_Prelim_4NT_Timetable_AA.pdf</a>
+</p>
 <h4>WA2 Schedule and Topics</h4>
 <p><a href="/files/Parents/Assessment Matters/2025_Sec_1_Term_2_WA_2_Schedule__Revised_22_Apr_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Term 2 WA 2 Schedule (Revised 22 Apr).pdf</a>
 </p>
