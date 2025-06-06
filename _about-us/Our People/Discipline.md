@@ -121,20 +121,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Siti Ainah</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Level Discipline Mistress
-<br>Sec 2B Form teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_ainah_maduri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_ainah_maduri@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Aminah Beevi</strong>
 </p>
 </td>
