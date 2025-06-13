@@ -13,6 +13,8 @@ Fairfield Methodist School (Secondary) on the Trips for International Experience
 (TIE) to Vietnam and Thailand. More than just overseas travel, these trips
 were thoughtfully designed to cultivate global-mindedness, foster cross-cultural
 understanding, and inspire students to serve and learn beyond the classroom.</p>
+<p></p>
+<p></p>
 <p>The TIE Vietnam team explored the vibrant city of Ho Chi Minh, where they
 immersed themselves in the nation’s rich history. Visits to the renowned
 War Remnants Museum and the Cu Chi Tunnels brought history to life, allowing
