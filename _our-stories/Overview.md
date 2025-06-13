@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Our Stories
-<img src="/images/Our%20Stories/2025/R0007876.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Flourishing Friendships Far From Fairfield [Read More](https://staging-lite.d2tm5g4gec1mxk.amplifyapp.com/flourishing-friendships-far-from-fairfield/)
+<img src="/images/Our%20Stories/2025/R0007876.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Flourishing Friendships Far From Fairfield [Read More](https://fairfieldmethodistsec.moe.edu.sg/flourishing-friendships-far-from-fairfield/)
 <br><br>
 
 ***
