@@ -14,7 +14,7 @@ Fairfield Methodist School (Secondary) on the Trips for International Experience
 were thoughtfully designed to cultivate global-mindedness, foster cross-cultural
 understanding, and inspire students to serve and learn beyond the classroom.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjJniKnn4FxwiBpq_h3L0CPzbcz43MwF9wCGbdU5E_-Ps69APfUZyGeuzZ2LJZXf0gOM64NIwbmkzq/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTjJniKnn4FxwiBpq_h3L0CPzbcz43MwF9wCGbdU5E_-Ps69APfUZyGeuzZ2LJZXf0gOM64NIwbmkzq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p>The TIE Vietnam team explored the vibrant city of Ho Chi Minh, where they
