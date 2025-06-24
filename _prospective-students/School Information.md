@@ -43,7 +43,7 @@ Fairfield Methodist School (Primary), Anglo-Chinese Junior College
 |---|---|---|
 | Posting Group 3 | 10 
 | Posting Group 2 | 22 
-| Posting Group 3 | 27
+| Posting Group 1 | 27
 
 #### CCAs  Offered
 
