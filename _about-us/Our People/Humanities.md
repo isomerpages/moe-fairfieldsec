@@ -194,6 +194,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chionh Yee Ching </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chionh_yee_ching_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chionh_yee_ching_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
