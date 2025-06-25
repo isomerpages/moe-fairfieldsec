@@ -223,6 +223,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Miss Yap Eng Luan Ruth</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yap_Eng_Luan_Ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_eng_luan_ruth@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Mohamad Sidek Bin Omar</strong>
 </p>
 </td>
