@@ -131,19 +131,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ong Lei Wan Jasmin</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_lei_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lei_wan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Tay Shu-Min Samantha</strong>
 </p>
 </td>
