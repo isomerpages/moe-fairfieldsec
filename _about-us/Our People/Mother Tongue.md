@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Seow wei</strong>
+<p><strong>Ms Lim Seow Wei</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,14 +197,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nur Sheela Sugirmanto</strong>
+<p><strong>Mdm Sun Jiaxi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nur_Sheela_Sugirmanto@moe.edu.sg</a>
+<p>Not available yet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Junaidah Binti Aman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:junaidah_aman_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_aman_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
