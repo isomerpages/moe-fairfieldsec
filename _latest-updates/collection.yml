@@ -2,6 +2,6 @@ collections:
   latest-updates:
     output: true
     order:
-      - 2025 Semester 2 Class Timetable.md
       - Overview.md
+      - 2025 Semester 2 Class Timetable.md
       - Sec 4 and 5 Timed Practice Schedule.md
