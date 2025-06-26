@@ -5,12 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>Latest Updates</h3>
+<h4>2025 Semester 2 Class Timetable</h4>
+<p>Read more...</p>
+<hr>
 <h4>Sec 4/5 Timed Practice Schedule</h4>
 <p><a href="/latest-updates/timed-practice-schedule/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
-</p>
-<hr>
-<h4>2025 Sem 1 Class Timetable</h4>
-<p><a href="/latest-updates/2025-sem1-class-timetable/" rel="noopener noreferrer nofollow" target="_blank">Read More...</a>
 </p>
 <hr>
 <h4>Student Well-being</h4>
