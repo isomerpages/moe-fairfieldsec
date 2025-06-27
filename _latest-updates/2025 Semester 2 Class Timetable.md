@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h4>2025 Semester 2 Class Timetable</h4>
-<p><a href="/files/Latest Updates/2025S2S126_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 1 Timetable 27_June_2025.pdf</a>
+<p><a href="/files/Latest Updates/2025S2S127_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 1 Timetable 27_June_2025.pdf</a>
 </p>
-<p><a href="/files/Latest Updates/2025S2S226_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 2 Timetable 26_June_2025.pdf</a>
+<p><a href="/files/Latest Updates/2025S2S227_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 2 Timetable 27_June_2025.pdf</a>
 </p>
-<p><a href="/files/Latest Updates/2025S2S326_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 3 Timetable 26_June_2025.pdf</a>
+<p><a href="/files/Latest Updates/2025S2S327_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 3 Timetable 27_June_2025.pdf</a>
 </p>
-<p><a href="/files/Latest Updates/2025S2S426_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 4 Timetable 26_June_2025.pdf</a>
+<p><a href="/files/Latest Updates/2025S2S427_Jun.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Sec 4 Timetable 27_June_2025.pdf</a>
 </p>
