@@ -1,0 +1,11 @@
+collections:
+  students:
+    output: true
+    order:
+      - School Information.md
+      - Assessment Matters.md
+      - Direct School Admission.md
+      - School Transfer.md
+      - 2024 Open House/.keep
+      - 2024 Open House/2024 Open House.md
+      - 2024 Open House/2024 Founder's Day Video.md
