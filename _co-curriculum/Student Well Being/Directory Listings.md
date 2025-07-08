@@ -191,6 +191,30 @@ contacting the National Anti-Violence &amp; Sexual Harassment Helpline.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National mindline 1771</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provides a safe space where individuals can seek help without fear of
+stigma. All conversations are kept confidential, and help-seekers can choose
+to remain anonymous – making it easier for individuals to take the first
+step towards getting help early.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Telephone hotline by dialling 1771;</p>
+</li>
+<li>
+<p>Mobile messaging service via WhatsApp at +65-6669-1771; and</p>
+</li>
+<li>
+<p>Online webchat through the chat widget hosted on <a href="https://mindline.sg/fsmh" rel="noopener noreferrer nofollow" target="_blank">mindline.sg</a> website.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Additional Directory Listings</p>
 </td>
 <td rowspan="1" colspan="1">
