@@ -24,12 +24,17 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 1A</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
 <p>Ms Tan Yi Qian</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Arif Bin Bakar</p>
 </th>
 </tr>
 <tr>
