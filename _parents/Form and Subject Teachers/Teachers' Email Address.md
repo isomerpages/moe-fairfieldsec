@@ -31,6 +31,15 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Andrew Choy (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Arif Bin Bakar (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,15 +121,6 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choy Andrew (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chua Chang Fong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Chong Yuan Alvin (Mr)</p>
+<p>Chua Chong Yuan, Alvin (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_chong_yuan_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chong_yuan_alvin@moe.edu.sg</a>
@@ -143,15 +143,6 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dannish_kurniago@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elijah-Lily Cleaopatra (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lily_cleaopatra_anthony_pm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_cleaopatra_anthony_pm@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -332,6 +323,16 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yong_seng_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_seng_peter@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lily Cleaopatra D/O Anthony Pm</p>
+<p>(Mrs Elijah)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lily_cleaopatra_anthony_pm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_cleaopatra_anthony_pm@moe.edu.sg</a>
 </p>
 </td>
 </tr>
