@@ -59,7 +59,7 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Ms Dorothy Ho</p>
+<p>Ms Dorothy Ho Rui Wen</p>
 </th>
 </tr>
 <tr>
