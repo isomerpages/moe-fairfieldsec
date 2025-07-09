@@ -78,17 +78,23 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Wong Jiaxian</strong>
+<p><strong>Mdm Sun Jiaxi</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 3F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Chong Yuan Alvin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chionh Yee Ching</strong>
 </p>
 </td>
 </tr>
@@ -105,7 +111,8 @@ third_nav_title: Form and Subject Teachers
 </tbody>
 </table>
 <h4>Sec 3 Subject Teachers</h4>
-<p><a href="/files/Parents/Sec_3_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 3 FTs and Subject Teachers.pdf</a>
+<p><a href="/files/Parents/Sec_3_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 3 FTs and Subje</a>
+<a href="/files/Parents/2025_Sem_2_Sec_3_FTs__Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Parents/Sec_3_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">ct Teachers.pdf</a>
 </p>
 <p></p>
 <h4>Teachers' Email Address</h4>
