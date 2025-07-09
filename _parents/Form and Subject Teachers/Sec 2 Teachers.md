@@ -25,7 +25,7 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 2A</strong>
 </p>
 </td>
@@ -34,7 +34,12 @@ third_nav_title: Form and Subject Teachers
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p>Mdm Leong Yuet Lim Rosalind</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Sec 2B</strong>
 </p>
 </td>
@@ -45,6 +50,12 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Lim Seow Yi</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Sec 2C</strong>
 </p>
 </td>
@@ -53,7 +64,12 @@ third_nav_title: Form and Subject Teachers
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p>Ms Lim Shih Haan, Johanna Noella</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Sec 2D</strong>
 </p>
 </td>
@@ -64,6 +80,12 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Joanna D/O George</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Sec 2E</strong>
 </p>
 </td>
@@ -74,11 +96,26 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Lim Siew Ein Josephine</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Sec 2F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Wong Jiayi</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lin Yizhen, Eunice</strong>
 </p>
 </td>
 </tr>
@@ -104,11 +141,12 @@ third_nav_title: Form and Subject Teachers
 </tbody>
 </table>
 <h4>Sec 2 Subject Teachers</h4>
-<p><a href="/files/Parents/Sec_2_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 2 FTs and Subject Teachers.pdf</a>
+<p><a href="/files/Parents/2025_Sem_2_Sec_2_FTs__Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 2 FTs and Subject T</a>
+<a href="/files/Parents/Sec_2_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">eachers.pdf</a>
 </p>
 <p></p>
 <h4>Teachers' Email Address</h4>
-<p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view all teachers email addresses.</p>
 <p></p>
 <p></p>

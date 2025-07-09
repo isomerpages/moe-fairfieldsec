@@ -31,6 +31,15 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Andrew Choy (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Arif Bin Bakar (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,19 +103,19 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choe Wai Leng Evelyn (Mrs)</p>
+<p>Chionh Yee Ching (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choe_wai_leng_evelyn_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choe_wai_leng_evelyn_a@moe.edu.sg</a>
+<p><a href="mailto:chionh_yee_ching_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chionh_yee_ching_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choy Andrew (Mr)</p>
+<p>Choe Wai Leng Evelyn (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
+<p><a href="mailto:choe_wai_leng_evelyn_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choe_wai_leng_evelyn_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -121,7 +130,7 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Chong Yuan Alvin (Mr)</p>
+<p>Chua Chong Yuan, Alvin (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_chong_yuan_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chong_yuan_alvin@moe.edu.sg</a>
@@ -134,15 +143,6 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dannish_kurniago@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elijah-Lily Cleaopatra (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lily_cleaopatra_anthony_pm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_cleaopatra_anthony_pm@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -328,6 +328,16 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lily Cleaopatra D/O Anthony Pm</p>
+<p>(Mrs Elijah)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lily_cleaopatra_anthony_pm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_cleaopatra_anthony_pm@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Li Weihan Joel (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -382,7 +392,7 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Seow Yi Ethan ( Mr)</p>
+<p>Lim Seow Yi Ethan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_Yandong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_yi_ethan@moe.edu.sg</a>
@@ -508,15 +518,6 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oh-Ong Lei Wan Jasmin (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_lei_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_lei_wan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Olivia Tan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -593,6 +594,15 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_gek_meng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_gek_meng_wendy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun Jiaxi (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sun_jiaxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_jiaxi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -773,6 +783,15 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alex_woo_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alex_woo_chee_keong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Eng Luan Ruth (Miss)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_eng_luan_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_eng_luan_ruth@moe.edu.sg</a>
 </p>
 </td>
 </tr>

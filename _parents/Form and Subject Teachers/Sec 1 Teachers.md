@@ -33,10 +33,9 @@ third_nav_title: Form and Subject Teachers
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr&nbsp;Arif Bin Bakar</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Mr Arif Bin Bakar</p>
+</th>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -50,28 +49,22 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Oh-Ong Lei Wan Jasmin</strong>
+<p><strong>Miss Yap Eng Luan Ruth</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 1C</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Ms Chan Xin Hui Charmaine</p>
+<p>Ms Lim Jasmine</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Kamariah Binte Sajat</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lim Jasmine</strong>
 </p>
 </td>
 </tr>
@@ -113,7 +106,7 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Olivia Tan</strong>
+<p><strong>Ms Chan Xin Hui Charmaine</strong>
 </p>
 </td>
 </tr>
@@ -129,7 +122,7 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Liong Hui Min</strong>
+<p><strong>Ms Samsiah Bte Mohd Diah</strong>
 </p>
 </td>
 </tr>
@@ -159,10 +152,9 @@ third_nav_title: Form and Subject Teachers
 </table>
 <p></p>
 <h4>Sec 1 Subject Teachers</h4>
-<p><a href="/files/Parents/Sec_1_FTs___Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 1 FTs and Subject Teachers.pdf</a>
+<p><a href="/files/Parents/2025_Sem_2_Sec_1_FTs__Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 1 FTs and Subject Teachers.pdf</a>
 </p>
 <p></p>
 <h4>Teachers' Email Address</h4>
-<p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view all teachers email addresses.</p>
-<p></p>
