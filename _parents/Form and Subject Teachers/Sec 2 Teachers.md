@@ -146,7 +146,7 @@ third_nav_title: Form and Subject Teachers
 </p>
 <p></p>
 <h4>Teachers' Email Address</h4>
-<p>Click&nbsp;<a href="https://staging.d1wp5xkpm2dbnc.amplifyapp.com/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view all teachers email addresses.</p>
 <p></p>
 <p></p>
