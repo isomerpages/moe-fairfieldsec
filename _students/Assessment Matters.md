@@ -15,11 +15,4 @@ variant: tiptap
 <p><a href="/files/Parents/Assessment Matters/2025_Prelim_4NT_Timetable_AA_.pdf" rel="noopener nofollow" target="_blank">2025_Prelim_4NT_Timetable_AA.pdf</a>
 </p>
 <h4>Term 3 Timed practice Schedule and Topics</h4>
-<p><a href="/files/Prospective Students/2025_Sec_1_Term_3_Timed_Practice_Schedule_and_Topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Term 3 Timed Practice Schedule and Topics</a>
-</p>
-<p><a href="/files/Prospective Students/2025_Sec_2_Term_3_Timed_Practice_Schedule_and_Topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Term 3 Timed Practice Schedule and Topics</a>
-</p>
-<p><a href="/files/Prospective Students/2025_Sec_3_Term_3_Timed_Practice_Schedule_and_Topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Term 3 Timed Practice Schedule and Topics</a>
-</p>
-<h4></h4>
-<p></p>
+<p>Coming soon!</p>
