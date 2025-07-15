@@ -45,6 +45,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Richard Seow</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Education Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Kwok Wan Yee</strong>
 </p>
 </td>
@@ -113,15 +122,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Richard Seow</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Education Secretary</p>
 </td>
 </tr>
 </tbody>
