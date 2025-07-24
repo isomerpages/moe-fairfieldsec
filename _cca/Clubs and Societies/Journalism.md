@@ -3,6 +3,7 @@ title: Journalism
 permalink: /cca/Clubs-and-Societies/journalism/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Journalism
 
@@ -20,8 +21,10 @@ third_nav_title: Clubs and Societies
 <b>Training Days &amp; Time:</b><br>
 Thursday: 3.00 pm - 5.30 pm <br><br>
 
-<b>Teacher In Charge:</b><br>
-Mr Joseph Guo
+<b>Teachers in charge:</b>
+<br>
+	Mr Joseph Guo<br>
+Ms Jasmine Lim
 </p>
 </div>
 

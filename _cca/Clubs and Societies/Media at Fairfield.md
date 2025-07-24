@@ -26,7 +26,7 @@ Friday (Sec 2 - 4): 2.00 pm - 4.00 pm <br><br>
 Ms Nurul Afia (I/C)<br>
 Ms Samsiah<br>
 Mr Amos Heng<br>	
-Mr Hadi<br><br>
+Mr Ariff<br><br>
 
 <b>Social Media:</b><br>
 <b>Instagram:&nbsp;<a href="https://www.instagram.com/media_at_fairfield/?hl=en">Media at Fairfield</a></b>
