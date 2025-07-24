@@ -27,8 +27,8 @@ variant: tiptap
 </p>
 <p>Mdm Yvonne Khoo (I/C)
 <br>Ms Olivia Tan
-<br>Ms Li Yan Dong</p>
-<p>Miss Chloe Lee Xue Ning&nbsp;
+<br>Ms Li Yan Dong
+<br>Miss Chloe Lee Xue Ning&nbsp;
 <br>
 <br>
 </p>
