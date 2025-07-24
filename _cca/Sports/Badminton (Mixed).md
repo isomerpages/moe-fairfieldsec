@@ -52,8 +52,8 @@ variant: tiptap
 </p>
 <p>Boys:
 <br>Mrs Jean Ho (I/C)
-<br>Ms Tay Shu-Min, Samantha</p>
-<p>Mr Chia Chun Yee
+<br>Ms Tay Shu-Min, Samantha
+<br>Mr Chia Chun Yee
 <br>
 </p>
 <p></p>
