@@ -3,13 +3,13 @@ title: Symphonic Band
 permalink: /cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
 <h3>Symphonic Band</h3>
 <p></p>
-
-![](/images/CCA/PA/2024_Band_GIF.gif)
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA/2024_Band_GIF.gif">
+</div>
 <p>Details</p>
 <p><strong>Training Days &amp; Time:</strong>
 </p>
@@ -53,8 +53,9 @@ variant: markdown
 <br><strong>Teachers In Charge:</strong> 
 <br>Ms Tan Yi Qian (I/C)
 <br>Mr Alester Tan
-<br>Mdm Haliza	
-<br>Ms Siti Ainah
+<br>Mdm Haliza
+<br>Ms Noella Lim Shih Haan
+<br>Ms Chionh Yee Ching&nbsp;
 <br>
 <br><strong>Conductor</strong> 
 <br>Mr Wong Yin Xuan&nbsp;
