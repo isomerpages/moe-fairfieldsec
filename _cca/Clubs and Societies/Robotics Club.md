@@ -30,7 +30,8 @@ Saturday (Competition venues): Whole day  <br><br>
 Ms Lim Chee Chin (I/C)<br>
 Mdm Aminah Beevi<br>
 Mr Kho Eng Kiong Patrick<br>	
-Mdm Sangeetha (Volunteer)
+Mdm Sangeetha (Volunteer)<br>
+Mr&nbsp;Paul Tarwasokono
 </p>
 </div>
 
