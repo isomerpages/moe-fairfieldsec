@@ -35,6 +35,7 @@ Ms Wong Bei Shi (I/C)<br>
 Mr Kua Khuan Tiong (2 I/C)<br>
 
 Ms Wong Jia Xian<br><br>
+Ms Dorothy Ho
 
   
 
