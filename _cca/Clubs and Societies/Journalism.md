@@ -21,7 +21,7 @@ variant: markdown
 <b>Training Days &amp; Time:</b><br>
 Thursday: 3.00 pm - 5.30 pm <br><br>
 
-<b>Teachers:</b>
+<b>Teachers in charge:</b>
 <br>
 	Mr Joseph Guo<br>
 Ms Jasmine Lim
