@@ -44,16 +44,16 @@ variant: tiptap
 <p><strong>Teachers In Charge:</strong>
 <br>
 <br>Girls:
-<br>Ms Thio Lay Hong (I/C)</p>
-<p>Ms Wong Jiayi (2IC)
+<br>Ms Thio Lay Hong (I/C)
+<br>Ms Wong Jiayi (2IC)
 <br>Mdm Yee Suet Fong Dawn
 <br>
 <br>
 </p>
 <p>Boys:
 <br>Mrs Jean Ho (I/C)
-<br>Ms Tay Shu-Min, Samantha</p>
-<p>Mr Chia Chun Yee
+<br>Ms Tay Shu-Min, Samantha
+<br>Mr Chia Chun Yee
 <br>
 </p>
 <p></p>

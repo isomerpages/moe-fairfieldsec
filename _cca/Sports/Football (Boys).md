@@ -28,7 +28,8 @@ Friday: 2.30 pm – 5.30 pm (All)&nbsp;  <br><br>
 <b>Teachers In Charge:</b><br>
 
 Mr Jason Lum (I/C)<br>
-Mr Yap Hock Heng<br>
+Mr Andrew Choy (2 I/C) <br>
+Mr Yap Hock Heng<br> 
 Mr Lee Yew Ming (Volunteer)<br>
 </p>
 </div>
