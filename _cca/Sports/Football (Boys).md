@@ -79,9 +79,7 @@ discipline and integrity.</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<p><strong>2022</strong>
+<br><strong>2022</strong>
 <br>
 </p>
 <table style="minWidth: 50px">
