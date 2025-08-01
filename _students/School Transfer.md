@@ -2,27 +2,19 @@
 title: School Transfer
 permalink: /prospective-students/school-transfer/
 description: ""
+variant: tiptap
 ---
-### School Transfer
-
-Students who are studying in MOE secondary schools and wish to be considered for admission to Fairfield Methodist School (Secondary) could submit an appeal for a transfer to the school. 
-
-  
-
-Application is to be done strictly via this link ([https://form.gov.sg/5f928fcb0468b0001139ce7e](https://form.gov.sg/5f928fcb0468b0001139ce7e)). 
-
-  
-
-Kindly submit the following documents via in the given link
-
-• Certified true copies of school results slip
-
-• Certified true copies of certificates of CCA participation and leadership roles in school
-
-  
-
-Only shortlisted candidates will be contacted. 
-
-  
-
-Should you have any queries, please contact the General Office at 6778 8702 during office hours or email to [fmss@moe.edu.sg](mailto:fmss@moe.edu.sg)
+<h3>School Transfer</h3>
+<p>Students who are studying in MOE secondary schools and wish to be considered
+for admission to Fairfield Methodist School (Secondary) could submit an
+appeal for a transfer to the school.</p>
+<p>Application is to be done strictly via this <a href="https://form.gov.sg/688c507df897402b1a63cbb7" rel="noopener nofollow" target="_blank">link</a>
+</p>
+<p>Kindly submit the following documents via in the given link</p>
+<p>• Certified true copies of school results slip</p>
+<p>• Certified true copies of certificates of CCA participation and leadership
+roles in school</p>
+<p>Only shortlisted candidates will be contacted.</p>
+<p>Should you have any queries, please contact the General Office at 6778
+8702 during office hours or email to&nbsp;<a href="mailto:fmss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fmss@moe.edu.sg</a>
+</p>
