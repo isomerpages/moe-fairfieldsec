@@ -31,13 +31,14 @@ skills as they navigate an increasingly digitalised world.&nbsp;</p>
 <p>The price of the device bundle (inclusive of GST) is:&nbsp;<strong>S$853.40</strong>
 </p>
 <h4>Use of Edusave</h4>
-<p>MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in
-2023, to all eligible Singaporean students in primary and secondary schools.
-This is on top of the annual Edusave contribution of $290 for secondary
-students and $230 for primary students. Students who are Singapore citizens
-can use their Edusave to pay fully or partly for the PLD, after setting
-aside provision for payment of miscellaneous fees. Parents/Guardians can
-also choose to pay cash for the PLD.&nbsp;</p>
+<p>As announced at Budget 2025, there will be a one-off top-up of $500 to
+the Edusave Account of Singapore Citizens who are born between 1 January
+2009 and 31 December 2012, both dates inclusive. This is on top of the
+annual Edusave contribution of $290 for secondary students and $230 for
+primary students. Students who are Singapore citizens can use their Edusave
+to pay fully or partly for the PLD, after setting aside provision for payment
+of miscellaneous fees. Parents/Guardians can also choose to pay cash for
+the PLD.&nbsp;</p>
 <h4>Financial Assistance</h4>
 <p>Subsidies are available for students who require funding support to purchase
 a PLD. Please note that it is compulsory for all students on the MOE Financial
@@ -83,7 +84,7 @@ below for information on the eligibility for the subsidy:</p>
 <br>PCI is $1,100 or less</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approach the school’s General Office to apply for a subsidy.</p>
+<p>No action required. Automatically subsidised for the PLD.</p>
 </td>
 </tr>
 <tr>
