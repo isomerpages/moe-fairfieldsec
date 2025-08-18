@@ -38,7 +38,7 @@ to the school’s guidelines for canteen operations and food served within
 the school compound.</p>
 <p><strong><u>Application Procedure:</u></strong>
 </p>
-<p>Interested applicants are to complete the <strong>attached application form</strong> and
+<p>Interested applicants are to complete the <strong><a href="/files/Application_for_Canteen_Stall_Form_BF7.pdf" rel="noopener noreferrer nofollow" target="_blank">attached application form</a></strong> and
 submit it to the <strong>school’s General Office by 1 September 2025</strong>,
 along with the following supporting documents:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of NRIC (front
