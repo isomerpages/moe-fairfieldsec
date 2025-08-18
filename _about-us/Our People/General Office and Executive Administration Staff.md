@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h3>General Office</h3>
-<p></p>
+<h3>General Office and Executive Administration Staff</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/general_office_staff_2025.jpg">
 </div>
