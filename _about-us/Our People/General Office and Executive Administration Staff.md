@@ -9,7 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/general_office_staff_2025.jpg">
 </div>
-<h4>Key Personnel</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,26 +52,6 @@ variant: tiptap
 <p><a href="mailto:mohamed_malik_shahal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_malik_shahal@schools.gov.sg</a>
 </p>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -151,29 +130,6 @@ variant: tiptap
 <p><a href="mailto:lim_may_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_may_may@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/About%20Us/Our%20People/operations_support_officers_2.jpg">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
