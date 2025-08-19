@@ -1,11 +1,11 @@
 ---
-title: General Office and Executive Administration Staff
+title: General Office and Executive Administrative Staff
 permalink: /about-us/our-people/general-office/
 description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h3>General Office and Executive Administration Staff</h3>
+<h3>General Office and Executive Administrative Staff</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/general_office_staff_2025.jpg">
 </div>
@@ -120,19 +120,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim May May</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_may_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_may_may@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Ahmad Zain Bin Suri</strong>
 </p>
 </td>
@@ -201,6 +188,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim May May</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_may_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_may_may@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
