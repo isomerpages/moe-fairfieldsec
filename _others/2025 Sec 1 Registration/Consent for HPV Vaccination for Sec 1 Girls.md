@@ -29,7 +29,8 @@ third dose will be given in the following year.&nbsp;&nbsp;</p>
 <p>To give consent:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Log on to <a href="https://childconsent.hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg</a>&nbsp;&nbsp;</p>
+<p>Log on to <a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://consent.hpb.gov.sg&nbsp;</a>
+</p>
 </li>
 <li>
 <p>Login using your SingPass with 2-factor authentication (2FA).&nbsp;</p>
