@@ -424,7 +424,7 @@ in Secondary 1 will require 2 doses. The first dose will be given in Secondary
 above in Secondary 1 will require 3 doses. The first and second doses will
 be given in Secondary 1 and the third dose will be given in the next year.</p>
 <p>To give consent:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Log on to&nbsp;<a href="https://childconsent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg</a>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Log on to&nbsp;<a href="https://consent.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://childconsent.hpb.gov.sg</a>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Login using your SingPass with
 2-factor authentication (2FA).</p>
