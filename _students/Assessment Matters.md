@@ -30,9 +30,9 @@ variant: tiptap
 </p>
 <p><a href="/files/Prospective Students/2025_Sec_3_NA_EOY_AA.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 NA EOY SAA Exam Time Table</a>
 </p>
-<p><a href="/files/Prospective Students/2025_Sec_3_NT_EOY.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT EOY Exam Time Table</a>
+<p><a href="/files/Prospective Students/2025_Sec_3_NT_EOY__amended_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 NT EOY Exam Time Table (Amended on 21 August 2025)</a>
 </p>
-<p><a href="/files/Prospective Students/2025_Sec_3_NT_EOY_AA.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT EOY SAA Exam Time Table</a>
+<p><a href="/files/Prospective Students/2025_Sec_3_NT_EOY_AA__amended_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 NT EOY SAA Exam Time Table (Amended on 21 August 2025)</a>
 </p>
 <p><a href="/files/Prospective Students/2025_Sec_1_EOY_Topics.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY Exam Topics</a>
 </p>
