@@ -59,6 +59,32 @@ discipline and integrity.</p>
 <p><strong>2025</strong>
 </p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Methodist Cup Football Championship 2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>1st</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Football Competition 'B' Div League 2 Semi-Finals</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4th</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>2024</strong>
 </p>
@@ -76,6 +102,16 @@ discipline and integrity.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2nd</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Football Competition 'B' Div League 2 Quarter-Finals</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
 </p>
 </td>
 </tr>
