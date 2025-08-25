@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Our Stories
 
-<img src="/images/Our%20Stories/2025/137_Founders_Day.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">A Heartfelt 137th Founder’s Day[Read More](https://fairfieldmethodistsec.moe.edu.sg/a-heartfelt-137th-founder-s-day/)
+<img src="/images/Our%20Stories/2025/137_Founders_Day.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">A Heartfelt 137th Founder’s Day [Read More](https://fairfieldmethodistsec.moe.edu.sg/a-heartfelt-137th-founder-s-day/)
 <br><br>
 
 ***
