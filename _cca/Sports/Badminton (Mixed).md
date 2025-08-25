@@ -74,9 +74,52 @@ variant: tiptap
 <li>
 <p><strong>Achievements</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<p><strong>2025</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships 2025 - 'C' Div Boys (League 3)</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South Zone Badminton Championships 2025 - 'B' Div Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NSG South Zone Badminton Championships 2025 - 'B' Div Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
