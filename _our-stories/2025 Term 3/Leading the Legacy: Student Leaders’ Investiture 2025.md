@@ -27,7 +27,9 @@ and hope, thanks to the unwavering support of her peers and teachers. Her
 heartfelt reflections not only celebrated her own journey but also underscored
 the collective effort of all leaders, naturally flowing into the moment
 of recognising the contributions of her fellow council members.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcQYxgTSQM7jdqi_8D7E0-o7P6sbci3o0plBGD_bZd1rSijP0Itl9hGBqq30nGnj2uRdgj9c6MEJn7/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>During the appreciation segment for the Secondary Four student leaders,
 the outgoing leaders passed the baton to the incoming appointed councillors
 and CCA leaders. Beaming with pride, the incoming student leaders walked
