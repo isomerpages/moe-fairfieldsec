@@ -17,7 +17,9 @@ Ensemble as they played a rendition of Bless the Lord by Matt Redman to
 remind Fairsians about God's goodness and blessings over the school’s long
 history. They played gracefully, leaving the audience with a strong sense
 of appreciation for Fairfield’s journey.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8jADxrKzDq9OE7r1buoWCk2kWX1MlKFdI_dUZMMKNFBgW-AVLHo4PIXG-ZyzdXUJJWYIVmgQIro_m/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>Reverend Timothy Ang then led the congregation in prayer, blessing the
 school and its community with words of encouragement. This was followed
 by an invitation from the upper secondary Chapel Band, as they led the
