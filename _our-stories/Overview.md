@@ -6,7 +6,10 @@ variant: markdown
 ---
 ### Our Stories
 
+<img src="/images/Our%20Stories/2025/137 Founders Day.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">A Heartfelt 137th Founder’s Day[Read More](https://fairfieldmethodistsec.moe.edu.sg/a-heartfelt-137th-founder-s-day/)
+<br><br>
 
+***
 
 <img src="/images/Our%20Stories/2025/R0007876.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Flourishing Friendships Far From Fairfield [Read More](https://fairfieldmethodistsec.moe.edu.sg/flourishing-friendships-far-from-fairfield/)
 <br><br>
