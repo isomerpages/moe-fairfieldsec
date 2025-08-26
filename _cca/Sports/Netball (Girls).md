@@ -126,6 +126,16 @@ Singapore (opened to all secondary schools in Singapore)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>NSG Netball Championships 2025 - 'C' Div Girls (League 4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Netops Netball Carnival Jun 2025 - U14</strong>
 </p>
 </td>
