@@ -116,6 +116,16 @@ Singapore (opened to all secondary schools in Singapore)
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>NSG Netball Championships 2025 - 'C' Div Girls (League 4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>NSG South Zone Netball Championships 2025 - 'B' Div Girls</p>
 </th>
