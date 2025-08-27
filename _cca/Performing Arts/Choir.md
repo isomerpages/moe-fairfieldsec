@@ -35,11 +35,8 @@ variant: tiptap
 <br><a href="https://www.facebook.com/thefairfieldchoir/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/thefairfieldchoir/</a>
 </p>
 <p></p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Overview</p>
+<p><strong>Overview</strong>
+</p>
 <p></p>
 <p><strong>Vision</strong>
 <br>We aspire to be a choir that inspire others by our work a love and appreciation
