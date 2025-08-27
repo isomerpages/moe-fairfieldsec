@@ -114,6 +114,24 @@ and achieving excellence in every performance.</p>
 </p>
 <p><strong>2025</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>SYF 2025 Arts Presentation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>2024</strong>
 </p>
 <table style="minWidth: 50px">
@@ -198,7 +216,7 @@ and achieving excellence in every performance.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Performance</strong> 
+<p><strong>School Performance</strong>
 </p>
 </td>
 </tr>
@@ -218,7 +236,7 @@ and achieving excellence in every performance.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Public Performance</strong> 
+<p><strong>Public Performance</strong>
 </p>
 </td>
 </tr>
@@ -260,7 +278,7 @@ and achieving excellence in every performance.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Public Performance</strong> 
+<p><strong>Public Performance</strong>
 </p>
 </td>
 </tr>
@@ -278,7 +296,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</strong> 
+<p><strong>SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -300,7 +318,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2019 Arts Presentation for&nbsp;Band (Concert)</strong> 
+<p><strong>SYF 2019 Arts Presentation for&nbsp;Band (Concert)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,7 +340,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2017 Arts Presentation for&nbsp;Band (Concert)</strong> 
+<p><strong>SYF 2017 Arts Presentation for&nbsp;Band (Concert)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
