@@ -427,7 +427,8 @@ or student EXCO for the updated schedule.</p>
 </ul>
 <ul>
 <li>
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 <p></p>
 <p><strong>2025</strong>
 </p>
