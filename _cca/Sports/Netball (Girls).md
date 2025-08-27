@@ -174,6 +174,26 @@ Singapore (opened to all secondary schools in Singapore)
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Deloitte Pesta Sukan 2025 - U17</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Deloitte Pesta Sukan 2025 - U14</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
