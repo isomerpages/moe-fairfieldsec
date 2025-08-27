@@ -61,17 +61,13 @@ to work towards good rehearsals in preparation for performances
 <br><strong><em>Passion</em></strong>
 <br>• Always be spirited in singing, bursting in harmonies everywhere, anywhere
 <br>
-<br>
-</p><pre><code>&lt;b&gt;&lt;i&gt;Commitment&lt;/i&gt;&lt;/b&gt;&lt;br&gt;</code></pre>
-<p>• To demonstrate love for Choir and one another; to care and help one
+</p>
+<p><strong><em>Commitment</em></strong>
+<br>• To demonstrate love for Choir and one another; to care and help one
 another excel in music or in any assigned task
 <br>
-<br>
-</p>
-<p><strong><em>Our Choir Pledge</em></strong>
-<br>
-</p>
-<p>We will work hard to improve ourselves during training &amp; courses.
+<br><strong><em>Our Choir Pledge</em></strong>
+<br>We will work hard to improve ourselves during training &amp; courses.
 <br>We will not give up when we face challenges.
 <br>We will respect authority and follow rules.
 <br>We will be loyal to our team.
@@ -79,9 +75,7 @@ another excel in music or in any assigned task
 <br>will always do the best to bring glory to our school.
 <br>
 <br><strong>History</strong>
-<br>
-</p>
-<p>Fairfield Choir is a choir with a rich choral tradition, starting out
+<br>Fairfield Choir is a choir with a rich choral tradition, starting out
 in 1960 as a group under the Music Society. In 1975, the choir took part
 in National Day Celebrations for the first time and the choristers sang
 on board a float decorated by our very own school teachers. In 1977, the
@@ -132,22 +126,18 @@ Foon and Ms Wynne Lee.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>No.</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Activity</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Venue</strong>
-<br>
 </p>
 </td>
 </tr>
