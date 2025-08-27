@@ -429,6 +429,69 @@ or student EXCO for the updated schedule.</p>
 <li>
 <p>Achievements</p>
 <p></p>
+<p><strong>2025</strong>
+</p>
+<p><strong>2024</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Choral Exchange at Kranji Secondary School</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Masterclass by Dr T.J. Harper</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fairfield Choir Concert 2024 - Iridescence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fairfield! The Musical 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VIA in CCA at Assisi Hospice &amp; FaithActs (Margaret Drive)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2023</strong>
 <br>
 </p>
