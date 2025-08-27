@@ -61,6 +61,8 @@ Shir Lyn believes in nurturing young confident learners who are self-motivated
 and self-disciplined in striving for excellence in all aspects of their
 life.</p>
 <p></p>
+</li>
+</ul>
 <ul>
 <li>
 <p>Overview</p>
@@ -159,12 +161,57 @@ themes.
 </p>
 <p>2020: Black Box Vol. 2 – Chain Reaction</p>
 <p></p>
+</li>
+</ul>
 <ul>
 <li>
 <p>Achievements</p>
 <p></p>
+<p><strong>2025</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2025 SYF Dance Presentation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>2024</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024 International Youth Dance Competition (Gold Award &amp; Best Staging
+Award)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Gold Award</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2023</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -218,18 +265,9 @@ themes.
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>NDP School Performance</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,18 +275,9 @@ themes.
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>THE PRESENCE PROJECT: PHENOMENON III - 'LIVE' at Library@Esplanade</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,9 +287,7 @@ themes.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2021</strong>
 <br>
 </p>
@@ -294,7 +321,6 @@ themes.
 <iframe height="375" width="763" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pk_p9dQdISE"></iframe>
 </div>
 <p>
-<br>
 <br><strong>2019</strong>
 <br>
 </p>
@@ -307,7 +333,6 @@ themes.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>SYF Arts Presentation (AP) for International Dance</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,9 +342,7 @@ themes.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2018</strong>
 <br>
 </p>
@@ -332,7 +355,6 @@ themes.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Super 24 Division Runners-Up and National Finalist (Secondary)</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -341,9 +363,7 @@ themes.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2017</strong>
 <br>
 </p>
@@ -355,7 +375,7 @@ themes.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF Arts Presentation (AP) for International Dance&nbsp;<br></strong>
+<p><strong>SYF Arts Presentation (AP) for International Dance&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -366,10 +386,6 @@ themes.
 </tbody>
 </table>
 <p></p>
-</li>
-</ul>
-</li>
-</ul>
 </li>
 </ul>
 <p></p>
