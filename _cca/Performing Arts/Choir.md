@@ -431,6 +431,55 @@ or student EXCO for the updated schedule.</p>
 <p></p>
 <p><strong>2025</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Exchange at Xinmin Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Masterclass by Dr Paulo Lourenco</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Esplanade Presents - Limelight 2025 at Esplanade Concert Hall</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <p></p>
@@ -507,7 +556,7 @@ or student EXCO for the updated schedule.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Distinction<br></strong>
+<p><strong>Certificate of Distinction</strong>
 </p>
 </td>
 </tr>
