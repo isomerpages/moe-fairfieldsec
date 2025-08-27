@@ -120,7 +120,7 @@ titled “A Night at the Theatre”.&nbsp;
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SYF Arts Presentation 2025</p>
+<p>SYF 2025 Arts Presentation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Certificate of Accomplishment</strong>
