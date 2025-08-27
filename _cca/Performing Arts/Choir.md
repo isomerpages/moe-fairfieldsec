@@ -3,188 +3,758 @@ title: Choir
 permalink: /cca/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-### Choir
-
-<img src="/images/cca10.gif" style="width:80%">
-
-<ul class="jekyllcodex_accordion">
-<li>
-		
-<input id="accordion1" type="checkbox">
-
-<label for="accordion1">Details</label>
-<div>
-
-<p> 
-<b>Training Days &amp; Time:</b><br><br>
-
-Monday: 3.00 pm – 5.30 pm<br>
-
-Wednesday:&nbsp;3.30 pm - 5.30 pm (Peak Period Only)&nbsp;<br>
-
-Friday: 2.00 pm – 5.00 pm<br><br>
-
-  
-
-<b>Teachers In Charge:</b><br><br>
-
-Ms Wong Bei Shi (I/C)<br>
-
-Mr Kua Khuan Tiong (2 I/C)<br>
-
-Ms Wong Jia Xian<br><br>
-Ms Dorothy Ho
-
-  
-
-<b>Website with Choir updates and students’ testimonial (managed by students):</b><br><br>
-<a href="https://thefairfieldchoir.wixsite.com/website">https://thefairfieldchoir.wixsite.com/website</a>
-<br><br>
-
-  
-
-<b>Instagram:</b><br><br>
-<a href="https://www.instagram.com/thefairfieldchoir">https://www.instagram.com/thefairfieldchoir</a>
-<br><br>
-
-  
-
-<b>Facebook Page:</b>&nbsp;<br><br>
-<a href="https://www.facebook.com/thefairfieldchoir/">https://www.facebook.com/thefairfieldchoir/</a>
-
-</p>
+<h3>Choir</h3>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/cca10.gif">
 </div>
-
-<ul class="jekyllcodex_accordion">
+<ul>
 <li>
-		
-<input id="accordion2" type="checkbox">
-
-<label for="accordion2">Overview</label>
-<div>
-
-<p>
-<b>Vision</b><br>
-
-We aspire to be a choir that inspire others by our work a love and appreciation for choral singing; a choir that the nation is proud of, and an active contributor to the community at large.<br><br>
-
-  
-
-<b>Mission</b><br>
-
-We promote and develop a love and passion for choral music, cultivate discipline and excellence through singing; care and nurture each of the members; as well as inspire and connect hearts in our community.<br><br>
-
-  
-
-<b>Values</b><br>
-
-<b><i>Spirit of excellence</i></b><br>
-
-•  To be excellent in skill and attitude<br><br>
-
-  
-
-<b><i>Discipline</i></b><br>
-
-•  To be disciplined and self-motivated to establish consistency in choir to work towards good rehearsals in preparation for performances<br><br>
-
-  
-
-<b><i>Passion</i></b><br>
-
-•  Always be spirited in singing, bursting in harmonies everywhere, anywhere<br><br>
-
-  
-
-	<b><i>Commitment</i></b><br>
-
-• To demonstrate love for Choir and one another; to care and help one another excel in music or in any assigned task<br><br>
-
-  
-
-<b><i>Our Choir Pledge</i></b><br>
-
-We will work hard to improve ourselves during training &amp; courses.<br>
-
-We will not give up when we face challenges.<br>
-
-We will respect authority and follow rules.<br>
-
-We will be loyal to our team.<br>
-
-We will cherish the trust placed in me by the school and<br>
-
-will always do the best to bring glory to our school.<br><br>
-
-  
-
-<b>History</b><br>
-
-Fairfield Choir is a choir with a rich choral tradition, starting out in 1960 as a group under the Music Society. In 1975, the choir took part in National Day Celebrations for the first time and the choristers sang on board a float decorated by our very own school teachers. In 1977, the choir clinched the first position in the choral section of the Arts Festival as well as Youth festival. The choir was also invited to sing at the first festival of arts in the same year. Although it began as an all girls’ group, Fairfield Choir became a mixed choir in 1987. With a fine record of several distinctions, awards in the SYF competition, it was one of the pioneer choirs in the choral excellence programme in 1988. Since then, the choir has won many accolades for its stellar performances locally and internationally.<br><br>
-
-  
-
-In 1991, the choir won the coveted “Choir of the Year” award in the 2nd Singapore Youth Festival competition. It also clinched the “Best Secondary School Choir” award in 1995 with a Certificate of Distinction. In the subsequent SYF choral competitions, Fairfield choir was awarded three Silver awards, four Gold awards, one Gold with Hours award, and three Certifications of Distinction. Fairfield Choir was also one of the selected choirs to perform at the Esplanade on 25th July 2005 for the SYF opening ceremony.<br><br>
-
-  
-
-Fairfield Choir had its first overseas trip to Perth, Australia in 1994. The choir performed at various places to share and spread the good reputation of Fairfield as a singing school. Using their musical talents as singing ambassadors for the Lord, Fairfield Choir was awarded Silver awards at the International Festival of Advent and Christmas Music with Petr Eben’s Prize held at Czech Republic, Prague, 2002, at the VIII Concorso Corale In international, Riva del Garda, Italy, 2004 and at the International Festival of Advent and Christmas Music, Bratislava, Slovakia, 2010. The choir also achieved the International Gold Zlata award at the 34th International Festival of Songs, Olomouc, Prague, 2006.<br><br>
-
-  
-
-Fairfield Choir is honoured to have had so many opportunities to showcase their talents both locally and abroad. Aware of the rich choral legacy they have to uphold, the choristors put in many hours each week to hone their abilities. They currently train under the guidance of Mr Yong Chee Foon and Ms Wynne Lee.<br><br>
-
-  
-
-<b>Key Programmes / Highlights for 2023</b><br><br>
-
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">No.</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Date</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Activity</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Venue</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">1<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">6 Jan (Fri)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Choir Showcase &amp; CCA Fair<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">FMS(S)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">2<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">9, 11 Jan<br>(Mon, Wed)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Sec 1 CCA Trial (Audition)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">FMS(S)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">3<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">3 Feb (Fri)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Orientation of Sec 1 Choir members<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">FMS(S)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">4<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">Feb - Mar<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">EXCO Selection<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">FMS(S)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">5<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">6 Mar (Mon)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Singapore Youth Festival 2023<br>Arts Presentation Rehearsal</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">SOTA</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">6<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">Mar hols</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Choral Exchange<br>with other secondary school choirs<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">ACS(I)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">7<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">Mar hols<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Choral Masterclass<br>by Andre van der Merwe from South Africa<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">FMS(S)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">8<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">13 Apr (Thu)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Singapore Youth Festival Arts<br>Presentation (SYF AP) - Choir<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">SOTA Concert Hall</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">9<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">21 Apr (Fri)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Secondary 4 Farewell Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">FMS(S)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">10<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">1 July (Sat)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">SYF Festival Concert<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">Esplanade Theatre<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">11<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">28, 29 July<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Fairfield! The Musical<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">Victoria Theatre</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">12<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">Aug (tbc)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Music Learning Journey<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">tbc</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">13<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">4 Aug (Fri)</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">135th FMS(S) Founder's Day<br>Thanksgiving Service Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">FMS(S)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 31.5pt;">14<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 58.5pt;">14, 15 Nov<br>(Tue, Wed)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 149.25pt;">Combined School&nbsp;Choir<br>Exchange Concert<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 90.5pt;">tbc<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">15&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">&nbsp;22 Nov (Wed)</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">FMS(S) Open House Performance</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; border: 1px solid rgb(170, 170, 170);">FMS(S)&nbsp;</td></tr></tbody></table><br><br>
-
-  
-
-*Last day of Choir CCA session of the year is typically on Open House Day. Choir CCA session will resume after 25 Dec 2023.<br><br>
-
-*Schedule is subjected to change. Please check with any of the choir&nbsp;teachers or student EXCO for the updated schedule.	
-	
+<p>Details</p>
+<p></p>
+<p><strong>Training Days &amp; Time:</strong>
+<br>Monday: 3.00 pm – 5.30 pm
+<br>Wednesday:&nbsp;3.30 pm - 5.30 pm (Peak Period Only)&nbsp;
+<br>Friday: 2.00 pm – 5.00 pm
+<br>
 </p>
-
-	
-</div>
-
-<ul class="jekyllcodex_accordion">
-<li>
-		
-<input id="accordion3" type="checkbox">
-
-<label for="accordion3">Achievements</label>
-<div>
-
-<p>
-
-<b>2023</b><br>
-<br style="margin: 0px; outline: 0px; padding: 0px;"><table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 767.667px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 512px;"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF 2023 Arts Presentation for Choir<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 255px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Choral Masterclass<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Choral Exchange @ Anglo-Chinese School (Independent)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation</b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 1pt;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody><tbody><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Singapore Youth Festival Celebration - Festival Concert<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 2pt;"></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Founder's Day Thanksgiving Service Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance</b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 1pt;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody><tbody><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Fairfield! The Musical 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody></table><br>		
-	
-<b>2022</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 767.667px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 512px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Choir Concert - Iridescence 2022 @ SOTA<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 255px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Lunch Time Performance "A Lunch with Choir"<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Choral Exchange @ Nanyang Girls' High School<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance</b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 1pt;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 1pt;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 767.667px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 512px;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Founder's Day Thanksgiving Service Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 205pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">School Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr></tbody></table><br>
-	
-<b>2021</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 770px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 0px; outline: 0px; padding: 0px; border: none; color: rgb(0, 0, 0); font-size: 16px;"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; width: 466px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;"><span style="box-sizing: inherit; font-family: Lato, sans-serif; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; text-align: justify;">Voices of Singapore Festival</span></b></td><td valign="top" style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border-style: solid; border-color: rgb(214, 214, 214); border-image: initial; border-width: 0px 0px 1px; margin: 0px; outline: 0px; width: 243px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Representation</b></td></tr><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;">&nbsp;<b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Choir SYF 2021 Audio Recording</b></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 5px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><b style="box-sizing: inherit; font-family: inherit; font-weight: 600; margin: 0px; outline: 0px; padding: 0px;">Represented School at Local Event Under Special Provision</b></td></tr></tbody></table><br>
-
-<b>2019</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 767.667px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 512px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Singapore International Choral Festival 2019<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 255px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Silver Award<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF 2019 Arts Presentation for Choir<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Accomplishment<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Performance at CHIJMES for Voices of Singapore Festival<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Choral Masterclass</b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Representation<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 197.7pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Choral Exchange @ Xinmin Secondary School<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 122.5pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance</b></td></tr></tbody></table><br>
-
-<b>2018</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 770px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Limelight Concert at Esplanade<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Performance at CHIJMES for Voices of Singapore Festival<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 214.55pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Fundraising Concert for the Methodist School Timor-Leste<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 105.65pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance</b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>
-	
-<b>2017</b><br>
-<table border="0" cellspacing="0" cellpadding="0" class="iveo_table ives_tab_modern2" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 769.333px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 516px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Combined Band &amp; Choir Concert 2017<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 253px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 188.85pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Performance at CHIJMES for Voices of Singapore<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 131.35pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Public Performance<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 188.85pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Singapore International Choral Festival 2017<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 131.35pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Silver Award<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229); height: 20.25pt;"><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 188.85pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">SYF 2017 Arts Presentation for Choir<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td valign="top" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; width: 131.35pt;"><b style="margin: 0px; outline: 0px; padding: 0px;">Certificate of Distinction</b></td></tr></tbody></table>
+<p><strong>Teachers In Charge:</strong>
+<br>Ms Wong Bei Shi (I/C)
+<br>Mr Kua Khuan Tiong (2 I/C)
+<br>Ms Wong Jia Xian
+<br>Ms Dorothy Ho</p>
+<p></p>
+<p><strong>Website with Choir updates and students’ testimonial (managed by students):</strong>
+<br><a href="https://thefairfieldchoir.wixsite.com/website" rel="noopener noreferrer nofollow" target="_blank">https://thefairfieldchoir.wixsite.com/website</a>
+<br>
+<br><strong>Instagram:</strong>
+<br><a href="https://www.instagram.com/thefairfieldchoir" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/thefairfieldchoir</a>
+<br>
+<br><strong>Facebook Page:</strong>&nbsp;
+<br><a href="https://www.facebook.com/thefairfieldchoir/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/thefairfieldchoir/</a>
 </p>
-
-	
-</div>
-
+<p></p>
 </li>
-	
-</ul></li></ul></li></ul>
+</ul>
+<ul>
+<li>
+<p>Overview</p>
+<p></p>
+<p><strong>Vision</strong>
+<br>We aspire to be a choir that inspire others by our work a love and appreciation
+for choral singing; a choir that the nation is proud of, and an active
+contributor to the community at large.
+<br>
+<br><strong>Mission</strong>
+<br>We promote and develop a love and passion for choral music, cultivate
+discipline and excellence through singing; care and nurture each of the
+members; as well as inspire and connect hearts in our community.
+<br>
+<br><strong>Values</strong>
+<br>
+</p>
+<p><strong><em>Spirit of excellence</em></strong>
+<br>• To be excellent in skill and attitude
+<br>
+<br><strong><em>Discipline</em></strong>
+<br>• To be disciplined and self-motivated to establish consistency in choir
+to work towards good rehearsals in preparation for performances
+<br>
+<br><strong><em>Passion</em></strong>
+<br>• Always be spirited in singing, bursting in harmonies everywhere, anywhere
+<br>
+<br>
+</p><pre><code>&lt;b&gt;&lt;i&gt;Commitment&lt;/i&gt;&lt;/b&gt;&lt;br&gt;</code></pre>
+<p>• To demonstrate love for Choir and one another; to care and help one
+another excel in music or in any assigned task
+<br>
+<br>
+</p>
+<p><strong><em>Our Choir Pledge</em></strong>
+<br>
+</p>
+<p>We will work hard to improve ourselves during training &amp; courses.
+<br>We will not give up when we face challenges.
+<br>We will respect authority and follow rules.
+<br>We will be loyal to our team.
+<br>We will cherish the trust placed in me by the school and
+<br>will always do the best to bring glory to our school.
+<br>
+<br><strong>History</strong>
+<br>
+</p>
+<p>Fairfield Choir is a choir with a rich choral tradition, starting out
+in 1960 as a group under the Music Society. In 1975, the choir took part
+in National Day Celebrations for the first time and the choristers sang
+on board a float decorated by our very own school teachers. In 1977, the
+choir clinched the first position in the choral section of the Arts Festival
+as well as Youth festival. The choir was also invited to sing at the first
+festival of arts in the same year. Although it began as an all girls’ group,
+Fairfield Choir became a mixed choir in 1987. With a fine record of several
+distinctions, awards in the SYF competition, it was one of the pioneer
+choirs in the choral excellence programme in 1988. Since then, the choir
+has won many accolades for its stellar performances locally and internationally.
+<br>
+<br>In 1991, the choir won the coveted “Choir of the Year” award in the 2nd
+Singapore Youth Festival competition. It also clinched the “Best Secondary
+School Choir” award in 1995 with a Certificate of Distinction. In the subsequent
+SYF choral competitions, Fairfield choir was awarded three Silver awards,
+four Gold awards, one Gold with Hours award, and three Certifications of
+Distinction. Fairfield Choir was also one of the selected choirs to perform
+at the Esplanade on 25th July 2005 for the SYF opening ceremony.
+<br>
+<br>Fairfield Choir had its first overseas trip to Perth, Australia in 1994.
+The choir performed at various places to share and spread the good reputation
+of Fairfield as a singing school. Using their musical talents as singing
+ambassadors for the Lord, Fairfield Choir was awarded Silver awards at
+the International Festival of Advent and Christmas Music with Petr Eben’s
+Prize held at Czech Republic, Prague, 2002, at the VIII Concorso Corale
+In international, Riva del Garda, Italy, 2004 and at the International
+Festival of Advent and Christmas Music, Bratislava, Slovakia, 2010. The
+choir also achieved the International Gold Zlata award at the 34th International
+Festival of Songs, Olomouc, Prague, 2006.
+<br>
+<br>Fairfield Choir is honoured to have had so many opportunities to showcase
+their talents both locally and abroad. Aware of the rich choral legacy
+they have to uphold, the choristors put in many hours each week to hone
+their abilities. They currently train under the guidance of Mr Yong Chee
+Foon and Ms Wynne Lee.
+<br>
+<br><strong>Key Programmes / Highlights for 2023</strong>
+<br>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Jan (Fri)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir Showcase &amp; CCA Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9, 11 Jan
+<br>(Mon, Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 CCA Trial (Audition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Feb (Fri)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orientation of Sec 1 Choir members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feb - Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Selection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Mar (Mon)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival 2023
+<br>Arts Presentation Rehearsal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOTA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mar hols</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choral Exchange
+<br>with other secondary school choirs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACS(I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mar hols
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choral Masterclass
+<br>by Andre van der Merwe from South Africa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Apr (Thu)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts
+<br>Presentation (SYF AP) - Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOTA Concert Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Apr (Fri)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 4 Farewell Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 July (Sat)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Festival Concert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Esplanade Theatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28, 29 July
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fairfield! The Musical</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria Theatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug (tbc)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Learning Journey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tbc</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Aug (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>135th FMS(S) Founder's Day
+<br>Thanksgiving Service Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14, 15 Nov
+<br>(Tue, Wed)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Combined School&nbsp;Choir
+<br>Exchange Concert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tbc
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;22 Nov (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S) Open House Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FMS(S)&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>*Last day of Choir CCA session of the year is typically on Open House
+Day. Choir CCA session will resume after 25 Dec 2023.
+<br>
+</p>
+<p>*Schedule is subjected to change. Please check with any of the choir&nbsp;teachers
+or student EXCO for the updated schedule.</p>
+<p></p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Achievements</p>
+<p></p>
+<p><strong>2023</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF 2023 Arts Presentation for Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Masterclass</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Exchange @ Anglo-Chinese School (Independent)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival Celebration - Festival Concert</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Founder's Day Thanksgiving Service Performance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fairfield! The Musical 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>2022</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choir Concert - Iridescence 2022 @ SOTA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lunch Time Performance "A Lunch with Choir"</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Exchange @ Nanyang Girls' High School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Founder's Day Thanksgiving Service Performance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>2021</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Voices of Singapore Festival</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choir SYF 2021 Audio Recording</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Represented School at Local Event Under Special Provision</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>2019</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore International Choral Festival 2019</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF 2019 Arts Presentation for Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Accomplishment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performance at CHIJMES for Voices of Singapore Festival</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Masterclass</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choral Exchange @ Xinmin Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>2018</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Limelight Concert at Esplanade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performance at CHIJMES for Voices of Singapore Festival</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fundraising Concert for the Methodist School Timor-Leste</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>2017</strong>
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Combined Band &amp; Choir Concert 2017</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performance at CHIJMES for Voices of Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore International Choral Festival 2017</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award<br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SYF 2017 Arts Presentation for Choir</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+</ul>
+<p></p>
