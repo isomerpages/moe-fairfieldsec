@@ -10,7 +10,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/PA/2024_Band_GIF.gif">
 </div>
-<p>Details</p>
+<p><strong>Details</strong>
+</p>
 <p><strong>Training Days &amp; Time:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -48,9 +49,8 @@ variant: tiptap
 </table>
 <p>*Main Band has practices on Wednesday when there is upcoming performance
 / competition</p>
-<p>
-<br>
-<br><strong>Teachers In Charge:</strong> 
+<p></p>
+<p><strong>Teachers In Charge:</strong> 
 <br>Ms Tan Yi Qian (I/C)
 <br>Mr Alester Tan
 <br>Mdm Haliza
@@ -73,10 +73,8 @@ not just the naturally talented. Under his dedicated leadership, Mr Wong
 led the band to earn a Certificate of Distinction at the 2023 Singapore
 Youth Festival, marking a significant achievement in his inaugural year
 as the main conductor.</p>
-<p></p>
 <p><strong>Overview</strong>
 </p>
-<p></p>
 <p><strong><u>Vision</u></strong>
 </p>
 <p>Our vision is for young aspiring musicians in Fairfield to be trained
@@ -84,7 +82,6 @@ and inspired in a nurturing and challenging environment. As individual
 musicians and members of the Fairfield Symphonic Band (FSB), they will
 pursue music excellence and the highest standards of musicality as one
 family.</p>
-<p></p>
 <p><strong><u>Mission</u></strong>
 </p>
 <p>Our mission is to enable every FSB member to reach their full potential.
@@ -93,14 +90,11 @@ to inspire and nurture dedicated music enthusiasts in Fairfield. Engaging
 in band practices enhances both mental and physical development as members
 interact and learn together. We are committed to continuous improvement
 and achieving excellence in every performance.</p>
-<p></p>
 <p><strong><u>Highlights</u></strong>
 </p>
-<p></p>
 <p><strong>Competitions:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youths Festival Art Presentation</p>
-<p></p>
 <p><strong>Performances:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Limelight Concert</p>
@@ -108,7 +102,6 @@ and achieving excellence in every performance.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Band Recital (Term 3)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fairfield Symphonic Band Concert
 (Year-End)</p>
-<p></p>
 <p><strong>Special Activities and Programs:</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values-in-Action (ViA) in CCA</p>
@@ -116,9 +109,78 @@ and achieving excellence in every performance.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary One Induction</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bonding Activities</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peer Mentoring</p>
+<p></p>
 <p><strong>Achievements</strong>
 </p>
-<p></p>
+<p><strong>2025</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>SYF 2025 Arts Presentation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Certificate of Distinction</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>2024</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Junior Band Recital 2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024 End of Year Concert @Singapore Conference Hall - Symphonica 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Day Performance 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers' Day Performance 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2023</strong> 
 <br>
 </p>
@@ -130,61 +192,57 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2023 Arts Presentation<br></strong>
+<p><strong>SYF 2023 Arts Presentation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Certificate of Distinction<br></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Oh! It's Fairfield Carnival 2023<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Performance<br></strong>
+<p><strong>Certificate of Distinction</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>National Day Performance 2023<br></strong>
+<p><strong>Oh! It's Fairfield Carnival 2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Performance</strong> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers' Day Performance 2023<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>School Performance<br></strong>
+<p><strong>School Performance</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Band Recital 2023<br></strong>
+<p><strong>National Day Performance 2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Public Performance</strong> 
-<br>
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers' Day Performance 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Junior Band Recital 2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Public Performance</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2022</strong> 
 <br>
 </p>
@@ -196,7 +254,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Cool Classics Series@Esplanade: Crescendo<br></strong>
+<p><strong>Cool Classics Series@Esplanade: Crescendo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,30 +264,27 @@ and achieving excellence in every performance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Junior Band Recital 2022<br></strong>
+<p><strong>Junior Band Recital 2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Performance<br></strong>
+<p><strong>School Performance</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Symphonica Year End Band Concert<br></strong>
+<p><strong>Symphonica Year End Band Concert</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Public Performance</strong> 
-<br>
+<p><strong>Public Performance</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2021</strong> 
 <br>
 </p>
@@ -241,8 +296,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</strong> 
-<br>
+<p><strong>SYF 2021 Arts Presentation for&nbsp;Band (Team A, Team B &amp; Percussion Ensemble)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -252,9 +306,7 @@ and achieving excellence in every performance.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2019</strong> 
 <br>
 </p>
@@ -266,8 +318,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2019 Arts Presentation for&nbsp;Band (Concert)</strong> 
-<br>
+<p><strong>SYF 2019 Arts Presentation for&nbsp;Band (Concert)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,9 +328,7 @@ and achieving excellence in every performance.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2017</strong> 
 <br>
 </p>
@@ -291,8 +340,7 @@ and achieving excellence in every performance.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SYF 2017 Arts Presentation for&nbsp;Band (Concert)</strong> 
-<br>
+<p><strong>SYF 2017 Arts Presentation for&nbsp;Band (Concert)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
