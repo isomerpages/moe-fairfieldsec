@@ -71,6 +71,25 @@ on&nbsp;1 July)
 <p></p>
 <p><strong>2025</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SYF 2025 Arts Presentation for Instrumental Ensemble (Guitar)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Certificate of Accomplishment</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <p></p>
@@ -167,7 +186,7 @@ on&nbsp;1 July)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>Fairfield Open House</strong>
+<p><strong>Fairfield Open House</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
