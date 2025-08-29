@@ -15,9 +15,7 @@ variant: tiptap
 <p><strong>Training Days &amp; Time:</strong>
 <br>Friday: 2.00 pm – 6.00 pm
 <br>
-<br>
-</p>
-<p><strong>Teachers In Charge</strong>
+<br><strong>Teachers In Charge</strong>
 <br>Mr Alvin Chua (I/C)</p>
 <p>Mr Jon Poh (2 I/C)
 <br>Mrs Elijah Lily Cleaopatra</p>
@@ -25,23 +23,18 @@ variant: tiptap
 <p></p>
 <ul>
 <li>
-<p>Overview</p>
-<p><strong>Our Objective</strong>
-<br>
-<br>
+<p><strong>Overview</strong>
 </p>
-<p>The Object of the Boys’ Brigade shall be the advancement of Christ Kingdom
+<p></p>
+<p><strong>Our Objective</strong>
+<br>The Object of the Boys’ Brigade shall be the advancement of Christ Kingdom
 amongst Boys and the promotion of habits of Obedience, Reverence, Discipline,
 Self-Respect and all that tends towards a true Christian Manliness.
 <br>
-<br>
-</p>
-<p><strong>Our Mission</strong>
+<br><strong>Our Mission</strong>
 <br>Growing Boys to serve &amp; lead, preaching Christ the BB way.
 <br>
-<br>
-</p>
-<p><strong>Our Vision</strong>
+<br><strong>Our Vision</strong>
 <br>To be a family of God-fearing Boys, passionate in making a difference.
 <br>
 </p>
@@ -50,9 +43,7 @@ Self-Respect and all that tends towards a true Christian Manliness.
 </p>
 <p><a href="https://www.instagram.com/33rdbbcoy/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/33rdbbcoy/</a>
 <br>
-<br>
-</p>
-<p><strong>History</strong>
+<br><strong>History</strong>
 <br>The Boys' Brigade was founded by Sir William Alexander Smith on 4 October
 1883 in Glasgow, Scotland. The BB was first introduced to Singapore in
 1930 by Mr. James Milner Fraser, and is recognized as a Uniformed Organization
@@ -73,29 +64,20 @@ initiated by Mr. Joel Lai - to be a “family of God-fearing Boys, passionate
 in making a difference.” We currently have about 120 Boys, 10 Officers
 and 11 Primers.
 <br>
-<br>
-</p>
-<p><strong>Highlights</strong>
+<br><strong>Highlights</strong>
 <br>Four badge work domains:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Personal Mastery
-<br>
-</p>
+<p>Personal Mastery</p>
 </li>
 <li>
-<p>Community Spiritedness
-<br>
-</p>
+<p>Community Spiritedness</p>
 </li>
 <li>
-<p>Global Awareness
-<br>
-</p>
+<p>Global Awareness</p>
 </li>
 <li>
 <p>Leadership
-<br>
 <br>
 </p>
 </li>
@@ -106,7 +88,88 @@ and 11 Primers.
 <p></p>
 <ul>
 <li>
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
+<p></p>
+<p><strong>2025</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Boys' Brigade Founder's Award 2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Founder's Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BB Blaze 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>2024</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>J M Fraser Award for Excellence (Year of Assessment 2023)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>High Distinction</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys' Brigade Founder's Award 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Founder's Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BB Character Quest 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Honour Roll</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BB Blaze 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2023</strong>
 <br>
 </p>
@@ -119,7 +182,6 @@ and 11 Primers.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>BB Blaze 2023</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,16 +200,7 @@ and 11 Primers.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>2023 Character Quest Competition</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,9 +210,7 @@ and 11 Primers.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>2022</strong>
 <br>
 </p>
@@ -172,7 +223,6 @@ and 11 Primers.
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Boys' Brigade Founder's Award 2022</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +241,7 @@ and 11 Primers.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;BB 2022 Adventu: Reignite</strong>
+<p><strong>BB 2022 Adventu: Reignite</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,6 +254,7 @@ and 11 Primers.
 <p>
 <br><strong> 2021</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -212,7 +263,7 @@ and 11 Primers.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Boys' Brigade Founder's Award 2021<br></strong>
+<p><strong>Boys' Brigade Founder's Award 2021</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,7 +294,7 @@ and 11 Primers.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Boys' Brigade Founder's Award 2020<br></strong>
+<p><strong>Boys' Brigade Founder's Award 2020</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,9 +325,7 @@ and 11 Primers.
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<p><strong>2019</strong>
+<br><strong>2019</strong>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -287,7 +336,7 @@ and 11 Primers.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>J M Fraser Award for Excellence (Year of Assessment 2018)<br></strong>
+<p><strong>J M Fraser Award for Excellence (Year of Assessment 2018)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,17 +346,17 @@ and 11 Primers.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BB Blaze 2019<br></strong>
+<p><strong>BB Blaze 2019</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Representation<br></strong>
+<p><strong>Representation</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Boys' Brigade Founder's Award 2019<br></strong>
+<p><strong>Boys' Brigade Founder's Award 2019</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +366,7 @@ and 11 Primers.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BB Character Quest 2019<br></strong>
+<p><strong>BB Character Quest 2019</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,47 +388,47 @@ and 11 Primers.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BB Character Quest 2018<br></strong>
+<p><strong>BB Character Quest 2018</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd with Gold Honour Roll<br></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BB Character Quest 2018<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>5th with Gold Honour Roll<br></strong>
+<p><strong>2nd with Gold Honour Roll</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BB Character Quest 2018<br></strong>
+<p><strong>BB Character Quest 2018</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Representation with Gold Honour Roll<br></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BB Blaze 2018<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Honour Roll<br></strong>
+<p><strong>5th with Gold Honour Roll</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>J M Fraser Award for Excellence (Year of Assessment 2017)<br></strong>
+<p><strong>BB Character Quest 2018</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation with Gold Honour Roll</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BB Blaze 2018</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Honour Roll</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>J M Fraser Award for Excellence (Year of Assessment 2017)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -389,7 +438,7 @@ and 11 Primers.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Boys' Brigade Founder's Award 2018<br></strong>
+<p><strong>Boys' Brigade Founder's Award 2018</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,7 +448,7 @@ and 11 Primers.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>South Cluster Drill Competition<br></strong>
+<p><strong>South Cluster Drill Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -421,27 +470,27 @@ and 11 Primers.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BB Blaze 2017<br></strong>
+<p><strong>BB Blaze 2017</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Gold Honour Roll<br></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BB Character Quest 2017<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gold Honour Roll<br></strong>
+<p><strong>Gold Honour Roll</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Boys' Brigade Founder's Award 2017<br></strong>
+<p><strong>BB Character Quest 2017</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Honour Roll</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys' Brigade Founder's Award 2017</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,7 +500,7 @@ and 11 Primers.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>J M Fraser Award for Excellence (Year of Assessment 2016)<br></strong>
+<p><strong>J M Fraser Award for Excellence (Year of Assessment 2016)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
