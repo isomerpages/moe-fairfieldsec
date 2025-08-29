@@ -13,11 +13,11 @@ variant: tiptap
 <p></p>
 <ul>
 <li>
-<p>Details</p>
-<p><strong>Training Days &amp; Time:</strong>
-<br>
+<p><strong>Details</strong>
 </p>
-<p>Wednesday: 3.30 pm – 6.00 pm [PDS Training: Sec. 1 (from Semester 2),
+<p></p>
+<p><strong>Training Days &amp; Time:</strong>
+<br>Wednesday: 3.30 pm – 6.00 pm [PDS Training: Sec. 1 (from Semester 2),
 Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 <br>Friday: 2.00 pm – 6.00 pm [Regular Training: all Cadets]
 <br>
@@ -40,11 +40,11 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><u>Cadet Officers<br></u></strong>
+<p><strong><u>Cadet Officers</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><u>Associate Members<br></u></strong>
+<p><strong><u>Associate Members</u></strong>
 </p>
 </th>
 </tr>
@@ -245,7 +245,9 @@ Sec. 2 and selected Sec. 3 &amp; 4 cadets]
 <p></p>
 <ul>
 <li>
-<p>Overview</p>
+<p><strong>Overview</strong>
+</p>
+<p></p>
 <p>In Fairfield National Cadet Corps (Land), we aim to develop our cadets’
 self-discipline and initiative to help others. We believe strongly in the
 ‘Cadet Strong’ framework, where all cadets have a resilient mind, fit body
@@ -326,7 +328,8 @@ programmes such as Exercise Wallaby in Australia.</p>
 <p></p>
 <ul>
 <li>
-<p>Achievements</p>
+<p><strong>Achievements</strong>
+</p>
 <p></p>
 <p><strong>2024</strong>
 </p>
