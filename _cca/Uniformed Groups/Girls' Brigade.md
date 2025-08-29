@@ -15,25 +15,20 @@ variant: tiptap
 <p><strong>Training Days &amp; Time:</strong>
 <br>Friday: 2.00 pm – 6.00 pm
 <br>
-<br>
-</p>
-<p><strong>Teachers In Charge</strong>
-<br>
-</p>
-<p>Ms Charmaine Chan (I/C)</p>
+<br><strong>Teachers In Charge</strong>
+<br>Ms Charmaine Chan (I/C)</p>
 <p>Mrs Teo-Tan Li Ling Terri (2 I/C)</p>
 <p>Mrs Rena Yeo
 <br>Ms Sandy Goh Wei Ting
 <br>
 </p>
-<p></p>
 <ul>
 <li>
-<p>Overview</p>
-<p><strong>What The 3rd Girls' Brigade Is All About</strong>
-<br>
+<p><strong>Overview</strong>
 </p>
-<p>The Girls' Brigade is an international, interdenominational Christian
+<p></p>
+<p><strong>What The 3rd Girls' Brigade Is All About</strong>
+<br>The Girls' Brigade is an international, interdenominational Christian
 youth organisation for girls&nbsp;which was first established in Singapore
 in 1927. The 3rd Company was started ten years later in Fairfield Methodist
 Girls' School, now known as Fairfield Methodist School. The 3rd Company
@@ -64,7 +59,6 @@ true enrichment of life.
 <p><strong>Motto:</strong>&nbsp;
 <br>Seek, serve and Follow Christ.
 <br>
-<br>
 </p>
 <p><strong>Principles:</strong>
 <br>The Brigade acknowledges Jesus Christ as Saviour and Lord according to
@@ -92,48 +86,20 @@ which washes away all sins.
 <br>Lastly, the&nbsp;<strong>Blue Circle</strong>&nbsp;represents God's never-ending
 love for us.
 <br>
-<br>
-</p>
-<p></p>
-<p><strong>Our Vesper</strong>
-<br>
-</p>
-<p>Captain Divine,
-<br>
-</p>
-<p>Our work is now complete
-<br>
-</p>
-<p>And ere we part,
-<br>
-</p>
-<p>We gather at thy feet
-<br>
-</p>
-<p>To give our labours and ourselves to Thee
-<br>
-</p>
-<p>Without reserve, Thy cause to serve
-<br>
-</p>
-<p>O Captain hear us as we pledge to be
-<br>
-</p>
-<p>True to our creed
-<br>
-</p>
-<p>In thoughts and deeds
-<br>
-</p>
-<p>Amen.</p>
+<br><strong>Our Vesper</strong>
+<br>Captain Divine,
+<br>Our work is now complete
+<br>And ere we part,
+<br>We gather at thy feet
+<br>To give our labours and ourselves to Thee
+<br>Without reserve, Thy cause to serve
+<br>O Captain hear us as we pledge to be
+<br>True to our creed
+<br>In thoughts and deeds
+<br>Amen.</p>
 <p>
-<br>
-</p>
-<p></p>
-<p><strong>Activities</strong>
-<br>
-</p>
-<p>We meet almost every week on Fridays at 2.15pm as a way to conclude the
+<br><strong>Activities</strong>
+<br>We meet almost every week on Fridays at 2.15pm as a way to conclude the
 stressful week.
 <br>
 </p>
@@ -164,6 +130,26 @@ it more enjoyable.</p>
 <p><strong>Achievements</strong>
 </p>
 <p>&nbsp;</p>
+<p><strong>2025</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Pioneer Brigader Brooch Award 2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>3 Recipients</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <table style="minWidth: 50px">
@@ -355,7 +341,7 @@ it more enjoyable.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2018)<br></strong>
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2018)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
