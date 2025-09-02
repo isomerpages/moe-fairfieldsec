@@ -165,13 +165,13 @@ encounter?</p>
 <h3>Parent Guides for DMA</h3>
 <p>Please download the relevant Parent Guide for the DMA Option you have
 chosen:</p>
-<p>1)&nbsp;<strong>Default Option</strong>&nbsp;-- <a href="https://for.edu.sg/default" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Default Option</a> 
+<p>1)&nbsp;<strong>Default Option</strong>&nbsp;-- <a href="https://for.edu.sg/default" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Default Option</a>
 </p>
 <p></p>
-<p>2)&nbsp;<strong>Option A</strong>&nbsp;-- <a href="https://for.edu.sg/option-a" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option A</a> 
+<p>2)&nbsp;<strong>Option A</strong>&nbsp;-- <a href="https://for.edu.sg/option-a" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option A</a>
 </p>
 <p></p>
-<p>3)&nbsp;<strong>Option B</strong>&nbsp;-- <a href="https://for.edu.sg/option-b" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option B</a> 
+<p>3)&nbsp;<strong>Option B</strong>&nbsp;-- <a href="https://for.edu.sg/option-b" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option B</a>
 </p>
 <p></p>
 <h4>Request for change of DMA Option&nbsp;</h4>
