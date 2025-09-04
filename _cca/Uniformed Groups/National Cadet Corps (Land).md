@@ -362,13 +362,23 @@ programmes such as Exercise Wallaby in Australia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 National Precision Drill Squad Competition</strong>
+<p><strong>2024 Precision Drill Squad Competition</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd (District)</strong>
+<p><strong>2nd (West District)</strong>
 </p>
 <p><strong>Top 5 (National)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCC Sports Championship 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
 </p>
 </td>
 </tr>
