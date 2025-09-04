@@ -87,6 +87,16 @@ on&nbsp;1 July)
 </p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers' Day Performance 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Performance</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
