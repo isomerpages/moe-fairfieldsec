@@ -331,6 +331,44 @@ programmes such as Exercise Wallaby in Australia.</p>
 <p><strong>Achievements</strong>
 </p>
 <p></p>
+<p><strong>2025</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>NCC Outstanding Cadet Award 2025</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MSG Ng Jing Yang Emmanuel</p>
+<p>MSG Chia Yang Ming, Gabriel</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <p></p>
