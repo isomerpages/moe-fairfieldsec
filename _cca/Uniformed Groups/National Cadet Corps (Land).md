@@ -352,10 +352,12 @@ programmes such as Exercise Wallaby in Australia.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2025 Precision Drill Squad Competition</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>3rd (West District)</strong>
+</p>
 </td>
 </tr>
 <tr>
