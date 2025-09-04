@@ -380,6 +380,16 @@ programmes such as Exercise Wallaby in Australia.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>C M Phillips Inter-school Air Rifle Competition 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1st, 2nd, 3rd, Representation &amp; Overall Best Performing Unit</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
