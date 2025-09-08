@@ -8,7 +8,7 @@ variant: tiptap
 <p>Students who are studying in MOE secondary schools and wish to be considered
 for admission to Fairfield Methodist School (Secondary) could submit an
 appeal for a transfer to the school.</p>
-<p>Application is to be done strictly via this <a href="https://form.gov.sg/688c507df897402b1a63cbb7" rel="noopener nofollow" target="_blank">link</a>
+<p>Application is to be done strictly via this <a href="https://form.gov.sg/68be8ee5d80034aaff2b6ad1" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p>Kindly submit the following documents via in the given link</p>
 <p>• Certified true copies of school results slip</p>
