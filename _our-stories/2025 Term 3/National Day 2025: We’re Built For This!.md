@@ -48,6 +48,9 @@ National Day celebration. Through this lively event, Fairsians celebrated
 this significant milestone together, proudly uniting as one school to express
 their gratitude for Singapore.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stories/2025/2025_NDP_Comic_Strip_Our_Stories.png">
+</div>
 <p></p>
 <p>
 <br>
