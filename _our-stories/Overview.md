@@ -6,6 +6,16 @@ variant: markdown
 ---
 ### Our Stories
 
+<img src="/images/Our%20Stories/2025/BLT_Camp_2025.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Striving for excellence: Blackmore Leadership Training Camp 2025 [Read More](https://fairfieldmethodistsec.moe.edu.sg/striving-for-excellence-blackmore-leadership-training-camp-2025/)
+<br><br>
+
+***
+
+<img src="/images/Our%20Stories/2025/2025_NDP_Celebrations.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">National Day 2025: We’re Built For This!&nbsp;[Read More](https://https://fairfieldmethodistsec.moe.edu.sg/national-day-2025-we-re-built-for-this/)
+<br><br>
+
+***
+
 <img src="/images/Our%20Stories/2025/SL_Investiture_2025.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Leading the Legacy: Student Leaders’ Investiture 2025 [Read More](https://fairfieldmethodistsec.moe.edu.sg/leading-the-legacy-student-leaders-investiture-2025/)
 <br><br>
 
