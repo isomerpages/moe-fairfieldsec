@@ -11,7 +11,7 @@ variant: markdown
 
 ***
 
-<img src="/images/Our%20Stories/2025/2025_NDP_Celebrations.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">National Day 2025: We’re Built For This!&nbsp;[Read More](https://https://fairfieldmethodistsec.moe.edu.sg/national-day-2025-we-re-built-for-this/)
+<img src="/images/Our%20Stories/2025/2025_NDP_Celebrations.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">National Day 2025: We’re Built For This!&nbsp;[Read More](https://fairfieldmethodistsec.moe.edu.sg/national-day-2025-we-re-built-for-this/)
 <br><br>
 
 ***
