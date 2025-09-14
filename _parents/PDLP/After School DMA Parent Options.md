@@ -171,7 +171,7 @@ chosen:</p>
 <p>2)&nbsp;<strong>Option A</strong>&nbsp;-- <a href="https://for.edu.sg/dma-option-a" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option A</a>
 </p>
 <p></p>
-<p>3)&nbsp;<strong>Option B</strong>&nbsp;-- <a href="https://www.fairfieldmethodistsec.moe.edu.sg/files/Parents/PDLP/2025_Jamf_DMA_Option_B_Parent_Guide.pdf" rel="noopener nofollow" target="_blank">Jamf DMA Parent Guide for Option B</a>
+<p>3)&nbsp;<strong>Option B</strong>&nbsp;-- <a href="https://for.edu.sg/dma-option-b" rel="noopener nofollow" target="_blank">JAMF DMA Parent Guide for Option B</a>
 </p>
 <p></p>
 <h4>Request for change of DMA Option&nbsp;</h4>
