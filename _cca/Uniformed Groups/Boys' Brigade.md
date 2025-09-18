@@ -101,6 +101,16 @@ and 11 Primers.
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>J M Fraser Award for Excellence (Year of Assessment 2024)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>High Distinction</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Boys' Brigade Founder's Award 2025</p>
 </th>
