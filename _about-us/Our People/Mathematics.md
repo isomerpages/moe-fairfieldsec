@@ -44,6 +44,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Yeo Li Li Clara</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics (Designate)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_li_li_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_li_clara@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Chia Wey Ling Vincent</strong>
 </p>
 </td>
