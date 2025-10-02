@@ -162,7 +162,7 @@ Foon and Ms Wynne Lee.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Representation</strong>
+<p><strong>Public Performance</strong>
 </p>
 </td>
 </tr>
@@ -203,7 +203,7 @@ Foon and Ms Wynne Lee.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Representation</strong>
+<p><strong>Public Performance</strong>
 </p>
 </td>
 </tr>
