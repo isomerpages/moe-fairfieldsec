@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Administrative Matters
 variant: tiptap
 ---
-<h3>Ministry of Education - Financial Assistance Scheme&nbsp;(MOE-FAS)</h3>
+<h3>Ministry of Education - Financial Assistance Scheme&nbsp;</h3>
 <p>The Ministry of Education provides financial assistance to Singaporean
 students from our Government and Government-Aided Schools who need financial
 assistance for their studies.</p>
@@ -52,16 +52,17 @@ income etc).&nbsp;</p>
 <p><strong>For hardcopy applications</strong>, all compulsory documents must
 be submitted together with your completed application form.&nbsp;You can
 refer to pages 6 and 7 of the application form for detailed requirements.</p>
+<p>Application Form : <a href="/files/Parents/Admin Matters/MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form for 2026 [GGAS]</a>
+</p>
 <p>The school may request additional documents as required for verification
 purposes.</p>
 <p></p>
-<h4>Additional Information</h4>
+<h4><strong>Additional Information</strong></h4>
 <p>Parents who would like to know more about MOE FAS and eligibility can
 visit:</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <p>If you have any queries, please contact the school at 67788702 or <a rel="noopener noreferrer nofollow" target="_blank">fmss@moe.edu.sg</a>
 </p>
-<p>Application Form : <a href="/files/Parents/Admin Matters/MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form for 2026 [GGAS]</a>
-</p>
+<p></p>
 <p></p>
