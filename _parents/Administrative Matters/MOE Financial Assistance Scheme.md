@@ -11,7 +11,7 @@ students from our Government and Government-Aided Schools who need financial
 assistance for their studies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Parents/FAS_updated_22nd_Oct.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/FAS_updated_22nd_Oct.jpg">
 </div>
 <h4><strong>Application Procedure</strong></h4>
 <p></p>
@@ -58,11 +58,10 @@ purposes.</p>
 <h4>Additional Information</h4>
 <p>Parents who would like to know more about MOE FAS and eligibility can
 visit:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <p>If you have any queries, please contact the school at 67788702 or <a rel="noopener noreferrer nofollow" target="_blank">fmss@moe.edu.sg</a>
 </p>
-<p>Application Form Link : <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form for 2026 [GGAS] | FormSG</a>
+<p>Application Form : <a href="/files/Parents/Admin Matters/MOE_FAS_Application_Form_2026.pdf" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form for 2026 [GGAS]</a>
 </p>
-<p></p>
 <p></p>
