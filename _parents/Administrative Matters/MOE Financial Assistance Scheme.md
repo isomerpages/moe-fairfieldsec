@@ -17,7 +17,7 @@ assistance for their studies.</p>
 <p></p>
 <ul>
 <li>
-<p>Application is open throughout the year, <strong>with the 2026 application cycle commencing on Tuesday, 21 October 2025.</strong> 
+<p>Application is open throughout the year, <strong>with the 2026 application cycle commencing on Tuesday, 21 October 2025.</strong>
 </p>
 </li>
 <li>
