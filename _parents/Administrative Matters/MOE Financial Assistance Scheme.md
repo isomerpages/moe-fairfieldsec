@@ -9,53 +9,60 @@ variant: tiptap
 <p>The Ministry of Education provides financial assistance to Singaporean
 students from our Government and Government-Aided Schools who need financial
 assistance for their studies.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Parents/2024/Income_Criterion.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Parents/FAS_updated_22nd_Oct.jpg">
 </div>
-<h4><strong>Application Procedure </strong></h4>
+<h4><strong>Application Procedure</strong></h4>
 <p></p>
 <ul>
 <li>
-<p>Application is open throughout the year. Siblings in the same school can
-submit all their applications using one form.</p>
-</li>
-<li>
-<p>Apply for MOE FAS via eFAS <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> or approach
-the school directly and submit the application form. <strong>Online submission is strongly encouraged.</strong>
+<p>Application is open throughout the year, <strong>with the 2026 application cycle commencing on Tuesday, 21 October 2025.</strong> 
 </p>
 </li>
+<li>
+<p>To make application more convenient, MOE has onboarded Household Means
+Eligibility System (HOMES) for means-testing of financial assistance from
+the 2026 application cycle onwards. This streamlines the process as most
+parents will no longer need to submit supporting documents.</p>
+</li>
+<li>
+<p>Siblings in the same school can submit all their applications using one
+form.</p>
+</li>
+<li>
+<p>Apply for MOE FAS via <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">eFAS</a>, or through
+the ‘Services’ tab in Parents Gateway, or approach the school directly
+with a hardcopy application form.&nbsp;<strong>Online submission is strongly encouraged.</strong>
+</p>
+</li>
+<li>
+<p>Students who are ComCare beneficiaries will be automatically granted MOE
+FAS for 2026. There is no requirement for this group of students to apply
+for MOE FAS.</p>
+<p></p>
+</li>
 </ul>
-<p>Hard copy application form is required for the following scenarios.</p>
-<ul>
-<li>
-<p>Families with other dependents (Great grandparents, Aunties/Uncles, Cousins
-and others)</p>
-</li>
-<li>
-<p>Family with more than 6 children in govt school</p>
-</li>
-<li>
-<p>Family with more than 5 unmarried children not in govt school</p>
-</li>
-<li>
-<p>Family with more than 3 grandparents in the household</p>
-</li>
-</ul>
-<p>Students who are ComCare beneficiaries will be auto-granted MOE FAS for
-2025. There is no requirement for this group of students to apply for MOE
-FAS.</p>
 <h4><strong>Supporting Documents</strong></h4>
-<p>All compulsory documents must be submitted together with your completed
-application form for approval. <strong>You can refer to the attached application form (page 6 &amp; 7) for more details.</strong>
+<p><strong>For application via eFAS</strong>, there is no need to prepare
+any income supporting documents if you and your household members only
+have employment and/or trade income and do not have other administrative
+income which are taxable (e.g. rental income, dividends and taxable investment
+income etc).&nbsp;</p>
+<p><strong>For hardcopy applications</strong>, all compulsory documents must
+be submitted together with your completed application form.&nbsp;You can
+refer to pages 6 and 7 of the application form for detailed requirements.</p>
+<p>The school may request additional documents as required for verification
+purposes.</p>
+<p></p>
+<h4>Additional Information</h4>
+<p>Parents who would like to know more about MOE FAS and eligibility can
+visit:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
-<p>School will request for any other documents when required for the purpose
-of verifying the income and other status.</p>
-<p>Parents who would like to know more about MOE FAS and eligibility, you
-can visit this link</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+<p>If you have any queries, please contact the school at 67788702 or <a rel="noopener noreferrer nofollow" target="_blank">fmss@moe.edu.sg</a>
 </p>
-<p>If you have any queries, please contact the school at 67788702 or fmss@moe.edu.sg</p>
-<h4>Application Form</h4>
-<p><a href="/files/Parents/Admin Matters/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Application_Form_2025.pdf</a>
+<p>Application Form Link : <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form for 2026 [GGAS] | FormSG</a>
 </p>
+<p></p>
 <p></p>
