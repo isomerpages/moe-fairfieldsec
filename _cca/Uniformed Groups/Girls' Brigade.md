@@ -139,6 +139,16 @@ it more enjoyable.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Girls' Brigade Singapore Company Award (Year of Assessment 2024)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Pioneer Brigader Brooch Award 2025</p>
 </th>
@@ -146,6 +156,16 @@ it more enjoyable.</p>
 <p><strong>3 Recipients</strong>
 </p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025 GB Drill Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -221,7 +241,7 @@ it more enjoyable.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2023 GB Drill Competition 2023</strong>&nbsp;</p>
+<p><strong>2023 GB Drill Competition</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gold Award</strong>
