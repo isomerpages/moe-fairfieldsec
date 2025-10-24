@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ban.gif
+      background: /images/Home Page/FMSS_Open_House_2025.png
       key_highlights:
         - title: Our Stories
           description: ""
