@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/trial_4___correct_size_last_uploaded_in_Oct_2024_.jpg
+      background: /images/Home Page/FMSS_Open_House_2025.png
       key_highlights:
         - title: Our Stories
           description: ""
@@ -15,5 +15,5 @@ sections:
         - title: Latest Updates
           description: ""
           url: /latest-updates/overview/
-      variant: image
+      variant: center
 ---
