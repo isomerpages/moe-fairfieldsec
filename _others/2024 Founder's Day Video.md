@@ -2,7 +2,6 @@
 title: 2024 Founder's Day Video
 permalink: /prospective-students/2024-open-house/founders-day/
 description: ""
-third_nav_title: 2024 Open House
 variant: tiptap
 ---
 <h3>2024 Founder's Day video:</h3>
