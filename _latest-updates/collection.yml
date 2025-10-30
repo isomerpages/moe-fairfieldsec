@@ -2,8 +2,8 @@ collections:
   latest-updates:
     output: true
     order:
-      - Purchase of School Textbooks, Stationery and School Attire.md
       - Overview.md
+      - Purchase of School Textbooks, Stationery and School Attire.md
       - 2025 Sec 1, 2 and 3 End of Year Exam Time Table.md
       - 2025 Semester 2 Class Timetable.md
       - 2025 Sec 4 and 5 Prelim Timetable.md
