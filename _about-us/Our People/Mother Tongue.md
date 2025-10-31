@@ -171,19 +171,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Li Yandong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:li_yandong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_yandong_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Lim Seow Wei</strong>
 </p>
 </td>
