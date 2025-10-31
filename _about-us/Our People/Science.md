@@ -275,19 +275,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Leong Yuet Lim Rosalind</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leong_yuet_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yuet_lim_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Lin Yizhen, Eunice</strong>
 </p>
 </td>
