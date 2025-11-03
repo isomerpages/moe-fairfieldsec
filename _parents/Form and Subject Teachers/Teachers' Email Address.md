@@ -193,15 +193,6 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ho-Leong Yuet Lim Rosalind (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leong_yuet_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yuet_lim_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ho-Tan Siew Ching Jean (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,15 +333,6 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_weihan_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_weihan_joel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Yandong (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_seow_yi_ethan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_Yandong_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -585,15 +567,6 @@ third_nav_title: Form and Subject Teachers
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shamsiah_zainalabidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamsiah_zainalabidin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sui-Low Gek Meng Wendy (Mrs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:low_gek_meng_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_gek_meng_wendy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
