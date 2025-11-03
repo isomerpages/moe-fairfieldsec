@@ -2,6 +2,7 @@
 title: PDPA Policy for FMS(S)
 permalink: /about-us/pdpa-policy-for-fms/
 description: ""
+variant: markdown
 ---
 ### PDPA Policy for FMS(S)
 
@@ -35,7 +36,7 @@ In the process of doing so, we wish to highlight that
 4\.  Collecting and processing data for student related activities (e.g. festival celebrations,orientation, student camps, conferences, student benefit activities) which may be provided by FMS(S) to enhance student’s life, create networking opportunities, foster community spirit, holistic development of students  
       
     
-5\.  Photographs, personal images by photography, video recording and/or participation in media interviews may be used for the general media, the school’s websites, newsletters, collaterals, posters and publications, as well as for distribution and viewed by stakeholders and members of the public.  
+5\.  The school and our external partners may use photographs, videos, and media interviews of you and your parents across various platforms including websites, newsletters, and publications that will be accessible to stakeholders and the public. In all cases, the school will maintain final editorial control, review and approve all content to be posted.
       
     
 6\.  Disclosure is allowed or required by law or regulation, Ministries, government agencieswhere we are required to do so by applicable law and/or regulation.
