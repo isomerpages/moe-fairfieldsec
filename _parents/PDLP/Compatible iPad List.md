@@ -13,13 +13,13 @@ meet the following conditions:&nbsp;
 <br>•&nbsp;Compatible with Device Management Application (DMA) software&nbsp;
 <br>Processor: A14 Fusion or better&nbsp;
 <br>Capacity: 64GB or Higher
-<br>OS version: iPadOS 18 or higher
+<br>OS version: iPadOS 26.1 or higher
 <br>•&nbsp;Must have a compatible stylus and keyboard cover (e.g Apple Pencil,
 Logitech Ruggedized&nbsp;Combo)
 <br>• DMA must be installed on the iPad
 <br>• Factory reset will be required (Existing data in the device will be
 wiped; all personal data must be backed-up)</p>
-<p>The table below shows the iPad models that are compatible with DMA software.</p>
+<p>The following devices are recommended for PDLP:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
