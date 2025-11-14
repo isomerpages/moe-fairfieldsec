@@ -23,8 +23,9 @@ navigate an increasingly digitalised world.</p>
 1 students in 2025 will be:&nbsp;
 <br><strong>Apple iPad 11-inch (A16) with Apple Pencil (USB-C) and casing with attached keyboard, includes 3-year warranty and insurance</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/2024/ipad_Enhance_bundle.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2025/ipad_Enhance_bundle_2.png">
 </div>
 <p>The price of the device bundle (inclusive of GST) is:&nbsp;<strong>S$829.30</strong>
 </p>
