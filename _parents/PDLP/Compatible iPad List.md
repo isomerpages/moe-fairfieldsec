@@ -20,9 +20,8 @@ Logitech Ruggedized&nbsp;Combo)
 <br>• Factory reset will be required (Existing data in the device will be
 wiped; all personal data must be backed-up)</p>
 <p>The following devices are recommended for PDLP:</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -31,57 +30,31 @@ wiped; all personal data must be backed-up)</p>
 <p><strong>Model Name</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Compatible Apple Pencil</strong>
-</p>
+<p>12.9-inch iPad Pro (5th generation) and later</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iPad 7<sup>th </sup>to 9<sup>th</sup> Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apple Pencil 1<sup>st</sup> Gen</p>
+<p>11-inch iPad Pro (4th generation) and later</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iPad 10<sup>th</sup> Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apple Pencil 1<sup>st</sup> Gen and Apple Pencil (USB-C)</p>
+<p>iPad (9th generation)&nbsp;and later</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iPad Air 3<sup>rd</sup> Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apple Pencil 1<sup>st</sup> Gen</p>
+<p>iPad mini (7th generation) and later</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iPad Air 4<sup>th</sup> Gen or later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apple Pencil 2<sup>nd</sup> Gen and Apple Pencil (USB-C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>iPad Pro 11-inch 1<sup>st</sup> Gen or later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apple Pencil 2<sup>nd</sup> Gen and Apple Pencil (USB-C)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>iPad Pro 12.9-inch 3<sup>rd</sup> Gen or later</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apple Pencil 2<sup>nd</sup> Gen and Apple Pencil (USB-C)</p>
+<p>iPad Air (6th generation) and later</p>
 </td>
 </tr>
 </tbody>
