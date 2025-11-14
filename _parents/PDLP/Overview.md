@@ -31,7 +31,7 @@ which includes warranty and insurance for purchase by the 2026 Secondary
 <br>- Warranty &amp; Insurance: Upgrade To iPad 11 Wi-Fi 128GB <strong>(4 Years Coverage)</strong>
 <br>
 <br><strong>Add-on/Accessories Item(s):</strong>
-<br>- Apple Pencil (USB-C) Warranty Valid With 4 year Applecare+ For School
+<br>- Apple Pencil (USB-C) Warranty Valid With 4 year AppleCare+ For School
 <br>- Logitech Rugged Combo 4 iPad 11-Inch A16/10.9-Inch 10 Gen [4 Year Warranty]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2025/ipad_Enhance_bundle_2.png">
