@@ -19,15 +19,23 @@ enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
 <hr>
 <h4>Purchase of PLD bundle</h4>
-<p>The PLD bundle which includes warranty and insurance for purchase by Secondary
-1 students in 2026 will be:&nbsp;
-<br><strong>Apple iPad 11-inch (A16) with Apple Pencil (USB-C) and casing with attached keyboard, includes 3-year warranty and insurance</strong>
-</p>
-<p></p>
+<p>The school has arranged for you to purchase the PLD from <strong>AsiaPac Technology Pte Ltd</strong> (Vendor)
+for your child's/ward's use in school. The Vendor was chosen from an MOE
+panel of awarded suppliers based on the choice of device determined by
+the school. The PLD bundle which includes warranty and insurance for purchase
+by your child/ward will be:</p>
+<p><strong>- Model: iPad 11-inch (A16)<br>- Processor: A16 Bionic chip<br>- Memory (size, type, speed): 6GB<br>- Storage (type and size): 128GB<br>- Enhanced Bundle Warranty: 3-Year Carry-in Warranty<br>- Enhanced Bundle Insurance: 3-Year Insurance</strong>
+<br>
+<br><strong>Upgrade Item(s):</strong>
+<br>- WARRANTY &amp; INSURANCE: UPGRADE TO IPAD 11 WI-FI 128GB (4 YEARS COVERAGE)
+<br>
+<br><strong>Add-on/Accessories Item(s):</strong>
+<br>- APPLE PENCIL (USB-C) WARRANTY VALID WITH 4Y APPLECARE+ FOR SCHOOL
+<br>- LOGITECH RUGGED COMBO 4 IPAD 11-INCH A16/10.9-INCH 10 GEN [4 YEAR WARRANTY]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2025/ipad_Enhance_bundle_2.png">
 </div>
-<p>The price of the device bundle (inclusive of GST) is:&nbsp;<strong>S$829.30</strong>
+<p>The price of the device bundle (inclusive of GST) is: <strong>S$829.30</strong>
 </p>
 <h4>Use of Edusave</h4>
 <p>Students who are Singapore citizens can use their Edusave to pay fully
