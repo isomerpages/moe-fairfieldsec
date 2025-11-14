@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Frequently Asked Questions</h3>
 <p><strong>Q1. What is the device that FMS(S) students will be purchasing and what is included in the package?</strong>
-<br>iPad 10th Gen 10.9” 64 GB with Apple pencil (USB-C) and casing with attached
+<br>iPad 11-inch (A16) 128 GB with Apple pencil (USB-C) and casing with attached
 keyboard. The device will also come with an enhanced device bundle of 3-year
 insurance and a 3-year warranty.</p>
 <p><strong>Q2. How much will I have to pay for the device?</strong>
