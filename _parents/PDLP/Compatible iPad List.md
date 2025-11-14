@@ -34,7 +34,6 @@ wiped; all personal data must be backed-up)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>12.9-inch iPad Pro (5th generation) and later</p>
-<p></p>
 </td>
 </tr>
 <tr>
