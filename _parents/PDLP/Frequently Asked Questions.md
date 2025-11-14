@@ -8,8 +8,8 @@ variant: tiptap
 <h3>Frequently Asked Questions</h3>
 <p><strong>Q1. What is the device that FMS(S) students will be purchasing and what is included in the package?</strong>
 <br>iPad 11-inch (A16) 128 GB with Apple pencil (USB-C) and casing with attached
-keyboard. The device will also come with an enhanced device bundle of 3-year
-insurance and a 3-year warranty.</p>
+keyboard. The device will also come with an enhanced device bundle of 4-year
+insurance and a 4-year warranty.</p>
 <p><strong>Q2. How much will I have to pay for the device?</strong>
 <br>The school will purchase the device on behalf of your child via an MOE
 bulk tender. This is done so as to obtain the best value for money. To
@@ -32,7 +32,7 @@ Income (PCI) is below $1,100.</p>
 details will be shared once the school has more detailed information from
 the vendor.</p>
 <p><strong>Q4. What happens if the device is damaged / stolen / lost?</strong>
-<br>The device comes with 3-year insurance and 3-year warranty, which allows
+<br>The device comes with 4-year insurance and 4-year warranty, which allows
 for two repairs or one replacement. The insurance coverage is only applicable
 to situations of damage and loss, even if the student has taken the necessary
 precautions to safeguard the device. Do note that loss through negligence
@@ -113,7 +113,7 @@ the use of systems and resources which would result in a smooth learning
 experience for all the students and teachers.</p>
 <p>For students who do not wish to purchase a device because they already
 have their own devices will have to check if the device is compatible to
-the school’s learning systems (for FMS(S), iPad 10th generation and above).&nbsp;These
+the school’s learning systems (for FMS(S), iPad 9th generation and above).&nbsp;These
 devices must also be installed with the school’s Device Management Application
 (DMA) software&nbsp;to manage the student’s access and usage.</p>
 <p><strong>Q10. How can my child check if his/her own personal device is compatible for use? Will the school provide a checklist of specifications for the student to check on the specifications of their own personal device?</strong>
