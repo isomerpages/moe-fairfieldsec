@@ -27,11 +27,11 @@ by your child/ward will be:</p>
 <p><strong>- Model: iPad 11-inch (A16)<br>- Processor: A16 Bionic chip<br>- Memory (size, type, speed): 6GB<br>- Storage (type and size): 128GB<br>- Enhanced Bundle Warranty: 3-Year Carry-in Warranty<br>- Enhanced Bundle Insurance: 3-Year Insurance</strong>
 <br>
 <br><strong>Upgrade Item(s):</strong>
-<br>- WARRANTY &amp; INSURANCE: UPGRADE TO IPAD 11 WI-FI 128GB (4 YEARS COVERAGE)
+<br>- Warranty &amp; Insurance: Upgrade To Ipad 11 Wi-Fi 128GB <strong>(4 Years Coverage)</strong>
 <br>
 <br><strong>Add-on/Accessories Item(s):</strong>
-<br>- APPLE PENCIL (USB-C) WARRANTY VALID WITH 4Y APPLECARE+ FOR SCHOOL
-<br>- LOGITECH RUGGED COMBO 4 IPAD 11-INCH A16/10.9-INCH 10 GEN [4 YEAR WARRANTY]</p>
+<br>- Apple Pencil (Usb-C) Warranty Valid With 4 year Applecare+ For School
+<br>- Logitech Rugged Combo 4 Ipad 11-Inch A16/10.9-Inch 10 Gen [4 Year Warranty]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2025/ipad_Enhance_bundle_2.png">
 </div>
