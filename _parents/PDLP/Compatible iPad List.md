@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Compatible iPad List</h3>
 <p>The school strongly recommends that the iPad is purchased through the
-school to benefit from the 3-year warranty and 3-year insurance.</p>
+school to benefit from the 4-year warranty and 4-year insurance.</p>
 <p>Parents who opt not to purchase must ensure that their existing iPads
 meet the following conditions:&nbsp;
 <br>•&nbsp;Compatible with Device Management Application (DMA) software&nbsp;
