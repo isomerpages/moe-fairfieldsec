@@ -20,7 +20,7 @@ navigate an increasingly digitalised world.</p>
 <hr>
 <h4>Purchase of PLD bundle</h4>
 <p>The PLD bundle which includes warranty and insurance for purchase by Secondary
-1 students in 2025 will be:&nbsp;
+1 students in 2026 will be:&nbsp;
 <br><strong>Apple iPad 11-inch (A16) with Apple Pencil (USB-C) and casing with attached keyboard, includes 3-year warranty and insurance</strong>
 </p>
 <p></p>
