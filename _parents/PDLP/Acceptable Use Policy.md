@@ -22,7 +22,7 @@ and growth as digitally responsible citizens.</p>
 and school internet networks.</p>
 </li>
 </ul>
-<p>&nbsp;For more information, please refer to:</p>
+<p>For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
 (Secondary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
@@ -54,7 +54,6 @@ resources should solely be for the purpose of learning.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <h4><strong>Using your PLD</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -173,45 +172,153 @@ with the school’s discipline policy.</p>
 </tbody>
 </table>
 <h4><strong>Respecting Copyright</strong></h4>
-<p>11.&nbsp; You are reminded to obtain explicit permission from the content
-owner(s) before downloading, copying or sharing any copyrighted materials
-(e.g. pictures, videos, music).</p>
-<p>12.&nbsp; &nbsp;You should not use, copy, edit or share digital files
-in an unauthorised or illegal manner.</p>
-<p><strong>Using Artificial Intelligence (AI)</strong>
-</p>
-<p>13.&nbsp; You must ensure that you meet the minimum age requirement specified
-in each AI tool's age restrictions before using it.</p>
-<p>14.&nbsp; If the use of AI is permitted, you should acknowledge the use
-of AI in weighted assessments and homework as required.</p>
-<p>15.&nbsp; You are to practice academic integrity and be responsible for
-your own learning when using AI. Understand that you are ultimately short-changing
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You are reminded to obtain explicit permission from the content owner(s)
+before downloading, copying or sharing any copyrighted materials (e.g.
+pictures, videos, music).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You should not use, copy, edit or share digital files in an unauthorised
+or illegal manner.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Using Artificial Intelligence (AI)</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You must ensure that you meet the minimum age requirement specified in
+each AI tool's age restrictions before using it.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If the use of AI is permitted, you should acknowledge the use of AI in
+weighted assessments and homework as required.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You are to practice academic integrity and be responsible for your own
+learning when using AI. Understand that you are ultimately short-changing
 yourself if you pass off other’s work as your own.</p>
-<p><strong>Staying Safe and Secure online</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>16.&nbsp; You should report any incidents (e.g. unusual device behaviour
-or inappropriate use of devices), to the school.</p>
-<p>&nbsp;</p>
-<p>17.&nbsp; You are reminded to develop online safety habits. This includes
-not disclosing personal access credentials (e.g. MIMS password, PLD passcode,
-etc.), sensitive personal data (e.g. home address, passwords) online or
-on AI platforms, verifying credibility of online content before sharing,
-avoiding clicking on suspicious links or downloading unknown files, and
-being cautious when interacting with others online (e.g. on social media)
-by not engaging with strangers.</p>
-<p>18.&nbsp; You should exercise caution regarding the limitations of AI
-tools, including potential inaccuracies / fabricated responses, inherent
-biases and outdated information.</p>
-<p><strong>Digital Wellbeing and Balance</strong>
-</p>
-<p>19.&nbsp; You are reminded to balance screentime with other activities
-including physical exercise and face-to-face social interactions.</p>
-<p>&nbsp;</p>
-<p>20.&nbsp; You should avoid excessive use of your devices outside learning
-hours.</p>
-<p>21.&nbsp; You should take regular breaks to rest your eyes and mind.</p>
-<p>22.&nbsp; You are reminded to practice good sleep hygiene by not using
-your devices one hour before bedtime.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Staying Safe and Secure online</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You should report any incidents (e.g. unusual device behaviour or inappropriate
+use of devices), to the school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You are reminded to develop online safety habits. This includes not disclosing
+personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive
+personal data (e.g. home address, passwords) online or on AI platforms,
+verifying credibility of online content before sharing, avoiding clicking
+on suspicious links or downloading unknown files, and being cautious when
+interacting with others online (e.g. on social media) by not engaging with
+strangers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You should exercise caution regarding the limitations of AI tools, including
+potential inaccuracies / fabricated responses, inherent biases and outdated
+information.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Digital Wellbeing and Balance</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You are reminded to balance screentime with other activities including
+physical exercise and face-to-face social interactions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You should avoid excessive use of your devices outside learning hours.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You should take regular breaks to rest your eyes and mind.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>You are reminded to practice good sleep hygiene by not using your devices
+one hour before bedtime.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
