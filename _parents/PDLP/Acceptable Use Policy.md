@@ -6,7 +6,7 @@ description: ""
 third_nav_title: PDLP
 ---
 <h3><strong>Acceptable Use Policy (AUP) for use of EdTech Resources</strong></h3>
-<h4><strong>Purpose of the Acceptable Use Policy (AUP)</strong></h4>
+<h4>Purpose of the Acceptable Use Policy (AUP)</h4>
 <p>Technology is an essential part of learning in today’s world.</p>
 <p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
 use of EdTech resources to help you understand how to use these resources
@@ -27,7 +27,7 @@ and school internet networks.</p>
 (Secondary) – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
 <hr>
-<h4><strong>General</strong></h4>
+<h4>General</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -54,7 +54,7 @@ resources should solely be for the purpose of learning.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Using your PLD</strong></h4>
+<h4>Using your PLD</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -112,7 +112,7 @@ your PLD to prevent data loss.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Being a Responsible Digital Citizen</strong></h4>
+<h4>Being a Responsible Digital Citizen</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -171,7 +171,7 @@ with the school’s discipline policy.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Respecting Copyright</strong></h4>
+<h4>Respecting Copyright</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -199,7 +199,7 @@ or illegal manner.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Using Artificial Intelligence (AI)</strong></h4>
+<h4>Using Artificial Intelligence (AI)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -236,7 +236,7 @@ yourself if you pass off other’s work as your own.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Staying Safe and Secure online</strong></h4>
+<h4>Staying Safe and Secure online</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -278,7 +278,7 @@ information.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Digital Wellbeing and Balance</strong></h4>
+<h4>Digital Wellbeing and Balance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
