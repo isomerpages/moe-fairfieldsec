@@ -5,6 +5,10 @@ description: ""
 variant: markdown
 ---
 ### Our Stories
+<img src="/images/Our%20Stories/2025/teachers_day.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Striving for excellence: Blackmore Leadership Training Camp 2025 [Read More](https://fairfieldmethodistsec.moe.edu.sg//teachers-day-2025-guiding-lights-celebrating-the-teachers-who-shape-our-lives/)
+<br><br>
+
+***
 
 <img src="/images/Our%20Stories/2025/BLT_Camp_2025.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Striving for excellence: Blackmore Leadership Training Camp 2025 [Read More](https://fairfieldmethodistsec.moe.edu.sg/striving-for-excellence-blackmore-leadership-training-camp-2025/)
 <br><br>
