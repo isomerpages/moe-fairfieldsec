@@ -31,6 +31,9 @@ by the students.</p>
 a Chinese folk song that loosely translates to 'New clothes can never replace
 the old'. The song symbolises how memories shared between teachers and
 students — like cherished garments — are timeless, warm, and irreplaceable.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfHbLip8OqmbDykJ6i5JEjTHjjANta3l-lD0Mzq7bvwBgN6BuSH0PO49xwxDcJNYV6B3GKv23-5yFM/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>Laughter soon filled the hall with an interactive game segment that had
 both students and teachers on their feet. Six teachers competed in a lively
 object-hunt game, racing to find items announced by the host and then returning
