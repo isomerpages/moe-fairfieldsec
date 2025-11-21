@@ -9,8 +9,7 @@ third_nav_title: 2025 Term 3
 <h2><strong>Teachers’ Day 2025: Guiding Lights: Celebrating The Teachers Who Shape Our Lives</strong></h2>
 <p><em>by: Renee Kwan (Sec 3F), Lea Qi De Lange (Sec 2A), Cherylynn Hao (Sec 2C), and Seng Yun Hee (Sec 1B)</em>
 </p>
-<p>
-<br>At Fairfield Secondary, Teachers' Day is more than just a date on the
+<p>At Fairfield Secondary, Teachers' Day is more than just a date on the
 calendar; it is a cherished occasion that unites Fairsians and teachers
 in celebration and gratitude. It is a day to honour the dedication, patience,
 and love that teachers pour into every lesson, student, and moment shared
