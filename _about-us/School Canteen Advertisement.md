@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong>Type of Stall</strong> : Muslim Food Stall (Rice/Noodle)</p>
-<p><strong>Closing Date :&nbsp; </strong>19 November<strong> </strong>2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Closing Date :&nbsp; </strong>3 December<strong> </strong>2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Requirements :</strong> Halal Food Stall (open to proposal)</p>
 <hr>
 <p>Our School has 1 canteen stall vacancy for Muslim Food Stall.</p>
