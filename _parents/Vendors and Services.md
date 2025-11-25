@@ -72,7 +72,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://asencio.com.sg/
+<p><a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg/</a> 
 <br>*Only available during year-end sales</p>
 </td>
 </tr>
@@ -138,7 +138,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>www.shanghai-uniforms.com</p>
+<p><a href="https://shanghai-uniforms.sg/" rel="noopener nofollow" target="_blank">https://shanghai-uniforms.sg/</a>
+</p>
 </td>
 </tr>
 <tr>
