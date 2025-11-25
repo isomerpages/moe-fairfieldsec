@@ -11,7 +11,3 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents/PDLP/2026_Parent_Handbook__II_.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) 2026</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
