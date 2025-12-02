@@ -61,8 +61,10 @@ so kindly check the schedule carefully before coming to school.</p>
 <p><strong>Secondary 1</strong>
 <br>FMS(S) S1 Booklist and Stationery List 2026 - Coming Soon!</p>
 <p><strong>Secondary 2</strong>
-<br><a href="/files/Parents/Admin Matters/FMS_S__S2_Booklist_and_Stationery_List_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">FMS(S) S2 Booklist and Stationery List 2026</a>
 </p>
+<p><a href="/files/Parents/Admin Matters/FMS_S__S2_Booklist_and_Stationery_List_2026_Updated_on_2_Dec_2025.pdf" rel="noopener nofollow" target="_blank">FMS(S) S2 Booklist and Stationery List 2026</a>
+</p>
+<p></p>
 <p><strong>Secondary 3</strong>
 <br><a href="/files/Parents/Admin Matters/FMS_S__S3_Booklist_and_Stationery_List_2026_Updated_on_6_Nov_2025.pdf" rel="noopener nofollow" target="_blank">FMS(S) S3 Booklist and Stationery List 2026_Updated on 6 Nov 2025</a>
 </p>
