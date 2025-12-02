@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Latest Updates</h3>
-<p>Purchase of School Textbooks, Stationery and School Attire
-<br><a href="/purchase-of-school-textbooks-stationery-and-school-attire" rel="noopener nofollow" target="_blank">Read more...</a>
+<h4>Purchase of School Textbooks, Stationery and School Attire </h4>
+<p><a href="/purchase-of-school-textbooks-stationery-and-school-attire" rel="noopener nofollow" target="_blank">Read more...</a>
 </p>
 <h4>2025 Semester 2 Class Timetable</h4>
 <p><a href="/2025-semester-2-class-timetable/" rel="noopener nofollow" target="_blank">Read More...</a>
