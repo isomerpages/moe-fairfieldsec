@@ -5,11 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: 2025 Sec 1 Registration
 ---
-<h2><strong>Welcome, Secondary 1 Students of 2025!</strong></h2>
-<p>Congratulations on your posting to Fairfield Methodist School (Secondary). It will be a new phase of your development, and we are happy to welcome you to be part of the family!&nbsp;</p>
+<h2><strong>Welcome, Secondary 1 Students of 2026!</strong></h2>
+<p>Congratulations on your posting to Fairfield Methodist School (Secondary). It will be a new phase of your development and we are happy to welcome you to be part of the family!
+&nbsp;</p>
 
 <p><strong><u>Secondary 1 Registration</u></strong><br>
-  The online registration form has closed. 
+ Secondary 1 Registration will open at 12pm on Friday, 19 December 2025. You can complete the registration. Look out for the link here. The online registration will close at 5pm on Monday, 22 December 2025. You will receive an email confirmation upon completing the form.
+
 
 </p><p>Thank you.</p>
 <p>We encourage you to take some time to explore this microsite for additional information.</p>
