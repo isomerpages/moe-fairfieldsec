@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 2026 Sec 1 Registration
 ---
-<h2>School / Miscellaneous Fees for 2025</h2>
+<h2>School / Miscellaneous Fees for 2026</h2>
 <table style="width: 644px;">
 <tbody>
 <tr>
@@ -64,7 +64,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>PR</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>$620</p>
+<p>$680</p>
 </td>
 <td style="width: 120px; text-align: center;">
 <p>$20</p>
@@ -73,7 +73,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>$3</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>$643</p>
+<p>$703</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>IS (ASEAN)</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>$1030</p>
+<p>$1,090</p>
 </td>
 <td style="width: 120px; text-align: center;">
 <p>$21.80</p>
@@ -90,7 +90,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>$3.27</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>$1055.07</p>
+	<p>$1,115.07</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>IS (Non-ASEAN)</p>
 </td>
 <td style="width: 106px; text-align: center;">
-<p>$2050</p>
+<p>$2,190</p>
 </td>
 <td style="width: 120px; text-align: center;">
 <p>$21.80</p>
@@ -107,7 +107,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>$3.27</p>
 </td>
 <td style="width: 95.25px; text-align: center;">
-<p>$2075.07</p>
+<p>$2,215.07</p>
 </td>
 </tr>
 </tbody>
