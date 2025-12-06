@@ -10,7 +10,7 @@ third_nav_title: 2026 Sec 1 Registration
 &nbsp;</p>
 
 <p><strong><u>Secondary 1 Registration</u></strong><br>
- Secondary 1 Registration will open at 12pm on Friday, 19 December 2025. You can complete the registration. Look out for the link here. The online registration will close at 5pm on Monday, 22 December 2025. You will receive an email confirmation upon completing the form.
+ Secondary 1 Registration will open at 12pm on Friday, 19 December 2025. You may complete the registration online via the link that will be provided on this page. The online registration will close at 5pm on Monday, 22 December 2025. You will receive an email confirmation upon completing the form.
 
 
 </p><p>Thank you.</p>
