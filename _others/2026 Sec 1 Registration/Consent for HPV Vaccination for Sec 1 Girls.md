@@ -10,7 +10,7 @@ third_nav_title: 2026 Sec 1 Registration
 (HPV) vaccination to <strong>all female students</strong> in secondary schools,
 under the national school-based HPV vaccination programme.&nbsp;&nbsp;</p>
 <p>We will inform all parents once we have confirmed the vaccination date
-for Year 2025. Parents / Guardians will need to give their consent before
+for Year 2026. Parents / Guardians will need to give their consent before
 the child / ward can receive the vaccination.&nbsp;&nbsp;</p>
 <ul>
 <li>
