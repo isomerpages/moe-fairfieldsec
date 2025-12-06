@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2026 Sec 1 Registration
 ---
-<h2>Sale of Secondary 1 2025 Textbooks, Stationery, School Attire</h2>
+<h2>Sale of Secondary 1 2026 Textbooks, Stationery, School Attire</h2>
 <p>Please download the documents for your reference below:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -70,7 +70,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>Information</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Dates: <strong>19, 20, 23, 26, 27, 30 December 2024</strong>
+<p>Dates: <strong>19, 22, 23, 26, 29, 30* December 2025</strong>
 </p>
 </th>
 </tr>
@@ -82,6 +82,7 @@ third_nav_title: 2026 Sec 1 Registration
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 School Bookshop
 <br>Time: 9am to 3pm</p>
+<p>*30 Dec: 9 a.m. - 1 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -93,12 +94,13 @@ third_nav_title: 2026 Sec 1 Registration
 <br>
 <br>Please note that there will be no trying on of attire.
 <br>
-<br>Refer to this <a href="https://shop.shanghai-uniforms.com/product-category/fairfield-methodist-school-secondary/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
+<br>Refer to this <a href="https://shanghai-uniforms.sg/sizing-guide" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
 size reference.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 Classroom - C111
-<br>Time: 9am to 3pm</p>
+<br>Time: 9am to 3pm
+<br>*30 Dec: 9 a.m. - 1 p.m.</p>
 </td>
 </tr>
 </tbody>
