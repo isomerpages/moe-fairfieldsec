@@ -26,7 +26,8 @@ third_nav_title: 2026 Sec 1 Registration
 <p>Book and Stationery List</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/FMS_S__S1_Booklist_and_Stationery_List_2025__updated_021224_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/FMS_S__S1_Booklist_and_Stationery_List_2025__updated_021224_.pdf" rel="noopener nofollow" target="_blank">D</a>
+<a href="/files/Parents/Sec 1 Registration/2026_FMS_S__S1_Booklist_and_Stationery_List.pdf" rel="noopener nofollow" target="_blank">ownload</a>
 </p>
 </td>
 </tr>
@@ -35,7 +36,7 @@ third_nav_title: 2026 Sec 1 Registration
 <p>School Uniform and PE attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Price_List_for_School_Uniform_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/Parents/Sec 1 Registration/2025_FMSS_PRICELIST.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -81,7 +82,7 @@ third_nav_title: 2026 Sec 1 Registration
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 School Bookshop
-<br>Time: 9am to 3pm</p>
+<br>Time: 9 a.m. to 3 p.m.</p>
 <p>*30 Dec: 9 a.m. - 1 p.m.</p>
 </td>
 </tr>
@@ -98,8 +99,8 @@ third_nav_title: 2026 Sec 1 Registration
 size reference.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue: Level 1 Classroom - C111
-<br>Time: 9am to 3pm
+<p>Venue: Level 1 Classroom - C110
+<br>Time: 9 a.m. to 3 p.m.
 <br>*30 Dec: 9 a.m. - 1 p.m.</p>
 </td>
 </tr>
