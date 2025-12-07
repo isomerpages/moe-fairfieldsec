@@ -185,8 +185,14 @@ third_nav_title: 2026 Sec 1 Registration
         <a class="isomer-image-wrapper" href="/personal-learning-device">
           <img height="auto" width="80%" alt="" src="/images/Parents/2024/Personal_Learning_Device.png">
         </a>
+</td>
+        <td style="text-align: center;">
+        <a class="isomer-image-wrapper" href="/access-to-school-car-park">
+          <img height="auto" width="80%" alt="" src="/images/Parents/2024/pickup_arrangments_2026.png">
+        </a>
       </td>
-      <td style="text-align: center;">
+    </tr>
+      <tr><td style="text-align: center;">
         <p>&nbsp;</p>
       </td>
     </tr>
@@ -201,5 +207,6 @@ third_nav_title: 2026 Sec 1 Registration
         <p>&nbsp;</p>
       </td>
     </tr>
+		
   </tbody>
 </table>
