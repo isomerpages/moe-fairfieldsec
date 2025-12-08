@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - 2026 Secondary 1 Registration.md
       - Partners In Education/.keep
       - Partners In Education/Overview.md
       - Partners In Education/The Team.md
