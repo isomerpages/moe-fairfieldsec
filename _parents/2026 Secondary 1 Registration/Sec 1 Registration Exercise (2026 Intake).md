@@ -1,7 +1,7 @@
 ---
 title: Sec 1 Registration Exercise (2026 Intake)
 permalink: /2026-sec-1-registration/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: 2026 Secondary 1 Registration
 ---
@@ -138,7 +138,7 @@ information.</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/personal-learning-device"><img style="width: 100%" height="auto" width="80%" alt="" src="/images/Parents/2024/Personal_Learning_Device.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/access-to-school-car-park"><img style="width: 100%" height="auto" width="80%" alt="" src="/images/Parents/2024/pickup_arrangments_2026.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/pick-up-and-drop-off-arrangements-during-school-days"><img style="width: 100%" height="auto" width="80%" alt="" src="/images/Parents/2024/pickup_arrangments_2026.png"></a>
 </td>
 </tr>
 <tr>
