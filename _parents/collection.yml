@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - 2026 Secondary 1 Registration/Consent for HPV Vaccination for Sec 1
+        Girls.md
       - 2026 Secondary 1 Registration/Access to School Car Park.md
       - 2026 Secondary 1 Registration/Pick up and Drop off Arrangements during
         School Days.md
