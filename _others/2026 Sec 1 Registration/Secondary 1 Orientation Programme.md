@@ -7,7 +7,7 @@ third_nav_title: 2026 Sec 1 Registration
 ---
 <h2><strong>Secondary 1 Orientation Programme</strong>&nbsp;</h2>
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation programme
-will be held on <strong>2, 3, 6 and 10 January 2025.</strong>&nbsp;</p>
+will be held on <strong>2, 5, 6 and 7 January 2026.</strong>&nbsp;</p>
 <p>&nbsp;Please note the following <strong>dismissal times</strong> for the
 Orientation Programme.&nbsp;&nbsp;</p>
 <table style="minWidth: 100px">
@@ -34,13 +34,13 @@ Orientation Programme.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 January 2025&nbsp;</p>
+<p>2 January 2026&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday&nbsp;</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm*&nbsp;</p>
+<p>12.00 p.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Full School Uniform with tie.&nbsp;&nbsp;
@@ -49,27 +49,41 @@ Orientation Programme.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 January 2025&nbsp;</p>
+<p>5 January 2026&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday&nbsp;</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.45pm*&nbsp;</p>
+<p>3.00 p.m.*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PE Attire&nbsp;</p>
+<p>PE Attire</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 January 2025&nbsp;</p>
+<p>6 January 2026&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday&nbsp;</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.45pm*&nbsp;</p>
+<p>3.00 p.m.*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Attire</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 January 2026&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 p.m.*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orientation T-Shirt with PE bottoms.&nbsp;&nbsp;
@@ -77,29 +91,15 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <br><em>(Orientation T-Shirt will be provided on Day 1 or 2)</em>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 January 2025&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00pm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Uniform&nbsp;&nbsp;
-<br><em>(Lessons as per usual. Orientation programme carries on after lessons)</em>&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><em>*Some classes will end later due to IT familiarisation sessions.&nbsp;</em>&nbsp;
-<br><em>OG A &amp; B - 2 Jan (3.00pm - 4.00pm)</em>&nbsp;
-<br><em>OG C &amp; D - 3 Jan (3.45pm - 4.45pm)</em>&nbsp;
-<br><em>OG E &amp; F - 6 Jan (3.45pm - 4.45pm)</em>&nbsp;
-<br><em>OG G &amp; H’s session will take place at a later date.&nbsp;</em>&nbsp;</p>
-<p><strong>Things to bring from 2 – 6 January 2025:</strong>&nbsp;</p>
+<br><em>OG A &amp; B - 5 Jan 2026 (3.00 p.m. - 4.00 p.m.)</em>&nbsp;
+<br><em>OG C &amp; D - 6 Jan 2026 (3.00 p.m. - 4.00 p.m.)</em>&nbsp;
+<br><em>OG E &amp; F - 7 Jan 2026 (3.00 p.m. - 4.00 p.m.)</em>&nbsp;
+<br><em>OG G &amp; H - 8 Jan 2026 (2.30 p.m. - 3.30 p.m.)</em>
+</p>
+<p><strong>Things to bring from 2 – 7 January 2026:</strong>&nbsp;</p>
 <ul>
 <li>
 <p>A lock for their lockers (for students to keep their personal belongings
@@ -131,12 +131,177 @@ during the Orientation programme)&nbsp;</p>
 with an<strong> Orientation T-shirt </strong>specially designed for their
 cohort. The measurements of the T-shirt are as follows. Please indicate
 your child’s size in the e-Registration Form.&nbsp;</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Shoulder</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chest</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sleeve</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Length&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2XS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.0”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24.0”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.5”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25.0”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.0”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26.0”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.5”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27.0”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.0”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28.0”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.5”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29.0”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.0”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30.0”</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.5”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31.0”</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Parents/2024/2025_Sec_1_Orientation_Tee.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/2025_Sec_1_Orientation_Tee_Size_Chart.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2025/2026_Sec1_Orientation_Tee.png">
 </div>
 <p></p>
