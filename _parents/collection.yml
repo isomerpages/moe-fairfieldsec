@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - 2026 Secondary 1 Registration/Principal’s Dialogue and Installation
+        Night Programme.md
       - 2026 Secondary 1 Registration/Academic Information.md
       - 2026 Secondary 1 Registration/CCA Information.md
       - 2026 Secondary 1 Registration/Appeal for Transfer.md
