@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2026 Secondary 1 Registration/Parents Gateway.md
       - 2026 Secondary 1 Registration/Personal Learning Device.md
       - 2026 Secondary 1 Registration/.keep
       - Partners In Education/.keep
