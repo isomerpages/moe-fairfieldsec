@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2026 Secondary 1 Registration/CCA Information.md
       - 2026 Secondary 1 Registration/Appeal for Transfer.md
       - 2026 Secondary 1 Registration/Financial Assistance Scheme.md
       - 2026 Secondary 1 Registration/Student SEN Form.md
