@@ -58,6 +58,8 @@ links:
   - title: Parents
     url: https://www.fairfieldmethodistsec.moe.edu.sg/parents/partners-in-education/
     sublinks:
+      - title: 2026 Secondary 1 Registration
+        url: /2026-sec-1-registration
       - title: Partners-in-Education
         url: /parents/partners-in-education/
       - title: School Leaders' Updates
@@ -76,8 +78,6 @@ links:
         url: /parents/pdlp/overview/
       - title: Vendors and Services
         url: /parents/vendors-and-services/
-      - title: 2026 Secondary 1 Registration
-        url: /2026-sec-1-registration
   - title: Students
     collection: students
   - title: Highlights
