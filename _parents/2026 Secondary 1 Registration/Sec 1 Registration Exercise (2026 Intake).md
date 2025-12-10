@@ -14,8 +14,8 @@ you to be part of the family! &nbsp;</p>
 You may complete the registration online via the link that will be provided
 on this page. The online registration will close at 5pm on Monday, 22 December
 2025. You will receive an email confirmation upon completing the form.</p>
-<p>*Important: Please fill up the forms below by clicking on the icons before
-registration:</p>
+<p><strong>*Important:</strong> Please fill up the forms below by clicking
+on the icons before registration:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
