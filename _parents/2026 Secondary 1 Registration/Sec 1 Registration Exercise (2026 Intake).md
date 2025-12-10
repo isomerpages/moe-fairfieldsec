@@ -14,6 +14,32 @@ you to be part of the family! &nbsp;</p>
 You may complete the registration online via the link that will be provided
 on this page. The online registration will close at 5pm on Monday, 22 December
 2025. You will receive an email confirmation upon completing the form.</p>
+<p>*Important: Please fill up the forms below by clicking on the icons before
+registration:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/sen-form"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/SEN.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/consent-for-dental-services"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parents/2024/CS_for_Dental_Services.png"></a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student SEN Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consent for Dental Services</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Thank you.</p>
 <p>We encourage you to take some time to explore this microsite for additional
 information.</p>
