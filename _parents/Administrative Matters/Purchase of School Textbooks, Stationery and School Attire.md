@@ -54,7 +54,7 @@ make an appointment in advance: <a href="https://shanghai-uniforms.sg/appointmen
 dates allocated for the sale of textbooks, stationery and school attire.</p>
 <p>Do note that the sale of school attire will not be available on all days,
 so kindly check the schedule carefully before coming to school.</p>
-<p><a href="/files/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025__Final_.pdf" rel="noopener nofollow" target="_blank">Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire 2025 (Final)</a>
+<p><a href="/files/Parents/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025__Final_.pdf" rel="noopener nofollow" target="_blank">Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire 2025 (Final)</a>
 </p>
 <h4><strong>2026 Textbook and Stationery Lists</strong></h4>
 <p><strong>Secondary 1</strong>
