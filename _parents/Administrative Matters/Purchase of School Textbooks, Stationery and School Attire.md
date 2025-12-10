@@ -24,7 +24,6 @@ that delivery fees will apply for online purchases.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Textbooks and Stationery:</strong> Online order begins on 13 November
 2025.
-<br>Self-collection is available for textbook and stationery purchases
 <br>Vendor Website: <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg/</a>
 </p>
 <p></p>
