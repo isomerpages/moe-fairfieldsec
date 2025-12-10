@@ -34,9 +34,12 @@ by the Mother Tongue Language teacher.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students taking <strong>HML</strong> will attend lessons at <strong>MOE Language Center (Bishan)*</strong>,
-and students taking <strong>HTL</strong> will attend lessons at either <strong>Uma Pulavar Tamil Language Center*</strong> outside
+and students taking <strong>HTL</strong> will attend lessons at <strong>Uma Pulavar Tamil Language Center*</strong> outside
 curriculum time. Students can submit their HML or HTL Option Form to the
 General Office when they report to Fairfield Methodist School (Secondary).&nbsp;</p>
+<p></p>
+<p><em>*Should there be any updates to the venues, we will communicate them directly to the students.</em>
+</p>
 </div>
 </details>
 </div>
