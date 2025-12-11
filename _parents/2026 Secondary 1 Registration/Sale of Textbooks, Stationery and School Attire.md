@@ -153,48 +153,5 @@ size reference.</p>
 </table>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>OPTION 3: Online ordering &amp; self-collection at FMS(S)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Information</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Details for Self-Collection</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Textbooks and Stationery</strong>
-<br>Vendor: Asencio Pte Ltd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>You can select a date to self-collect after checking out the items in
-the vendor’s website</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Uniform, PE Attire and Polo Tee</strong>
-<br>Vendor: Shanghai School Uniforms Pte Ltd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
 </div>
 <p></p>
