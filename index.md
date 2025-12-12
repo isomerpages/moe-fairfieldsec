@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/2026_Sec_1_Reg_Hero_Banner.png
+      background: /images/Home Page/2026_Sec1_Reg_hero_banner_final.png
       key_highlights:
         - title: Our Stories
           description: ""
@@ -17,4 +17,5 @@ sections:
           url: /latest-updates/overview/
       variant: center
       url: /2026-sec-1-registration
+      button: More info
 ---
