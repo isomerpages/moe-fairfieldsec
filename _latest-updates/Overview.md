@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3>Latest Updates</h3>
+<h4>2026 Secondary 1 Registration</h4>
+<p><a href="/2026-sec-1-registration" rel="noopener nofollow" target="_blank">Read more...</a>
+</p>
+<hr>
 <h4>Purchase of School Textbooks, Stationery and School Attire</h4>
 <p><a href="/purchase-of-school-textbooks-stationery-and-school-attire" rel="noopener nofollow" target="_blank">Read more...</a>
 </p>

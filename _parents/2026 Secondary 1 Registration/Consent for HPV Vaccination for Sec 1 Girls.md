@@ -3,14 +3,14 @@ title: Consent for HPV Vaccination for Sec 1 Girls
 permalink: /consent-for-hpv-vaccination-for-sec-1-girls/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Secondary 1 Registration
 ---
 <h2>Online Consent for HPV Vaccination for Secondary 1 Girls</h2>
 <p>The Health Promotion Board will be offering school-based human papillomavirus
 (HPV) vaccination to <strong>all female students</strong> in secondary schools,
 under the national school-based HPV vaccination programme.&nbsp;&nbsp;</p>
 <p>We will inform all parents once we have confirmed the vaccination date
-for Year 2025. Parents / Guardians will need to give their consent before
+for Year 2026. Parents / Guardians will need to give their consent before
 the child / ward can receive the vaccination.&nbsp;&nbsp;</p>
 <ul>
 <li>

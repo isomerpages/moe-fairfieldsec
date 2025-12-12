@@ -24,7 +24,6 @@ that delivery fees will apply for online purchases.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Textbooks and Stationery:</strong> Online order begins on 13 November
 2025.
-<br>Self-collection is available for textbook and stationery purchases
 <br>Vendor Website: <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg/</a>
 </p>
 <p></p>
@@ -55,11 +54,12 @@ make an appointment in advance: <a href="https://shanghai-uniforms.sg/appointmen
 dates allocated for the sale of textbooks, stationery and school attire.</p>
 <p>Do note that the sale of school attire will not be available on all days,
 so kindly check the schedule carefully before coming to school.</p>
-<p><a href="/files/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025__Final_.pdf" rel="noopener nofollow" target="_blank">Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire 2025 (Final)</a>
+<p><a href="/files/Parents/Schedule_for_Year_End_Purchase_of_School_Textbooks__Stationery_and_School_Attire_2025__Final_.pdf" rel="noopener nofollow" target="_blank">Schedule for Year-End Purchase of School Textbooks, Stationery and School Attire 2025 (Final)</a>
 </p>
 <h4><strong>2026 Textbook and Stationery Lists</strong></h4>
 <p><strong>Secondary 1</strong>
-<br>FMS(S) S1 Booklist and Stationery List 2026 - Coming Soon!</p>
+<br><a href="/files/Parents/2026_FMSS_S1_Booklist_11_Dec.pdf" rel="noopener nofollow" target="_blank">FMS(S) S1 Booklist and Stationery List 2026</a>
+</p>
 <p><strong>Secondary 2</strong>
 <br><a href="/files/Parents/Admin Matters/FMS_S__S2_Booklist_and_Stationery_List_2026_Updated_on_2_Dec_2025.pdf" rel="noopener nofollow" target="_blank">FMS(S) S2 Booklist and Stationery List 2026</a>
 </p>

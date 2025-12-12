@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/FMSS_Open_House_2025_safe_zone.png
+      background: /images/Home Page/2026_Sec1_Reg_hero_banner_final_copy.png
       key_highlights:
         - title: Our Stories
           description: ""
@@ -16,4 +16,6 @@ sections:
           description: ""
           url: /latest-updates/overview/
       variant: center
+      url: /2026-sec-1-registration
+      button: More info
 ---

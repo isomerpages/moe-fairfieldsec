@@ -3,11 +3,11 @@ title: Principal’s Dialogue and Installation Night Programme
 permalink: /principal-s-dialogue-and-installation-night-programme/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Secondary 1 Registration
 ---
 <h2><strong>Principal’s Dialogue and Installation Night Programme</strong>&nbsp;</h2>
 <p>As part of our Orientation Programme, parents are invited to attend the
-Principal’s Dialogue and Installation Night Programme on <strong>Friday,</strong>  <strong>10 January 2025</strong>.
+Principal’s Dialogue and Installation Night Programme on <strong>Friday,</strong>  <strong>9 January 2026</strong>.
 The Installation Night is a ceremony during which the Secondary 1 students
 are officially welcomed into the Fairfield Family. The programme is as
 follows:&nbsp;</p>

@@ -3,7 +3,7 @@ title: Access to School Car Park
 permalink: /access-to-school-car-park/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Secondary 1 Registration
 ---
 <h2>Access to School Car Park</h2>
 <p>Designated red parking lots are intended for season parking and are strictly

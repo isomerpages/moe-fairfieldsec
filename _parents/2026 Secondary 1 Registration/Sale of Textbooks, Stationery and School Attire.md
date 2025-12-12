@@ -3,9 +3,9 @@ title: Sale of Textbooks, Stationery and School Attire
 permalink: /sale-of-textbook/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Secondary 1 Registration
 ---
-<h2>Sale of Secondary 1 2025 Textbooks, Stationery, School Attire</h2>
+<h2>Sale of Secondary 1 2026 Textbooks, Stationery, School Attire</h2>
 <p>Please download the documents for your reference below:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -26,7 +26,7 @@ third_nav_title: 2025 Sec 1 Registration
 <p>Book and Stationery List</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/FMS_S__S1_Booklist_and_Stationery_List_2025__updated_021224_.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/Parents/2026_FMSS_S1_Booklist_11_Dec.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ third_nav_title: 2025 Sec 1 Registration
 <p>School Uniform and PE attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Price_List_for_School_Uniform_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/Parents/Sec 1 Registration/2025_FMSS_PRICELIST.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ third_nav_title: 2025 Sec 1 Registration
 <p>Information</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Dates: <strong>19, 20, 23, 26, 27, 30 December 2024</strong>
+<p>Dates: <strong>19, 22, 23, 26, 29, 30* December 2025</strong>
 </p>
 </th>
 </tr>
@@ -81,7 +81,8 @@ third_nav_title: 2025 Sec 1 Registration
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 School Bookshop
-<br>Time: 9am to 3pm</p>
+<br>Time: 9 a.m. to 3 p.m.</p>
+<p>*30 Dec: 9 a.m. - 1 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -93,12 +94,13 @@ third_nav_title: 2025 Sec 1 Registration
 <br>
 <br>Please note that there will be no trying on of attire.
 <br>
-<br>Refer to this <a href="https://shop.shanghai-uniforms.com/product-category/fairfield-methodist-school-secondary/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
+<br>Refer to this <a href="https://shanghai-uniforms.sg/sizing-guide" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
 size reference.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue: Level 1 Classroom - C111
-<br>Time: 9am to 3pm</p>
+<p>Venue: Level 1 Classroom - C110
+<br>Time: 9 a.m. to 3 p.m.
+<br>*30 Dec: 9 a.m. - 1 p.m.</p>
 </td>
 </tr>
 </tbody>
@@ -145,49 +147,6 @@ size reference.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://shanghai-uniforms.com/</u></a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>OPTION 3: Online ordering &amp; self-collection at FMS(S)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Information</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Details for Self-Collection</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Textbooks and Stationery</strong>
-<br>Vendor: Asencio Pte Ltd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>You can select a date to self-collect after checking out the items in
-the vendor’s website</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Uniform, PE Attire and Polo Tee</strong>
-<br>Vendor: Shanghai School Uniforms Pte Ltd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Not available</p>
 </td>
 </tr>
 </tbody>

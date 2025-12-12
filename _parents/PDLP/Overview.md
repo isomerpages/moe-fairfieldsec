@@ -75,8 +75,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under MOE FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gross Household Income <strong>(“GHI”)</strong> is $3000 or less, or
-<br>Per Capita Income <strong>(“PCI”)</strong>* is $750 or less</p>
+<p>Gross Household Income <strong>(“GHI”)</strong> is $4000 or less, or
+<br>Per Capita Income <strong>(“PCI”)</strong>* is $1000 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No action required. Automatically subsidised for the PLD.</p>
