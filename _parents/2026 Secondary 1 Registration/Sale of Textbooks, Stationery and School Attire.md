@@ -26,7 +26,7 @@ third_nav_title: 2026 Secondary 1 Registration
 <p>Book and Stationery List</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/Sec 1 Registration/2026_FMS_S__S1_Booklist_and_Stationery_List.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><a href="/files/Parents/2026_FMSS_S1_Booklist_11_Dec.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
