@@ -87,8 +87,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI </strong>is $4,400 or less, or
-<br><strong>PCI </strong>is $1,100 or less</p>
+<p><strong>To be advised</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
