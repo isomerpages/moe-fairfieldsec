@@ -43,28 +43,23 @@ third_nav_title: 2026 Secondary 1 Registration
 </table>
 <p><strong>MODES OF PURCHASE</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>OPTION 1: Purchase directly from the school</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>Strictly <strong>no parking</strong> in the school.</p>
-</li>
-<li>
-<p>Kindly park at the nearest public car park (Blk 2A Dover Road).</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Venues and Date/Time for Sale</strong>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>OPTION 1: Purchase directly from the </strong>school
+<br>- <strong>Strictly no parking in the school.</strong>
+</p>
+<p><strong>- Kindly park at the nearest public car park (Blk 2A Dover Road).</strong>
+</p>
+<p><strong>Venues and Date/Time for Sale</strong>
+</p>
+</th>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Information</p>
@@ -88,14 +83,7 @@ third_nav_title: 2026 Secondary 1 Registration
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Uniform, PE Attire and Polo Tee</strong>
-<br>Vendor: Shanghai School Uniforms Pte Ltd
-<br>
-<br><strong>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.</strong>
-<br>
-<br>Please note that there will be no trying on of attire.
-<br>
-<br>Refer to this <a href="https://shanghai-uniforms.sg/sizing-guide" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
-size reference.</p>
+<br>Vendor: Shanghai School Uniforms Pte Ltd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 Classroom - C110
@@ -103,20 +91,22 @@ size reference.</p>
 <br>*30 Dec: 9 a.m. - 1 p.m.</p>
 </td>
 </tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>OPTION 2: Online ordering &amp; delivery</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.</strong>
+<br>
+<br>Please note that there will be no trying on of attire.
+<br>
+<br>Refer to this <a href="https://shanghai-uniforms.sg/sizing-guide" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
+size reference.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>OPTION 2: Online ordering &amp; delivery</strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Information</p>
@@ -151,7 +141,4 @@ size reference.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
 <p></p>
