@@ -43,6 +43,101 @@ third_nav_title: 2026 Secondary 1 Registration
 </table>
 <p><strong>MODES OF PURCHASE</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>OPTION 1: Purchase directly from the </strong>school
+<br>- <strong>Strictly no parking in the school.</strong>
+</p>
+<p><strong>- Kindly park at the nearest public car park (Blk 2A Dover Road).</strong>
+</p>
+<p><strong>Venues and Date/Time for Sale</strong>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dates: <strong>19, 22, 23, 26, 29, 30* December 2025</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Textbooks and Stationery</strong>
+<br>Vendor: Asencio Pte Ltd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue: Level 1 School Bookshop
+<br>Time: 9 a.m. to 3 p.m.</p>
+<p>*30 Dec: 9 a.m. - 1 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Uniform, PE Attire and Polo Tee</strong>
+<br>Vendor: Shanghai School Uniforms Pte Ltd
+<br>
+<br><strong>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.</strong>
+<br>
+<br>Please note that there will be no trying on of attire.
+<br>
+<br>Refer to this <a href="https://shanghai-uniforms.sg/sizing-guide" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
+size reference.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venue: Level 1 Classroom - C110
+<br>Time: 9 a.m. to 3 p.m.
+<br>*30 Dec: 9 a.m. - 1 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>OPTION 2: Online ordering &amp; delivery</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Website for Online Ordering</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Textbooks and Stationery</strong>
+<br>Vendor: Asencio Pte Ltd
+<br>
+<br>Delivery Charges: $11.99</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asenciobookshop.sg/</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Uniform, PE Attire and Polo Tee</strong>
+<br>Vendor: Shanghai School Uniforms Pte Ltd
+<br>
+<br>Delivery Charges: $10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://shanghai-uniforms.com/</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>OPTION 1: Purchase directly from the school</strong>
