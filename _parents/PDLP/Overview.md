@@ -87,8 +87,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>To be advised</strong>
-</p>
+<p>Gross Household Income (“GHI”) is $5400 or less, or</p>
+<p>Per Capita Income <strong>(“PCI”)</strong>* is $1350 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
@@ -100,8 +100,8 @@ below for information on the eligibility for the subsidy:</p>
 FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>To be advised</strong>
-</p>
+<p>Gross Household Income (“GHI”) is $5400 or less, or</p>
+<p>Per Capita Income <strong>(“PCI”)</strong>* is $1350 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Approach the school’s General Office to apply for a subsidy.</p>
