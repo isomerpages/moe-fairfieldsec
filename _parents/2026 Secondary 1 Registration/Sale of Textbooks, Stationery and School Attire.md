@@ -51,14 +51,26 @@ third_nav_title: 2026 Secondary 1 Registration
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>OPTION 1: Purchase directly from the </strong>school
-<br>- <strong>Strictly no parking in the school.</strong>
-</p>
-<p><strong>- Kindly park at the nearest public car park (Blk 2A Dover Road).</strong>
-</p>
+<p><strong>OPTION 1: Purchase directly from the </strong>school</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Strictly no parking in the school.</p>
+</li>
+<li>
+<p>Kindly park at the nearest public car park (Blk 2A Dover Road).</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p><strong>Venues and Date/Time for Sale</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
