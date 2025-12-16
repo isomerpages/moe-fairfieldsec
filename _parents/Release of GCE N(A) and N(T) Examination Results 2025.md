@@ -24,7 +24,7 @@ results. Students who are unable to collect their results in person may
 appoint a proxy to collect a physical copy of their results from school.
 Proxies are required to produce the relevant documents for the school’s
 verification when collecting the results. The proxy form can be downloaded
-here.</p>
+<a href="/files/Parents/Resources for Parents/2a__Proxy_Authorization_Letter.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025</a>
 </p>
 <p></p>
