@@ -18,4 +18,9 @@ sections:
       variant: center
       url: /2026-sec-1-registration
       button: More info
+  - infobar:
+      title: 2025 GCE N-Level Result Release
+      id: infobar
+      button: Click here for more info
+      url: /release-of-gce-n-a-and-n-t-examination-results-2025
 ---
