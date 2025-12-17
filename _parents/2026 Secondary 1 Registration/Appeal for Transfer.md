@@ -9,11 +9,11 @@ third_nav_title: 2026 Secondary 1 Registration
 <p>Students intending to appeal for a transfer must still complete registration
 at their assigned secondary school by the specified deadline.</p>
 <p><strong><u>Non-Medical Reasons</u></strong>
-<br>Students who are appealing&nbsp; for school transfer into Fairfield Methodist
+<br>Students who are appealing for school transfer into Fairfield Methodist
 School (Secondary) due to non-medical reasons, will need to submit their
-appeal through this link which will be made available here from <strong>9:00am</strong> on <strong>19 December 2025.</strong> You
+appeal through this link which will be made available here from <strong>9.00am</strong> on <strong>19 December 2025.</strong> You
 will receive an email confirmation upon completing the form. All appeal
-forms must reach the school by <strong>5:00pm on Wednesday, 24 December 2025.</strong>
+forms must reach the school by <strong>5.00pm on Wednesday, 24 December 2025.</strong>
 </p>
 <p>Consideration for any transfer is based on the following:&nbsp;</p>
 <ul data-tight="true" class="tight">
