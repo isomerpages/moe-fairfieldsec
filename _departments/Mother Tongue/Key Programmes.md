@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Key Programmes
 
-<img src="/images/Dept Photos/MT-ezgif.gif" style="width:80%">
+<img src="/images/Dept Photos/MT-ezgif.gif" style="width:81%">
 
 
 #### Chinese Language  
