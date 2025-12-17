@@ -88,8 +88,8 @@ third_nav_title: 2026 Secondary 1 Registration
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 School Bookshop
-<br>Time: 9 a.m. to 3 p.m.</p>
-<p>*30 Dec: 9 a.m. - 1 p.m.</p>
+<br>Time: 9:00am to 3:00pm</p>
+<p>*30 Dec: 9:00am - 1:00pm</p>
 </td>
 </tr>
 <tr>
@@ -99,22 +99,24 @@ third_nav_title: 2026 Secondary 1 Registration
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 Classroom - C110
-<br>Time: 9 a.m. to 3 p.m.
-<br>*30 Dec: 9 a.m. - 1 p.m.</p>
+<br>Time: 9:00am to 3:00pm
+<br>
+<br>*30 Dec: 9:00am - 1:00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Students are advised to purchase 2 sets of Full Uniform, 2 sets of PE Attire and 1 Fairfield Polo Tee.</strong>
-<br>
 <br>Please note that there will be no trying on of attire.
-<br>
 <br>Refer to this <a href="https://shanghai-uniforms.sg/sizing-guide" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> for
 size reference.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
+<p></p>
+<p></p>
 <p><strong>OPTION 2: Online ordering &amp; delivery</strong>
 </p>
 </td>
