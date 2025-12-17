@@ -9,9 +9,9 @@ third_nav_title: 2026 Secondary 1 Registration
 <p>To ensure that Secondary 1 students are well prepared for the start of
 their secondary school journey with us, please note the following information.&nbsp;</p>
 <p><strong>(A) Reporting &amp; Dismissal Time and Venue</strong>&nbsp;
-<br>Daily reporting time:&nbsp; Students are encouraged to be in school <strong>by 7:25am</strong> for
+<br>Daily reporting time:&nbsp; Students are encouraged to be in school <strong>by 7.25am</strong> for
 silent reading.&nbsp; They will be considered <strong>late</strong> if they
-arrive in school from <strong>7:28am onwards</strong>.&nbsp;</p>
+arrive in school from <strong>7.28am onwards</strong>.&nbsp;</p>
 <p>Reporting venue on Day 1: Parade Square*&nbsp;
 <br><em>*The Student Leaders of the Secondary 1 Orientation Programme will guide them to the parade square.&nbsp;</em>
 </p>
