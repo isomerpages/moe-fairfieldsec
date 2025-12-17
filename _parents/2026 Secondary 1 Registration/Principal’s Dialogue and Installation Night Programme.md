@@ -27,14 +27,16 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.30pm&nbsp;
-<br>5.30pm - 6.00pm</p>
+<p>5.30pm&nbsp;</p>
+<p>5.30pm - 6.00pm</p>
 <p>5.30pm - 6.50pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students report to Canteen*&nbsp;</p>
 <p>Engagement with FT and PiE at respective Classrooms (Parents)
-<br>Dinner &amp; OG Time (Students)&nbsp;</p>
+<br>
+</p>
+<p>Dinner &amp; OG Time (Students)&nbsp;</p>
 </td>
 </tr>
 <tr>
