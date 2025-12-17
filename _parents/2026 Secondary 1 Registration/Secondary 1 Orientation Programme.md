@@ -55,7 +55,7 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm*&nbsp;</p>
+<p>3:00pm*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PE Attire</p>
@@ -69,7 +69,7 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm*</p>
+<p>3:00pm*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PE Attire</p>
@@ -83,7 +83,7 @@ Orientation Programme.&nbsp;&nbsp;</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm*</p>
+<p>3:00pm*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orientation T-Shirt with PE bottoms.&nbsp;&nbsp;
