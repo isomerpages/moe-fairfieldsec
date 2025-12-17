@@ -16,6 +16,8 @@ in taking on subjects at a more demanding level.&nbsp;</p>
 <p><strong>Higher Mother Tongue Languages (HMTL)&nbsp;</strong>
 <br><strong>An e-copy of the HMTL Option Form will be sent to parents via Parents Gateway on Friday, 19 December 2025</strong>,<strong> if the student is eligible.&nbsp;</strong>
 </p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><u>Higher Chinese Language (HCL)</u>
