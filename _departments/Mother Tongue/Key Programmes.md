@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Key Programmes
 
-<img src="/images/Dept Photos/MT-ezgif.gif" style="width:80%">
+<img src="/images/Dept Photos/MT-ezgif.gif" style="width:81%">
 
 
 #### Chinese Language  
@@ -53,5 +53,3 @@ The department organizes various cultural activities, including traditional game
 5.	新蕾奖 Chinese Creative Writing
 6.	全国翻译比赛 National Secondary School Translation Competition
 7.	Cinta Halynaa Malay Language Translation Competition
-
-
