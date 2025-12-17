@@ -9,7 +9,7 @@ third_nav_title: 2026 Secondary 1 Registration
 <p>To welcome our new Secondary 1 students, the Secondary 1 Orientation programme
 will be held on <strong>2, 5, 6 and 7 January 2026.</strong>&nbsp;</p>
 <p>&nbsp;Please note the following <strong>dismissal times</strong> for the
-Orientation Programme.&nbsp;&nbsp;</p>
+Orientation Programme.&nbsp; &nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
