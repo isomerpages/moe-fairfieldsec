@@ -53,3 +53,5 @@ The department organizes various cultural activities, including traditional game
 5.	新蕾奖 Chinese Creative Writing
 6.	全国翻译比赛 National Secondary School Translation Competition
 7.	Cinta Halynaa Malay Language Translation Competition
+
+
