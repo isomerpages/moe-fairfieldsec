@@ -27,8 +27,8 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1730&nbsp;
-<br>1730 - 1850&nbsp;</p>
+<p>5:30pm&nbsp;
+<br>5.30pm - 6:50pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students report to canteen&nbsp;
@@ -37,8 +37,8 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1800 - 1900&nbsp;
-<br>1850 - 1900&nbsp;</p>
+<p>6:00pm - 7:00pm&nbsp;
+<br>6:50pm - 7:00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal’s Dialogue (Parents)&nbsp;
@@ -47,7 +47,7 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1900 - 1905&nbsp;</p>
+<p>7:00pm - 7:05pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Settling down of students with their parents&nbsp;</p>
@@ -55,7 +55,7 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1905 - 1940&nbsp;</p>
+<p>7:05pm - 7:40pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Installation Night Programme&nbsp;
@@ -65,7 +65,7 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1940 - 2000&nbsp;</p>
+<p>7:40pm - 8:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PIE Engagement Talk in the Classroom&nbsp;</p>
@@ -73,7 +73,7 @@ follows:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2000&nbsp;</p>
+<p>8:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Dismissal&nbsp;</p>
