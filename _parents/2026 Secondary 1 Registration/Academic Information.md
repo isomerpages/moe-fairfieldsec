@@ -45,6 +45,7 @@ General Office when they report to Fairfield Methodist School (Secondary).&nbsp;
 </div>
 </details>
 </div>
+<p></p>
 <p><strong>Tamil Language (TL) / Basic Tamil Language (BTL)</strong>
 <br>Students taking<strong> TL and BTL</strong> will attend lessons at <strong>Queenstown Secondary School*</strong>,
 outside of curriculum time. Registration will be open during the first

@@ -88,8 +88,8 @@ third_nav_title: 2026 Secondary 1 Registration
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 School Bookshop
-<br>Time: 9:00am to 3:00pm</p>
-<p>*30 Dec: 9:00am - 1:00pm</p>
+<br>Time: 9.00am to 3.00pm</p>
+<p>*30 Dec: 9.00am - 1.00pm</p>
 </td>
 </tr>
 <tr>
@@ -99,9 +99,9 @@ third_nav_title: 2026 Secondary 1 Registration
 </td>
 <td rowspan="1" colspan="1">
 <p>Venue: Level 1 Classroom - C110
-<br>Time: 9:00am to 3:00pm
+<br>Time: 9.00am to 3.00pm
 <br>
-<br>*30 Dec: 9:00am - 1:00pm</p>
+<br>*30 Dec: 9.00am - 1.00pm</p>
 </td>
 </tr>
 <tr>

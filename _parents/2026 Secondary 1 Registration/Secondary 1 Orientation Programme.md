@@ -40,7 +40,7 @@ Orientation Programme.&nbsp; &nbsp;</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12:00pm&nbsp;</p>
+<p>12.00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Full School Uniform with tie.&nbsp;&nbsp;
@@ -55,7 +55,7 @@ Orientation Programme.&nbsp; &nbsp;</p>
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm*&nbsp;</p>
+<p>3.00pm*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PE Attire</p>
@@ -69,7 +69,7 @@ Orientation Programme.&nbsp; &nbsp;</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm*</p>
+<p>3.00pm*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PE Attire</p>
@@ -83,7 +83,7 @@ Orientation Programme.&nbsp; &nbsp;</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm*</p>
+<p>3.00pm*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orientation T-Shirt with PE bottoms.&nbsp;&nbsp;
@@ -94,10 +94,10 @@ Orientation Programme.&nbsp; &nbsp;</p>
 </tbody>
 </table>
 <p><em>*Some classes will end later due to IT familiarisation sessions.&nbsp;</em>&nbsp;
-<br><em>OG A &amp; B - 5 Jan 2026 (3:00pm - 4:00pm)</em>&nbsp;
-<br><em>OG C &amp; D - 6 Jan 2026 (3:00pm - 4:00pm)</em>&nbsp;
-<br><em>OG E &amp; F - 7 Jan 2026 (3:00pm - 4:00pm</em>)
-<br><em>OG G &amp; H - 8 Jan 2026 (2:30pm - 3:30pm)</em>
+<br><em>OG A &amp; B - 5 Jan 2026 (3.00pm - 4.00pm)</em>&nbsp;
+<br><em>OG C &amp; D - 6 Jan 2026 (3.00pm - 4.00pm)</em>&nbsp;
+<br><em>OG E &amp; F - 7 Jan 2026 (3.00pm - 4.00pm</em>)
+<br><em>OG G &amp; H - 8 Jan 2026 (2.30pm - 3.30pm)</em>
 </p>
 <p><strong>Things to bring from 2 – 7 January 2026:</strong>&nbsp;</p>
 <ul>
