@@ -28,3 +28,7 @@ verification when collecting the results. The proxy form can be downloaded
 <p><a href="https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025</a>
 </p>
 <p></p>
+<p><strong><u>Briefing Slides:</u></strong>
+</p>
+<p><a href="/files/Parents/2025_N_Level_Result_Release__For_Sch_Website__Updated.pdf" rel="noopener nofollow" target="_blank">2025_N_Level_Result_Release_Briefing_Slides.pdf</a>
+</p>
