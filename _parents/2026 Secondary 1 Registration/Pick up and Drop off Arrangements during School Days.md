@@ -33,7 +33,7 @@ crossing the road.</p>
 </ul>
 <h3><u>Vehicle Entry Restrictions</u></h3>
 <p>Please note that vehicles are not allowed to enter the school compound
-after 7:28am. Additionally, parents/guardians should not drive into the
+after 7.28am. Additionally, parents/guardians should not drive into the
 school for pick-up at dismissal, unless it is raining. This helps us maintain
 safety and reduces congestion at the school gates.</p>
 <p><em>Rainy Weather Pick-up:</em>
