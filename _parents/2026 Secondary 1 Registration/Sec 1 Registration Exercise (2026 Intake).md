@@ -11,8 +11,7 @@ It will be a new phase of your development and we are happy to welcome
 you to be part of the family! &nbsp;</p>
 <p><strong><u>Secondary 1 Registration</u></strong>
 <br>Secondary 1 Registration will open at <strong>9.00am</strong> on <strong>Friday, 19 December 2025</strong>.
-You may complete the registration online via the link that will be provided
-on this page. <strong>The online registration will close at 5.00pm </strong>on<strong> Monday, 22 December 2025</strong>.
+You may complete the registration online via this <a href="https://go.gov.sg/sec1registration2026" rel="noopener nofollow" target="_blank">link</a>. <strong>The online registration will close at 5.00pm </strong>on<strong> Monday, 22 December 2025</strong>.
 You will receive an email confirmation upon completing the form.</p>
 <p>Thank you.</p>
 <p>We encourage you to take some time to explore this microsite for additional
