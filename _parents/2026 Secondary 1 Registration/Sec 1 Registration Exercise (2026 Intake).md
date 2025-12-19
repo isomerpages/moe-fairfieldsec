@@ -24,10 +24,7 @@ information.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="80%" alt="" src="/images/Parents/2024/Step_1_Registration.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/692816611237afbd8817abe1"><img style="width: 100%" height="auto" width="80%" alt="" src="/images/Parents/2024/Step_1_Registration.png"></a>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/sale-of-textbook"><img style="width: 100%" height="auto" width="80%" alt="" src="/images/Parents/2024/Step_2_Uniform___Books.png"></a>
 </th>
