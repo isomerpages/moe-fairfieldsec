@@ -118,6 +118,7 @@ size reference.</p>
 <p></p>
 <p></p>
 <p><strong>OPTION 2: Online ordering &amp; delivery</strong>
+<br><strong>[Please note: Online orders placed after 21 December 2025 may not be delivered before school reopens.]</strong>
 </p>
 </td>
 </tr>
@@ -145,7 +146,6 @@ size reference.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Uniform, PE Attire and Polo Tee</strong>
 <br>Vendor: Shanghai School Uniforms Pte Ltd
-<br>
 <br>Delivery Charges: $10</p>
 </td>
 <td rowspan="1" colspan="1">
