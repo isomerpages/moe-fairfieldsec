@@ -155,4 +155,5 @@ size reference.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>[Please note: Online orders placed after 21 December 2025 may not be delivered before school reopens.]</strong>
+</p>
