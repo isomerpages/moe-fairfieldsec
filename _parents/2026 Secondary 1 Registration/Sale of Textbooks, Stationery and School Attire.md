@@ -146,7 +146,6 @@ size reference.</p>
 <td rowspan="1" colspan="1">
 <p><strong>School Uniform, PE Attire and Polo Tee</strong>
 <br>Vendor: Shanghai School Uniforms Pte Ltd
-<br>
 <br>Delivery Charges: $10</p>
 </td>
 <td rowspan="1" colspan="1">
