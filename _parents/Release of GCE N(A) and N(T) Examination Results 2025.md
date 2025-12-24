@@ -30,5 +30,7 @@ verification when collecting the results. The proxy form can be downloaded
 <p></p>
 <p><strong><u>Briefing Slides:</u></strong>
 </p>
-<p><a href="/files/Parents/2025_N_Level_Result_Release__For_Sch_Website__Updated.pdf" rel="noopener nofollow" target="_blank">2025_N_Level_Result_Release_Briefing_Slides.pdf</a>
+<p></p>
+<p><a href="/files/Parents/Revised_22_Dec_2025_N_Level_Result_Release.pdf" rel="noopener nofollow" target="_blank">2025_N_Level_Result_Release_Briefing_Slides.pdf</a>
 </p>
+<p></p>
