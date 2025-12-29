@@ -385,13 +385,12 @@ variant: tiptap
 <br>Selected Saturdays (Netball Carnivals)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chen Su Lan Hall
-<br>FMS(P)
+<p>FMS(P)
 <br>*External Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30 pm - 5.45 pm
-<br>2.30 pm - 5.30 pm
+<p>3.00 pm - 6.00 pm
+<br>2.00 pm - 5.30 pm
 <br>8.00 am - 5.00 pm
 <br>
 </p>
@@ -510,7 +509,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parade Square&nbsp; / Lecture Theatre / Classrooms / GB HQ</p>
+<p>Parade Square&nbsp; / Create@Fairfield / Classrooms / GB HQ</p>
 <p>
 <br>
 </p>
@@ -548,7 +547,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Parade Square / CCE Room / NCC HQ</p>
+<p>Parade Square / SBL Hub / NCC HQ</p>
 <p>
 <br>
 <br>
