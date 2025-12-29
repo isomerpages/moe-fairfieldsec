@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue</p>
+<p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ITR1</p>
@@ -314,6 +314,11 @@ variant: tiptap
 <p>Chen Su Lan Hall / FMS(P) / *External Venue
 <br>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>FMS(P) MPH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm - 5.30 pm
