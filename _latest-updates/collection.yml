@@ -2,5 +2,5 @@ collections:
   latest-updates:
     output: true
     order:
-      - 2026 Semester 1 Class Time Table.md
       - Overview.md
+      - 2026 Semester 1 Class Time Table.md
