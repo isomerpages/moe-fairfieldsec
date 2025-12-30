@@ -24,17 +24,12 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Sec 1A</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Ms Tan Yi Qian</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Mr Arif Bin Bakar</p>
+<p>Ms Lee Chiew Yi</p>
 </th>
 </tr>
 <tr>
@@ -43,13 +38,13 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Phoebe Chin Kit Yin</strong>
+<p><strong>Mr Tan Zhiwei</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Yap Eng Luan Ruth</strong>
+<p><strong>Ms Kartinie Bte Tomin</strong>
 </p>
 </td>
 </tr>
@@ -59,12 +54,12 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p>Ms Lim Jasmine</p>
+<p>Ms Chionh Yee Ching</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Kamariah Binte Sajat</strong>
+<p><strong>Ms Joanna D/O George</strong>
 </p>
 </td>
 </tr>
@@ -74,13 +69,13 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Yee Suet Fong Dawn&nbsp;</strong>
+<p><strong>Ms Tan Siok Hoon Celine</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Dannish Kurniago</strong>
+<p><strong>Mdm Haliza Bte Abdul Hamid Khan</strong>
 </p>
 </td>
 </tr>
@@ -90,13 +85,13 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Andrew Choy</strong>
+<p><strong>Ms Lim Siew Ein, Josephine</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Puah Hui Sze</strong>
+<p><strong>Ms Lin Yizhen Eunice</strong>
 </p>
 </td>
 </tr>
@@ -106,29 +101,23 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chan Xin Hui Charmaine</strong>
+<p><strong>Mdm Sun Jiaxi</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Voon Qiyuan</strong>
+<p><strong>Ms Goh Wei Ting, Sandy</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Sec 1G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Samsiah Bte Mohd Diah</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Nurul Afia Mohammed Anuar</strong>
+<p><strong>Mr Chia Chun Yee</strong>
 </p>
 </td>
 </tr>
@@ -138,13 +127,13 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Nina</strong>
+<p><strong>Ms Samsiah Bte Mohamed Diah</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chia Chun Yee</strong>
+<p><strong>Mr Ho Wee Yew Wilson</strong>
 </p>
 </td>
 </tr>
@@ -152,9 +141,7 @@ third_nav_title: Form and Subject Teachers
 </table>
 <p></p>
 <h4>Sec 1 Subject Teachers</h4>
-<p><a href="/files/Parents/2025_Sem_2_Sec_1_FTs__Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">Sec 1 FTs and Subject Teachers.pdf</a>
-</p>
-<p></p>
+<p>To be updated</p>
 <h4>Teachers' Email Address</h4>
 <p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view all teachers email addresses.</p>
