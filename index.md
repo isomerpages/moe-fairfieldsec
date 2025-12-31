@@ -23,6 +23,7 @@ sections:
       id: infobar
       button: Click here for more info
       url: /2026-semester-1-class-time-table
+      description: Please take note of latest updated class time table
   - infobar:
       title: 2025 GCE N-Level Result Release
       id: infobar
