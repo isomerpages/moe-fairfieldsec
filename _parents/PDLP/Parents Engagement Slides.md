@@ -9,5 +9,5 @@ variant: tiptap
 <h4>Resources</h4>
 <p><a href="/files/Parents/PDLP/2026_Parent_Engagement_Deck.pdf" rel="noopener nofollow" target="_blank">2026 Parent Engagement Deck</a>
 </p>
-<p><a href="/files/Parents/PDLP/2025_Student_Device_Information_Kit.pdf" rel="noopener nofollow" target="_blank">2025 Student Device Information Kit</a>
+<p><a href="/files/Parents/PDLP/2026_Student_Device_Information_Kit.pdf" rel="noopener nofollow" target="_blank">2026 Student Device Information Kit</a>
 </p>
