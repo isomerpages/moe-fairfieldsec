@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Mathematics</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/mathematics_department_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/mathematics_department_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
@@ -157,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Choy Andrew</strong>
+<p><strong>Mr Andrew Choy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
