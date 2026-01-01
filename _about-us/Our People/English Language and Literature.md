@@ -8,7 +8,7 @@ variant: tiptap
 <h3>English Language &amp; Literature</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/english_language_and_literature_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/english_language_and_literature_department_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
