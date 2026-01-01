@@ -31,19 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lee Chee Peng</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Mathematics &amp; CPA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chee_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Yeo Li Li Clara</strong>
 </p>
 </td>
@@ -161,7 +148,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>Sec 2D Form Teacher</p>
+<br>Sec 1D Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haliza_abdul_hamid_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haliza_abdul_hamid_khan@moe.edu.sg</a>
@@ -174,7 +161,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1E Form Teacher</p>
+<p>Sec 2E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg@moe.edu.sg</a>
@@ -187,7 +174,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4G Form Teacher</p>
+<p>Sec 3D Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kua_khuan_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kua_khuan_tiong@moe.edu.sg</a>
@@ -200,7 +187,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4G Form Teacher</p>
+<p>Sec 3F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_chin@moe.edu.sg</a>
@@ -213,7 +200,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1H Form Teacher</p>
+<p>Sec 2H Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_nina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_nina@moe.edu.sg</a>
@@ -226,7 +213,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1F Form Teacher</p>
+<p>Sec 2F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:voon_qiyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">voon_qiyuan@moe.edu.sg</a>
@@ -248,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lee Shu Pei</strong>
+<p><strong>Mdm Lee Shu Pei</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
