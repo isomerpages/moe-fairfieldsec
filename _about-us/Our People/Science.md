@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h3>Science</h3>
 <p></p>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/science_department_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/science_department_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
