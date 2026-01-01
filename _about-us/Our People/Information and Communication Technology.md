@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Information &amp; Communication Technology</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/information_and_communication_technology_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/information_and_communication_technology_department_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
