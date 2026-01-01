@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Character &amp; Citizenship Education</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/character_and_citizenship_education_department_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/character_and_citizenship_education_committee_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
@@ -44,6 +44,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Yap Hock Heng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_hock_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hock_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Shamsiah Bte Zainalabidin</strong>
 </p>
 </td>
@@ -65,6 +78,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_aik_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Dannish Kurniago</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dannish_kurniago@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -91,14 +117,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Dannish Kurniago</strong>
+<p><strong>Mrs Jean Ho</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
+<p>Senior Teacher
+<br>Sec 3G Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dannish_kurniago@moe.edu.sg</a>
+<p><a href="mailto:jean_tan_siew_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jean_tan_siew_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -236,14 +263,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Puah Hui Sze</strong>
+<p><strong>Mdm Sun Jiaxi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Sec 1F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>puah_hui_sze@moe.edu.sg</u></a>
+<p><a href="mailto:sun_jiaxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_jiaxi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -335,6 +362,84 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lim_Siew_Ein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_siew_ein_@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Chiew Yi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1A Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chiew_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chiew_yi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Yap Eng Luan Ruth</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_eng_luan_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_eng_luan_ruth@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chionh Yee Ching</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chionh_yee_ching_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chionh_yee_ching_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Sean Lee Mien Chung</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sean_lee_mien_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sean_lee_mien_chung@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Yu Sim</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yu_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_sim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Voon Qiyuan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:voon_qiyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">voon_qiyuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
