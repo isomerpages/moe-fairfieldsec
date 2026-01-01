@@ -190,7 +190,7 @@ variant: tiptap
 <p>Christian Ministry Staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_si_xiu_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_si_xiu_esther@moe.edu.sg</a>
+<p><a href="mailto:lim_si_xiu_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_si_xiu_esther@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -203,7 +203,7 @@ variant: tiptap
 <p>Christian Ministry Staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cynthia_ang_lay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cynthia_ang_lay_leng@moe.edu.sg</a>
+<p><a href="mailto:cynthia_ang_lay_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cynthia_ang_lay_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
