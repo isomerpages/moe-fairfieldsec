@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Mother Tongue</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/mother_tongue_languages_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/mother_tongue_languages_department_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
@@ -83,8 +83,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>
-</p>
+<br>Sec 1H Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:samsiah_mohamed_diah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samsiah_mohamed_diah@moe.edu.sg</a>
