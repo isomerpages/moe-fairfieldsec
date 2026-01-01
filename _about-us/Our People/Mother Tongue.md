@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Mother Tongue</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/mother_tongue_languages_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/mother_tongue_languages_department_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
@@ -83,8 +83,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>
-</p>
+<br>Sec 1H Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:samsiah_mohamed_diah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samsiah_mohamed_diah@moe.edu.sg</a>
@@ -97,7 +96,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1H Form Teacher</p>
+<p>Sec 1G Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_chun_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_chun_yee@moe.edu.sg</a>
@@ -110,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1G Form Teacher</p>
+<p>Sec 2E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liong_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liong_hui_min@moe.edu.sg</a>
@@ -123,7 +122,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2A Form Teacher</p>
+<p>Sec 3A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_zhen_yong_bennett@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_zhen_yong_bennett@moe.edu.sg</a>
@@ -132,27 +131,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Puah Hui Sze</strong>
+<p><strong>Mdm Sun Jiaxi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1E Form Teacher</p>
+<p>Sec 1F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_hui_sze@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Yi Qian</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1A Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_qian@moe.edu.sg</a>
+<p><a href="mailto:sun_jiaxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_jiaxi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -162,10 +148,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3E Form Teacher</p>
+<p>Sec 4E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_jia_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_xian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Kartinie Bte Tomin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kartinie_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kartinie_tomin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -184,27 +183,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Sun Jiaxi</strong>
+<p><strong>Ms Puah Hui Sze</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sun_jiaxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_jiaxi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Junaidah Binti Aman</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:junaidah_aman_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_aman_a@moe.edu.sg</a>
+<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_hui_sze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
