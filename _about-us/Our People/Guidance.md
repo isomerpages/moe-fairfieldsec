@@ -64,21 +64,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Samsiah Bte Mohd Diah</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:samsiah_mohamed_diah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samsiah_mohamed_diah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Woo Chee Keong Alex</strong>
 </p>
 </td>
