@@ -149,7 +149,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Ms Teo Tow Hwa Belinda</strong>
 </p>
 </td>
@@ -158,6 +157,53 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_tow_hwa_belinda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_tow_hwa_belinda@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Christian Ministry Team</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Si Xiu Esther</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christian Ministry Staff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_si_xiu_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_si_xiu_esther@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Cynthia Ang Lay Leng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christian Ministry Staff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cynthia_ang_lay_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cynthia_ang_lay_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
