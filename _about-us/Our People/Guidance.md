@@ -6,9 +6,8 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>Guidance</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/guidance_committee_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/guidance_committee_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
@@ -85,7 +84,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>Sec 3A Form Teacher</p>
+<br>Sec 4A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alex_woo_chee_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alex_woo_chee_keong@schools.gov.sg</a>
@@ -145,6 +144,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <p><a href="mailto:Pang_Yi_Xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pang_Yi_Xin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Ms Teo Tow Hwa Belinda</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education &amp; Career Guidance Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_tow_hwa_belinda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_tow_hwa_belinda@schools.gov.sg</a>
 </p>
 </td>
 </tr>
