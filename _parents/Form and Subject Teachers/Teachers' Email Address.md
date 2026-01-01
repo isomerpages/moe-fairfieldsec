@@ -13,19 +13,19 @@ third_nav_title: Form and Subject Teachers
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Email Address</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Aminah Beevi (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aminah_beevi_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aminah_beevi_rahim@moe.edu.sg</a>
+<p><a href="mailto:aminah_beevi_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">aminah_beevi_rahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -34,7 +34,7 @@ third_nav_title: Form and Subject Teachers
 <p>Andrew Choy (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_andrew@moe.edu.sg</a>
+<p><a href="mailto:choy_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">choy_andrew@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ third_nav_title: Form and Subject Teachers
 <p>Arif Bin Bakar (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:arif_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arif_bakar@moe.edu.sg</a>
+<p><a href="mailto:arif_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">arif_bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chak-Goh Chiow Yean Jessica (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_chiow_yean_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chiow_yean_jessica@moe.edu.sg</a>
+<p><a href="mailto:goh_chiow_yean_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">goh_chiow_yean_jessica@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chan Xin Hui Charmaine (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:charmaine_chan_xin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charmaine_chan_xin_hui@moe.edu.sg</a>
+<p><a href="mailto:charmaine_chan_xin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">charmaine_chan_xin_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chen Minhua (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_minhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_minhua@moe.edu.sg</a>
+<p><a href="mailto:chen_minhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">chen_minhua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chew Kwai Hoong Gary (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_kwai_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kwai_hoong@moe.edu.sg</a>
+<p><a href="mailto:chew_kwai_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">chew_kwai_hoong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chia Chun Yee (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_chun_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_chun_yee@moe.edu.sg</a>
+<p><a href="mailto:chia_chun_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">chia_chun_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chia Wey Ling Vincent (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vincent_chia_wey_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vincent_chia_wey_ling@moe.edu.sg</a>
+<p><a href="mailto:vincent_chia_wey_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">vincent_chia_wey_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chionh Yee Ching (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chionh_yee_ching_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chionh_yee_ching_1@moe.edu.sg</a>
+<p><a href="mailto:chionh_yee_ching_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">chionh_yee_ching_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ third_nav_title: Form and Subject Teachers
 <p>Choe Wai Leng Evelyn (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choe_wai_leng_evelyn_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choe_wai_leng_evelyn_a@moe.edu.sg</a>
+<p><a href="mailto:choe_wai_leng_evelyn_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">choe_wai_leng_evelyn_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -124,16 +124,7 @@ third_nav_title: Form and Subject Teachers
 <p>Chua Chang Fong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chang_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chang_fong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Chong Yuan, Alvin (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chong_yuan_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chong_yuan_alvin@moe.edu.sg</a>
+<p><a href="mailto:chua_chang_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">chua_chang_fong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -142,16 +133,25 @@ third_nav_title: Form and Subject Teachers
 <p>Dannish Kurniago (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dannish_kurniago@moe.edu.sg</a>
+<p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">dannish_kurniago@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ezal Bin Sani (Mr)</p>
+<p>Eugenia Guo (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ezal_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ezal_sani@moe.edu.sg</a>
+<p><a href="mailto:eugenia_lim_wee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">eugenia_lim_wee_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Jessin (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_jessin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">goh_jessin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -160,7 +160,7 @@ third_nav_title: Form and Subject Teachers
 <p>Goh Wei Ting Sandy (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wei_ting_sandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wei_ting_sandy@moe.edu.sg</a>
+<p><a href="mailto:goh_wei_ting_sandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">goh_wei_ting_sandy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -169,7 +169,7 @@ third_nav_title: Form and Subject Teachers
 <p>Guo Enliang Joseph (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_enliang_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_enliang_joseph@moe.edu.sg</a>
+<p><a href="mailto:guo_enliang_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">guo_enliang_joseph@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -178,7 +178,7 @@ third_nav_title: Form and Subject Teachers
 <p>Haliza Bte Abdul Hamid Khan (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haliza_abdul_hamid_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haliza_abdul_hamid_khan@moe.edu.sg</a>
+<p><a href="mailto:haliza_abdul_hamid_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">haliza_abdul_hamid_khan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -187,7 +187,7 @@ third_nav_title: Form and Subject Teachers
 <p>Ho Wee Yew Wilson (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wilson_ho_wee_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wilson_ho_wee_yew@moe.edu.sg</a>
+<p><a href="mailto:wilson_ho_wee_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wilson_ho_wee_yew@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -196,7 +196,7 @@ third_nav_title: Form and Subject Teachers
 <p>Ho-Tan Siew Ching Jean (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jean_tan_siew_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jean_tan_siew_ching@moe.edu.sg</a>
+<p><a href="mailto:jean_tan_siew_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">jean_tan_siew_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -205,16 +205,16 @@ third_nav_title: Form and Subject Teachers
 <p>Jacelyn Pang Yi Xin (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_yi_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yi_xin@moe.edu.sg</a>
+<p><a href="mailto:pang_yi_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">pang_yi_xin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kamariah Binte Sajat (Mdm)</p>
+<p>Kartinie Bte Tomin (Ms)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kamariah_sajat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamariah_sajat@moe.edu.sg</a>
+<p><a href="mailto:kartinie_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">kartinie_tomin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -223,7 +223,7 @@ third_nav_title: Form and Subject Teachers
 <p>Kho Eng Kiong Patrick (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kho_eng_kiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kho_eng_kiong@moe.edu.sg</a>
+<p><a href="mailto:kho_eng_kiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">kho_eng_kiong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -232,7 +232,7 @@ third_nav_title: Form and Subject Teachers
 <p>Khoo Khai Shee Yvonne (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yvonne_khoo_khai_shee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yvonne_khoo_khai_shee@moe.edu.sg</a>
+<p><a href="mailto:yvonne_khoo_khai_shee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">yvonne_khoo_khai_shee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -241,7 +241,7 @@ third_nav_title: Form and Subject Teachers
 <p>Koh Wei Shan Clarissa (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_wei_shan_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_shan_clarissa@moe.edu.sg</a>
+<p><a href="mailto:koh_wei_shan_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">koh_wei_shan_clarissa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -250,7 +250,7 @@ third_nav_title: Form and Subject Teachers
 <p>Kua Khuan Tiong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kua_khuan_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kua_khuan_tiong@moe.edu.sg</a>
+<p><a href="mailto:kua_khuan_tiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">kua_khuan_tiong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -259,16 +259,7 @@ third_nav_title: Form and Subject Teachers
 <p>Kwok-Chang Jiapei (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_jiapei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_jiapei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Chee Peng (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chee_peng@moe.edu.sg</a>
+<p><a href="mailto:chang_jiapei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">chang_jiapei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -277,7 +268,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lee Chiew Yi (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chiew_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chiew_yi@moe.edu.sg</a>
+<p><a href="mailto:lee_chiew_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lee_chiew_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -286,7 +277,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lee Shu Pei (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_shu_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_pei@moe.edu.sg</a>
+<p><a href="mailto:lee_shu_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lee_shu_pei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -295,7 +286,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lee Sok Fun (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_sok_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_fun@moe.edu.sg</a>
+<p><a href="mailto:lee_sok_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lee_sok_fun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -304,7 +295,16 @@ third_nav_title: Form and Subject Teachers
 <p>Lee Xiao-En Tabitha (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_xiao-en_tabitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xiao-en_tabitha@moe.edu.sg</a>
+<p><a href="mailto:lee_xiao-en_tabitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lee_xiao-en_tabitha@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Xin Er (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_xin_er@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lee_xin_er@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -313,17 +313,16 @@ third_nav_title: Form and Subject Teachers
 <p>Lee Yong Seng Peter (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yong_seng_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_seng_peter@moe.edu.sg</a>
+<p><a href="mailto:lee_yong_seng_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lee_yong_seng_peter@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lily Cleaopatra D/O Anthony Pm</p>
-<p>(Mrs Elijah)</p>
+<p>Lily Cleaopatra D/O Anthony Pm (Mrs Elijah)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lily_cleaopatra_anthony_pm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lily_cleaopatra_anthony_pm@moe.edu.sg</a>
+<p><a href="mailto:lily_cleaopatra_anthony_pm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lily_cleaopatra_anthony_pm@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -332,7 +331,7 @@ third_nav_title: Form and Subject Teachers
 <p>Li Weihan Joel (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_weihan_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_weihan_joel@moe.edu.sg</a>
+<p><a href="mailto:li_weihan_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">li_weihan_joel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -341,7 +340,7 @@ third_nav_title: Form and Subject Teachers
 <p>Liew Hoe Meng Keith (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:keith_liew_hoe_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_liew_hoe_meng@moe.edu.sg</a>
+<p><a href="mailto:keith_liew_hoe_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">keith_liew_hoe_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -350,7 +349,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Chee Chin (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_chin@moe.edu.sg</a>
+<p><a href="mailto:lim_chee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_chee_chin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -359,7 +358,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Jasmine (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jasmine@moe.edu.sg</a>
+<p><a href="mailto:lim_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_jasmine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -368,7 +367,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Nina (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_nina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_nina@moe.edu.sg</a>
+<p><a href="mailto:lim_nina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_nina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -377,7 +376,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Seow Yi Ethan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_Yandong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_yi_ethan@moe.edu.sg</a>
+<p><a href="mailto:lim_seow_yi_ethan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_seow_yi_ethan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -386,7 +385,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Seow Wei (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_seow_wei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seow_wei_a@moe.edu.sg</a>
+<p><a href="mailto:lim_seow_wei_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_seow_wei_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -395,7 +394,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Siew Ein (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Siew_Ein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_ein@moe.edu.sg</a>
+<p><a href="mailto:lim_siew_ein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_siew_ein@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -404,7 +403,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Yu Sim (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yu_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_sim@moe.edu.sg</a>
+<p><a href="mailto:lim_yu_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_yu_sim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -413,7 +412,7 @@ third_nav_title: Form and Subject Teachers
 <p>Lim Yuen Tuck (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yuen_tuck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yuen_tuck@moe.edu.sg</a>
+<p><a href="mailto:lim_yuen_tuck@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">lim_yuen_tuck@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -422,7 +421,7 @@ third_nav_title: Form and Subject Teachers
 <p>Liong Hui Min (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liong_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liong_hui_min@moe.edu.sg</a>
+<p><a href="mailto:liong_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">liong_hui_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -431,7 +430,7 @@ third_nav_title: Form and Subject Teachers
 <p>Loh Youn Leong Eric (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_youn_leong_eric@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_youn_leong_eric@moe.edu.sg</a>
+<p><a href="mailto:loh_youn_leong_eric@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">loh_youn_leong_eric@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -440,7 +439,7 @@ third_nav_title: Form and Subject Teachers
 <p>Loh Zhiliang Larry (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_zhiliang_larry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_zhiliang_larry@moe.edu.sg</a>
+<p><a href="mailto:loh_zhiliang_larry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">loh_zhiliang_larry@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -449,25 +448,16 @@ third_nav_title: Form and Subject Teachers
 <p>Loke Liang En Joel (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loke_liang_en_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_liang_en_joel@moe.edu.sg</a>
+<p><a href="mailto:loke_liang_en_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">loke_liang_en_joel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lum Tuck Choi Jason (Mr)</p>
+<p>Ng Wen Howe Christopher (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lum_tuck_choi_jason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_tuck_choi_jason@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Hun Boon Francis (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>
+<p><a href="mailto:ng_wen_howe_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">ng_wen_howe_christopher@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -476,7 +466,7 @@ third_nav_title: Form and Subject Teachers
 <p>Nio Qing Hui Brenda (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nio_qing_hui_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nio_qing_hui_brenda@moe.edu.sg</a>
+<p><a href="mailto:nio_qing_hui_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">nio_qing_hui_brenda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -485,7 +475,7 @@ third_nav_title: Form and Subject Teachers
 <p>Noreffaliza Bte Amer (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noreffaliza_amer@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noreffaliza_amer@moe.edu.sg</a>
+<p><a href="mailto:noreffaliza_amer@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">noreffaliza_amer@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -494,7 +484,7 @@ third_nav_title: Form and Subject Teachers
 <p>Nurul Afia Binte Mohammed Anuar (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_afia_mohammed_anuar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_afia_mohammed_anuar@moe.edu.sg</a>
+<p><a href="mailto:nurul_afia_mohammed_anuar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">nurul_afia_mohammed_anuar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -503,7 +493,7 @@ third_nav_title: Form and Subject Teachers
 <p>Olivia Tan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:olivia_tan_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">olivia_tan_li_ling@moe.edu.sg</a>
+<p><a href="mailto:olivia_tan_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">olivia_tan_li_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -512,16 +502,7 @@ third_nav_title: Form and Subject Teachers
 <p>Paul Tarwasokono (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:paul_tarwasokono@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paul_tarwasokono@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Phoebe Chin Kit Yin (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phoebe_chin_kit_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoebe_chin_kit_yin@moe.edu.sg</a>
+<p><a href="mailto:paul_tarwasokono@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">paul_tarwasokono@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -530,7 +511,7 @@ third_nav_title: Form and Subject Teachers
 <p>Poh Jing Ping Jon (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jon_poh_jing_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jon_poh_jing_ping@moe.edu.sg</a>
+<p><a href="mailto:jon_poh_jing_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">jon_poh_jing_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -539,7 +520,7 @@ third_nav_title: Form and Subject Teachers
 <p>Puah Hui Sze (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_hui_sze@moe.edu.sg</a>
+<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">puah_hui_sze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -548,7 +529,7 @@ third_nav_title: Form and Subject Teachers
 <p>Samsiah Bte Mohamed Diah (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samsiah_mohamed_diah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samsiah_mohamed_diah@moe.edu.sg</a>
+<p><a href="mailto:samsiah_mohamed_diah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">samsiah_mohamed_diah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -557,7 +538,7 @@ third_nav_title: Form and Subject Teachers
 <p>Sean Lee Mien Chung (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sean_lee_mien_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sean_lee_mien_chung@moe.edu.sg</a>
+<p><a href="mailto:sean_lee_mien_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">sean_lee_mien_chung@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -566,7 +547,16 @@ third_nav_title: Form and Subject Teachers
 <p>Shamsiah Bte Zainalabidin (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shamsiah_zainalabidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamsiah_zainalabidin@moe.edu.sg</a>
+<p><a href="mailto:shamsiah_zainalabidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">shamsiah_zainalabidin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sharmi Lisa Obanor (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharmi_lisa_obanor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">sharmi_lisa_obanor_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -575,16 +565,7 @@ third_nav_title: Form and Subject Teachers
 <p>Sun Jiaxi (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sun_jiaxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_jiaxi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Ai Ling Marjorie (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ai_ling_marjorie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_ling_marjorie@moe.edu.sg</a>
+<p><a href="mailto:sun_jiaxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">sun_jiaxi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -593,7 +574,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Aik Hwee Alester (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_aik_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a>
+<p><a href="mailto:tan_aik_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tan_aik_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -602,7 +583,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Chang Ci (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chang_ci@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chang_ci@moe.edu.sg</a>
+<p><a href="mailto:tan_chang_ci@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tan_chang_ci@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -611,7 +592,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Li Ming Glen (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:glen_tan_li_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">glen_tan_li_ming@moe.edu.sg</a>
+<p><a href="mailto:glen_tan_li_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">glen_tan_li_ming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -620,7 +601,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Puok Yuee (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_puok_yuee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_puok_yuee@moe.edu.sg</a>
+<p><a href="mailto:tan_puok_yuee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tan_puok_yuee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -629,7 +610,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Siok Hoon (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siok_hoon@moe.edu.sg</a>
+<p><a href="mailto:tan_siok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tan_siok_hoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -638,7 +619,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Sor Tin (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sor_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sor_tin@moe.edu.sg</a>
+<p><a href="mailto:tan_sor_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tan_sor_tin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -647,16 +628,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Xin Ru (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_xin_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xin_ru@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Yi Qian (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_qian@moe.edu.sg</a>
+<p><a href="mailto:tan_xin_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tan_xin_ru@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -665,7 +637,7 @@ third_nav_title: Form and Subject Teachers
 <p>Tan Zhiwei @ Tham Chee Wai (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_zhiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zhiwei@moe.edu.sg</a>
+<p><a href="mailto:tan_zhiwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tan_zhiwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -674,7 +646,16 @@ third_nav_title: Form and Subject Teachers
 <p>Tay Shu-Min Samantha (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_shu-min_samantha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_shu-min_samantha@moe.edu.sg</a>
+<p><a href="mailto:tay_shu-min_samantha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">tay_shu-min_samantha@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Kian Meng Kelvin (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_kian_ming_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">teo_kian_ming_kelvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -683,7 +664,7 @@ third_nav_title: Form and Subject Teachers
 <p>Teo-Tan Li Ling Terri (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:terri_tan_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">terri_tan_li_ling@moe.edu.sg</a>
+<p><a href="mailto:terri_tan_li_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">terri_tan_li_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -692,7 +673,7 @@ third_nav_title: Form and Subject Teachers
 <p>Thio Lay Hong (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thio_lay_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thio_lay_hong@moe.edu.sg</a>
+<p><a href="mailto:thio_lay_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">thio_lay_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -701,7 +682,7 @@ third_nav_title: Form and Subject Teachers
 <p>Trixie Chan Thing Lee (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:trixie_chan_thing_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trixie_chan_thing_lee@moe.edu.sg</a>
+<p><a href="mailto:trixie_chan_thing_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">trixie_chan_thing_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -710,7 +691,7 @@ third_nav_title: Form and Subject Teachers
 <p>Voon Qiyuan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:voon_qiyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">voon_qiyuan@moe.edu.sg</a>
+<p><a href="mailto:voon_qiyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">voon_qiyuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -719,7 +700,7 @@ third_nav_title: Form and Subject Teachers
 <p>Wee Guoyuan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wee_guoyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_guoyuan@moe.edu.sg</a>
+<p><a href="mailto:wee_guoyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wee_guoyuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -728,7 +709,16 @@ third_nav_title: Form and Subject Teachers
 <p>Wong Bei Shi (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_bei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_bei_shi@moe.edu.sg</a>
+<p><a href="mailto:wong_bei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wong_bei_shi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Changman Isaac (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_changman_isaac@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wong_changman_isaac@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -737,7 +727,7 @@ third_nav_title: Form and Subject Teachers
 <p>Wong Jia Xian (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jia_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_xian@moe.edu.sg</a>
+<p><a href="mailto:wong_jia_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wong_jia_xian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -746,7 +736,16 @@ third_nav_title: Form and Subject Teachers
 <p>Wong Jiayi (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jiayi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jiayi@moe.edu.sg</a>
+<p><a href="mailto:wong_jiayi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wong_jiayi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Kai Ping Eleanor (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kai_ping_eleanor_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">kai_ping_eleanor_wong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -755,7 +754,7 @@ third_nav_title: Form and Subject Teachers
 <p>Woo Chee Keong Alex (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alex_woo_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alex_woo_chee_keong@moe.edu.sg</a>
+<p><a href="mailto:alex_woo_chee_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">alex_woo_chee_keong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -764,7 +763,7 @@ third_nav_title: Form and Subject Teachers
 <p>Yap Eng Luan Ruth (Miss)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_eng_luan_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_eng_luan_ruth@moe.edu.sg</a>
+<p><a href="mailto:yap_eng_luan_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">yap_eng_luan_ruth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -773,7 +772,7 @@ third_nav_title: Form and Subject Teachers
 <p>Yap Hock Heng (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_hock_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hock_heng@moe.edu.sg</a>
+<p><a href="mailto:yap_hock_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">yap_hock_heng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -782,7 +781,16 @@ third_nav_title: Form and Subject Teachers
 <p>Yee Suet Fong Dawn (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yee_suet_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yee_suet_fong@moe.edu.sg</a>
+<p><a href="mailto:yee_suet_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">yee_suet_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Li Li (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_li_li_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">yeo_li_li_clara@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -791,7 +799,16 @@ third_nav_title: Form and Subject Teachers
 <p>Yeo Rena (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gomes_rena_jeanette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gomes_rena_jeanette@moe.edu.sg</a>
+<p><a href="mailto:gomes_rena_jeanette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">gomes_rena_jeanette@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Li (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_li_g@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">zhang_li_g@moe.edu.sg</a>
 </p>
 </td>
 </tr>
