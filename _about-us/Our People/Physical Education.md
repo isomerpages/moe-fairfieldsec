@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Physical Education</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/physical_education_department_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/physical_education_department_2026.jpg">
 </div>
 <h4>Key Personnel</h4>
 <table style="minWidth: 75px">
@@ -31,14 +31,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Francis Ng Hun Boon</strong>
+<p><strong>Mr Ng Wen Howe Christopher</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>
+<p><a href="mailto:ng_wen_howe_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wen_howe_christopher@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head ( Lower Sec )</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_youn_leong_eric@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_youn_leong_eric@moe.edu.sg</a>
@@ -75,19 +75,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lum Tuck Choi Jason</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lum_tuck_choi_jason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_tuck_choi_jason@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -139,20 +126,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yong_seng_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yong_seng_peter@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Lim Siow Fen Joan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_siow_fen_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siow_fen_a@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 </tbody>
