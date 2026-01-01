@@ -78,7 +78,7 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sean Lee Mien Chung </strong>
+<p><strong>Mr Sean Lee Mien Chung</strong>
 </p>
 </td>
 </tr>
@@ -122,8 +122,16 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Li Weihan Joel </strong>
+<p><strong>Li Weihan Joel</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
