@@ -91,19 +91,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Hun Boon Francis</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; Co- Curricular Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hun_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Dannish Kurniago</strong>
 </p>
 </td>
@@ -112,19 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dannish_kurniago@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dannish_kurniago@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lum Tuck Choi Jason</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lum_tuck_choi_jason@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_tuck_choi_jason@moe.edu.sg</a>
 </p>
 </td>
 </tr>
