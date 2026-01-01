@@ -8,11 +8,8 @@ variant: tiptap
 <h3>Executive Committee</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="executive_committee_2025.jpg" src="/images/About Us/Our People/executive_committee_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our People/executive_committee_2026.jpg">
 </div>
-<p>
-<br>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -459,17 +456,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_malik_shahal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_malik_shahal@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
