@@ -104,20 +104,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ezal Bin Sani</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher
-<br>Sec 5A Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ezal_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ezal_sani@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Haliza Bte Abdul Hamid</strong>
 </p>
 </td>
@@ -271,19 +257,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gomes_rena_jeanette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gomes_rena_jeanette@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Yi Qian</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1A Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yi_qian@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
