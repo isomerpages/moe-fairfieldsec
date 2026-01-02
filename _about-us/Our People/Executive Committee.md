@@ -160,8 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Eugenia Lim Wee Ping </strong>
-<br><strong>(Mrs Eugenia Guo)</strong>
+<p><strong>Mrs Eugenia Guo</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
