@@ -29,7 +29,8 @@ variant: tiptap
 <p>3.00 pm - 6.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Band (*Main Band extra session in preparation for major events)</p>
+<p>Junior Band</p>
+<p>(*Main Band extra session in preparation for major events)</p>
 </td>
 </tr>
 <tr>
