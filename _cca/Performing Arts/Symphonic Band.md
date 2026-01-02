@@ -14,8 +14,9 @@ variant: tiptap
 </p>
 <p><strong>Training Days &amp; Time:</strong>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -25,7 +26,10 @@ variant: tiptap
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Main Band only): 3.30 pm - 6.00 pm</p>
+<p>3.00 pm - 6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Junior Band (*Main Band extra session in preparation for major events)</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +37,10 @@ variant: tiptap
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Junior Band only*): 2.30 pm - 5.30 pm</p>
+<p>3.00 pm - 6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Main Band</p>
 </td>
 </tr>
 <tr>
@@ -41,21 +48,21 @@ variant: tiptap
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Junior Band): 2.00 pm - 5.00 pm</p>
-<p>(Main Band): 3.00 pm - 6.00 pm</p>
+<p>2.00 pm - 5.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Main &amp; Junior Band</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*Main Band has practices on Wednesday when there is upcoming performance
-/ competition</p>
 <p></p>
 <p><strong>Teachers In Charge:</strong> 
-<br>Ms Tan Yi Qian (I/C)
+<br>Mdm Haliza (I/C)
+<br>Ms Wong Jia Xian (2 I/C)
 <br>Mr Alester Tan
-<br>Mdm Haliza
-<br>Ms Noella Lim Shih Haan
-<br>Ms Chionh Yee Ching&nbsp;
+<br>Ms Chionh Yee Ching
+<br>Ms Jessin Goh&nbsp;
 <br>
 <br><strong>Conductor</strong> 
 <br>Mr Wong Yin Xuan&nbsp;
