@@ -82,7 +82,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2C Form Teacher</p>
+<p>Senior Teacher
+<br>Sec 2C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wee_guoyuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_guoyuan@moe.edu.sg</a>
