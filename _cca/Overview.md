@@ -236,19 +236,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon (Sec 1 only. Sec 2 - 5 during concert/competition season)
-<br>Wed (Sec 2 - 5)
-<br>Fri (Sec 1 - 5)</p>
+<p>Mon: Junior Band (*Main Band extra session in preparation for major events)
+<br>Wed: Main Band
+<br>Fri: Main &amp; Junior Band</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>Band Room (ISH) / Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30 pm - 5.30 pm
+<p>3.00 pm - 6.00 pm
 <br>
-<br>3.30 pm - 6.00 pm
-<br>2.00 pm - 5.00 pm</p>
+</p>
+<p></p>
+<p>
+<br>3.00 pm - 6.00 pm</p>
+<p>2.00 pm - 5.00 pm</p>
 </td>
 </tr>
 </tbody>
