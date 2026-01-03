@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Rev Dr Lynette Sathiasingam</strong>
+<p><strong>Rev Benjamin Lee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
