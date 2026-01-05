@@ -44,13 +44,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Lee Xin Er</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_xin_er@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xin_er@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
