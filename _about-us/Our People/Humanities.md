@@ -44,6 +44,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xin Er</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_xin_er@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xin_er@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Loke Liang En Joel</strong>
 </p>
 </td>
@@ -92,6 +105,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Jon Poh Jing Ping</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>Sec 2G Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jon_poh_jing_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jon_poh_jing_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Chan Xin Hui Charmaine</strong>
 </p>
 </td>
@@ -113,19 +140,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_kwai_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kwai_hoong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Jon Poh Jing Ping</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2G Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jon_poh_jing_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jon_poh_jing_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
