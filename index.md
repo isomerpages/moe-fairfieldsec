@@ -23,7 +23,7 @@ sections:
       subtitle: Add informational text
       id: infobar
       button: Click here for more info
-      url: /2025-GCE-O-Level- Exam
+      url: /release-of-2025-gce-o-level-examination-results/
   - infobar:
       title: 2026 Semester 1 Class Time Table
       id: infobar
