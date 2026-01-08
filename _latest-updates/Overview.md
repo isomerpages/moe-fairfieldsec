@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Latest Updates</h3>
 <h4>Release of 2025 GCE O-Level Examination Results</h4>
-<p><a href="/2026-semester-1-class-time-table/" rel="noopener nofollow" target="_blank">Read more...</a>
+<p><a href="/latest-updates/release-of-2025-gce-o-level-examination-results/" rel="noopener nofollow" target="_blank">Read more...</a>
 </p>
 <hr>
 <h4>2026 Semester 1 Class Timetable</h4>
