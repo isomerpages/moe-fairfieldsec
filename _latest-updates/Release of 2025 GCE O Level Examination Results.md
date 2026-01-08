@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <p>Dear Students,</p>
 <p>The results of the 2025 Singapore-Cambridge General Certificate of Education
 Ordinary Level (GCE O-Level) Examinations will be released on Wednesday,
