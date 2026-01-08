@@ -48,7 +48,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Sec)</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_hock_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hock_heng@moe.edu.sg</a>

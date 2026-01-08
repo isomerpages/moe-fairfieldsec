@@ -19,6 +19,12 @@ sections:
       url: /2026-sec-1-registration
       button: More info
   - infobar:
+      title: Release of 2025 GCE O-Level Examination Results
+      subtitle: Add informational text
+      id: infobar
+      button: Click here for more info
+      url: /release-of-2025-gce-o-level-examination-results/
+  - infobar:
       title: 2026 Semester 1 Class Time Table
       id: infobar
       button: Click here for more info
