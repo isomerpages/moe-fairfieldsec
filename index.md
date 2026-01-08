@@ -29,4 +29,10 @@ sections:
       id: infobar
       button: Click here for more info
       url: /release-of-gce-n-a-and-n-t-examination-results-2025
+  - infobar:
+      title: Release of 2025 GCE O-Level Examination Results
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
