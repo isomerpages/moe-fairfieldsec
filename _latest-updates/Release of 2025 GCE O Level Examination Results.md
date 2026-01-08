@@ -28,9 +28,12 @@ the Authorisation Letter and relevant identification documents for the
 school’s verification when collecting the results. The Authorisation Letter
 can be accessed here.</p>
 <p>4. Please see below for some useful resources for your parents:</p>
-<p>1) Joint Admission Exercise Information</p>
-<p>2) Social and emotional learning: Resources for Parents</p>
-<p>3) Booking Form for ECG Counselling Appointments at the ECG Center @ MOE</p>
+<p>1) <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admission Exercise Information</a>
+</p>
+<p>2) <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">Social and emotional learning: Resources for Parents</a>
+</p>
+<p>3) <a href="https://form.gov.sg/65acbdaf19b4f200123054bb" rel="noopener nofollow" target="_blank">Booking Form for ECG Counselling Appointments at the ECG Center @ MOE</a>
+</p>
 <p>For any enquiries, please contact the General Office or Ms Sharon Lee
 Sok Fun at <a href="mailto:lee_sok_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_fun@moe.edu.sg</a>.
 Thank you.</p>
