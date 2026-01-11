@@ -38,7 +38,7 @@ third_nav_title: Form and Subject Teachers
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Sec 3B</strong>
 </p>
 </td>
@@ -56,6 +56,12 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Keith Liew Hoe Meng</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Sec 3C</strong>
 </p>
 </td>
@@ -65,15 +71,12 @@ third_nav_title: Form and Subject Teachers
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <th rowspan="1" colspan="1">
 <p>Mr Lim Yuen Tuck</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 3D</strong>
 </p>
 </td>
@@ -84,12 +87,24 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Kua Khuan Tiong</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Sec 3E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Terri Tan Li Ling </strong>
 <br><strong>(Mrs Terri Teo)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Wong Kai Ping Eleanor</strong>
 </p>
 </td>
 </tr>
@@ -110,13 +125,19 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Sec 3G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Tan Siew Ching Jean </strong>
 <br><strong>(Mrs Jean Ho)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chen Xintong</strong>
 </p>
 </td>
 </tr>

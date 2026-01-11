@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Sor Tin</strong>
+<p><strong>Mdm Tan Sor Tin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

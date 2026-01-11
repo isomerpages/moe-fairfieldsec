@@ -24,12 +24,17 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Sec 1A</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
 <p>Ms Lee Chiew Yi</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Miss Wu Ting</p>
 </th>
 </tr>
 <tr>
@@ -49,7 +54,7 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Sec 1C</strong>
 </p>
 </td>
@@ -64,7 +69,13 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chen Minhua</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>Sec 1D</strong>
 </p>
 </td>
@@ -80,7 +91,13 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Tan Sor Tin</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>Sec 1E</strong>
 </p>
 </td>
@@ -92,6 +109,12 @@ third_nav_title: Form and Subject Teachers
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lin Yizhen Eunice</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ng Wen Howe Christopher</strong>
 </p>
 </td>
 </tr>
@@ -112,12 +135,24 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Sec 1G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chia Chun Yee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Rophi Lee Jia Ern</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Eugenia Guo</strong>
 </p>
 </td>
 </tr>
@@ -150,6 +185,7 @@ third_nav_title: Form and Subject Teachers
 <h4>Sec 1 Subject Teachers</h4>
 <p><a href="/files/Parents/Form and Subject Teachers/2026_Sec_1_FTs__Subject_Teachers.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Sec 1 Subject Teachers 2026</a>
 </p>
-<p>Teachers' Email Address</p>
+<h4>Teachers' Email Address</h4>
 <p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view all teachers email addresses.</p>
+<p></p>
