@@ -156,6 +156,15 @@ third_nav_title: Form and Subject Teachers
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Madeline Chia Liying</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Sec 2 Subject Teachers</h4>
