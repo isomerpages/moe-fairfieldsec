@@ -150,6 +150,7 @@ third_nav_title: Form and Subject Teachers
 <h4>Sec 1 Subject Teachers</h4>
 <p><a href="/files/Parents/Form and Subject Teachers/2026_Sec_1_FTs__Subject_Teachers.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Sec 1 Subject Teachers 2026</a>
 </p>
-<p>Teachers' Email Address</p>
+<h4>Teachers' Email Address</h4>
 <p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view all teachers email addresses.</p>
+<p></p>
