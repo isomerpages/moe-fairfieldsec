@@ -84,7 +84,7 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4G</strong>
+<p><strong>Sec 4F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,13 +93,27 @@ third_nav_title: Form and Subject Teachers
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4H</strong>
+<td rowspan="2" colspan="1">
+<p><strong>Sec 4G</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lily Cleaopatra D/O Anthony Pm (Mrs Elijah)</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Sok Fun</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
