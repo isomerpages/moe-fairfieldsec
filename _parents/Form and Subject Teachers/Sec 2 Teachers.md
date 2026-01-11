@@ -159,7 +159,7 @@ third_nav_title: Form and Subject Teachers
 </tbody>
 </table>
 <h4>Sec 2 Subject Teachers</h4>
-<p><a href="/files/Parents/Form and Subject Teachers/2026_Sec_2_FTs__Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">List of Sec 2 Subject Teachers</a>
+<p><a href="/files/Parents/Form and Subject Teachers/2026_Sec_2_FTs__Subject_Teachers.pdf" rel="noopener nofollow" target="_blank">List of Sec 2 Subject Teachers 2026</a>
 </p>
 <h4>Teachers' Email Address</h4>
 <p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
