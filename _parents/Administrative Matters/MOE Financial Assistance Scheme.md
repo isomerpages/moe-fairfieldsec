@@ -17,8 +17,7 @@ assistance for their studies.</p>
 <p></p>
 <ul>
 <li>
-<p>Application is open throughout the year, <strong>with the 2026 application cycle commencing on Tuesday, 21 October 2025.</strong>
-</p>
+<p>Application is open throughout the year.</p>
 </li>
 <li>
 <p>To make application more convenient, MOE has onboarded Household Means

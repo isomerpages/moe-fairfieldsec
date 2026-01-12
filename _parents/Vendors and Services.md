@@ -204,8 +204,7 @@ variant: tiptap
 <p>Mondays, Wednesdays, Fridays: 8am – 5pm
 <br>Tuesdays, Thursdays: 8am – 5.30pm
 <br>Lunch Break : 1pm – 2pm
-<br>
-</p>
+<br>The clinic will operate on alternate weeks</p>
 </td>
 </tr>
 <tr>
