@@ -19,7 +19,7 @@ Education and Career Guidance (ECG) facilitates the acquisition of necessary kno
 <div>
 
 <p> 
-<img src="/images/Parents/ECG_Consultation_FMSS___QR_Code.png" style="width:80%">
+<img src="/images/Parents/ECG_Key_Message.jpg" style="width:80%">
 </p>
 </div>
 
@@ -40,7 +40,7 @@ Email:Teo_Tow_Hwa_Belinda@moe.edu.sg<br>
 
 To make an appointment, go to 	https://go.gov.sg/book-ecg-fmss or scan the QR code
 	
-<img src="/images/ecgc_book_now.png" style="width:30%">	
+<img src="/images/Parents/ECG_Consultation_FMSS___QR_Code.png" style="width:30%">	
   
 
 <b>ECG Services</b> <br><br>
