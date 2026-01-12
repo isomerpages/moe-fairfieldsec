@@ -19,7 +19,7 @@ Education and Career Guidance (ECG) facilitates the acquisition of necessary kno
 <div>
 
 <p> 
-<img src="/images/ecg.png" style="width:80%">
+<img src="/images/Parents/ECG_Consultation_FMSS___QR_Code.png" style="width:80%">
 </p>
 </div>
 
@@ -34,11 +34,11 @@ Education and Career Guidance (ECG) facilitates the acquisition of necessary kno
 <p>
 ECG Counselling provides dedicated support for graduating students who have yet to identify their career interests, select post-secondary educational institutions/subject combinations and/or require assistance with JAE application: <br><br>
 
-Ms Lai Yi Ming, Education &amp; Career Guidance Counsellor <br>
+Ms Belinda Teo, Education &amp; Career Guidance Counsellor <br>
 
-Email: Lai_Yi_Ming@moe.edu.sg<br>
+Email:Teo_Tow_Hwa_Belinda@moe.edu.sg<br>
 
-To make an appointment, go to https://go.gov.sg/ecgc-book-now or scan the QR code
+To make an appointment, go to 	https://go.gov.sg/book-ecg-fmss or scan the QR code
 	
 <img src="/images/ecgc_book_now.png" style="width:30%">	
   
