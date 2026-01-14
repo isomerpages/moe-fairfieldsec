@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home Page/Sec1_Registration_banner2.jpg
+      background: /images/ban.gif
       key_highlights:
         - title: Our Stories
           description: ""
@@ -15,9 +15,8 @@ sections:
         - title: Latest Updates
           description: ""
           url: /latest-updates/overview/
-      variant: center
+      variant: image
       url: /2026-sec-1-registration
-      button: More info
   - infobar:
       title: Release of 2025 GCE O-Level Examination Results
       id: infobar
