@@ -16,7 +16,6 @@ sections:
           description: ""
           url: /latest-updates/overview/
       variant: image
-      url: /2026-sec-1-registration
   - infobar:
       title: Release of 2025 GCE O-Level Examination Results
       id: infobar
