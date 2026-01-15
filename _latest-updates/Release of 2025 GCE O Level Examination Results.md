@@ -36,4 +36,13 @@ can be accessed here.</p>
 <p>For any enquiries, please contact the General Office or Ms Sharon Lee
 Sok Fun at <a href="mailto:lee_sok_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_fun@moe.edu.sg</a>.
 Thank you.</p>
-<p>Wishing you all the best for your O-level results!</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Please download the following documents for your reference:</p>
+<p><a href="/files/Latest Updates/2026/2025_O_Level_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2025 O Level Briefing Slides</a>
+</p>
+<p><a href="/files/Latest Updates/2026/2026_JCs_and_Polytechnics_Open_House_Info_FMSS.pdf" rel="noopener nofollow" target="_blank">2026 JCs and Polytechnics Open House Info FMSS</a>
+</p>
+</li>
+</ol>
+<p></p>
