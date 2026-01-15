@@ -3,7 +3,7 @@ title: Academic Information
 permalink: /academic-information/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Secondary 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h2>Academic Information</h2>
 <h4><strong>Subject Based Banding</strong></h4>

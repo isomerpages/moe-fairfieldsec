@@ -3,7 +3,7 @@ title: First Day Instructions
 permalink: /start-of-school-2025/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Secondary 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h2><strong>Start of School 2026 - Important Information for Students and Parents / Guardians</strong></h2>
 <p>To ensure that Secondary 1 students are well prepared for the start of

@@ -3,7 +3,7 @@ title: Consent for HPV Vaccination for Sec 1 Girls
 permalink: /consent-for-hpv-vaccination-for-sec-1-girls/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Secondary 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h2>Online Consent for HPV Vaccination for Secondary 1 Girls</h2>
 <p>The Health Promotion Board will be offering school-based human papillomavirus

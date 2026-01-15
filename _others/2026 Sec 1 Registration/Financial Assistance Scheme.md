@@ -3,7 +3,7 @@ title: Financial Assistance Scheme
 permalink: /financial-assistance-scheme-2025/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Secondary 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h2>Financial Assistance Scheme (FAS) 2026</h2>
 <p>Eligible applicants will be able to apply for FAS via hardcopy or through

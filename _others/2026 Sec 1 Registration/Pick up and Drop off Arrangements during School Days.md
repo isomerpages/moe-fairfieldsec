@@ -3,7 +3,7 @@ title: Pick up and Drop off Arrangements during School Days
 permalink: /pick-up-and-drop-off-arrangements-during-school-days/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Secondary 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h3><u>Road Safety and Traffic Guidelines</u></h3>
 <p>To keep all students safe during arrival and dismissal, we seek your support

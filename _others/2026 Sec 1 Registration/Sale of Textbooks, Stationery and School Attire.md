@@ -3,7 +3,7 @@ title: Sale of Textbooks, Stationery and School Attire
 permalink: /sale-of-textbook/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Secondary 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h2>Sale of Secondary 1 2026 Textbooks, Stationery, School Attire</h2>
 <p>Please download the documents for your reference below:</p>

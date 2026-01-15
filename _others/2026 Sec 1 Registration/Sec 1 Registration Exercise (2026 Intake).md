@@ -3,7 +3,7 @@ title: Sec 1 Registration Exercise (2026 Intake)
 permalink: /2026-sec-1-registration/
 variant: tiptap
 description: ""
-third_nav_title: 2026 Secondary 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h2><strong>Welcome, Secondary 1 Students of 2026!</strong></h2>
 <p>Congratulations on your posting to Fairfield Methodist School (Secondary).
