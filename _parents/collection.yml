@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - 2026 Secondary 1 Registration/.keep
       - Release of GCE N(A) and N(T) Examination Results 2025.md
       - Partners In Education/.keep
       - Partners In Education/Overview.md
