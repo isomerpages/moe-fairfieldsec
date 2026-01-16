@@ -7,7 +7,7 @@ description: ""
 <h2>2026 Semester 1 Class Timetable</h2>
 <p>Please download the latest timetable that will take effect 19 January
 2026</p>
-<p><a href="/files/Latest Updates/2026/2026_Semester_1_Sec_1_Timetable__Updated_on_16_Jan_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Sec 1 Timetable (updated on 16 Jan 2026)</a>
+<p><a href="/files/Latest Updates/2026/2026_Semester_1_Sec_1_Timetable__Updated_on_16_Jan_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Sec 1 Timetable (updated on 16 January 2026)</a>
 </p>
 <p><a href="/files/Latest Updates/2026/2026_Semester_1_Sec_2_Timetable__Updated_on_16_Jan_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Sec 2 Timetable (updated on 16 January 2026)</a>
 </p>
