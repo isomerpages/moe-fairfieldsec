@@ -520,7 +520,7 @@ third_nav_title: Form and Subject Teachers
 <p>Puah Hui Sze (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:puah_hui_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">puah_hui_sze@moe.edu.sg</a>
+<p><a href="mailto:puah_hui_sze_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">puah_hui_sze_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -556,7 +556,7 @@ third_nav_title: Form and Subject Teachers
 <p>Sharmi Lisa Obanor (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharmi_lisa_obanor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">sharmi_lisa_obanor_a@moe.edu.sg</a>
+<p><a href="mailto:sharmi_lisa_obanor_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">sharmi_lisa_obanor_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
