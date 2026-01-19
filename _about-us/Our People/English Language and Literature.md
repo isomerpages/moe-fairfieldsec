@@ -267,7 +267,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharmi_lisa_obanor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmi_lisa_obanor_a@moe.edu.sg</a>
+<p><a href="mailto:sharmi_lisa_obanor_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmi_lisa_obanor_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
