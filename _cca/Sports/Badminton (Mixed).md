@@ -30,7 +30,7 @@ variant: tiptap
 <br>Girls:
 <br>Monday : 3.00 pm - 5.30 pm (Developmental Team)&nbsp;
 <br>Wednesday: 3.00 pm - 5.30 pm (NSG Team)
-<br>Friday: 2.00 pm - 3.00 pm (Developmental and NSG Team) &amp; 3.00 pm -
+<br>Friday: 2.00 pm - 3.00 pm (Developmental and NSG Team) &amp; 2.00 pm -
 5.30 pm (NSG Team)
 <br>
 <br>
