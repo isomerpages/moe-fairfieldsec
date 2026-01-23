@@ -376,20 +376,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed
-<br>Fri
-<br>Selected Saturdays (Netball Carnivals)</p>
+<p>Wed</p>
+<p>Fri</p>
+<p>Selected Saturdays (Netball Carnivals)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FMS(P)
 <br>*External Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00 pm - 6.00 pm
-<br>2.00 pm - 5.30 pm
-<br>8.00 am - 5.00 pm
-<br>
-</p>
+<p>3.00 pm - 6.00 pm (All)
+<br>2.00 pm - 4.30 pm (C Division), 3.00 pm - 5.30 pm (B Division)
+<br>8.00 am - 5.00 pm</p>
 </td>
 </tr>
 <tr>
