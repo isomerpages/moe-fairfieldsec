@@ -15,8 +15,8 @@ variant: tiptap
 <p><strong>Training Days &amp; Time: </strong>
 <br>
 </p>
-<p>Wednesday: 3.00 pm - 5.30 pm (Sec 2-5)
-<br>Friday: 2.00 pm - 4.30 pm (Everyone)&nbsp;
+<p>Wednesday: 3.00 pm - 6.00 pm (All)
+<br>Friday: 2.00 pm - 4.30 pm (C Division), 3.00 pm - 5.30 pm (B Division)&nbsp;
 <br>Selected Saturdays (Netball Carnivals): 8.00 am - 5.00 pm
 <br>
 <br>
