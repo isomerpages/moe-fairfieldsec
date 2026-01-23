@@ -14,16 +14,16 @@ variant: tiptap
 <p>Details</p>
 <p></p>
 <p><strong>Training Days &amp; Time:</strong>
-<br>Monday: 3.00 pm – 5.30 pm
-<br>Wednesday:&nbsp;3.30 pm - 5.30 pm (Peak Period Only)&nbsp;
+<br>Monday: 3.30 pm – 6.00 pm
+<br>Wednesday:&nbsp;3.15 pm - 5.45 pm (Peak Period Only)&nbsp;
 <br>Friday: 2.00 pm – 5.00 pm
 <br>
 </p>
 <p><strong>Teachers In Charge:</strong>
 <br>Ms Wong Bei Shi (I/C)
 <br>Mr Kua Khuan Tiong (2 I/C)
-<br>Ms Wong Jia Xian
-<br>Ms Dorothy Ho</p>
+<br>Mdm Kartinie Tomin
+<br>Mr Isaac Wong</p>
 <p></p>
 <p><strong>Website with Choir updates and students’ testimonial (managed by students):</strong>
 <br><a href="https://thefairfieldchoir.wixsite.com/website" rel="noopener noreferrer nofollow" target="_blank">https://thefairfieldchoir.wixsite.com/website</a>
