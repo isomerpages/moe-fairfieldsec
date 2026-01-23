@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/cca11.gif">
 </div>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Details</p>
 <p></p>
@@ -49,8 +49,6 @@ Shir Lyn believes in nurturing young confident learners who are self-motivated
 and self-disciplined in striving for excellence in all aspects of their
 life.</p>
 </li>
-</ol>
-<ul>
 <li>
 <p>Overview</p>
 <p></p>
