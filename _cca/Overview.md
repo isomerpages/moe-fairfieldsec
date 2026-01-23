@@ -306,8 +306,8 @@ variant: tiptap
 </p>
 <p>Mon
 <br>Wed
-<br>Fri
-<br>
+<br>Fri</p>
+<p>
 <br><strong><u>Boys:</u></strong>
 <br>Wed
 <br>Fri
@@ -318,14 +318,18 @@ variant: tiptap
 <p>Chen Su Lan Hall / FMS(P) / *External Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00 pm - 5.30 pm (Developmental Team - Girls)
-<br>3.00 pm - 5.30 pm (NSG Girls Team)
-<br>
-<br>2.00 pm - 3.00 pm (Developmental and NSG Girls Team)
+<p><strong><u>Girls:</u></strong>
+</p>
+<p><strong><u>Mon:</u></strong> 3.00 pm - 5.30 pm (Developmental Team - Girls)
+<br><strong><u>Wed:</u></strong> 3.00 pm - 5.30 pm (NSG Girls Team)
+<br><strong><u>Fri:</u></strong> 2.00 pm - 3.00 pm (Developmental and NSG Girls
+Team)
 <br>2.00 pm - 5.30 pm (NSG Girls Team)
 <br>
-<br>3.00 pm - 5.30 pm
-<br>2.30 pm - 5.00 pm</p>
+<br><strong><u>Boys:</u></strong>
+</p>
+<p><strong><u>Wed:</u></strong> 3.00 pm - 5.30 pm
+<br><strong><u>Fri:</u></strong> 2.30 pm - 5.00 pm</p>
 </td>
 </tr>
 <tr>
