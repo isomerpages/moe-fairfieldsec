@@ -28,10 +28,10 @@ variant: tiptap
 <p><strong>Training Days &amp; Time:</strong>
 <br>
 <br>Girls:
-<br>Monday : 3.00 pm - 5.30 pm (Sec 1 &amp; 2)&nbsp;
-<br>Wednesday: 3.00 pm - 5.30 pm (Sec 3 &amp; 4)
-<br>Friday: 2.00 pm - 4.00 pm (Sec 1 &amp; 2) &amp; 3.30 pm - 5.30 pm (Sec
-3 &amp; 4)
+<br>Monday : 3.00 pm - 5.30 pm (Developmental Team)&nbsp;
+<br>Wednesday: 3.00 pm - 5.30 pm (NSG Team)
+<br>Friday: 2.00 pm - 3.00 pm (Developmental and NSG Team) &amp; 3.00 pm -
+5.30 pm (NSG Team)
 <br>
 <br>
 </p>
@@ -44,15 +44,15 @@ variant: tiptap
 <p><strong>Teachers In Charge:</strong>
 <br>
 <br>Girls:
-<br>Ms Thio Lay Hong (I/C)
-<br>Ms Wong Jiayi (2IC)
+<br>Ms Wong Jiayi (I/C)
 <br>Mdm Yee Suet Fong Dawn
+<br>Ms Thio Lay Hong
 <br>
 <br>
 </p>
 <p>Boys:
-<br>Mrs Jean Ho (I/C)
-<br>Ms Tay Shu-Min, Samantha
+<br>Ms Tay Shu-Min, Samantha (I/C)
+<br>Mrs Jean Ho
 <br>Mr Chia Chun Yee
 <br>
 </p>

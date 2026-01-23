@@ -9,19 +9,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/cca11.gif">
 </div>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Details</p>
 <p></p>
 <p><strong>Training Days &amp; Time:</strong>
-<br>Monday : 3.30 pm - 6.00 pm
+<br>Monday : 3.00 pm - 6.00 pm
 <br>Wednesday : 3.30 pm – 6.00 pm
 <br>
 <br><strong>Teachers In Charge:</strong>
-<br>Mdm Yvonne Khoo (I/C)
-<br>Ms Olivia Tan
-<br>Ms Li Yan Dong
-<br>Miss Chloe Lee Xue Ning&nbsp;
+</p>
+<p>Mdm Liong Hui Min (I/C)</p>
+<p>Mdm Yvonne Khoo</p>
+<p>Ms Olivia Tan
 <br>
 <br><strong>Our Instructor</strong>
 <br>
@@ -49,8 +49,6 @@ Shir Lyn believes in nurturing young confident learners who are self-motivated
 and self-disciplined in striving for excellence in all aspects of their
 life.</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Overview</p>
 <p></p>
@@ -275,7 +273,7 @@ Award)</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="375" width="763" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pk_p9dQdISE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="375" width="763" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pk_p9dQdISE"></iframe>
 </div>
 <p>
 <br><strong>2019</strong>

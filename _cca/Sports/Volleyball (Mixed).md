@@ -36,7 +36,7 @@ variant: tiptap
 <br><u>Girls</u>:
 <br>Mdm Lim Nina (I/C)
 <br>Ms Chen Minhua
-<br>Mdm Kamariah
+<br>Ms Sharmi Lisa Obanor
 <br>
 </p>
 <p></p>
