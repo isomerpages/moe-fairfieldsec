@@ -25,10 +25,9 @@ variant: tiptap
 <p><strong>Teachers In Charge:</strong>
 <br>
 </p>
-<p>Mr Jason Lum (I/C)
-<br>Mr Andrew Choy (2 I/C)
-<br>Mr Yap Hock Heng
-<br>Mr Lee Yew Ming (Volunteer)
+<p>Mr Andrew Choy (I/C)
+<br>Ms Lee Xin Er
+<br>Mr Peter Lee
 <br>
 </p>
 <p></p>
