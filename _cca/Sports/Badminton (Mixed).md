@@ -36,8 +36,10 @@ variant: tiptap
 <br>
 </p>
 <p>Boys:
-<br>Wednesday: 3.00 pm - 5.30 pm
-<br>Friday: 2.30 pm - 5.00 pm
+<br>Monday : 3.00 pm - 5.30 pm (Developmental Team)&nbsp;
+<br>Wednesday: 3.00 pm - 5.30 pm (Main Team)
+<br>Friday: 2.30 pm - 4.00 pm (Developmental Team) &amp; 2.30 pm - 5.00 pm
+(Main Team)
 <br>
 <br>
 </p>
