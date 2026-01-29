@@ -328,8 +328,10 @@ Team)
 <br>
 <br><strong><u>Boys:</u></strong>
 </p>
-<p><strong><u>Wed:</u></strong> 3.00 pm - 5.30 pm
-<br><strong><u>Fri:</u></strong> 2.30 pm - 5.00 pm</p>
+<p><strong><u>Mon:</u></strong> 3.00 pm - 5.30 pm (Developmental Team)</p>
+<p><strong><u>Wed:</u></strong> 3.00 pm - 5.30 pm (Main Team)
+<br><strong><u>Fri:</u></strong> 2.30 pm - 4.00 pm (Developmental Team), 2.30
+pm - 5.00 pm (Main Team)</p>
 </td>
 </tr>
 <tr>
