@@ -1,6 +1,6 @@
 ---
-title: Information on Sexuality Education 2025
-permalink: /parents/resources-for-parents/information-on-sexuality-education-2025/
+title: Information on Sexuality Education 2026
+permalink: /parents/resources-for-parents/information-on-sexuality-education-2026/
 description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
