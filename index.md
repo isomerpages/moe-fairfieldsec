@@ -17,14 +17,14 @@ sections:
           url: /latest-updates/overview/
       variant: image
   - infobar:
+      title: 2026  Sec 1, 2, 3 and 4 Weighted Assessment Time Table
+      id: infobar
+      button: Click here for more info
+      url: /parents/assessment-matters
+  - infobar:
       title: 2026 Semester 1 Class Time Table
       id: infobar
       button: Click here for more info
       url: /2026-semester-1-class-time-table
       description: Please take note of latest updated class time table as of 16 January 2026
-  - infobar:
-      title: 2026  Sec 1, 2, 3 and 4 Weighted Assessment Time Table
-      id: infobar
-      button: Click here for more info
-      url: /parents/assessment-matters
 ---
