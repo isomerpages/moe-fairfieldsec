@@ -115,9 +115,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Steady or Not</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p>Steady or Not Lesson 1 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson helps students understand more about relationship building
@@ -153,9 +151,7 @@ in dating vary among individuals</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Being Aware, Being Safe</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>Being Aware, Being Safe Lesson 2 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students to be safe from the dangers of
@@ -301,9 +297,7 @@ as a male or female</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Safety Challenge</p>
-<p>Lesson 2A</p>
-<p>(60 mins)</p>
+<p>Online Safety Challenge Lesson 2A (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing.
@@ -332,9 +326,7 @@ both online and offline</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Do I or Don’t I</p>
-<p>Lesson 2B</p>
-<p>(60 mins)</p>
+<p>Do I or Don’t I Lesson 2B (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on respect for personal boundaries; and how to be
@@ -407,9 +399,7 @@ both offline and online</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Love Yourself, Love Others</p>
-<p>Lesson 1A</p>
-<p>(60 mins)</p>
+<p>Love Yourself, Love Others Lesson 1A (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on dating respectfully in healthy relationships. Students
@@ -443,8 +433,7 @@ is important when entering into a dating relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mending a Broken Heart Lesson 1B</p>
-<p>(60 mins)</p>
+<p>Mending a Broken Heart Lesson 1B (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
@@ -482,9 +471,7 @@ and friends are important pillars of support</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When Respect Takes Centre Stage</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>When Respect Takes Centre Stage Lesson 2 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically and make informed decisions
@@ -558,8 +545,7 @@ alignment with our beliefs</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Levelling the Ground Lesson 1</p>
-<p>(60 mins)</p>
+<p>Levelling the Ground Lesson 1 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically about gender stereotypes
@@ -591,9 +577,7 @@ and should be avoided</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When Love Hurts</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>When Love Hurts Lesson 2 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students recognise unhealthy relationships and
@@ -635,9 +619,7 @@ relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For Better or For Worse</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
+<p>For Better or For Worse Lesson 3 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on building a positive relationship with one’s partner
@@ -679,9 +661,7 @@ of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There’s Always More to a Story</p>
-<p>Lesson 4</p>
-<p>(60 mins)</p>
+<p>There’s Always More to a Story Lesson 4 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will revisit the impact of pornography and deepen
