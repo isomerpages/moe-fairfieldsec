@@ -37,7 +37,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.&nbsp;</p>
-<p><strong>OVERVIEW OF FAIRFIELD METHODIST SCHOOL’S (SECONDARY) SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF FAIRFIELD METHODIST SCHOOL’S (SECONDARY) SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -45,9 +45,9 @@ themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;
 for more information on the scope of Sexuality Education in the school
 curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:&nbsp;</p>
-<p>a. Science&nbsp;</p>
-<p>b. Character and Citizenship Education (CCE)</p>
+<p>5. The subjects that incorporate topics on sexuality include:&nbsp;
+<br>a. Science&nbsp;
+<br>b. Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons:</u></strong><u>&nbsp;</u>
 </p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
@@ -70,7 +70,7 @@ sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Fairfield Methodist School (Secondary),</strong>&nbsp;<strong>the following Sexuality Education lessons will be taught in</strong>&nbsp;<strong>2026:</strong>
+<p><strong>At Fairfield Methodist School (Secondary),</strong>&nbsp;<strong>the following Sexuality Education lessons will be taught in</strong>&nbsp;<strong><u>2026</u>:</strong>
 </p>
 <p><strong>SECONDARY 1</strong>
 </p>
@@ -261,9 +261,7 @@ etc.)</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Role for Everyone</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p>A Role for Everyone Lesson 1 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
