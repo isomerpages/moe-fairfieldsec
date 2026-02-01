@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Resources for Parents
 variant: tiptap
 ---
-<h3>Information on Sexuality Education 2025</h3>
+<h3>Information on Sexuality Education 2026</h3>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
@@ -42,33 +42,35 @@ information on MOE Sexuality Education.&nbsp;</p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp; for more information on the scope of Sexuality Education
-in the school curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;
+for more information on the scope of Sexuality Education in the school
+curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:&nbsp;</p>
 <p>a. Science&nbsp;</p>
 <p>b. Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons:</u></strong><u>&nbsp;</u>
 </p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
-shaped by their peers, exposure to the media, popular culture and the internet.
-Adolescence is a complex stage in life as the adolescent attempts to find
-his/her own identity and often struggles with new social relationships.
-The period of middle adolescence (generally from 15 – 17 years old) can
-be a turbulent period for adolescents. The gap between physical and emotional/cognitive
-maturity may result in a tendency to act on impulse, experiment with various
-activities (including sexual activities), sometimes without understanding
-the unpleasant consequences that may arise from such experimentation. The
-need for peer acceptance can be overwhelmingly strong, and hinder one’s
-ability to act responsibly.&nbsp; Given the pressures faced by the middle
-adolescent from within themselves and from peers, it is important to build
-a strong sense of self-worth, personal conviction and an understanding
-of the possible consequences of sexual behaviour.&nbsp;</p>
+shaped by their peers, exposure to the The values and attitudes of our
+youth towards sexuality are increasingly shaped by their peers, exposure
+to the media, popular culture and the internet. Adolescence is a complex
+stage in life as the adolescent attempts to find his or her own identity
+and often struggles with new social relationships. The period of middle
+adolescence (generally from 15 – 17 years old) can be a turbulent period
+for adolescents. The gap between physical and emotional/cognitive maturity
+may result in a tendency to act on impulse, experiment with various activities
+(including sexual activities), sometimes without understanding the unpleasant
+consequences that may arise from such experimentation. The need for peer
+acceptance can be overwhelmingly strong and hinder one’s ability to act
+responsibly. Given the pressures faced by the middle adolescent from within
+themselves and from peers, it is important to build a strong sense of self-worth,
+personal conviction and an understanding of the possible consequences of
+sexual behaviour.</p>
 <p>7. Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
-issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
-<p><strong>At Fairfield Methodist School (Secondary),</strong>&nbsp;<strong>the following Sexuality Education lessons will be taught in</strong>&nbsp;<strong>2025:</strong>
+issues related to sexuality, which are of prime concern at this age.</p>
+<p><strong>At Fairfield Methodist School (Secondary),</strong>&nbsp;<strong>the following Sexuality Education lessons will be taught in</strong>&nbsp;<strong>2026:</strong>
 </p>
 <p><strong>SECONDARY 1</strong>
 </p>
@@ -124,21 +126,26 @@ will have the opportunity to better understand the considerations involved
 in making responsible decisions towards dating and romantic relationships
 and understand how to build healthy and supportive relationships, both
 online and offline.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
-of monitoring and managing our emotional reactions, in helpful ways that
-are reflective of our values and principles</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there
-are different forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance
-and understand what builds healthy and supportive relationships, both online
-and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating
-is, and recognise that the readiness and interest in dating vary among
-individuals</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+</li>
+<li>
+<p>recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
+</li>
+<li>
+<p>recognise the importance of, and understand what builds healthy and supportive
+relationships, both online and offline</p>
+</li>
+<li>
+<p>understand what dating is, and recognise that the readiness and interest
+in dating vary among individuals</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
@@ -155,16 +162,20 @@ individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.&nbsp;</p>
-<p>&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+of self.</p>
+<p>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical
-and psychological abuse from others, especially those we know and trust,
-can have strong negative effects on a person’s self-concept</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that physical and psychological abuse from others, especially
+those we know and trust, can have strong negative effects on a person’s
+self-concept</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
