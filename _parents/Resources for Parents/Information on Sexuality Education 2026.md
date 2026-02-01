@@ -179,9 +179,7 @@ self-concept</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>More than Meets the Eye</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
+<p>More than Meets the Eye Lesson 3 (60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson touches on two areas relevant to an adolescent’s curiosity
