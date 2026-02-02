@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Prospective Students/2026_Sec_3_Term_1_Weighted_Assessment_30Jan2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term 1 Weighted Assessment Time Table</a>
 </p>
-<p><a href="/files/Prospective Students/2026_Sec_4_Term_1_Weighted_Assessment_30Jan2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 1 Weighted Assessment Time Table</a>
+<p><a href="/files/Prospective Students/2026_Sec_4_Term_1_Weighted_Assessment_2_Feb_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 1 Weighted Assessment Time Table (Updated on 2 Feb 2026)</a>
 </p>
 <p></p>
 <h4>2026 Term 1 Sec 1, 2, 3 and 4&amp;5 Weighted Assessment Topics</h4>
@@ -22,6 +22,6 @@ variant: tiptap
 </p>
 <p><a href="/files/Prospective Students/2026_Sec_3_WA_1_topics.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term 1 Weighted Assessment Topics</a>
 </p>
-<p><a href="/files/Prospective Students/2026_Sec_4_WA_1_Topics.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 1 Weighted Assessment Topics</a>
+<p><a href="/files/Prospective Students/2026_Sec_4_WA_1_Topics_Updated_on_2_Feb_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 1 Weighted Assessment Topics (updated on 2 Feb 2026)</a>
 </p>
 <p></p>
