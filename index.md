@@ -21,7 +21,7 @@ sections:
       id: infobar
       button: Click here for more info
       url: /parents/assessment-matters
-      description: Please take note of the updated Time table and topics as of 2 Feb 2026
+      description: Please take note of the updated Time table and topics as of 3 Feb 2026
   - infobar:
       title: 2026 Semester 1 Class Time Table
       id: infobar
