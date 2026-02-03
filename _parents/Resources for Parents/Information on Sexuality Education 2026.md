@@ -784,5 +784,3 @@ completed form is to be submitted by 27/02/2026.</p>
 <p>13. Parents can contact the school at 67788702 or fmss@moe.edu.sg for
 discussion or to seek clarification about the school’s sexuality education
 program.</p>
-<p></p>
-<p>Please download the Principal's letter <a href="/files/Parents/Resources for Parents/2026_P_letter_Sed.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
