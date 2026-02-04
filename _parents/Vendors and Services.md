@@ -124,9 +124,9 @@ variant: tiptap
 Year period from <strong>16 February to 20 February 2026</strong>. Retail
 operations will resume on <strong>21 February 2026</strong>.</p>
 <p></p>
-<p>Online and retail operations will be temporarily suspended from <strong>25 February to 4 March 2026</strong>.</p>
-<p></p>
-<p>Normal operations will fully resume on <strong>5 March 2026</strong>.</p>
+<p>Online and retail operations will be temporarily suspended from <strong>25 February to 4 March 2026</strong>.
+<br>
+<br>Normal operations will fully resume on <strong>5 March 2026</strong>.</p>
 </td>
 </tr>
 <tr>
