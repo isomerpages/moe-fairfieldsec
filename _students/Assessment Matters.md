@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Assessment Matters</h3>
 <h4>2026 Term 1 Sec 1, 2, 3 and 4&amp;5 Weighted Assessment Time Table</h4>
-<p><a href="/files/Prospective Students/2026_Sec_1_Term_1_Weighted_Assessment_30Jan2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Term 1 Weighted Assessment Time Table</a>
+<p><a href="/files/Prospective Students/2026_Sec_1_Term_1_Weighted_Assessment__updated_on_4_Feb_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Term 1 Weighted Assessment Time Table (updated on 4 Feb 2026)</a>
 </p>
 <p><a href="/files/Prospective Students/2026_Sec_2_Term_1_Weighted_Assessment_30Jan2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Term 1 Weighted Assessment Time Table</a>
 </p>
