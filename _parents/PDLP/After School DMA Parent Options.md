@@ -67,7 +67,7 @@ device after school hours to be regulated by the DMA at all.</p>
 </table>
 <p>*No data will be collected after school hours when the DMA is inactive.</p>
 <p>Apps purchased (using your personal Apple ID) under Options A and B will
-be hidden and inaccessible during school hours (6.00a.m. - 6.00p.m.).</p>
+be hidden and inaccessible during school hours (6.30a.m. - 6.00p.m.).</p>
 <p>Having default school settings continue after school hours is the best
 option for parents/guardians who prefer not to, or do not feel ready to
 manage their child’s/ward’s device use on their own.</p>
@@ -109,13 +109,13 @@ refer to the <a href="/parents/pdlp/parents-engagement-slides/" rel="noopener no
 <p>Regular school days</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Default settings between 6 a.m. to 6 p.m.</p>
+<p>Default settings between 6.30 a.m. to 6 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents’/Guardians’ After-School DMA Option between 6 p.m. to 10 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>iPad is locked from 10 p.m. to 6 a.m.</p>
+<p>iPad is locked from 10 p.m. to 6.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ refer to the <a href="/parents/pdlp/parents-engagement-slides/" rel="noopener no
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>iPad is locked from 10 p.m. to 6 a.m.</p>
+<p>iPad is locked from 10 p.m. to 6.30 a.m.</p>
 </td>
 </tr>
 </tbody>
