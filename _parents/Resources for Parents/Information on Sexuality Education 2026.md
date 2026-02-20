@@ -746,7 +746,8 @@ avenues for help-seeking.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 7<a href="/files/2026_Info_on_SEd_for_schs_website__Secondary_Schools__final_P_Letter_signed.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -784,3 +785,5 @@ completed form is to be submitted by 27/02/2026.</p>
 <p>13. Parents can contact the school at 67788702 or fmss@moe.edu.sg for
 discussion or to seek clarification about the school’s sexuality education
 program.</p>
+<p>Please download the Principal's letter <a href="/files/2026_Info_on_SEd_for_schs_website__Secondary_Schools__final_P_Letter_signed.pdf" rel="noopener nofollow" target="_blank">here</a> 
+</p>
