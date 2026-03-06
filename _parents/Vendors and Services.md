@@ -120,14 +120,7 @@ variant: tiptap
 <br>Lunch Break: 1pm – 2pm
 <br>* Closed on Sunday and Public Holidays
 <br>
-<br>Special Notice – Retail Operations will be closed for the Chinese New
-Year period from <strong>16 February to 20 February 2026</strong>. Retail
-operations will resume on <strong>23 February 2026</strong>.</p>
-<p></p>
-<p>Online and retail operations will be temporarily suspended from
-<br><strong>25 February to 4 March 2026</strong>.
-<br>
-<br>Normal operations will fully resume on <strong>5 March 2026</strong>.</p>
+</p>
 </td>
 </tr>
 <tr>
