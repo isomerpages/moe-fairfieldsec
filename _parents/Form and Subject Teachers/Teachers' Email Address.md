@@ -121,15 +121,6 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Chang Fong (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chang_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">chua_chang_fong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dannish Kurniago (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
