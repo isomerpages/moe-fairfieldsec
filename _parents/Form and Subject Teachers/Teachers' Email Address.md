@@ -115,7 +115,7 @@ third_nav_title: Form and Subject Teachers
 <p>Choe Wai Leng Evelyn (Mrs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choe_wai_leng_evelyn_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">choe_wai_leng_evelyn_a@moe.edu.sg</a>
+<p><a href="mailto:choe_wai_leng_evelyn_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">choe_wai_leng_evelyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
