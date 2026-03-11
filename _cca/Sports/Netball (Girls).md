@@ -136,7 +136,7 @@ Singapore (opened to all secondary schools in Singapore)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Netops Netball Carnival Jun 2025 - U14</strong>
+<p><strong>Netops Netball Carnival Mar 2025 - U14</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,17 @@ Singapore (opened to all secondary schools in Singapore)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Netops Netball Carnival Nov 2025 - U17</strong>
+<p><strong>Netops Netball Carnival Mar 2025 - U17</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Northland Sec Carnival Nov 2025 - U17</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,6 +266,16 @@ Singapore (opened to all secondary schools in Singapore)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Netops Netball Carnival Nov 2024 - U14</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Netops Netball Carnival Nov 2024 - U17</strong>
 </p>
 </td>
@@ -320,6 +340,26 @@ Singapore (opened to all secondary schools in Singapore)
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>National League Games U17<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netops Netball Carnival Nov 2023 - U14</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netops Netball Carnival Nov 2023 - U17</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
