@@ -777,11 +777,11 @@ external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Parents/Resources for Parents/2026_Opt_Out_Form_Sed.pdf" rel="noopener nofollow" target="_blank">here</a> The
-completed form is to be submitted by 27/02/2026.</p>
+completed form is to be submitted by 23/03/2026.</p>
 <p>12.Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Parents/Resources for Parents/2026_Opt_Out_Form_eteens.pdf" rel="noopener nofollow" target="_blank">here</a> The
-completed form is to be submitted by 27/02/2026.</p>
+completed form is to be submitted by 23/03/2026.</p>
 <p>13. Parents can contact the school at 67788702 or fmss@moe.edu.sg for
 discussion or to seek clarification about the school’s sexuality education
 program.</p>
