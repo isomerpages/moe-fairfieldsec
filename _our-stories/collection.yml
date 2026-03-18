@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2026 Term 1/.keep
       - Overview.md
       - 2025 Term 2/.keep
       - 2025 Term 2/Flourishing Friendships Far From Fairfield.md
