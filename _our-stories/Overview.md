@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Our Stories
-<img src="/images/Our%20Stories/2026/Secondary_One_Orientation_2026.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Secondary One Orientation 2026: An Odyssey Begins [Read More](https://fairfieldmethodistsec.moe.edu.sg//secondary-one-orientation-2026-an-odyssey-begins/)
+<img src="/images/Our%20Stories/2026/Secondary_One_Orientation_2026.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Secondary One Orientation 2026: An Odyssey Begins [Read More](https://fairfieldmethodistsec.moe.edu.sg/secondary-one-orientation-2026-an-odyssey-begins/)
 <br><br>
 
 ***
