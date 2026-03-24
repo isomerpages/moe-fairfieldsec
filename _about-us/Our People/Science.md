@@ -300,6 +300,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Yeo Zhi En</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_zhi_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_zhi_en@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Chin Siew Moy</strong>
 </p>
 </td>

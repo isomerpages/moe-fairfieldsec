@@ -56,19 +56,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Jeromy Ngian Kun Chuan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Jeromy_NGIAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeromy_NGIAN@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Stella Koh Li Hui</strong>
 </p>
 </td>
