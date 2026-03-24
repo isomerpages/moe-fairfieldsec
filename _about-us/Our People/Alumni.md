@@ -47,7 +47,7 @@ the 2 schools.&nbsp;
 events for alumni, to support the school and to promote the networking
 of alumni with teachers and other stakeholders.</p>
 <p></p>
-<h4>2024/2025 Executive Committee Members<br></h4>
+<h4>2026/2027 Executive Committee Members<br></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -83,30 +83,6 @@ of alumni with teachers and other stakeholders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eunice Yao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:eunice_yao@msn.com" rel="noopener noreferrer nofollow" target="_blank">eunice_yao@msn.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lo Wei Pin&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lwpin@lohocklingco.com.sg" rel="noopener noreferrer nofollow" target="_blank">lwpin@lohocklingco.com.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Vice President</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Stephanie Ang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,126 +90,7 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Felicia Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:felfyl3foo@gmail.com" rel="noopener noreferrer nofollow" target="_blank">felfyl3foo@gmail.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Secretary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gracie Eng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:engwl@u.nus.edu" rel="noopener noreferrer nofollow" target="_blank">engwl@u.nus.edu</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Treasurer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zhan Yanxin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zyxbus@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">zyxbus@hotmail.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Treasurer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Low Guat Tin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:guattinlow@gmail.com" rel="noopener noreferrer nofollow" target="_blank">guattinlow@gmail.com</a>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sharon Liat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sharon.liat@gmail.com" rel="noopener noreferrer nofollow" target="_blank">sharon.liat@gmail.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cho Pei Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chopeilin@asiaprwerkz.com" rel="noopener noreferrer nofollow" target="_blank">chopeilin@asiaprwerkz.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Loh Jia Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jialoh@gmail.com" rel="noopener noreferrer nofollow" target="_blank">jialoh@gmail.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mervyn Quek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mervynquek@gmail.com" rel="noopener noreferrer nofollow" target="_blank">mervynquek@gmail.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teng Wei Jien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:WJTeng20@gmail.com" rel="noopener noreferrer nofollow" target="_blank">WJTeng20@gmail.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ivy Goh-Soh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Ivygoh_soh@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">Ivygoh_soh@hotmail.com</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Committee Member</p>
+<p>Vice President 1</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +102,7 @@ of alumni with teachers and other stakeholders.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Committee Member</p>
+<p>Vice President 2</p>
 </td>
 </tr>
 <tr>
@@ -253,27 +110,111 @@ of alumni with teachers and other stakeholders.</p>
 <p>Joseph Guo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_enliang_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_enliang_joseph@moe.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:guo_enliang_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_enliang_joseph@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FMS(S) representative</p>
+<p>Honorary Secretary</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Wei Wei</p>
+<p>Felicia Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_wei@moe.edu.sg</a>
+<p><a href="mailto:felfyl3foo@gmail.com" rel="noopener noreferrer nofollow" target="_blank">felfyl3foo@gmail.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FMS(P) Representative</p>
+<p>Assistant Honorary Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lo Wei Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lwpin@lohocklingco.com.sg" rel="noopener noreferrer nofollow" target="_blank">lwpin@lohocklingco.com.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorary Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhan Yanxin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zyxbus@hotmail.com" rel="noopener noreferrer nofollow" target="_blank">zyxbus@hotmail.com</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Honorary Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Siu Marn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_siu_marn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leong_siu_marn@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member (Pri School Rep)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Huifen Rachael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leehuifenn@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>leehuifenn@gmail.com</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Glenn Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:glennwong7@yahoo.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>glennwong7@yahoo.com.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Serene Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lovelia_soh@hotmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>lovelia_soh@hotmail.com</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Larry Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_zhiliang_larry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_zhiliang_larry@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Committee Member (Sec School Rep)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Contact Us</h4>
 <p></p>
 <p>• <strong>Website: <a href="https://fairfieldalumni.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://fairfieldalumni.org.sg/</a>&nbsp;</strong> 
