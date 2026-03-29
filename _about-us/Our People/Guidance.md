@@ -109,7 +109,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Special Educational Needs Officer
-<br>Sec 1, 3</p>
+<br>Sec 2, 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noreffaliza_amer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noreffaliza_amer@schools.gov.sg</a>
@@ -124,7 +124,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Special Educational Needs Officer
-<br>Sec 2, 4 &amp; 5</p>
+<br>Sec 1, 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
