@@ -5,6 +5,10 @@ description: ""
 variant: markdown
 ---
 ### Our Stories
+<img src="/images/Our%20Stories/2026/MEC_2026.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Multi-Ethnic Celebrations (MEC) 2026: Fairfield Gallops Into The New Year [Read More](https://fairfieldmethodistsec.moe.edu.sg//multi-ethnic-celebrations-2026-fairfield-gallops-into-the-new-year/)
+<br><br>
+
+***
 <img src="/images/Our%20Stories/2026/Secondary_One_Orientation_2026.jpg" style="width:100px;height:100px;margin-right:15px;" align="left">Secondary One Orientation 2026: An Odyssey Begins [Read More](https://fairfieldmethodistsec.moe.edu.sg/secondary-one-orientation-2026-an-odyssey-begins/)
 <br><br>
 
