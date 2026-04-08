@@ -193,6 +193,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wu Ting</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wu_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
