@@ -18,97 +18,18 @@ is required for application. The Smart Buddy pack will be sent to your
 bank registered mailing address within 7 working days upon successful application. <u>For easier management, we strongly encourage parents/guardians to opt for the Smart Buddy card instead of the watch</u>.</p>
 <p>Kindly note that your child/ward will be able to make purchases with the
 cards/watch shown below.</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Modes of Payment - Tap to pay</p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Smart Buddy Mobile App</p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2026/smart_buddy.png">
+</div>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Other Accepted Cards</strong>
-</p>
-<p><strong>(But cannot be linked on the Smart Buddy mobile app)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>POSB ATM Card*</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>DBS ATM Card*</strong>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>POSB PAssion Card*</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Home Team NS PAssion POSB Debit Card*</strong>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NETS Pre-Paid Card (NPC)</strong>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>NETS FlashPay</strong>
-</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/2026/smart_buddy_2.png">
+</div>
 <p><em>*Must have NETS Contactless logo</em>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>Students on Financial Assistance Scheme will need to register their card
 at the General Office first before use.</p>
-<p>&nbsp;</p>
 <p>We hope that in support of this national initiative, our students will
 be able to experience digital payments in a safe and secured environment.</p>
