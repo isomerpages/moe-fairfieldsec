@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Resources for Parents
 ---
 <h2>Introduction of POSB Smart Buddy E-Payment System</h2>
-<p>Our school has official launch POSB Smart Buddy as an e-payment option
-at our school canteen and bookshop. All students at Fairfield Methodist
-School (Secondary) will have the option to make in-school purchases using
-e-payments.</p>
+<p>Our school has officially launched POSB Smart Buddy as an e-payment option
+at our <strong>school canteen</strong> and <strong>bookshop</strong>. All
+students at Fairfield Methodist School (Secondary) will have the option
+to make in-school purchases using e-payments.</p>
 <p>&nbsp;You can learn more about POSB Smart Buddy Programme and choose to
 apply <a href="http://www.posb.com.sg/sb-schools" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 watch this <a href="https://www.youtube.com/watch?v=h-EjfXCy9ug" rel="noopener noreferrer nofollow" target="_blank">video</a> to
