@@ -34,7 +34,7 @@ third_nav_title: Form and Subject Teachers
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Miss Wu Ting</p>
+<p>Ms Wu Ting</p>
 </th>
 </tr>
 <tr>
@@ -187,5 +187,4 @@ third_nav_title: Form and Subject Teachers
 </p>
 <h4>Teachers' Email Address</h4>
 <p>Click&nbsp;<a href="/parents/teachers-email-address/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view all teachers email addresses.</p>
-<p></p>
+view all teachers email addresses</p>
