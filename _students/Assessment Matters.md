@@ -5,23 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h3>Assessment Matters</h3>
-<h4>2026 Term 1 Sec 1, 2, 3 and 4&amp;5 Weighted Assessment Time Table</h4>
-<p><a href="/files/Prospective Students/2026_Sec_1_Term_1_Weighted_Assessment__updated_on_4_Feb_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Term 1 Weighted Assessment Time Table (updated on 4 Feb 2026)</a>
+<h4>2026 Term 2 Sec 1, 2, 3 and 4&amp;5 Weighted Assessment Time Table</h4>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Schedule_Overview_Sec_1_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Term 2 Weighted Assessment Time Table</a>
 </p>
-<p><a href="/files/Prospective Students/2026_Sec_2_Term_1_Weighted_Assessment_30Jan2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Term 1 Weighted Assessment Time Table</a>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Schedule_Overview_Sec_2_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Term 2 Weighted Assessment Time Table</a>
 </p>
-<p><a href="/files/Prospective Students/2026_Sec_3_Term_1_Weighted_Assessment_30Jan2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term 1 Weighted Assessment Time Table</a>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Schedule_Overview_Sec_3_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term 2 Weighted Assessment Time Table</a>
 </p>
-<p><a href="/files/Prospective Students/2026_Sec_4_Term_1_Weighted_Assessment__updated_on_3_Feb_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 1 Weighted Assessment Time Table (Updated on 3 Feb 2026)</a>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Schedule_Overview_Sec_4_5_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 2 Weighted Assessment Time Table</a>
 </p>
-<p></p>
-<h4>2026 Term 1 Sec 1, 2, 3 and 4&amp;5 Weighted Assessment Topics</h4>
-<p><a href="/files/Prospective Students/2026_Sec_1_WA_1_topics.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Term 1 Weighted Assessment Topics</a>
+<h4>2026 Term 2 Sec 1, 2, 3 and 4&amp;5 Weighted Assessment Topics</h4>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Topics_Sec1_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Term 2 Weighted Assessment Topics</a>
 </p>
-<p><a href="/files/Prospective Students/2026_sec_2_WA_1_topics.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Term 1 Weighted Assessment Topics</a>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Topics_Sec2_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Term 2 Weighted Assessment Topics</a>
 </p>
-<p><a href="/files/Prospective Students/2026_Sec_3_WA_1_topics.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term 1 Weighted Assessment Topics</a>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Topics_Sec3_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Term 2 Weighted Assessment Topics</a>
 </p>
-<p><a href="/files/Prospective Students/2026_Sec_4_WA_1_Topics_Updated_on_2_Feb_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 1 Weighted Assessment Topics (updated on 2 Feb 2026)</a>
+<p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Topics_Sec4_5_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 2 Weighted Assessment Topics</a>
 </p>
-<p></p>
