@@ -23,4 +23,3 @@ variant: tiptap
 </p>
 <p><a href="/files/Prospective Students/2026/2026_Term_2_WA_Topics_Sec4_5_10Apr2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4&amp;5 Term 2 Weighted Assessment Topics</a>
 </p>
-<p></p>
