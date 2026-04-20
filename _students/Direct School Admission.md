@@ -122,8 +122,8 @@ in the activities related to the talent they are selected for from year
 <p>You may contact the following staff if you still have questions:&nbsp;</p>
 <p>Mr. Shahrin (DSA Coordinator) - <a rel="noopener noreferrer nofollow" target="_blank">shahrin_mohamed_ariffin@moe.edu.sg</a> (for
 Selection Trials &amp; Interviews)</p>
-<p>Mr. Christopher Ng (HOD PE &amp; CCA) - <a href="mailto:ng_wen_howe_christopher@moe.edu" rel="noopener noreferrer nofollow" target="_blank">ng_wen_howe_christopher@moe.edu</a>
-<a rel="noopener noreferrer nofollow" target="_blank">.sg</a>(for Sports-related DSA enquires)</p>
+<p>Mr. Christopher Ng (HOD PE &amp; CCA) - <a href="ng_wen_howe_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wen_howe_christopher@moe.edu.sg</a> (for
+Sports-related DSA enquires)</p>
 <p>Mr. Alester Tan (SH CCA) - <a rel="noopener noreferrer nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a> (for
 PA-related DSA enquires)</p>
 <p><strong><u>Useful MOE Weblinks</u></strong>
