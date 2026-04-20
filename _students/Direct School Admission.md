@@ -102,12 +102,12 @@ not guarantee that the student would be shortlisted/given an offer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Timeline_2026.jpg">
 </div>
-<p><em>You will receive notification from the school by end of July 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.</em>
+<p><em>You will receive notification from the school by end of July 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2026.</em>
 </p>
 <p><strong><u>Application for DSA-Sec</u></strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm</strong>.</p>
+The application is free-of-charge and will be open from <strong>6 May 2026, 11am to 2 Jun 2026, 4.30pm</strong>.</p>
 <p>For more details, please refer to MOE website <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p></p>
