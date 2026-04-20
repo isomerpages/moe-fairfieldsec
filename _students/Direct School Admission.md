@@ -4,12 +4,12 @@ permalink: /direct-school-admission/
 variant: tiptap
 description: ""
 ---
-<p><strong>2025 Direct School Admission (DSA)</strong>
+<p><strong>2026 Direct School Admission (DSA)</strong>
 </p>
 <p><strong><u>Introduction</u></strong>
 </p>
 <p>Fairfield Methodist School (Secondary) welcomes applications from Primary
-6 students in the current academic year to take part in the 2025 Direct
+6 students in the current academic year to take part in the 2026 Direct
 School Admission (DSA-Sec) Exercise. Introduced in 2004, the DSA provides
 a pathway for students to gain admission to secondary schools based on
 their interests, aptitude, and potential, beyond their performance at Primary
@@ -29,7 +29,7 @@ see the following information on the respective talent area selection criteria.<
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>DSA talent areas offered by FMS(S) for 2025 DSA</strong>
+<p><strong>DSA talent areas offered by FMS(S) for 2026 DSA</strong>
 </p>
 </td>
 </tr>
@@ -122,8 +122,8 @@ in the activities related to the talent they are selected for from year
 <p>You may contact the following staff if you still have questions:&nbsp;</p>
 <p>Mr. Shahrin (DSA Coordinator) - <a rel="noopener noreferrer nofollow" target="_blank">shahrin_mohamed_ariffin@moe.edu.sg</a> (for
 Selection Trials &amp; Interviews)</p>
-<p>Mr. Francis Ng (HOD PE &amp; CCA) - <a rel="noopener noreferrer nofollow" target="_blank">ng_hun_boon@moe.edu.sg </a>(for
-Sports-related DSA enquires)</p>
+<p>Mr. Christopher Ng (HOD PE &amp; CCA) - <a href="mailto:ng_wen_howe_christopher@moe.edu" rel="noopener noreferrer nofollow" target="_blank">ng_wen_howe_christopher@moe.edu</a>
+<a rel="noopener noreferrer nofollow" target="_blank">.sg</a>(for Sports-related DSA enquires)</p>
 <p>Mr. Alester Tan (SH CCA) - <a rel="noopener noreferrer nofollow" target="_blank">tan_aik_hwee@moe.edu.sg</a> (for
 PA-related DSA enquires)</p>
 <p><strong><u>Useful MOE Weblinks</u></strong>
@@ -167,7 +167,7 @@ PA-related DSA enquires)</p>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal
 <br>(Mainstream Students)</p>
-<p>*go live on 7 May 2025, 11am</p>
+<p>*go live on 6 May 2026, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
