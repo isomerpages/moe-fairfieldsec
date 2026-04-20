@@ -89,10 +89,10 @@ criteria, which may include assessing the potential of the applicants.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Choir_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Choir_2026.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Concert_Band_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Band_2026.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_4.png">
