@@ -96,7 +96,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AV Exece</p>
+<p>AV Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_ariff_ishak@moe.edu.sg</a>
@@ -118,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Adib Taqwa Bin Norazam </strong>
+<p><strong>Mr Adib Taqwa Bin Norazam</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
