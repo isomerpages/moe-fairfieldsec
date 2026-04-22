@@ -118,14 +118,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Rogani R Munusamy</strong>
+<p><strong>Mr Adib Taqwa Bin Norazam</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rogani.rmunusamy@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">rogani.rmunusamy@ncs.com.sg</a>
+<p><a href="mailto:muhammadadibtaowa.binnorazam@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">muhammadadibtaowa.binnorazam@ncs.com.sg</a>
 </p>
 </td>
 </tr>
