@@ -182,19 +182,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Puah Hui Sze</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:puah_hui_sze_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_hui_sze_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Wu Ting</strong>
 </p>
 </td>
