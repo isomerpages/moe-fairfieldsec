@@ -212,19 +212,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chia Wey Ling Vincent</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:vincent_chia_wey_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vincent_chia_wey_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Wong Kai Ping Eleanor</strong>
 </p>
 </td>
