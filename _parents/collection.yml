@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Release of GCE N(A) and N(T) Examination Results 2025.md
       - Partners In Education/.keep
       - Partners In Education/Overview.md
       - Partners In Education/The Team.md
