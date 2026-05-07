@@ -79,20 +79,15 @@ where 16 schools will emerge from each of the Zones and compete for the
 Nationals positions.
 <br>
 </p>
-<p>To prepare for these competitions, we train three times a week during
-school terms, each session usually around 1.5 – 2.5 hours taking into consideration
-of curriculum hours. During the school vacations in June and December,
-to prepare for the NSG competitions, we increase the intensity and duration
-of the training sessions. The highlights of the Volleyball CCA are the
-annual Camps which are held in school during June (for C Divisions) and
-December (for B Divisions). We end off the December Camp with a traditional
-BBQ , a platform in which the current players can mingle and build strong
-bonds, while alumni members will also come back to interact with and encourage
-the current members. We also organise annual internal competition Fairfield
-Alumni Cup to encourage our Alumni to come back home and reconnect with
-the School. Our Alumni, many of whom are successful Volleyball players
-in the tertiary institutions, are a source of encouragement to our current
-players.
+<p>To prepare for these competitions, we train twice a week during school
+terms, each session usually around 1.5 – 2.5 hours taking into consideration
+the curriculum hours. During the school vacations in June and December,
+to prepare for the NSG competitions, we may increase the intensity and
+duration of the training sessions. Sometimes, we may organise an internal
+competition, such as the Fairfield Alumni Cup, to encourage our Alumni
+to come back home and reconnect with our current team. Our Alumni, many
+of whom are successful Volleyball players in the tertiary institutions,
+are a wonderful source of encouragement for our current players.
 <br>
 </p>
 <p>The Team also believes in having close interactions with teams from other
