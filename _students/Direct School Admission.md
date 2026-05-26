@@ -100,7 +100,7 @@ criteria, which may include assessing the potential of the applicants.</p>
 <p><strong>Note: </strong>Please note that meeting all the criteria does
 not guarantee that the student would be shortlisted/given an offer.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Timeline_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_TImeline2026v2.jpg">
 </div>
 <p><em>You will receive notification from the school by end of July 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 17 Aug and 28 Aug 2026.</em>
 </p>
