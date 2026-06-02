@@ -718,7 +718,7 @@ third_nav_title: Form and Subject Teachers
 <p>Wong Jia Xian (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jia_xian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wong_jia_xian@moe.edu.sg</a>
+<p><a href="mailto:wong_jia_xian_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_parent">wong_jia_xian_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
