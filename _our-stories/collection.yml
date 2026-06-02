@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - "2026 Term 2/Beyond the Classroom: Fairfield Learning Festival 2026.md"
       - 2026 Term 2/.keep
       - Overview.md
       - 2026 Term 1/Multi Ethnic Celebrations 2026 Fairfield Gallops Into The
