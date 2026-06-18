@@ -116,6 +116,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>NSG Badminton Championships 2025 - 'C' Div Girls (League 1)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
